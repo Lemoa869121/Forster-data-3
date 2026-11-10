@@ -1,0 +1,167 @@
+{
+ "table": "dc_fixation",
+ "colonnes": [
+  "document_composant_id",
+  "type_fixation_code",
+  "diametre_mm",
+  "longueur_mm",
+  "pas_max_mm",
+  "distance_angle_mm",
+  "support_cible"
+ ],
+ "lignes": [
+  {
+   "document_composant_id": "DC-08-A-275-0032",
+   "type_fixation_code": "vis_beton",
+   "diametre_mm": 7.5,
+   "longueur_mm": 160.0,
+   "pas_max_mm": 650.0,
+   "distance_angle_mm": 225.0,
+   "support_cible": "Béton"
+  },
+  {
+   "document_composant_id": "DC-08-A-275-0033",
+   "type_fixation_code": "vis_beton",
+   "diametre_mm": 7.5,
+   "longueur_mm": 80.0,
+   "pas_max_mm": 410.0,
+   "distance_angle_mm": null,
+   "support_cible": "Platine / cloison 98/48"
+  },
+  {
+   "document_composant_id": "DC-08-A-275-0034",
+   "type_fixation_code": "vis_beton",
+   "diametre_mm": 7.5,
+   "longueur_mm": 120.0,
+   "pas_max_mm": 650.0,
+   "distance_angle_mm": null,
+   "support_cible": "Cloison légère 120/70"
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0325",
+   "type_fixation_code": "vis_beton",
+   "diametre_mm": 7.5,
+   "longueur_mm": 100.0,
+   "pas_max_mm": 700.0,
+   "distance_angle_mm": null,
+   "support_cible": "Béton armé, béton plein, béton cellulaire"
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0326",
+   "type_fixation_code": "vis_beton",
+   "diametre_mm": 7.5,
+   "longueur_mm": 80.0,
+   "pas_max_mm": 700.0,
+   "distance_angle_mm": null,
+   "support_cible": "Fixation avec platine acier"
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0327",
+   "type_fixation_code": "vis_beton",
+   "diametre_mm": 7.5,
+   "longueur_mm": 120.0,
+   "pas_max_mm": 700.0,
+   "distance_angle_mm": null,
+   "support_cible": "Cloison légère"
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0328",
+   "type_fixation_code": "vis_cheville",
+   "diametre_mm": 10.0,
+   "longueur_mm": 140.0,
+   "pas_max_mm": 700.0,
+   "distance_angle_mm": null,
+   "support_cible": "Béton"
+  },
+  {
+   "document_composant_id": "DC-13-A-175-0039",
+   "type_fixation_code": "vis_beton",
+   "diametre_mm": 8.0,
+   "longueur_mm": 135.0,
+   "pas_max_mm": 600.0,
+   "distance_angle_mm": null,
+   "support_cible": "Béton (texte §1.2.4.1)"
+  },
+  {
+   "document_composant_id": "DC-13-A-175-0040",
+   "type_fixation_code": "vis_beton",
+   "diametre_mm": 7.5,
+   "longueur_mm": 160.0,
+   "pas_max_mm": 600.0,
+   "distance_angle_mm": null,
+   "support_cible": "Béton (planche 9)"
+  },
+  {
+   "document_composant_id": "DC-13-A-175-0041",
+   "type_fixation_code": "vis_beton",
+   "diametre_mm": 7.5,
+   "longueur_mm": 80.0,
+   "pas_max_mm": 600.0,
+   "distance_angle_mm": null,
+   "support_cible": "Platine acier"
+  },
+  {
+   "document_composant_id": "DC-13-A-175-0042",
+   "type_fixation_code": "vis_beton",
+   "diametre_mm": 7.5,
+   "longueur_mm": 120.0,
+   "pas_max_mm": 650.0,
+   "distance_angle_mm": null,
+   "support_cible": "Cloison légère"
+  },
+  {
+   "document_composant_id": "DC-13-A-704-0044",
+   "type_fixation_code": "goujon",
+   "diametre_mm": 8.0,
+   "longueur_mm": 75.0,
+   "pas_max_mm": null,
+   "distance_angle_mm": null,
+   "support_cible": "Béton armé (nez de dalle, sous dalle, sol)"
+  },
+  {
+   "document_composant_id": "DC-13-A-704-0045",
+   "type_fixation_code": "goujon",
+   "diametre_mm": 10.0,
+   "longueur_mm": 90.0,
+   "pas_max_mm": null,
+   "distance_angle_mm": null,
+   "support_cible": "Béton armé (nez de dalle, sous dalle, sol)"
+  },
+  {
+   "document_composant_id": "DC-EFR-21-002687-0040",
+   "type_fixation_code": "vis_beton",
+   "diametre_mm": 7.5,
+   "longueur_mm": 72.0,
+   "pas_max_mm": 750.0,
+   "distance_angle_mm": 200.0,
+   "support_cible": "Parois rigides"
+  },
+  {
+   "document_composant_id": "DC-EFR-21-002687-0041",
+   "type_fixation_code": "vis_beton",
+   "diametre_mm": 6.0,
+   "longueur_mm": 80.0,
+   "pas_max_mm": 750.0,
+   "distance_angle_mm": 200.0,
+   "support_cible": "Parois rigides"
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0116",
+   "type_fixation_code": "vis_beton",
+   "diametre_mm": 7.5,
+   "longueur_mm": 160.0,
+   "pas_max_mm": 650.0,
+   "distance_angle_mm": 225.0,
+   "support_cible": "Parois rigides"
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0117",
+   "type_fixation_code": "vis_beton",
+   "diametre_mm": 7.5,
+   "longueur_mm": 120.0,
+   "pas_max_mm": 500.0,
+   "distance_angle_mm": 200.0,
+   "support_cible": "Cloison légère"
+  }
+ ]
+}

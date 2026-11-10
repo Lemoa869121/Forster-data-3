@@ -1,0 +1,55 @@
+{
+ "table": "ref_grandeur",
+ "colonnes": [
+  "code",
+  "libelle",
+  "unite_code"
+ ],
+ "lignes": [
+  {
+   "code": "largeur",
+   "libelle": "Largeur",
+   "unite_code": "mm"
+  },
+  {
+   "code": "hauteur",
+   "libelle": "Hauteur",
+   "unite_code": "mm"
+  },
+  {
+   "code": "surface",
+   "libelle": "Surface",
+   "unite_code": "m2"
+  },
+  {
+   "code": "epaisseur",
+   "libelle": "Épaisseur",
+   "unite_code": "mm"
+  },
+  {
+   "code": "angle",
+   "libelle": "Angle",
+   "unite_code": "deg"
+  },
+  {
+   "code": "diametre",
+   "libelle": "Diamètre",
+   "unite_code": "mm"
+  },
+  {
+   "code": "longueur",
+   "libelle": "Longueur",
+   "unite_code": "mm"
+  },
+  {
+   "code": "jeu",
+   "libelle": "Jeu",
+   "unite_code": "mm"
+  },
+  {
+   "code": "pas",
+   "libelle": "Pas / entraxe",
+   "unite_code": "mm"
+  }
+ ]
+}

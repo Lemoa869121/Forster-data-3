@@ -1,0 +1,50 @@
+{
+ "table": "ref_localisation",
+ "colonnes": [
+  "code",
+  "libelle",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "huisserie",
+   "libelle": "Huisserie / dormant",
+   "description": null
+  },
+  {
+   "code": "vantail",
+   "libelle": "Vantail (unique ou indifférent)",
+   "description": null
+  },
+  {
+   "code": "vantail_principal",
+   "libelle": "Vantail principal",
+   "description": null
+  },
+  {
+   "code": "vantail_secondaire",
+   "libelle": "Vantail secondaire / semi-fixe",
+   "description": null
+  },
+  {
+   "code": "cloison",
+   "libelle": "Cloison / châssis",
+   "description": null
+  },
+  {
+   "code": "facade",
+   "libelle": "Façade",
+   "description": null
+  },
+  {
+   "code": "support",
+   "libelle": "Construction support",
+   "description": null
+  },
+  {
+   "code": "jonction",
+   "libelle": "Jonction entre éléments",
+   "description": null
+  }
+ ]
+}

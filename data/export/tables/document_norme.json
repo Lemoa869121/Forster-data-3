@@ -1,0 +1,173 @@
+{
+ "table": "document_norme",
+ "colonnes": [
+  "document_id",
+  "norme_id",
+  "role",
+  "paragraphe",
+  "source_page_id"
+ ],
+ "lignes": [
+  {
+   "document_id": "DOC-08-A-275",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": "§7.5.2",
+   "source_page_id": "SP-08-A-275-P007-3-1"
+  },
+  {
+   "document_id": "DOC-08-A-275-REC-19-2",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": "SP-08-A-275-REC-19-2-P002-ANALYSE"
+  },
+  {
+   "document_id": "DOC-08-A-275-REC-19-2",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-08-A-275-REC-19-2-P002-ANALYSE"
+  },
+  {
+   "document_id": "DOC-11-A-507",
+   "norme_id": "NRM-EN-13501-2-2004",
+   "role": "classement",
+   "paragraphe": "§7.5.5",
+   "source_page_id": "SP-11-A-507-P010-3-1"
+  },
+  {
+   "document_id": "DOC-11-A-507",
+   "norme_id": "NRM-ARRETE-DU-22-MARS-2004-MODIFIE-2004",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-11-A-507-P001"
+  },
+  {
+   "document_id": "DOC-11-A-507-REC-22-2",
+   "norme_id": "NRM-ARRETE-DU-14-MARS-2011-2011",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-11-A-507-REC-17-1",
+   "norme_id": "NRM-ARRETE-DU-14-MARS-2011-2011",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "norme_id": "NRM-ARRETE-DU-14-MARS-2011-2011",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-EFR-22-002556",
+   "norme_id": "NRM-ARRETE-DU-14-MARS-2011-2011",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-13-A-175",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": "§7.5.2",
+   "source_page_id": "SP-13-A-175-P004-3-1"
+  },
+  {
+   "document_id": "DOC-13-A-175-REC-23-2",
+   "norme_id": "NRM-ARRETE-DU-14-MARS-2011-2011",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-13-A-704",
+   "norme_id": "NRM-EN-13501-2-2007",
+   "role": "classement",
+   "paragraphe": "§7.5.2",
+   "source_page_id": "SP-13-A-704-P006-4-1"
+  },
+  {
+   "document_id": "DOC-EFR-21-002687",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": "§7.5.2",
+   "source_page_id": "SP-EFR-21-002687-P007-REFERENCE-DES-CLASSEMENTS"
+  },
+  {
+   "document_id": "DOC-EFR-21-002687",
+   "norme_id": "NRM-ARRETE-DU-14-MARS-2011-2011",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-21-002687-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-000553-R1",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": "§7.5.5",
+   "source_page_id": "SP-EFR-24-000553-R1-P010-5-1"
+  },
+  {
+   "document_id": "DOC-EFR-24-000553-R1",
+   "norme_id": "NRM-EN-1125",
+   "role": "exclusion",
+   "paragraphe": "§8",
+   "source_page_id": "SP-EFR-24-000553-R1-P012-8-EXCLUSIONS"
+  },
+  {
+   "document_id": "DOC-EFR-24-000553-R1",
+   "norme_id": "NRM-EN-179",
+   "role": "exclusion",
+   "paragraphe": "§8",
+   "source_page_id": "SP-EFR-24-000553-R1-P012-8-EXCLUSIONS"
+  },
+  {
+   "document_id": "DOC-EFR-24-000553-R1",
+   "norme_id": "NRM-EN-1935",
+   "role": "exclusion",
+   "paragraphe": "§8",
+   "source_page_id": "SP-EFR-24-000553-R1-P012-8-EXCLUSIONS"
+  },
+  {
+   "document_id": "DOC-EFR-24-000553-R1",
+   "norme_id": "NRM-EN-13633",
+   "role": "exclusion",
+   "paragraphe": "§8",
+   "source_page_id": "SP-EFR-24-000553-R1-P012-8-EXCLUSIONS"
+  },
+  {
+   "document_id": "DOC-EFR-24-000553-R1",
+   "norme_id": "NRM-EN-13637",
+   "role": "exclusion",
+   "paragraphe": "§8",
+   "source_page_id": "SP-EFR-24-000553-R1-P012-8-EXCLUSIONS"
+  },
+  {
+   "document_id": "DOC-EFR-24-000553-R1",
+   "norme_id": "NRM-NF-S-61-937",
+   "role": "exclusion",
+   "paragraphe": "§8",
+   "source_page_id": "SP-EFR-24-000553-R1-P012-8-EXCLUSIONS"
+  },
+  {
+   "document_id": "DOC-EFR-24-000553-R1",
+   "norme_id": "NRM-EN-17352",
+   "role": "exclusion",
+   "paragraphe": "§8",
+   "source_page_id": "SP-EFR-24-000553-R1-P012-8-EXCLUSIONS"
+  },
+  {
+   "document_id": "DOC-EFR-24-000553-R1",
+   "norme_id": "NRM-EN-50133",
+   "role": "exclusion",
+   "paragraphe": "§8",
+   "source_page_id": "SP-EFR-24-000553-R1-P012-8-EXCLUSIONS"
+  }
+ ]
+}

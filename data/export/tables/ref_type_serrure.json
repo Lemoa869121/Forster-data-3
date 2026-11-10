@@ -1,0 +1,65 @@
+{
+ "table": "ref_type_serrure",
+ "colonnes": [
+  "code",
+  "libelle",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "mortaiser",
+   "libelle": "Serrure à mortaiser",
+   "description": null
+  },
+  {
+   "code": "solenoide",
+   "libelle": "Serrure solénoïde",
+   "description": null
+  },
+  {
+   "code": "rouleau",
+   "libelle": "Serrure à rouleau",
+   "description": null
+  },
+  {
+   "code": "commande_levier",
+   "libelle": "Serrure de commande à levier (verrouillage automatique)",
+   "description": null
+  },
+  {
+   "code": "commande",
+   "libelle": "Serrure de commande (verrouillage automatique)",
+   "description": null
+  },
+  {
+   "code": "cremone_levier",
+   "libelle": "Crémone encastrée à levier",
+   "description": null
+  },
+  {
+   "code": "cremone_pompier",
+   "libelle": "Crémone pompier",
+   "description": null
+  },
+  {
+   "code": "verrou_automatique",
+   "libelle": "Verrou automatique à mortaiser",
+   "description": null
+  },
+  {
+   "code": "verrou_thermique",
+   "libelle": "Verrou thermique",
+   "description": null
+  },
+  {
+   "code": "verrou_bascule",
+   "libelle": "Verrou encastré levier à bascule",
+   "description": null
+  },
+  {
+   "code": "non_verrouille",
+   "libelle": "Sans verrouillage",
+   "description": null
+  }
+ ]
+}

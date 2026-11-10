@@ -1,0 +1,325 @@
+{
+ "table": "dc_articulation",
+ "colonnes": [
+  "document_composant_id",
+  "type_articulation_code",
+  "mode_fixation",
+  "reglage",
+  "distance_extremite_mm",
+  "position"
+ ],
+ "lignes": [
+  {
+   "document_composant_id": "DC-11-A-507-0074",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": "souder",
+   "reglage": "2D",
+   "distance_extremite_mm": 120.0,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0075",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": "souder",
+   "reglage": "2D",
+   "distance_extremite_mm": 120.0,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0076",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": "souder",
+   "reglage": "3D",
+   "distance_extremite_mm": 120.0,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0077",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": "visser",
+   "reglage": null,
+   "distance_extremite_mm": 120.0,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0078",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": "visser",
+   "reglage": null,
+   "distance_extremite_mm": 120.0,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0079",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": "visser",
+   "reglage": null,
+   "distance_extremite_mm": 120.0,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0080",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": "visser",
+   "reglage": null,
+   "distance_extremite_mm": 120.0,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0081",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": "visser",
+   "reglage": null,
+   "distance_extremite_mm": 120.0,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0082",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": "visser",
+   "reglage": null,
+   "distance_extremite_mm": 120.0,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0083",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": null,
+   "reglage": null,
+   "distance_extremite_mm": 250.0,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0084",
+   "type_articulation_code": "pion_anti_degondage",
+   "mode_fixation": null,
+   "reglage": null,
+   "distance_extremite_mm": null,
+   "position": "mi_hauteur"
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0085",
+   "type_articulation_code": "pion_anti_degondage",
+   "mode_fixation": null,
+   "reglage": null,
+   "distance_extremite_mm": null,
+   "position": "mi_hauteur"
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0086",
+   "type_articulation_code": "bras_pivot",
+   "mode_fixation": "souder",
+   "reglage": null,
+   "distance_extremite_mm": null,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0087",
+   "type_articulation_code": "bras_pivot",
+   "mode_fixation": "souder",
+   "reglage": null,
+   "distance_extremite_mm": null,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0088",
+   "type_articulation_code": "pivot_sol",
+   "mode_fixation": "sceller",
+   "reglage": null,
+   "distance_extremite_mm": null,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0089",
+   "type_articulation_code": "pivot_sol",
+   "mode_fixation": "sceller",
+   "reglage": null,
+   "distance_extremite_mm": null,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0090",
+   "type_articulation_code": "pivot_sol",
+   "mode_fixation": "sceller",
+   "reglage": null,
+   "distance_extremite_mm": null,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0091",
+   "type_articulation_code": "pivot_sol",
+   "mode_fixation": "sceller",
+   "reglage": null,
+   "distance_extremite_mm": null,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0092",
+   "type_articulation_code": "pivot_sol",
+   "mode_fixation": "sceller",
+   "reglage": null,
+   "distance_extremite_mm": null,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0093",
+   "type_articulation_code": "pivot_sol",
+   "mode_fixation": "sceller",
+   "reglage": null,
+   "distance_extremite_mm": null,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0094",
+   "type_articulation_code": "pivot_sol",
+   "mode_fixation": "sceller",
+   "reglage": null,
+   "distance_extremite_mm": null,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0095",
+   "type_articulation_code": "pivot_sol",
+   "mode_fixation": "sceller",
+   "reglage": null,
+   "distance_extremite_mm": null,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0033",
+   "type_articulation_code": "pion_anti_degondage",
+   "mode_fixation": null,
+   "reglage": null,
+   "distance_extremite_mm": null,
+   "position": "mi_hauteur"
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0034",
+   "type_articulation_code": "pion_anti_degondage",
+   "mode_fixation": null,
+   "reglage": null,
+   "distance_extremite_mm": null,
+   "position": "mi_hauteur"
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0035",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": "souder",
+   "reglage": "2D",
+   "distance_extremite_mm": 200.0,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0036",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": "souder",
+   "reglage": "2D",
+   "distance_extremite_mm": 200.0,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0037",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": "souder",
+   "reglage": "2D",
+   "distance_extremite_mm": 200.0,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0038",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": "souder",
+   "reglage": "3D",
+   "distance_extremite_mm": 200.0,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0039",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": "souder",
+   "reglage": "3D",
+   "distance_extremite_mm": 200.0,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0040",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": "souder",
+   "reglage": "3D",
+   "distance_extremite_mm": 200.0,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0041",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": "visser",
+   "reglage": "3D",
+   "distance_extremite_mm": 140.0,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0042",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": "visser",
+   "reglage": "3D",
+   "distance_extremite_mm": 140.0,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0043",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": "visser",
+   "reglage": "3D",
+   "distance_extremite_mm": 140.0,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0044",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": "visser",
+   "reglage": "3D",
+   "distance_extremite_mm": 140.0,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0045",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": "visser",
+   "reglage": "2D",
+   "distance_extremite_mm": 200.0,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0046",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": "visser",
+   "reglage": "2D",
+   "distance_extremite_mm": 200.0,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0047",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": "visser",
+   "reglage": "2D",
+   "distance_extremite_mm": 200.0,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0048",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": "visser",
+   "reglage": "2D",
+   "distance_extremite_mm": 200.0,
+   "position": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0049",
+   "type_articulation_code": "paumelle",
+   "mode_fixation": "encastrer",
+   "reglage": null,
+   "distance_extremite_mm": null,
+   "position": null
+  }
+ ]
+}

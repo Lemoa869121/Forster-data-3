@@ -1,0 +1,82 @@
+{
+ "table": "fichier_source",
+ "colonnes": [
+  "id",
+  "nom_fichier",
+  "drive_file_id",
+  "url",
+  "taille_octets",
+  "date_modification",
+  "code_fournisseur_vitrage",
+  "code_marche",
+  "commentaire"
+ ],
+ "lignes": [
+  {
+   "id": "FIC-08-A-275",
+   "nom_fichier": "FR 08-A-275 - PILK - cloison FUEGO light EI60 - COPRO - 16-02-2029.pdf",
+   "drive_file_id": "1wLRTFiFA9yKb7fNvpt4yLitiBmBKxH1-",
+   "url": "https://drive.google.com/file/d/1wLRTFiFA9yKb7fNvpt4yLitiBmBKxH1-/view",
+   "taille_octets": 12720683,
+   "date_modification": "2024-06-10",
+   "code_fournisseur_vitrage": "PILK",
+   "code_marche": "COPRO",
+   "commentaire": "Compilation : reconduction 24/3, reconduction 19/2, PV 08-A-275, extension 20/2"
+  },
+  {
+   "id": "FIC-11-A-507",
+   "nom_fichier": "FR 11-A-507 - VETR - porte PRESTO E30 - COPRO - 12-04-2027.pdf",
+   "drive_file_id": "1JFo8dMED4VCRnvzOR9-suTN8J8DJoLtd",
+   "url": "https://drive.google.com/file/d/1JFo8dMED4VCRnvzOR9-suTN8J8DJoLtd/view",
+   "taille_octets": 8170068,
+   "date_modification": "2024-03-29",
+   "code_fournisseur_vitrage": "VETR",
+   "code_marche": "COPRO",
+   "commentaire": "Compilation : reconduction 22/2 rév.1, reconduction 17/1, PV 11-A-507, extensions EFR-14-000468, 22/2, 23/4-23/3"
+  },
+  {
+   "id": "FIC-13-A-175",
+   "nom_fichier": "FR 13-A-175 - PYRO - cloison PRESTO E30 - COPRO - 17-06-2028.pdf",
+   "drive_file_id": "1QXVIV3a22P3b3dn2MQmL8DB4-MQSn58a",
+   "url": "https://drive.google.com/file/d/1QXVIV3a22P3b3dn2MQmL8DB4-MQSn58a/view",
+   "taille_octets": 16299056,
+   "date_modification": "2024-04-15",
+   "code_fournisseur_vitrage": "PYRO",
+   "code_marche": "COPRO",
+   "commentaire": "Compilation : reconduction 23/2, PV 13-A-175, extension multiple 14/1-14/2 (scan, OCR dégradé)"
+  },
+  {
+   "id": "FIC-13-A-704",
+   "nom_fichier": "FR 13-A-704 - PILK - facade THERMFIX VARIO EI60 - PROFOR - 03-12-2028.pdf",
+   "drive_file_id": "1BHDHbWzNLF_1nROu6-614WGvZBHTUydn",
+   "url": "https://drive.google.com/file/d/1BHDHbWzNLF_1nROu6-614WGvZBHTUydn/view",
+   "taille_octets": 15886275,
+   "date_modification": "2024-06-10",
+   "code_fournisseur_vitrage": "PILK",
+   "code_marche": "PROFOR",
+   "commentaire": "Compilation : reconduction 24/2 + PV 13-A-704 (51 p.)"
+  },
+  {
+   "id": "FIC-EFR-21-002687",
+   "nom_fichier": "FR EFR-21-002687 - VETR - cloison vitrage bab FUEGO light EI30 - COPRO - 07-07-2027.pdf",
+   "drive_file_id": "1Grfe5-zfxmYrH9hoSxm4aVCHOO8rTMMA",
+   "url": "https://drive.google.com/file/d/1Grfe5-zfxmYrH9hoSxm4aVCHOO8rTMMA/view",
+   "taille_octets": 7190233,
+   "date_modification": "2022-07-12",
+   "code_fournisseur_vitrage": "VETR",
+   "code_marche": "COPRO",
+   "commentaire": "PV seul (PDF natif) ; 35 planches en image sans couche texte"
+  },
+  {
+   "id": "FIC-EFR-24-000553",
+   "nom_fichier": "FR EFR-24-000553 - POLF - porte FUEGO Light EI30 - COPRO - 27-06-2029.pdf",
+   "drive_file_id": "1HAXpNOXrRHuO-F286L8uoMOECLXLsJFZ",
+   "url": "https://drive.google.com/file/d/1HAXpNOXrRHuO-F286L8uoMOECLXLsJFZ/view",
+   "taille_octets": 12424442,
+   "date_modification": "2024-12-02",
+   "code_fournisseur_vitrage": "POLF",
+   "code_marche": "COPRO",
+   "commentaire": "PV révision 1 (PDF natif) ; 65 planches en image sans couche texte"
+  }
+ ]
+}

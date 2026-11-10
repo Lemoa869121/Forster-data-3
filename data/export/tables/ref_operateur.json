@@ -1,0 +1,33 @@
+{
+ "table": "ref_operateur",
+ "colonnes": [
+  "code",
+  "libelle"
+ ],
+ "lignes": [
+  {
+   "code": "eq",
+   "libelle": "égal à"
+  },
+  {
+   "code": "le",
+   "libelle": "inférieur ou égal à (maximum)"
+  },
+  {
+   "code": "lt",
+   "libelle": "strictement inférieur à"
+  },
+  {
+   "code": "ge",
+   "libelle": "supérieur ou égal à (minimum)"
+  },
+  {
+   "code": "gt",
+   "libelle": "strictement supérieur à"
+  },
+  {
+   "code": "plage",
+   "libelle": "plage min-max"
+  }
+ ]
+}

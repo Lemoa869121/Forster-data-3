@@ -1,0 +1,895 @@
+{
+ "table": "dc_profile",
+ "colonnes": [
+  "document_composant_id",
+  "serie_systeme_id",
+  "largeur_mm",
+  "profondeur_mm",
+  "epaisseur_paroi_mm",
+  "isole_thermiquement",
+  "hauteur_max_emploi_mm",
+  "cote_feu_restriction"
+ ],
+ "lignes": [
+  {
+   "document_composant_id": "DC-08-A-275-0007",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-60",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0001",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0002",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0003",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0004",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0005",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0006",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0007",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0008",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0009",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0010",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0011",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0012",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0013",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0014",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0015",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0016",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-60",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0017",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-60",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0018",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-60",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0019",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0020",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0021",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0022",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0023",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0024",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0025",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0026",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0027",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0028",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0029",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0030",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0031",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0032",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0033",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": 3000.0,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0034",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": 3000.0,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-22-002556-0005",
+   "serie_systeme_id": "SYS-PRESTO-60",
+   "largeur_mm": null,
+   "profondeur_mm": 60.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-175-0009",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-175-0010",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-175-0011",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-175-0012",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-175-0013",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-175-0014",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-175-0015",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-175-0016",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-175-0017",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-175-0018",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-175-0019",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-175-0020",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": 3000.0,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-175-0021",
+   "serie_systeme_id": "SYS-PRESTO-50",
+   "largeur_mm": null,
+   "profondeur_mm": null,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 0,
+   "hauteur_max_emploi_mm": 3000.0,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-704-0001",
+   "serie_systeme_id": "SYS-THERMFIX-VARIO",
+   "largeur_mm": 45.0,
+   "profondeur_mm": 50.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": null,
+   "hauteur_max_emploi_mm": 3000.0,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-704-0002",
+   "serie_systeme_id": "SYS-THERMFIX-VARIO",
+   "largeur_mm": 45.0,
+   "profondeur_mm": 75.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": null,
+   "hauteur_max_emploi_mm": 3000.0,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-704-0003",
+   "serie_systeme_id": "SYS-THERMFIX-VARIO",
+   "largeur_mm": 45.0,
+   "profondeur_mm": 90.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": null,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-704-0004",
+   "serie_systeme_id": "SYS-THERMFIX-VARIO",
+   "largeur_mm": 45.0,
+   "profondeur_mm": 110.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": null,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-704-0005",
+   "serie_systeme_id": "SYS-THERMFIX-VARIO",
+   "largeur_mm": 45.0,
+   "profondeur_mm": 130.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": null,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-704-0006",
+   "serie_systeme_id": "SYS-THERMFIX-VARIO",
+   "largeur_mm": 45.0,
+   "profondeur_mm": 150.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": null,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-704-0007",
+   "serie_systeme_id": "SYS-THERMFIX-VARIO",
+   "largeur_mm": 60.0,
+   "profondeur_mm": 50.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": null,
+   "hauteur_max_emploi_mm": 3000.0,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-704-0008",
+   "serie_systeme_id": "SYS-THERMFIX-VARIO",
+   "largeur_mm": 60.0,
+   "profondeur_mm": 75.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": null,
+   "hauteur_max_emploi_mm": 3000.0,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-704-0009",
+   "serie_systeme_id": "SYS-THERMFIX-VARIO",
+   "largeur_mm": 60.0,
+   "profondeur_mm": 90.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": null,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-704-0010",
+   "serie_systeme_id": "SYS-THERMFIX-VARIO",
+   "largeur_mm": 60.0,
+   "profondeur_mm": 110.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": null,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-704-0011",
+   "serie_systeme_id": "SYS-THERMFIX-VARIO",
+   "largeur_mm": 60.0,
+   "profondeur_mm": 130.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": null,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-704-0012",
+   "serie_systeme_id": "SYS-THERMFIX-VARIO",
+   "largeur_mm": 60.0,
+   "profondeur_mm": 150.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": null,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-13-A-704-0013",
+   "serie_systeme_id": "SYS-THERMFIX-VARIO",
+   "largeur_mm": 45.0,
+   "profondeur_mm": 20.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": null,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": "oppose_feu_uniquement"
+  },
+  {
+   "document_composant_id": "DC-13-A-704-0014",
+   "serie_systeme_id": "SYS-THERMFIX-VARIO",
+   "largeur_mm": 60.0,
+   "profondeur_mm": 20.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": null,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": "oppose_feu_uniquement"
+  },
+  {
+   "document_composant_id": "DC-EFR-21-002687-0001",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 70.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-21-002687-0002",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 50.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-21-002687-0003",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 50.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-21-002687-0004",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 30.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0001",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 70.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0002",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 70.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0003",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 70.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0004",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 70.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0005",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 90.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0006",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 90.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0007",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 100.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0008",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 125.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0009",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 90.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0010",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 90.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0011",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 70.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0012",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 70.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0013",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 70.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0014",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 70.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0015",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 100.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0016",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 125.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0017",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 70.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0018",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 50.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0019",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 50.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0020",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 90.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0021",
+   "serie_systeme_id": "SYS-FUEGO-LIGHT-30",
+   "largeur_mm": 70.0,
+   "profondeur_mm": 65.0,
+   "epaisseur_paroi_mm": null,
+   "isole_thermiquement": 1,
+   "hauteur_max_emploi_mm": null,
+   "cote_feu_restriction": null
+  }
+ ]
+}

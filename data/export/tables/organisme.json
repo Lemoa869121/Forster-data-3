@@ -1,0 +1,395 @@
+{
+ "table": "organisme",
+ "colonnes": [
+  "id",
+  "nom",
+  "nom_normalise",
+  "pays_code",
+  "ville",
+  "adresse",
+  "est_fabricant",
+  "est_laboratoire"
+ ],
+ "lignes": [
+  {
+   "id": "ORG-EFECTIS-FRANCE",
+   "nom": "Efectis France",
+   "nom_normalise": "EFECTIS FRANCE",
+   "pays_code": "FR",
+   "ville": "Maizières-lès-Metz",
+   "adresse": "Voie Romaine F-57280 Maizières-lès-Metz",
+   "est_fabricant": 0,
+   "est_laboratoire": 1
+  },
+  {
+   "id": "ORG-FORSTER",
+   "nom": "FORSTER PROFILSYSTEME AG",
+   "nom_normalise": "FORSTER PROFILSYSTEME AG",
+   "pays_code": "CH",
+   "ville": "Arbon",
+   "adresse": "Amriswilerstrasse 50, Postfach 400, CH-9320 Arbon",
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-VETROTECH",
+   "nom": "VETROTECH SAINT-GOBAIN INTERNATIONAL AG",
+   "nom_normalise": "VETROTECH SAINT-GOBAIN INTERNATIONAL AG",
+   "pays_code": "CH",
+   "ville": "Flamatt",
+   "adresse": "Bernstrasse 43, CH-3175 Flamatt",
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-PYROGUARD",
+   "nom": "PYROGUARD UK LTD",
+   "nom_normalise": "PYROGUARD UK LTD",
+   "pays_code": "GB",
+   "ville": "Haydock",
+   "adresse": "Millfield Lane, Haydock, Merseyside WA11 9GA",
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-PILKINGTON",
+   "nom": "PILKINGTON DEUTSCHLAND AG",
+   "nom_normalise": "PILKINGTON DEUTSCHLAND AG",
+   "pays_code": "DE",
+   "ville": "Gelsenkirchen",
+   "adresse": "Haydnstrasse 19, D-45884 Gelsenkirchen",
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-POLFLAM",
+   "nom": "POLFLAM SP. Z O.O.",
+   "nom_normalise": "POLFLAM SP. Z O.O.",
+   "pays_code": "PL",
+   "ville": "Tarczyn",
+   "adresse": "Jeziorzany, Aleja Krakowska 3, 05-555 Tarczyn",
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-DMT",
+   "nom": "Laboratoire DMT",
+   "nom_normalise": "LABORATOIRE DMT",
+   "pays_code": "DE",
+   "ville": "Lathen",
+   "adresse": null,
+   "est_fabricant": 0,
+   "est_laboratoire": 1
+  },
+  {
+   "id": "ORG-CTICM",
+   "nom": "CTICM",
+   "nom_normalise": "CTICM",
+   "pays_code": "FR",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 0,
+   "est_laboratoire": 1
+  },
+  {
+   "id": "ORG-DORMA",
+   "nom": "DORMA (dormakaba)",
+   "nom_normalise": "DORMA (DORMAKABA)",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-GEZE",
+   "nom": "GEZE",
+   "nom_normalise": "GEZE",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-LEVASSEUR",
+   "nom": "LEVASSEUR",
+   "nom_normalise": "LEVASSEUR",
+   "pays_code": "FR",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-EFF-EFF",
+   "nom": "EFF EFF (effeff)",
+   "nom_normalise": "EFF EFF (EFFEFF)",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-ABLOY",
+   "nom": "ABLOY",
+   "nom_normalise": "ABLOY",
+   "pays_code": "FI",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-ATHMER",
+   "nom": "ATHMER",
+   "nom_normalise": "ATHMER",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-SEVAX",
+   "nom": "SEVAX",
+   "nom_normalise": "SEVAX",
+   "pays_code": "FR",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-DICTATOR",
+   "nom": "DICTATOR",
+   "nom_normalise": "DICTATOR",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-JPM",
+   "nom": "JPM",
+   "nom_normalise": "JPM",
+   "pays_code": "FR",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-GROOM",
+   "nom": "GROOM",
+   "nom_normalise": "GROOM",
+   "pays_code": "FR",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-HILTI",
+   "nom": "HILTI",
+   "nom_normalise": "HILTI",
+   "pays_code": "LI",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-3M",
+   "nom": "3M",
+   "nom_normalise": "3M",
+   "pays_code": "US",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-ODICE",
+   "nom": "ODICE",
+   "nom_normalise": "ODICE",
+   "pays_code": "FR",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-PROMAT",
+   "nom": "PROMAT",
+   "nom_normalise": "PROMAT",
+   "pays_code": null,
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-DOW",
+   "nom": "DOW CORNING (DOWSIL)",
+   "nom_normalise": "DOW CORNING (DOWSIL)",
+   "pays_code": "US",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-ILLBRUCK",
+   "nom": "ILLBRUCK",
+   "nom_normalise": "ILLBRUCK",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-ASSA-ABLOY",
+   "nom": "ASSA ABLOY",
+   "nom_normalise": "ASSA ABLOY",
+   "pays_code": "SE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-ECO-SCHULTE",
+   "nom": "ECO SCHULTE",
+   "nom_normalise": "ECO SCHULTE",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-BRANDDEX",
+   "nom": "BRANDDEX",
+   "nom_normalise": "BRANDDEX",
+   "pays_code": null,
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-KUHN",
+   "nom": "KUHN",
+   "nom_normalise": "KUHN",
+   "pays_code": null,
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-JUNG",
+   "nom": "ETANCHEITE JUNG",
+   "nom_normalise": "ETANCHEITE JUNG",
+   "pays_code": null,
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-XELLA",
+   "nom": "XELLA",
+   "nom_normalise": "XELLA",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-FISCHER",
+   "nom": "FISCHER",
+   "nom_normalise": "FISCHER",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-KNAUF",
+   "nom": "KNAUF",
+   "nom_normalise": "KNAUF",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-LAFARGE",
+   "nom": "LAFARGE",
+   "nom_normalise": "LAFARGE",
+   "pays_code": "FR",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-PLACO",
+   "nom": "PLACOPLATRE",
+   "nom_normalise": "PLACOPLATRE",
+   "pays_code": "FR",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-ROCKWOOL",
+   "nom": "ROCKWOOL",
+   "nom_normalise": "ROCKWOOL",
+   "pays_code": "DK",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-HENKEL",
+   "nom": "HENKEL",
+   "nom_normalise": "HENKEL",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-SILACOLL",
+   "nom": "SILACOLL",
+   "nom_normalise": "SILACOLL",
+   "pays_code": null,
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-DORMAKABA",
+   "nom": "DORMAKABA",
+   "nom_normalise": "DORMAKABA",
+   "pays_code": "CH",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  }
+ ]
+}

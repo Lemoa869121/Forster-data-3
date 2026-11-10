@@ -1,0 +1,50 @@
+{
+ "table": "ref_type_restriction",
+ "colonnes": [
+  "code",
+  "libelle",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "sens_feu",
+   "libelle": "Sens du feu",
+   "description": null
+  },
+  {
+   "code": "cumul_extensions",
+   "libelle": "Cumul / non-cumul d'extensions",
+   "description": null
+  },
+  {
+   "code": "interdiction",
+   "libelle": "Interdiction",
+   "description": null
+  },
+  {
+   "code": "condition_mise_en_oeuvre",
+   "libelle": "Condition de mise en œuvre",
+   "description": null
+  },
+  {
+   "code": "exclusion_normative",
+   "libelle": "Exclusion (conformités non couvertes)",
+   "description": null
+  },
+  {
+   "code": "limitation_validite",
+   "libelle": "Limitation de validité",
+   "description": null
+  },
+  {
+   "code": "condition_vitrage",
+   "libelle": "Condition propre au vitrage",
+   "description": null
+  },
+  {
+   "code": "condition_combinaison",
+   "libelle": "Condition de combinaison d'équipements",
+   "description": null
+  }
+ ]
+}

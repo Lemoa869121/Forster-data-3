@@ -1,0 +1,14 @@
+{
+ "table": "perf_aev",
+ "colonnes": [
+  "performance_id",
+  "classe_air",
+  "classe_eau",
+  "classe_vent",
+  "pression_air_pa",
+  "pression_eau_pa",
+  "pression_vent_pa",
+  "norme_id"
+ ],
+ "lignes": []
+}

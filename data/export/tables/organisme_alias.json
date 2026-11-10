@@ -1,0 +1,53 @@
+{
+ "table": "organisme_alias",
+ "colonnes": [
+  "organisme_id",
+  "alias"
+ ],
+ "lignes": [
+  {
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "alias": "EFECTIS France Espace Technologique Saint-Aubin"
+  },
+  {
+   "organisme_id": "ORG-FORSTER",
+   "alias": "FORSTER SYSTEMES DE PROFILES SA"
+  },
+  {
+   "organisme_id": "ORG-FORSTER",
+   "alias": "FORSTER ROHR & PROFILTECHNIK AG"
+  },
+  {
+   "organisme_id": "ORG-FORSTER",
+   "alias": "FORSTER ROHR PROFILTECHNIK AG"
+  },
+  {
+   "organisme_id": "ORG-FORSTER",
+   "alias": "FORSTER SYSTÈMES DE PROFILÉS"
+  },
+  {
+   "organisme_id": "ORG-FORSTER",
+   "alias": "FORSTER SYSTEME DE PROFILES SA"
+  },
+  {
+   "organisme_id": "ORG-FORSTER",
+   "alias": "FORSTER PROFILSYSTEME AG (Hofstrasse 41, 8590 Romanshorn)"
+  },
+  {
+   "organisme_id": "ORG-VETROTECH",
+   "alias": "V.S.G.I."
+  },
+  {
+   "organisme_id": "ORG-PYROGUARD",
+   "alias": "C.G.I. International LTD."
+  },
+  {
+   "organisme_id": "ORG-PYROGUARD",
+   "alias": "CGI France (Seingbouse)"
+  },
+  {
+   "organisme_id": "ORG-PILKINGTON",
+   "alias": "PILKINGTON (ACTIVITE FEU), Vitry-sur-Seine"
+  }
+ ]
+}

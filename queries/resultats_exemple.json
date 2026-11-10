@@ -1,0 +1,806 @@
+[
+ {
+  "requete": "Q01_recherche_reference",
+  "parametres": {
+   ":ref": "907724"
+  },
+  "nb_lignes": 2,
+  "extrait": [
+   {
+    "document": "11-A-507",
+    "type_code": "pv_classement",
+    "pv_principal": "11-A-507",
+    "date_validite_effective": "2027-04-12",
+    "reference_brute": "907724",
+    "reference_normalisee": "907724",
+    "fabricant": "FORSTER PROFILSYSTEME AG",
+    "categorie_code": "kit_serrure",
+    "role_code": "condamnation",
+    "localisation_code": "vantail",
+    "statut_autorisation_code": "autorise",
+    "designation_document": "Serrure 1 point classique (béquille et/ou push-bar) — fonction E avec AP, DIN G",
+    "configuration": "Bloc-porte 1 vantail",
+    "page_doc": 42,
+    "section": null,
+    "planche": "Planche 30",
+    "statut_extraction": "extrait"
+   },
+   {
+    "document": "11-A-507",
+    "type_code": "pv_classement",
+    "pv_principal": "11-A-507",
+    "date_validite_effective": "2027-04-12",
+    "reference_brute": "907724",
+    "reference_normalisee": "907724",
+    "fabricant": "FORSTER PROFILSYSTEME AG",
+    "categorie_code": "kit_serrure",
+    "role_code": "condamnation",
+    "localisation_code": "vantail_principal",
+    "statut_autorisation_code": "autorise",
+    "designation_document": "Serrure 1 point classique (béquille et/ou push-bar) — fonction E avec AP, DIN G",
+    "configuration": "Bloc-porte 2 vantaux égaux ou inégaux",
+    "page_doc": 45,
+    "section": null,
+    "planche": "Planche 33",
+    "statut_extraction": "extrait"
+   }
+  ]
+ },
+ {
+  "requete": "Q02_serrures_par_fonction",
+  "parametres": {
+   ":fonction": "E",
+   ":nb_points": 2,
+   ":antipanique": 1,
+   ":main": null,
+   ":vantail": null
+  },
+  "nb_lignes": 6,
+  "extrait": [
+   {
+    "document": "11-A-507",
+    "reference_brute": "917737",
+    "type_serrure_code": "mortaiser",
+    "fonction_code": "E",
+    "nb_points": 2,
+    "point_haut": 1,
+    "point_median": 1,
+    "point_bas": 0,
+    "antipanique": 1,
+    "main_din": "D",
+    "version": "classique",
+    "vantail": "unique",
+    "composition": "coffre=907237 ; gache=907001",
+    "configuration": "Bloc-porte 1 vantail",
+    "planche": "Planche 30",
+    "page_doc": 42,
+    "statut_extraction": "extrait"
+   },
+   {
+    "document": "11-A-507",
+    "reference_brute": "917737",
+    "type_serrure_code": "mortaiser",
+    "fonction_code": "E",
+    "nb_points": 2,
+    "point_haut": 1,
+    "point_median": 1,
+    "point_bas": 0,
+    "antipanique": 1,
+    "main_din": "D",
+    "version": "classique",
+    "vantail": "principal",
+    "composition": "coffre=907237 ; gache=907001",
+    "configuration": "Bloc-porte 2 vantaux égaux ou inégaux",
+    "planche": "Planche 33",
+    "page_doc": 45,
+    "statut_extraction": "extrait"
+   },
+   {
+    "document": "11-A-507",
+    "reference_brute": "917762",
+    "type_serrure_code": "mortaiser",
+    "fonction_code": "E",
+    "nb_points": 2,
+    "point_haut": 1,
+    "point_median": 1,
+    "point_bas": 0,
+    "antipanique": 1,
+    "main_din": "D",
+    "version": "classique",
+    "vantail": "principal",
+    "composition": "coffre_principal=907258 ; coffre_secondaire=907436",
+    "configuration": "Bloc-porte 2 vantaux égaux ou inégaux",
+    "planche": "Planche 33",
+    "page_doc": 45,
+    "statut_extraction": "a_verifier"
+   }
+  ]
+ },
+ {
+  "requete": "Q03_documents_par_systeme",
+  "parametres": {
+   ":systeme": "FUEGO LIGHT 30"
+  },
+  "nb_lignes": 3,
+  "extrait": [
+   {
+    "systeme": "Fuego Light 30",
+    "role": "integration",
+    "numero_normalise": "11-A-507",
+    "type_code": "pv_classement",
+    "objet": "Bloc-porte à un ou deux vantaux, égaux ou inégaux, à ossature métallique — profils acier Presto 50 ; vitrages PYROSWISS, PYROSWISS STADIP, PYROSWISS CLIMAPLUS",
+    "classements": "E 30",
+    "date_validite_effective": "2027-04-12",
+    "derniere_reconduction": "11-A-507/REC-22/2"
+   },
+   {
+    "systeme": "Fuego Light 30",
+    "role": "principal",
+    "numero_normalise": "EFR-21-002687",
+    "type_code": "pv_classement",
+    "objet": "Cloison à ossature thermiquement isolée avec vitrages collés bord à bord à joints verticaux — Fuego Light 30 ; vitrages CONTRAFLAM STRUCTURE 30",
+    "classements": "EI 30,EW 30,E 30",
+    "date_validite_effective": "2027-07-07",
+    "derniere_reconduction": null
+   },
+   {
+    "systeme": "Fuego Light 30",
+    "role": "principal",
+    "numero_normalise": "EFR-24-000553",
+    "type_code": "pv_classement",
+    "objet": "Bloc-porte vitré 1 ou 2 vantaux égaux ou inégaux, ossature acier isolée Fuego Light 30 ; vitrages POLFLAM EI 30 / FIREFLAM 30 (DGU)",
+    "classements": "E 30,EW 30,EI2 30",
+    "date_validite_effective": "2029-06-27",
+    "derniere_reconduction": null
+   }
+  ]
+ },
+ {
+  "requete": "Q04_par_performance",
+  "parametres": {
+   ":duree_min": 60,
+   ":exige_i": 1,
+   ":exige_w": 0,
+   ":typologie": null
+  },
+  "nb_lignes": 2,
+  "extrait": [
+   {
+    "document": "08-A-275",
+    "configuration": "Cloison vitrée Fuego Light 60",
+    "typologie_code": "cloison_vitree",
+    "systeme": "Fuego Light 60",
+    "classe_normalisee": "EI 60",
+    "duree_min": 60,
+    "condition_texte": null,
+    "page_doc": 7,
+    "section": "§3.2",
+    "date_validite_effective": "2029-02-16"
+   },
+   {
+    "document": "13-A-704",
+    "configuration": "Façade vitrée Thermfix Vario (séries 45 et 60)",
+    "typologie_code": "facade_vitree",
+    "systeme": "Thermfix Vario",
+    "classe_normalisee": "EI 60",
+    "duree_min": 60,
+    "condition_texte": null,
+    "page_doc": 6,
+    "section": "§4.2",
+    "date_validite_effective": "2028-12-03"
+   }
+  ]
+ },
+ {
+  "requete": "Q05_passage_libre_minimal",
+  "parametres": {
+   ":largeur": 1400,
+   ":hauteur": 2500
+  },
+  "nb_lignes": 5,
+  "extrait": [
+   {
+    "document_id": "DOC-11-A-507",
+    "numero_normalise": "11-A-507",
+    "objet_code": "passage_libre",
+    "libelle": "Passage libre — 1 vantail",
+    "configuration": "Bloc-porte 1 vantail",
+    "largeur_max": 1610.0,
+    "hauteur_max": 3105.0,
+    "surface_max_m2": 4.54,
+    "page_doc": 11,
+    "section": "§4.3.2"
+   },
+   {
+    "document_id": "DOC-11-A-507",
+    "numero_normalise": "11-A-507",
+    "objet_code": "passage_libre",
+    "libelle": "Passage libre — 2 vantaux égaux et inégaux",
+    "configuration": "Bloc-porte 2 vantaux égaux ou inégaux",
+    "largeur_max": 2767.0,
+    "hauteur_max": 3272.0,
+    "surface_max_m2": 8.4,
+    "page_doc": 11,
+    "section": "§4.3.2"
+   },
+   {
+    "document_id": "DOC-EFR-24-000553-R1",
+    "numero_normalise": "EFR-24-000553",
+    "objet_code": "vantail_hors_tout",
+    "libelle": "Vantail hors-tout — bloc-porte 1 vantail",
+    "configuration": "Bloc-porte 1 vantail",
+    "largeur_max": 1460.0,
+    "hauteur_max": 2720.0,
+    "surface_max_m2": null,
+    "page_doc": 11,
+    "section": "§6.3"
+   }
+  ]
+ },
+ {
+  "requete": "Q06_vitrage_dimension",
+  "parametres": {
+   ":largeur": 1500,
+   ":hauteur": 2500,
+   ":gamme": null
+  },
+  "nb_lignes": 27,
+  "extrait": [
+   {
+    "document": "08-A-275",
+    "gamme": "PYROSTOP",
+    "designation": "Pyrostop 60-101",
+    "type_vitrage_code": "monolithique",
+    "format": "Pyrostop 60-101 — portrait",
+    "l_max": 1500.0,
+    "h_max": 2530.0,
+    "s_max": null,
+    "objet_code": "vitrage_clair",
+    "statut_extraction": "extrait",
+    "page_doc": 8,
+    "section": "§4.3.2"
+   },
+   {
+    "document": "08-A-275/EXT-20/2",
+    "gamme": "PYROSTOP",
+    "designation": "Pyrostop 60-101 ou 60-201 monté en isolant",
+    "type_vitrage_code": "isolant",
+    "format": "Pyrostop 60-101/60-201 isolant sans store 1540 x 2500",
+    "l_max": 1540.0,
+    "h_max": 2500.0,
+    "s_max": null,
+    "objet_code": "vitrage_hors_tout",
+    "statut_extraction": "extrait",
+    "page_doc": 3,
+    "section": "§3-§4"
+   },
+   {
+    "document": "08-A-275/EXT-20/2",
+    "gamme": "PYROSTOP",
+    "designation": "Pyrostop 60-151 S / 60-161 S / 60-171 S / 60-181 S (store intégré)",
+    "type_vitrage_code": "isolant_store",
+    "format": "Pyrostop isolant avec store 1540 x 2500",
+    "l_max": 1540.0,
+    "h_max": 2500.0,
+    "s_max": null,
+    "objet_code": "vitrage_hors_tout",
+    "statut_extraction": "extrait",
+    "page_doc": 3,
+    "section": "§3-§4"
+   }
+  ]
+ },
+ {
+  "requete": "Q07_contenu_fichier_source",
+  "parametres": {
+   ":fichier": "FIC-11-A-507"
+  },
+  "nb_lignes": 6,
+  "extrait": [
+   {
+    "nom_fichier": "FR 11-A-507 - VETR - porte PRESTO E30 - COPRO - 12-04-2027.pdf",
+    "ordre_dans_fichier": 1,
+    "numero": "22/2 - Révision 1",
+    "type_code": "reconduction",
+    "date_emission": "2022-09-13",
+    "date_validite": "2027-04-12",
+    "nb_pages": 2,
+    "statut_extraction": "extrait",
+    "nb_composants": 0,
+    "nb_formats_dim": 0
+   },
+   {
+    "nom_fichier": "FR 11-A-507 - VETR - porte PRESTO E30 - COPRO - 12-04-2027.pdf",
+    "ordre_dans_fichier": 2,
+    "numero": "17/1",
+    "type_code": "reconduction",
+    "date_emission": "2017-06-06",
+    "date_validite": "2022-04-12",
+    "nb_pages": 1,
+    "statut_extraction": "extrait",
+    "nb_composants": 0,
+    "nb_formats_dim": 0
+   },
+   {
+    "nom_fichier": "FR 11-A-507 - VETR - porte PRESTO E30 - COPRO - 12-04-2027.pdf",
+    "ordre_dans_fichier": 3,
+    "numero": "11-A-507",
+    "type_code": "pv_classement",
+    "date_emission": "2012-04-12",
+    "date_validite": "2017-04-12",
+    "nb_pages": 60,
+    "statut_extraction": "extrait",
+    "nb_composants": 328,
+    "nb_formats_dim": 40
+   }
+  ]
+ },
+ {
+  "requete": "Q08_documents_lies_a_un_pv",
+  "parametres": {
+   ":pv": "11-A-507"
+  },
+  "nb_lignes": 17,
+  "extrait": [
+   {
+    "pv": "11-A-507",
+    "type_relation_code": "a_pour_reference",
+    "document_source": "11-A-507",
+    "type_source": "pv_classement",
+    "document_cible": "11-A-507/RAPPORT",
+    "date_emission": "2012-04-12",
+    "date_validite": "2017-04-12",
+    "present_dans_corpus": 1,
+    "commentaire": null
+   },
+   {
+    "pv": "11-A-507",
+    "type_relation_code": "support_associe",
+    "document_source": "11-A-507",
+    "type_source": "pv_classement",
+    "document_cible": "10-A-650",
+    "date_emission": "2012-04-12",
+    "date_validite": "2017-04-12",
+    "present_dans_corpus": 1,
+    "commentaire": "Cloison vitrée E30 ou E60"
+   },
+   {
+    "pv": "11-A-507",
+    "type_relation_code": "support_associe",
+    "document_source": "11-A-507",
+    "type_source": "pv_classement",
+    "document_cible": "12-A-077",
+    "date_emission": "2012-04-12",
+    "date_validite": "2017-04-12",
+    "present_dans_corpus": 1,
+    "commentaire": "Cloison vitrée EI30 ou EI60"
+   }
+  ]
+ },
+ {
+  "requete": "Q09_restrictions_applicables",
+  "parametres": {
+   ":pv": "EFR-24-000553",
+   ":type": null
+  },
+  "nb_lignes": 12,
+  "extrait": [
+   {
+    "document": "EFR-24-000553",
+    "type_code": "condition_combinaison",
+    "libelle": "Semi-fixe sans verrouillage uniquement si principal équipé d'une serrure 2 points (haut et médian)",
+    "texte_source": null,
+    "configuration": "Bloc-porte 2 vantaux égaux ou inégaux",
+    "composant": null,
+    "page_doc": 6,
+    "section": "§3.3.5.2"
+   },
+   {
+    "document": "EFR-24-000553",
+    "type_code": "condition_mise_en_oeuvre",
+    "libelle": "TV 100 : traverse haute, côté feu uniquement",
+    "texte_source": null,
+    "configuration": null,
+    "composant": "TV 100",
+    "page_doc": 6,
+    "section": "§3.3.5.2"
+   },
+   {
+    "document": "EFR-24-000553",
+    "type_code": "condition_mise_en_oeuvre",
+    "libelle": "TV 200 : traverse haute, côté feu uniquement",
+    "texte_source": null,
+    "configuration": null,
+    "composant": "TV 200",
+    "page_doc": 6,
+    "section": "§3.3.5.2"
+   }
+  ]
+ },
+ {
+  "requete": "Q10_paumelles",
+  "parametres": {
+   ":mode": "visser",
+   ":reglage": "3D"
+  },
+  "nb_lignes": 4,
+  "extrait": [
+   {
+    "document": "EFR-24-000553",
+    "reference_brute": "907670",
+    "type_articulation_code": "paumelle",
+    "mode_fixation": "visser",
+    "reglage": "3D",
+    "distance_extremite_mm": 140.0,
+    "condition_texte": "pl. 28 ; à 140 mm des extrémités",
+    "page_doc": 6,
+    "section": "§3.3.5.1"
+   },
+   {
+    "document": "EFR-24-000553",
+    "reference_brute": "907671",
+    "type_articulation_code": "paumelle",
+    "mode_fixation": "visser",
+    "reglage": "3D",
+    "distance_extremite_mm": 140.0,
+    "condition_texte": "pl. 28 ; à 140 mm des extrémités",
+    "page_doc": 6,
+    "section": "§3.3.5.1"
+   },
+   {
+    "document": "EFR-24-000553",
+    "reference_brute": "907672",
+    "type_articulation_code": "paumelle",
+    "mode_fixation": "visser",
+    "reglage": "3D",
+    "distance_extremite_mm": 140.0,
+    "condition_texte": "pl. 28 ; à 140 mm des extrémités",
+    "page_doc": 6,
+    "section": "§3.3.5.1"
+   }
+  ]
+ },
+ {
+  "requete": "Q11_ferme_portes_cote_oppose",
+  "parametres": {},
+  "nb_lignes": 17,
+  "extrait": [
+   {
+    "document": "11-A-507",
+    "reference_brute": "1593",
+    "fabricant": "DORMA (dormakaba)",
+    "type_ferme_porte_code": "applique",
+    "cote_feu_autorise": 0,
+    "cote_oppose_autorise": 1,
+    "protection_requise": "Kit de protection 904001 (FORSTER)",
+    "page_doc": 7,
+    "statut_extraction": "a_verifier"
+   },
+   {
+    "document": "11-A-507",
+    "reference_brute": "HL100",
+    "fabricant": "LEVASSEUR",
+    "type_ferme_porte_code": "applique",
+    "cote_feu_autorise": 1,
+    "cote_oppose_autorise": 1,
+    "protection_requise": "Plaque PROMATECT H ou SUPALUX 10 mm (côté opposé au feu)",
+    "page_doc": 7,
+    "statut_extraction": "extrait"
+   },
+   {
+    "document": "11-A-507",
+    "reference_brute": "ITS96 EN 2-4",
+    "fabricant": "DORMA (dormakaba)",
+    "type_ferme_porte_code": "encastre",
+    "cote_feu_autorise": 1,
+    "cote_oppose_autorise": 1,
+    "protection_requise": null,
+    "page_doc": 7,
+    "statut_extraction": "extrait"
+   }
+  ]
+ },
+ {
+  "requete": "Q12_pv_valides_a_date",
+  "parametres": {
+   ":date": "2026-11-10"
+  },
+  "nb_lignes": 6,
+  "extrait": [
+   {
+    "numero_normalise": "11-A-507",
+    "date_validite_initiale": "2017-04-12",
+    "date_validite_effective": "2027-04-12",
+    "derniere_reconduction": "11-A-507/REC-22/2",
+    "objet": "Bloc-porte à un ou deux vantaux, égaux ou inégaux, à ossature métallique — profils acier Presto 50 ; vitrages PYROSWISS, PYROSWISS STADIP, PYROSWISS CLIMAPLUS"
+   },
+   {
+    "numero_normalise": "EFR-21-002687",
+    "date_validite_initiale": "2027-07-07",
+    "date_validite_effective": "2027-07-07",
+    "derniere_reconduction": null,
+    "objet": "Cloison à ossature thermiquement isolée avec vitrages collés bord à bord à joints verticaux — Fuego Light 30 ; vitrages CONTRAFLAM STRUCTURE 30"
+   },
+   {
+    "numero_normalise": "13-A-175",
+    "date_validite_initiale": "2018-06-17",
+    "date_validite_effective": "2028-06-17",
+    "derniere_reconduction": "13-A-175/REC-23/2",
+    "objet": "Cloison vitrée à ossature métallique — tubes acier Presto 50 ; vitrages PYROGUARD T E30/x et EW30/6"
+   }
+  ]
+ },
+ {
+  "requete": "Q13_recherche_texte",
+  "parametres": {
+   ":texte": "antipanique"
+  },
+  "nb_lignes": 21,
+  "extrait": [
+   {
+    "objet_type": "document_composant",
+    "objet_id": "DC-11-A-507-0103",
+    "numero_normalise": "11-A-507",
+    "extrait": "  cremone encastree a levier avec tetiere 1 point (haut), sans antipanique serrure  (pl. 34, 36)"
+   },
+   {
+    "objet_type": "document_composant",
+    "objet_id": "DC-11-A-507-0104",
+    "numero_normalise": "11-A-507",
+    "extrait": "  cremone encastree a levier avec tetiere 2 points (haut et bas), sans antipanique serrure  (pl. 34, 37)"
+   },
+   {
+    "objet_type": "document_composant",
+    "objet_id": "DC-11-A-507-0105",
+    "numero_normalise": "11-A-507",
+    "extrait": "  serrure de commande a levier, verrouillage automatique 1 point (haut), sans antipanique serrure  (pl. 34, 36)"
+   }
+  ]
+ },
+ {
+  "requete": "Q14_fiche_reference",
+  "parametres": {
+   ":ref": "HZ43F"
+  },
+  "nb_lignes": 5,
+  "extrait": [
+   {
+    "reference_id": "REF-DORMA-HZ43F",
+    "reference_normalisee": "HZ43F",
+    "source": "enrichissement",
+    "caracteristique": "fonction",
+    "valeur": "Verrouillage automatique du battant semi-fixe (portes 2 vantaux)",
+    "statut_fiabilite": "confirme",
+    "origine": "dormakaba — brochure technique HZ 43-F (FR)"
+   },
+   {
+    "reference_id": "REF-DORMA-HZ43F",
+    "reference_normalisee": "HZ43F",
+    "source": "enrichissement",
+    "caracteristique": "gamme",
+    "valeur": "Variantes HZ 43-F22 et HZ 43-F24 (DIN-L / DIN-R)",
+    "statut_fiabilite": "confirme",
+    "origine": "dormakaba — Technikprospekt HZ 43-F (DE)"
+   },
+   {
+    "reference_id": "REF-DORMA-HZ43F",
+    "reference_normalisee": "HZ43F",
+    "source": "enrichissement",
+    "caracteristique": "main",
+    "valeur": "DIN-L ou DIN-R (pas de modèle universel)",
+    "statut_fiabilite": "confirme",
+    "origine": "dormakaba — brochure technique HZ 43-F (FR)"
+   }
+  ]
+ },
+ {
+  "requete": "Q15_controles_ouverts",
+  "parametres": {
+   ":type": null
+  },
+  "nb_lignes": 32,
+  "extrait": [
+   {
+    "numero_normalise": "08-A-275",
+    "type_code": "ocr_degrade",
+    "description": "§4.3.2 : valeur orpheline « 2876 » (hauteur) dans le bloc Pyrostop 60-201 / Isolant — non rattachée ; à vérifier sur l'original.",
+    "page_doc": 8,
+    "section": "§4.3.2",
+    "planche": null
+   },
+   {
+    "numero_normalise": "08-A-275",
+    "type_code": "planche_image",
+    "description": "Planche 1 (profilés) : seules les références « 736.050 » et « 852 » sont lisibles en OCR — liste complète des profilés à relever visuellement.",
+    "page_doc": 11,
+    "section": null,
+    "planche": "Planche 1"
+   },
+   {
+    "numero_normalise": "08-A-275/EXT-18/1",
+    "type_code": "document_absent",
+    "description": "Extension 18/1 citée (reconduite en 2019, non reconduite en 2024) mais non fournie.",
+    "page_doc": null,
+    "section": null,
+    "planche": null
+   }
+  ]
+ },
+ {
+  "requete": "Q16_essais_justificatifs",
+  "parametres": {
+   ":pv": "11-A-507"
+  },
+  "nb_lignes": 12,
+  "extrait": [
+   {
+    "document": "11-A-507/EXT-22/2",
+    "essai": "EFR-21-002096-B",
+    "laboratoire": "Efectis France",
+    "norme": "EN 1634-1+A1:2018",
+    "critere_code": "E",
+    "operateur_code": "eq",
+    "duree_min": 31.0,
+    "condition_essai": null
+   },
+   {
+    "document": "11-A-507/EXT-22/2",
+    "essai": "EFR-21-002096-B",
+    "laboratoire": "Efectis France",
+    "norme": "EN 1634-1+A1:2018",
+    "critere_code": "W",
+    "operateur_code": "eq",
+    "duree_min": 14.0,
+    "condition_essai": null
+   },
+   {
+    "document": "11-A-507/EXT-22/2",
+    "essai": "EFR-21-002096-C",
+    "laboratoire": "Efectis France",
+    "norme": "EN 1634-1+A1:2018",
+    "critere_code": "E",
+    "operateur_code": "eq",
+    "duree_min": 31.0,
+    "condition_essai": null
+   }
+  ]
+ },
+ {
+  "requete": "Q17_joints",
+  "parametres": {
+   ":type": "fibre_minerale",
+   ":epaisseur": 5
+  },
+  "nb_lignes": 5,
+  "extrait": [
+   {
+    "numero_normalise": "08-A-275",
+    "reference_brute": "948005",
+    "type_joint_code": "fibre_minerale",
+    "largeur_mm": null,
+    "epaisseur_mm": 5.0,
+    "epaisseur_min_mm": null,
+    "epaisseur_max_mm": null,
+    "position": null,
+    "marque_produit": null
+   },
+   {
+    "numero_normalise": "11-A-507",
+    "reference_brute": "948005",
+    "type_joint_code": "fibre_minerale",
+    "largeur_mm": 15.0,
+    "epaisseur_mm": 5.0,
+    "epaisseur_min_mm": null,
+    "epaisseur_max_mm": null,
+    "position": null,
+    "marque_produit": null
+   },
+   {
+    "numero_normalise": "11-A-507",
+    "reference_brute": "948009",
+    "type_joint_code": "fibre_minerale",
+    "largeur_mm": 20.0,
+    "epaisseur_mm": 5.0,
+    "epaisseur_min_mm": null,
+    "epaisseur_max_mm": null,
+    "position": null,
+    "marque_produit": null
+   }
+  ]
+ },
+ {
+  "requete": "Q18_supports",
+  "parametres": {
+   ":type_support": "cloison_legere_98_48",
+   ":allege": 1
+  },
+  "nb_lignes": 2,
+  "extrait": [
+   {
+    "numero_normalise": "08-A-275",
+    "type_support_code": "cloison_legere_98_48",
+    "masse_vol_min_kg_m3": null,
+    "epaisseur_min_mm": null,
+    "classement_pv_exige": "EI 60",
+    "prolongation_laterale": 1,
+    "imposte_autorisee": 1,
+    "allege_autorisee": 1,
+    "pas_fixation_max_mm": 410.0,
+    "condition_texte": "Rails R48 6/10, montants M48 ; chevêtre M48 renforcés 15/10 ; HUS Ø7,5x80 pas ~410 ; contreplaques 947 026",
+    "page_doc": 6,
+    "section": "§1.2.5.3"
+   },
+   {
+    "numero_normalise": "EFR-21-002687",
+    "type_support_code": "cloison_legere_98_48",
+    "masse_vol_min_kg_m3": null,
+    "epaisseur_min_mm": null,
+    "classement_pv_exige": "EI 60",
+    "prolongation_laterale": 1,
+    "imposte_autorisee": 1,
+    "allege_autorisee": 1,
+    "pas_fixation_max_mm": 600.0,
+    "condition_texte": "Placostil (PLACOPLATRE), Prégymétal (LAFARGE), KS ou KF (KNAUF) ; prolongation : montant M48 15/10 ou tube 45x45x2, vis autoforeuses 6,3x120 ; imposte/allège : chevêtre tubes 50x50x4, montants intermédiaires pas ≤ 1300, double BA13 ; jeu périphérique ≤ 25 mm",
+    "page_doc": 6,
+    "section": "§3.3.4.2"
+   }
+  ]
+ },
+ {
+  "requete": "Q19_filtre_combine",
+  "parametres": {
+   ":typologie": "bloc_porte",
+   ":duree_min": 30,
+   ":ref": "TS93"
+  },
+  "nb_lignes": 5,
+  "extrait": [
+   {
+    "pv": "11-A-507",
+    "classe_normalisee": "E 30",
+    "configuration": "Bloc-porte 1 ou 2 vantaux Presto 50",
+    "date_validite_effective": "2027-04-12",
+    "reference_brute": "TS93",
+    "document_composant": "11-A-507"
+   },
+   {
+    "pv": "11-A-507",
+    "classe_normalisee": "E 30",
+    "configuration": "Bloc-porte 11-A-507 muni de vitrages CONTRAFLAM LITE 30 (mono ou CLIMAPLUS/CLIMALIT)",
+    "date_validite_effective": "2027-04-12",
+    "reference_brute": "TS93",
+    "document_composant": "11-A-507"
+   },
+   {
+    "pv": "EFR-24-000553",
+    "classe_normalisee": "E 30",
+    "configuration": "Bloc-porte vitré Fuego Light 30, 1 ou 2 vantaux égaux ou inégaux",
+    "date_validite_effective": "2029-06-27",
+    "reference_brute": "TS 93",
+    "document_composant": "EFR-24-000553"
+   }
+  ]
+ },
+ {
+  "requete": "Q20_valeurs_testees_vs_autorisees",
+  "parametres": {},
+  "nb_lignes": 15,
+  "extrait": [
+   {
+    "nature_code": "autorise_exact",
+    "grandeur_code": "jeu",
+    "n": 13
+   },
+   {
+    "nature_code": "autorise_exact",
+    "grandeur_code": "longueur",
+    "n": 9
+   },
+   {
+    "nature_code": "autorise_max",
+    "grandeur_code": "angle",
+    "n": 2
+   }
+  ]
+ }
+]

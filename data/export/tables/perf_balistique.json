@@ -1,0 +1,11 @@
+{
+ "table": "perf_balistique",
+ "colonnes": [
+  "performance_id",
+  "classe",
+  "avec_eclats",
+  "arme_munition",
+  "norme_id"
+ ],
+ "lignes": []
+}

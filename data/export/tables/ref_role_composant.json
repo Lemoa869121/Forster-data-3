@@ -1,0 +1,125 @@
+{
+ "table": "ref_role_composant",
+ "colonnes": [
+  "code",
+  "libelle",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "ossature_huisserie",
+   "libelle": "Huisserie / bâti (dormant)",
+   "description": null
+  },
+  {
+   "code": "ossature_vantail",
+   "libelle": "Cadre de vantail",
+   "description": null
+  },
+  {
+   "code": "traverse_basse_vantail",
+   "libelle": "Traverse basse de vantail",
+   "description": null
+  },
+  {
+   "code": "traverse_intermediaire",
+   "libelle": "Traverse intermédiaire",
+   "description": null
+  },
+  {
+   "code": "ossature_cloison",
+   "libelle": "Ossature de cloison / façade",
+   "description": null
+  },
+  {
+   "code": "profile_rapporte",
+   "libelle": "Profil rapporté",
+   "description": null
+  },
+  {
+   "code": "assemblage",
+   "libelle": "Assemblage / manchonnage",
+   "description": null
+  },
+  {
+   "code": "remplissage",
+   "libelle": "Élément de remplissage",
+   "description": null
+  },
+  {
+   "code": "maintien_remplissage",
+   "libelle": "Maintien des remplissages",
+   "description": null
+  },
+  {
+   "code": "calage",
+   "libelle": "Calage",
+   "description": null
+  },
+  {
+   "code": "etancheite",
+   "libelle": "Étanchéité / joint",
+   "description": null
+  },
+  {
+   "code": "articulation",
+   "libelle": "Articulation",
+   "description": null
+  },
+  {
+   "code": "condamnation",
+   "libelle": "Condamnation / verrouillage",
+   "description": null
+  },
+  {
+   "code": "manoeuvre",
+   "libelle": "Manœuvre",
+   "description": null
+  },
+  {
+   "code": "controle_acces",
+   "libelle": "Contrôle d'accès",
+   "description": null
+  },
+  {
+   "code": "fermeture",
+   "libelle": "Fermeture automatique",
+   "description": null
+  },
+  {
+   "code": "selecteur",
+   "libelle": "Sélection de fermeture",
+   "description": null
+  },
+  {
+   "code": "accessoire",
+   "libelle": "Accessoire complémentaire",
+   "description": null
+  },
+  {
+   "code": "fixation_support",
+   "libelle": "Fixation à la construction support",
+   "description": null
+  },
+  {
+   "code": "calfeutrement",
+   "libelle": "Calfeutrement",
+   "description": null
+  },
+  {
+   "code": "drainage",
+   "libelle": "Drainage",
+   "description": null
+  },
+  {
+   "code": "jonction",
+   "libelle": "Jonction / poteau",
+   "description": null
+  },
+  {
+   "code": "protection",
+   "libelle": "Protection thermique d'un équipement",
+   "description": null
+  }
+ ]
+}

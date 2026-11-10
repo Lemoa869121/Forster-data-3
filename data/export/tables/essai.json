@@ -1,0 +1,104 @@
+{
+ "table": "essai",
+ "colonnes": [
+  "id",
+  "reference",
+  "laboratoire_id",
+  "norme_id",
+  "date_essai",
+  "objet",
+  "systeme_teste"
+ ],
+ "lignes": [
+  {
+   "id": "ESS-DMT-DO-50-020",
+   "reference": "DMT-DO-50-020",
+   "laboratoire_id": "ORG-DMT",
+   "norme_id": "NRM-EN-1634-1-2008",
+   "date_essai": "2011-11-23",
+   "objet": "Bloc-porte à deux vantaux tôlés sur bâti acier muni d'un verrou HZ43F (DORMA)",
+   "systeme_teste": null
+  },
+  {
+   "id": "ESS-EFR-21-002096-B",
+   "reference": "EFR-21-002096-B",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "norme_id": "NRM-EN-1634-1PA1-2018",
+   "date_essai": null,
+   "objet": "Bloc-porte à 2 vantaux à ossature métallique Presto 50 (FORSTER)",
+   "systeme_teste": "Presto 50"
+  },
+  {
+   "id": "ESS-EFR-21-002096-C",
+   "reference": "EFR-21-002096-C",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "norme_id": "NRM-EN-1634-1PA1-2018",
+   "date_essai": null,
+   "objet": "Bloc-porte à 2 vantaux à ossature métallique Presto 50 (FORSTER)",
+   "systeme_teste": "Presto 50"
+  },
+  {
+   "id": "ESS-EFR-21-002099",
+   "reference": "EFR-21-002099",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "norme_id": "NRM-EN-1634-1PA1-2018",
+   "date_essai": null,
+   "objet": "Bloc-porte à 1 vantail à ossature métallique Presto 50 (FORSTER)",
+   "systeme_teste": "Presto 50"
+  },
+  {
+   "id": "ESS-09-V-249",
+   "reference": "09-V-249",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "date_essai": null,
+   "objet": "Cloison vitrée profilés non isolés ECONOMY 60 (JANSEN), vitrages SGG CONTRAFLAM LITE 30 DGU 1400 x 3260 mm",
+   "systeme_teste": "JANSEN ECONOMY 60"
+  },
+  {
+   "id": "ESS-EFR-19-003584",
+   "reference": "EFR-19-003584",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "norme_id": null,
+   "date_essai": null,
+   "objet": "Cloison vitrée de hauteur 5000 mm — joints EPDM",
+   "systeme_teste": null
+  },
+  {
+   "id": "ESS-EFR-15-V-003109",
+   "reference": "EFR-15-V-003109",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "norme_id": null,
+   "date_essai": null,
+   "objet": "Joints CR",
+   "systeme_teste": null
+  },
+  {
+   "id": "ESS-08-G-053",
+   "reference": "08-G-053",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "date_essai": "2008-02-21",
+   "objet": "Châssis vitré Presto 50 (FORSTER) installé dans une cloison légère type 98/48",
+   "systeme_teste": "Presto 50"
+  },
+  {
+   "id": "ESS-DMT-DO-61-037",
+   "reference": "DMT-DO-61-037",
+   "laboratoire_id": "ORG-DMT",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "date_essai": "2015-03-11",
+   "objet": "Cloison vitrée acier à rupture de pont thermique, vitrages Pyrostop 60-101 ISOLANT 2500 x 1472 et 1289 x 3000 mm",
+   "systeme_teste": null
+  },
+  {
+   "id": "ESS-01-V-234",
+   "reference": "01-V-234",
+   "laboratoire_id": "ORG-CTICM",
+   "norme_id": null,
+   "date_essai": null,
+   "objet": "Bloc-porte un vantail avec parties latérales vitrées, dont une en Pyrodur 30-251 VISI (store)",
+   "systeme_teste": null
+  }
+ ]
+}

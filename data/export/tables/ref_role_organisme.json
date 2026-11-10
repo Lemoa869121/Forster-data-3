@@ -1,0 +1,40 @@
+{
+ "table": "ref_role_organisme",
+ "colonnes": [
+  "code",
+  "libelle",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "laboratoire",
+   "libelle": "Laboratoire agréé émetteur",
+   "description": null
+  },
+  {
+   "code": "demandeur",
+   "libelle": "Demandeur",
+   "description": null
+  },
+  {
+   "code": "co_demandeur",
+   "libelle": "Co-demandeur / demandeur conjoint",
+   "description": null
+  },
+  {
+   "code": "fabricant_ossature",
+   "libelle": "Fabricant / provenance de l'ossature",
+   "description": null
+  },
+  {
+   "code": "fabricant_vitrage",
+   "libelle": "Fabricant / provenance des vitrages",
+   "description": null
+  },
+  {
+   "code": "laboratoire_essai",
+   "libelle": "Laboratoire ayant réalisé un essai cité",
+   "description": null
+  }
+ ]
+}

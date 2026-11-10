@@ -1,0 +1,165 @@
+{
+ "table": "essai_resultat",
+ "colonnes": [
+  "id",
+  "essai_id",
+  "critere_code",
+  "duree_min",
+  "operateur_code",
+  "condition_essai",
+  "nature_code",
+  "source_page_id"
+ ],
+ "lignes": [
+  {
+   "id": "ESS-DMT-DO-50-020-RES-E-001",
+   "essai_id": "ESS-DMT-DO-50-020",
+   "critere_code": "E",
+   "duree_min": 60.0,
+   "operateur_code": "gt",
+   "condition_essai": "Sens du feu côté opposé aux paumelles",
+   "nature_code": "teste",
+   "source_page_id": "SP-EFR-14-000468-P002-1-4"
+  },
+  {
+   "id": "ESS-DMT-DO-50-020-RES-I2-002",
+   "essai_id": "ESS-DMT-DO-50-020",
+   "critere_code": "I2",
+   "duree_min": 60.0,
+   "operateur_code": "gt",
+   "condition_essai": "Sens du feu côté opposé aux paumelles",
+   "nature_code": "teste",
+   "source_page_id": "SP-EFR-14-000468-P002-1-4"
+  },
+  {
+   "id": "ESS-EFR-21-002096-B-RES-E-003",
+   "essai_id": "ESS-EFR-21-002096-B",
+   "critere_code": "E",
+   "duree_min": 31.0,
+   "operateur_code": "eq",
+   "condition_essai": null,
+   "nature_code": "teste",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  },
+  {
+   "id": "ESS-EFR-21-002096-B-RES-W-004",
+   "essai_id": "ESS-EFR-21-002096-B",
+   "critere_code": "W",
+   "duree_min": 14.0,
+   "operateur_code": "eq",
+   "condition_essai": null,
+   "nature_code": "teste",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  },
+  {
+   "id": "ESS-EFR-21-002096-C-RES-E-005",
+   "essai_id": "ESS-EFR-21-002096-C",
+   "critere_code": "E",
+   "duree_min": 31.0,
+   "operateur_code": "eq",
+   "condition_essai": null,
+   "nature_code": "teste",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  },
+  {
+   "id": "ESS-EFR-21-002096-C-RES-W-006",
+   "essai_id": "ESS-EFR-21-002096-C",
+   "critere_code": "W",
+   "duree_min": 12.0,
+   "operateur_code": "eq",
+   "condition_essai": null,
+   "nature_code": "teste",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  },
+  {
+   "id": "ESS-EFR-21-002099-RES-E-007",
+   "essai_id": "ESS-EFR-21-002099",
+   "critere_code": "E",
+   "duree_min": 35.0,
+   "operateur_code": "eq",
+   "condition_essai": null,
+   "nature_code": "teste",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  },
+  {
+   "id": "ESS-EFR-21-002099-RES-W-008",
+   "essai_id": "ESS-EFR-21-002099",
+   "critere_code": "W",
+   "duree_min": 16.0,
+   "operateur_code": "eq",
+   "condition_essai": null,
+   "nature_code": "teste",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  },
+  {
+   "id": "ESS-09-V-249-RES-E-009",
+   "essai_id": "ESS-09-V-249",
+   "critere_code": "E",
+   "duree_min": 119.0,
+   "operateur_code": "eq",
+   "condition_essai": "Sens du feu côté parclose ; vitrages testés côté contre-face et côté opposé",
+   "nature_code": "teste",
+   "source_page_id": "SP-EFR-22-002556-P003-2-3"
+  },
+  {
+   "id": "ESS-09-V-249-RES-W-010",
+   "essai_id": "ESS-09-V-249",
+   "critere_code": "W",
+   "duree_min": 117.0,
+   "operateur_code": "eq",
+   "condition_essai": "Idem",
+   "nature_code": "teste",
+   "source_page_id": "SP-EFR-22-002556-P003-2-3"
+  },
+  {
+   "id": "ESS-08-G-053-RES-E-011",
+   "essai_id": "ESS-08-G-053",
+   "critere_code": "E",
+   "duree_min": 60.0,
+   "operateur_code": "gt",
+   "condition_essai": "Bon comportement de la jonction (lecture OCR dégradée)",
+   "nature_code": "teste",
+   "source_page_id": "SP-EXT-14-1-14-2-P002-1-3"
+  },
+  {
+   "id": "ESS-08-G-053-RES-I-012",
+   "essai_id": "ESS-08-G-053",
+   "critere_code": "I",
+   "duree_min": 60.0,
+   "operateur_code": "ge",
+   "condition_essai": "Thermocouples additionnels DIN (comparables EN 1364-1:2015) : pas de déclassement prématuré",
+   "nature_code": "teste",
+   "source_page_id": "SP-08-A-275-REC-19-2-P002-ANALYSE"
+  },
+  {
+   "id": "ESS-DMT-DO-61-037-RES-E-013",
+   "essai_id": "ESS-DMT-DO-61-037",
+   "critere_code": "E",
+   "duree_min": 60.0,
+   "operateur_code": "gt",
+   "condition_essai": "Feu côté opposé à la contreface (2500x1472) et côté contreface (1289x3000)",
+   "nature_code": "teste",
+   "source_page_id": "SP-08-A-275-EXT-20-2-P002-1-2"
+  },
+  {
+   "id": "ESS-DMT-DO-61-037-RES-I-014",
+   "essai_id": "ESS-DMT-DO-61-037",
+   "critere_code": "I",
+   "duree_min": 60.0,
+   "operateur_code": "gt",
+   "condition_essai": "Idem",
+   "nature_code": "teste",
+   "source_page_id": "SP-08-A-275-EXT-20-2-P002-1-2"
+  },
+  {
+   "id": "ESS-01-V-234-RES-E-015",
+   "essai_id": "ESS-01-V-234",
+   "critere_code": "E",
+   "duree_min": 40.0,
+   "operateur_code": "eq",
+   "condition_essai": "Limite non due au vitrage",
+   "nature_code": "teste",
+   "source_page_id": "SP-08-A-275-EXT-20-2-P002-1-2"
+  }
+ ]
+}

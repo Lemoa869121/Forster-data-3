@@ -1,0 +1,130 @@
+{
+ "table": "ref_objet_dimension",
+ "colonnes": [
+  "code",
+  "libelle",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "passage_libre",
+   "libelle": "Passage libre",
+   "description": null
+  },
+  {
+   "code": "vantail_hors_tout",
+   "libelle": "Vantail hors-tout",
+   "description": null
+  },
+  {
+   "code": "vitrage_hors_tout",
+   "libelle": "Vitrage hors-tout",
+   "description": null
+  },
+  {
+   "code": "vitrage_clair",
+   "libelle": "Clair de vitrage",
+   "description": null
+  },
+  {
+   "code": "vitrage_forme",
+   "libelle": "Vitrage de forme",
+   "description": null
+  },
+  {
+   "code": "panneau",
+   "libelle": "Panneau plein",
+   "description": null
+  },
+  {
+   "code": "cloison",
+   "libelle": "Cloison vitrée",
+   "description": null
+  },
+  {
+   "code": "facade_entre_dalles",
+   "libelle": "Façade : hauteur entre dalles",
+   "description": null
+  },
+  {
+   "code": "facade",
+   "libelle": "Façade",
+   "description": null
+  },
+  {
+   "code": "imposte",
+   "libelle": "Imposte",
+   "description": null
+  },
+  {
+   "code": "allege",
+   "libelle": "Allège",
+   "description": null
+  },
+  {
+   "code": "ensemble",
+   "libelle": "Ensemble (élément + imposte / cloison)",
+   "description": null
+  },
+  {
+   "code": "jeu_fonctionnement",
+   "libelle": "Jeu de fonctionnement",
+   "description": null
+  },
+  {
+   "code": "empenage",
+   "libelle": "Empênage",
+   "description": null
+  },
+  {
+   "code": "jeu_fond_feuillure",
+   "libelle": "Jeu en fond de feuillure",
+   "description": null
+  },
+  {
+   "code": "prise_feuillure",
+   "libelle": "Prise en feuillure",
+   "description": null
+  },
+  {
+   "code": "jeu_entre_vitrages",
+   "libelle": "Jeu entre vitrages",
+   "description": null
+  },
+  {
+   "code": "film_adhesif",
+   "libelle": "Film adhésif",
+   "description": null
+  },
+  {
+   "code": "plinthe",
+   "libelle": "Plinthe",
+   "description": null
+  },
+  {
+   "code": "entraxe_traverses",
+   "libelle": "Entraxe des traverses",
+   "description": null
+  },
+  {
+   "code": "angle_vitrages",
+   "libelle": "Angle entre vitrages",
+   "description": null
+  },
+  {
+   "code": "chassis_facette",
+   "libelle": "Châssis à facette",
+   "description": null
+  },
+  {
+   "code": "vantail_principal",
+   "libelle": "Vantail principal",
+   "description": null
+  },
+  {
+   "code": "vantail_secondaire",
+   "libelle": "Vantail secondaire",
+   "description": null
+  }
+ ]
+}

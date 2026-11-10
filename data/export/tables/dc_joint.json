@@ -1,0 +1,455 @@
+{
+ "table": "dc_joint",
+ "colonnes": [
+  "document_composant_id",
+  "type_joint_code",
+  "largeur_mm",
+  "epaisseur_mm",
+  "epaisseur_min_mm",
+  "epaisseur_max_mm",
+  "position",
+  "marque_produit"
+ ],
+ "lignes": [
+  {
+   "document_composant_id": "DC-08-A-275-0008",
+   "type_joint_code": "fibre_minerale",
+   "largeur_mm": null,
+   "epaisseur_mm": 3.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": null,
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-08-A-275-0009",
+   "type_joint_code": "fibre_minerale",
+   "largeur_mm": null,
+   "epaisseur_mm": 4.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": null,
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-08-A-275-0010",
+   "type_joint_code": "fibre_minerale",
+   "largeur_mm": null,
+   "epaisseur_mm": 5.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": null,
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-08-A-275-0011",
+   "type_joint_code": "fibre_minerale",
+   "largeur_mm": null,
+   "epaisseur_mm": 6.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": null,
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-08-A-275-0012",
+   "type_joint_code": "epdm",
+   "largeur_mm": null,
+   "epaisseur_mm": 2.0,
+   "epaisseur_min_mm": 2.0,
+   "epaisseur_max_mm": 2.0,
+   "position": "ailette",
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-08-A-275-0013",
+   "type_joint_code": "epdm",
+   "largeur_mm": null,
+   "epaisseur_mm": null,
+   "epaisseur_min_mm": 3.0,
+   "epaisseur_max_mm": 5.0,
+   "position": "parclose",
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-08-A-275-0014",
+   "type_joint_code": "epdm",
+   "largeur_mm": null,
+   "epaisseur_mm": 5.0,
+   "epaisseur_min_mm": 5.0,
+   "epaisseur_max_mm": 5.0,
+   "position": "ailette",
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-08-A-275-0015",
+   "type_joint_code": "epdm",
+   "largeur_mm": null,
+   "epaisseur_mm": null,
+   "epaisseur_min_mm": 4.0,
+   "epaisseur_max_mm": 6.0,
+   "position": "parclose",
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-08-A-275-0016",
+   "type_joint_code": "epdm",
+   "largeur_mm": null,
+   "epaisseur_mm": null,
+   "epaisseur_min_mm": 6.0,
+   "epaisseur_max_mm": 8.0,
+   "position": "parclose",
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-08-A-275-0017",
+   "type_joint_code": "intumescent",
+   "largeur_mm": 24.0,
+   "epaisseur_mm": 2.2,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": "fond_feuillure",
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0035",
+   "type_joint_code": "butee",
+   "largeur_mm": null,
+   "epaisseur_mm": null,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": "battement",
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0036",
+   "type_joint_code": "intumescent",
+   "largeur_mm": null,
+   "epaisseur_mm": null,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": "peripherie",
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0037",
+   "type_joint_code": "fibre_minerale",
+   "largeur_mm": 15.0,
+   "epaisseur_mm": 3.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": null,
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0038",
+   "type_joint_code": "fibre_minerale",
+   "largeur_mm": 15.0,
+   "epaisseur_mm": 4.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": null,
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0039",
+   "type_joint_code": "fibre_minerale",
+   "largeur_mm": 15.0,
+   "epaisseur_mm": 5.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": null,
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0040",
+   "type_joint_code": "fibre_minerale",
+   "largeur_mm": 15.0,
+   "epaisseur_mm": 6.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": null,
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0041",
+   "type_joint_code": "fibre_minerale",
+   "largeur_mm": 20.0,
+   "epaisseur_mm": 3.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": null,
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0042",
+   "type_joint_code": "fibre_minerale",
+   "largeur_mm": 20.0,
+   "epaisseur_mm": 4.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": null,
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0043",
+   "type_joint_code": "fibre_minerale",
+   "largeur_mm": 20.0,
+   "epaisseur_mm": 5.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": null,
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-11-A-507-0044",
+   "type_joint_code": "fibre_minerale",
+   "largeur_mm": 20.0,
+   "epaisseur_mm": 6.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": null,
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-13-A-175-0034",
+   "type_joint_code": "fibre_minerale",
+   "largeur_mm": 15.0,
+   "epaisseur_mm": 3.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": null,
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-13-A-175-0035",
+   "type_joint_code": "fibre_minerale",
+   "largeur_mm": 15.0,
+   "epaisseur_mm": 4.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": null,
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-13-A-175-0036",
+   "type_joint_code": "fibre_minerale",
+   "largeur_mm": 15.0,
+   "epaisseur_mm": 5.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": null,
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-13-A-175-0037",
+   "type_joint_code": "fibre_minerale",
+   "largeur_mm": 15.0,
+   "epaisseur_mm": 2.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": null,
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-13-A-704-0027",
+   "type_joint_code": "epdm",
+   "largeur_mm": 45.0,
+   "epaisseur_mm": 8.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": null,
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-13-A-704-0028",
+   "type_joint_code": "epdm",
+   "largeur_mm": 45.0,
+   "epaisseur_mm": 8.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": null,
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-13-A-704-0029",
+   "type_joint_code": "epdm",
+   "largeur_mm": 60.0,
+   "epaisseur_mm": 8.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": null,
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-13-A-704-0030",
+   "type_joint_code": "epdm",
+   "largeur_mm": 60.0,
+   "epaisseur_mm": 8.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": null,
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-13-A-704-0036",
+   "type_joint_code": "intumescent",
+   "largeur_mm": 24.5,
+   "epaisseur_mm": 1.5,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": "peripherie",
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-13-A-704-0043",
+   "type_joint_code": "fibre_minerale",
+   "largeur_mm": 15.0,
+   "epaisseur_mm": 5.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": null,
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-EFR-21-002687-0005",
+   "type_joint_code": "intumescent",
+   "largeur_mm": 24.5,
+   "epaisseur_mm": 2.2,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": "fond_feuillure",
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-EFR-21-002687-0006",
+   "type_joint_code": "intumescent",
+   "largeur_mm": 24.5,
+   "epaisseur_mm": 1.5,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": "fond_feuillure",
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-EFR-21-002687-0029",
+   "type_joint_code": "epdm",
+   "largeur_mm": null,
+   "epaisseur_mm": null,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": "parclose",
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-EFR-21-002687-0030",
+   "type_joint_code": "epdm",
+   "largeur_mm": null,
+   "epaisseur_mm": null,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": "parclose",
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-EFR-21-002687-0031",
+   "type_joint_code": "epdm",
+   "largeur_mm": null,
+   "epaisseur_mm": null,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": "parclose",
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-EFR-21-002687-0032",
+   "type_joint_code": "epdm",
+   "largeur_mm": null,
+   "epaisseur_mm": null,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": "ailette",
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-EFR-21-002687-0033",
+   "type_joint_code": "epdm",
+   "largeur_mm": null,
+   "epaisseur_mm": null,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": "ailette",
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-EFR-21-002687-0034",
+   "type_joint_code": "intumescent",
+   "largeur_mm": null,
+   "epaisseur_mm": 2.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": "tranche_vitrage",
+   "marque_produit": "PALUSOL Alu"
+  },
+  {
+   "document_composant_id": "DC-EFR-21-002687-0035",
+   "type_joint_code": "intumescent",
+   "largeur_mm": null,
+   "epaisseur_mm": 2.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": "tranche_vitrage",
+   "marque_produit": "PALUSOL T"
+  },
+  {
+   "document_composant_id": "DC-EFR-21-002687-0036",
+   "type_joint_code": "intumescent",
+   "largeur_mm": null,
+   "epaisseur_mm": 2.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": "tranche_vitrage",
+   "marque_produit": "KERAFIX FXL 200"
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0023",
+   "type_joint_code": "intumescent",
+   "largeur_mm": 24.0,
+   "epaisseur_mm": 2.2,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": "fond_feuillure",
+   "marque_produit": "PALSTOP P (BRANDDEX)"
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0024",
+   "type_joint_code": "cr",
+   "largeur_mm": null,
+   "epaisseur_mm": null,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": "battement",
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0074",
+   "type_joint_code": "intumescent",
+   "largeur_mm": null,
+   "epaisseur_mm": null,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": "battement",
+   "marque_produit": null
+  },
+  {
+   "document_composant_id": "DC-EFR-24-000553-R1-0079",
+   "type_joint_code": "intumescent",
+   "largeur_mm": null,
+   "epaisseur_mm": 2.0,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "position": "ailette",
+   "marque_produit": null
+  }
+ ]
+}

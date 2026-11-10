@@ -1,0 +1,20 @@
+{
+ "table": "ref_statut_fiabilite",
+ "colonnes": [
+  "code",
+  "libelle",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "confirme",
+   "libelle": "Confirmé (source fabricant officielle concordante)",
+   "description": null
+  },
+  {
+   "code": "a_verifier",
+   "libelle": "À vérifier",
+   "description": null
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "table": "ref_type_zone_source",
+ "colonnes": [
+  "code",
+  "libelle",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "page_garde",
+   "libelle": "Page de garde",
+   "description": null
+  },
+  {
+   "code": "texte",
+   "libelle": "Texte courant",
+   "description": null
+  },
+  {
+   "code": "tableau",
+   "libelle": "Tableau",
+   "description": null
+  },
+  {
+   "code": "planche",
+   "libelle": "Planche / plan",
+   "description": null
+  },
+  {
+   "code": "note",
+   "libelle": "Note",
+   "description": null
+  },
+  {
+   "code": "annexe",
+   "libelle": "Annexe",
+   "description": null
+  },
+  {
+   "code": "suivi_revision",
+   "libelle": "Suivi des révisions",
+   "description": null
+  }
+ ]
+}

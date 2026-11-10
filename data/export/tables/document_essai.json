@@ -1,0 +1,77 @@
+{
+ "table": "document_essai",
+ "colonnes": [
+  "document_id",
+  "essai_id",
+  "role",
+  "source_page_id"
+ ],
+ "lignes": [
+  {
+   "document_id": "DOC-08-A-275-REC-19-2",
+   "essai_id": "ESS-08-G-053",
+   "role": "justification",
+   "source_page_id": "SP-08-A-275-REC-19-2-P002-ANALYSE"
+  },
+  {
+   "document_id": "DOC-08-A-275-EXT-20-2",
+   "essai_id": "ESS-DMT-DO-61-037",
+   "role": "justification",
+   "source_page_id": "SP-08-A-275-EXT-20-2-P002-1-2"
+  },
+  {
+   "document_id": "DOC-08-A-275-EXT-20-2",
+   "essai_id": "ESS-01-V-234",
+   "role": "justification",
+   "source_page_id": "SP-08-A-275-EXT-20-2-P002-1-2"
+  },
+  {
+   "document_id": "DOC-EFR-14-000468",
+   "essai_id": "ESS-DMT-DO-50-020",
+   "role": "justification",
+   "source_page_id": "SP-EFR-14-000468-P002-1-4"
+  },
+  {
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "essai_id": "ESS-EFR-21-002096-B",
+   "role": "justification",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  },
+  {
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "essai_id": "ESS-EFR-21-002096-C",
+   "role": "justification",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  },
+  {
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "essai_id": "ESS-EFR-21-002099",
+   "role": "justification",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  },
+  {
+   "document_id": "DOC-EFR-22-002556",
+   "essai_id": "ESS-09-V-249",
+   "role": "justification",
+   "source_page_id": "SP-EFR-22-002556-P003-2-3"
+  },
+  {
+   "document_id": "DOC-EFR-22-002556",
+   "essai_id": "ESS-EFR-19-003584",
+   "role": "justification",
+   "source_page_id": "SP-EFR-22-002556-P003-2-3"
+  },
+  {
+   "document_id": "DOC-EFR-22-002556",
+   "essai_id": "ESS-EFR-15-V-003109",
+   "role": "justification",
+   "source_page_id": "SP-EFR-22-002556-P003-2-3"
+  },
+  {
+   "document_id": "DOC-EXT-14-1-14-2",
+   "essai_id": "ESS-08-G-053",
+   "role": "justification",
+   "source_page_id": "SP-EXT-14-1-14-2-P002-1-3"
+  }
+ ]
+}

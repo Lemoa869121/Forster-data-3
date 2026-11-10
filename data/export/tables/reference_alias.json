@@ -1,0 +1,47 @@
+{
+ "table": "reference_alias",
+ "colonnes": [
+  "reference_id",
+  "alias",
+  "type_alias",
+  "document_id"
+ ],
+ "lignes": [
+  {
+   "reference_id": "REF-FORSTER-917611",
+   "alias": "907642",
+   "type_alias": "ancienne_reference",
+   "document_id": "DOC-11-A-507"
+  },
+  {
+   "reference_id": "REF-DORMA-HZ43F",
+   "alias": "HZ 43-F",
+   "type_alias": "ecriture_document",
+   "document_id": "DOC-EFR-14-000468"
+  },
+  {
+   "reference_id": "REF-SEVAX-WA762683",
+   "alias": "WA 762xxx",
+   "type_alias": "ecriture_document",
+   "document_id": "DOC-11-A-507"
+  },
+  {
+   "reference_id": "REF-EFF-EFF-Z09XKAB",
+   "alias": "209XKAB",
+   "type_alias": "ecriture_document",
+   "document_id": "DOC-11-A-507"
+  },
+  {
+   "reference_id": "REF-POLFLAM-FIREFLAM30",
+   "alias": "POLFLAM EI 30",
+   "type_alias": "ecriture_document",
+   "document_id": "DOC-EFR-24-000553-R1"
+  },
+  {
+   "reference_id": "REF-POLFLAM-FIREFLAM30DGU",
+   "alias": "POLFLAM EI 30 DGU",
+   "type_alias": "ecriture_document",
+   "document_id": "DOC-EFR-24-000553-R1"
+  }
+ ]
+}

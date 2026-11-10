@@ -1,0 +1,4505 @@
+{
+ "table": "recherche_index",
+ "colonnes": [
+  "objet_type",
+  "objet_id",
+  "document_id",
+  "texte"
+ ],
+ "lignes": [
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-08-A-275",
+   "document_id": "DOC-08-A-275",
+   "texte": "08 - a - 275 08-a-275 cloison vitree a ossature metallique thermiquement isolee — fuego light 60 ; vitrages pyrostop 60-101, 60-201, 60-xxx isolant pv_classement"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-08-A-275-REC-24-3",
+   "document_id": "DOC-08-A-275-REC-24-3",
+   "texte": "24/3 08-a-275/rec-24/3  reconduction"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-08-A-275-REC-19-2",
+   "document_id": "DOC-08-A-275-REC-19-2",
+   "texte": "19/2 08-a-275/rec-19/2  reconduction"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-08-A-275-EXT-20-2",
+   "document_id": "DOC-08-A-275-EXT-20-2",
+   "texte": "20/2 08-a-275/ext-20/2 augmentation dimensionnelle des vitrages pyrostop 60-101 ou 60-201 montes en isolants avec ou sans store extension"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-08-A-275-EXT-18-1",
+   "document_id": "DOC-08-A-275-EXT-18-1",
+   "texte": "18/1 08-a-275/ext-18/1  extension"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-08-A-275-RAPPORT",
+   "document_id": "DOC-08-A-275-RAPPORT",
+   "texte": "08-a-275 08-a-275/rapport  rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-11-A-507",
+   "document_id": "DOC-11-A-507",
+   "texte": "11-a-507 11-a-507 bloc-porte a un ou deux vantaux, egaux ou inegaux, a ossature metallique — profils acier presto 50 ; vitrages pyroswiss, pyroswiss stadip, pyroswiss climaplus pv_classement"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-11-A-507-REC-22-2",
+   "document_id": "DOC-11-A-507-REC-22-2",
+   "texte": "22/2 - revision 1 11-a-507/rec-22/2  reconduction"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-11-A-507-REC-22-2-R0",
+   "document_id": "DOC-11-A-507-REC-22-2-R0",
+   "texte": "22/2 11-a-507/rec-22/2  reconduction"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-11-A-507-REC-17-1",
+   "document_id": "DOC-11-A-507-REC-17-1",
+   "texte": "17/1 11-a-507/rec-17/1  reconduction"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-EFR-14-000468",
+   "document_id": "DOC-EFR-14-000468",
+   "texte": "efr-14-000468 efr-14-000468 remplacement du verrou automatique hz33f (dorma) par hz43f (dorma) extension_multiple"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-11-A-507-EXT-22-2",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "texte": "22/2 11-a-507/ext-22/2 mise en œuvre de quincaillerie (verrous thermiques, serrure a rouleau) extension"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-EFR-22-002556",
+   "document_id": "DOC-EFR-22-002556",
+   "texte": "23/4 (10-a-650) ; 23/3 (11-a-506) ; 23/4 ou 23/3 (11-a-507) ext-mult-efr-22-002556 vitrages contraflam lite 30/60 ; profiles presto 60 ; joints cr/epdm ; hauteur de cloison extension_multiple"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-11-A-506",
+   "document_id": "DOC-11-A-506",
+   "texte": "11-a-506 11-a-506  document_reference"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-10-A-650",
+   "document_id": "DOC-10-A-650",
+   "texte": "10-a-650 10-a-650 cloison vitree e30/e60 (construction support associee) document_reference"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-12-A-079",
+   "document_id": "DOC-12-A-079",
+   "texte": "12-a-079 12-a-079 cloison vitree ei30/ei60 (construction support associee) document_reference"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-12-A-077",
+   "document_id": "DOC-12-A-077",
+   "texte": "12-a-077 12-a-077 cloison vitree ei30/ei60 (construction support associee) document_reference"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-11-A-507-RAPPORT",
+   "document_id": "DOC-11-A-507-RAPPORT",
+   "texte": "11-a-507 11-a-507/rapport rapport de reference du pv 11-a-507 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-13-A-175",
+   "document_id": "DOC-13-A-175",
+   "texte": "13-a-175 13-a-175 cloison vitree a ossature metallique — tubes acier presto 50 ; vitrages pyroguard t e30/x et ew30/6 pv_classement"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-13-A-175-REC-23-2",
+   "document_id": "DOC-13-A-175-REC-23-2",
+   "texte": "23/2 13-a-175/rec-23/2  reconduction"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-EXT-14-1-14-2",
+   "document_id": "DOC-EXT-14-1-14-2",
+   "texte": "14/1 (13-a-175, 13-a-177) ; 14/2 (13-a-176, 13-a-178) ext-mult-14/1-14/2-13-a-175 incorporation de cloisons vitrees ou blocs-portes presto 50 dans une cloison legere type 98/48 extension_multiple"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-13-A-175-EXT-18-2",
+   "document_id": "DOC-13-A-175-EXT-18-2",
+   "texte": "18/2 13-a-175/ext-18/2  extension"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-13-A-175-A",
+   "document_id": "DOC-13-A-175-A",
+   "texte": "13 a 175 a 13-a-175-a  appreciation_laboratoire"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-13-A-175-B",
+   "document_id": "DOC-13-A-175-B",
+   "texte": "13-a-175 b 13-a-175-b  appreciation_laboratoire"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-13-A-176",
+   "document_id": "DOC-13-A-176",
+   "texte": "13-a-176 13-a-176  document_reference"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-13-A-177",
+   "document_id": "DOC-13-A-177",
+   "texte": "13-a-177 13-a-177  document_reference"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-13-A-178",
+   "document_id": "DOC-13-A-178",
+   "texte": "13-a-178 13-a-178  document_reference"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-13-A-704",
+   "document_id": "DOC-13-A-704",
+   "texte": "13-a-704 13-a-704 facade vitree a ossature metallique thermfix vario ; vitrages pyrostop 60-101 / 60-201 (+p5a, +p6b), isolants, triple pv_classement"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-13-A-704-REC-24-2",
+   "document_id": "DOC-13-A-704-REC-24-2",
+   "texte": "24/2 13-a-704/rec-24/2  reconduction"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-13-A-704-EXT-18-1",
+   "document_id": "DOC-13-A-704-EXT-18-1",
+   "texte": "18/1 13-a-704/ext-18/1  extension"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-13-A-704-RAPPORT",
+   "document_id": "DOC-13-A-704-RAPPORT",
+   "texte": "13-a-704 13-a-704/rapport  rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-EFR-21-002687",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "efr-21-002687 efr-21-002687 cloison a ossature thermiquement isolee avec vitrages colles bord a bord a joints verticaux — fuego light 30 ; vitrages contraflam structure 30 pv_classement"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-EFR-21-002687-AL",
+   "document_id": "DOC-EFR-21-002687-AL",
+   "texte": "efr-21-002687 efr-21-002687/al  appreciation_laboratoire"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-EFR-24-000553-R1",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "efr-24-000553 - revision 1 efr-24-000553 bloc-porte vitre 1 ou 2 vantaux egaux ou inegaux, ossature acier isolee fuego light 30 ; vitrages polflam ei 30 / fireflam 30 (dgu) pv_classement"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-EFR-24-000553-R0",
+   "document_id": "DOC-EFR-24-000553-R0",
+   "texte": "efr-24-000553 efr-24-000553  pv_classement"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-EFR-24-000553-AL",
+   "document_id": "DOC-EFR-24-000553-AL",
+   "texte": "efr-24-000553 - revision 1 efr-24-000553/al  appreciation_laboratoire"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-EFR-24-000552",
+   "document_id": "DOC-EFR-24-000552",
+   "texte": "efr-24-000552 efr-24-000552 cloison vitree fuego light 30 ei 30 document_reference"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-EFR-23-001318",
+   "document_id": "DOC-EFR-23-001318",
+   "texte": "efr-23-001318 efr-23-001318 cloison vitree fuego light 30 ei 60 document_reference"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0001",
+   "document_id": "DOC-08-A-275",
+   "texte": "pyrostop 60-101 pyrostop60-101 pyrostop 60-101 vitrage pilkington deutschland ag qualite interieure (pl. 25)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0002",
+   "document_id": "DOC-08-A-275",
+   "texte": "pyrostop 60-201 pyrostop60-201 pyrostop 60-201 vitrage pilkington deutschland ag qualite exterieure (pl. 25)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0003",
+   "document_id": "DOC-08-A-275",
+   "texte": "pyrostop 60-201 (pvb opale) pyrostop60-201(pvbopale) pyrostop 60-201 (pvb opale) vitrage pilkington deutschland ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0004",
+   "document_id": "DOC-08-A-275",
+   "texte": "pyrostop 60-xxx isolant pyrostop60-xxxisolant pyrostop 60-xxx isolant vitrage pilkington deutschland ag compositions planche 25"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0005",
+   "document_id": "DOC-08-A-275",
+   "texte": "pyrostop visi pyrostopvisi pyrostop 60-1615 / 60-1515 / 60-1815 (visi) vitrage pilkington deutschland ag ecrit « pyrostop visi » en planche 19"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0006",
+   "document_id": "DOC-08-A-275",
+   "texte": "  panneau 40,5 mm : 3 plaques ba13 feu (lafarge) + 2 parements metalliques 15/10 colles panneau  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-EXT-20-2-0001",
+   "document_id": "DOC-08-A-275-EXT-20-2",
+   "texte": "pyrostop 60-xxx isolant pyrostop60-xxxisolant pyrostop 60-101 ou 60-201 monte en isolant vitrage pilkington deutschland ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-EXT-20-2-0002",
+   "document_id": "DOC-08-A-275-EXT-20-2",
+   "texte": "pyrostop 60-1x1 s pyrostop60-1x1s pyrostop 60-151 s / 60-161 s / 60-171 s / 60-181 s (store integre) vitrage pilkington deutschland ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0007",
+   "document_id": "DOC-08-A-275",
+   "texte": "736.050 736050 profile fuego light 60 (planche 1) profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0008",
+   "document_id": "DOC-08-A-275",
+   "texte": "948003 948003 bande de vitrage 3 mm bande_fibre forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0009",
+   "document_id": "DOC-08-A-275",
+   "texte": "948004 948004 bande de vitrage 4 mm bande_fibre forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0010",
+   "document_id": "DOC-08-A-275",
+   "texte": "948005 948005 bande de vitrage 5 mm bande_fibre forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0011",
+   "document_id": "DOC-08-A-275",
+   "texte": "948006 948006 bande de vitrage 6 mm bande_fibre forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0012",
+   "document_id": "DOC-08-A-275",
+   "texte": "905312 905312 joint de vitrage epdm 2 mm joint_epdm forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0013",
+   "document_id": "DOC-08-A-275",
+   "texte": "905315 905315 joint de vitrage epdm 3-5 mm joint_epdm forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0014",
+   "document_id": "DOC-08-A-275",
+   "texte": "905314 905314 joint de vitrage epdm 5 mm joint_epdm forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0015",
+   "document_id": "DOC-08-A-275",
+   "texte": "905316 905316 joint de vitrage epdm 4-6 mm joint_epdm forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0016",
+   "document_id": "DOC-08-A-275",
+   "texte": "905317 905317 joint de vitrage epdm 6-8 mm joint_epdm forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0017",
+   "document_id": "DOC-08-A-275",
+   "texte": "948.002 948002 joint intumescent 24 x 2,2 mm (2 bandes : fond de feuillure + cote ailette ; manchonnage) joint_intumescent forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0018",
+   "document_id": "DOC-08-A-275",
+   "texte": "901241 901241 parclose parclose forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0019",
+   "document_id": "DOC-08-A-275",
+   "texte": "901245 901245 parclose parclose forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0020",
+   "document_id": "DOC-08-A-275",
+   "texte": "901226 901226 parclose parclose forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0021",
+   "document_id": "DOC-08-A-275",
+   "texte": "901227 901227 parclose parclose forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0022",
+   "document_id": "DOC-08-A-275",
+   "texte": "901228 901228 parclose parclose forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0023",
+   "document_id": "DOC-08-A-275",
+   "texte": "901246 901246 parclose parclose forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0024",
+   "document_id": "DOC-08-A-275",
+   "texte": "901247 901247 parclose parclose forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0025",
+   "document_id": "DOC-08-A-275",
+   "texte": "906.577 906577 vis bouton (parcloses 901.246, 901.228, 901.226) vis_bouton forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0026",
+   "document_id": "DOC-08-A-275",
+   "texte": "906574 906574 bouton de fixation rivet pop vis_bouton forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0027",
+   "document_id": "DOC-08-A-275",
+   "texte": "906.421 906421 ressort (parcloses 901.241) fixe par rivets ressort_parclose forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0028",
+   "document_id": "DOC-08-A-275",
+   "texte": "900.100 900100 douille de drainage (trou ø10 mm) busette forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0029",
+   "document_id": "DOC-08-A-275",
+   "texte": "947 026 947026 contreplaque acier 20 x 25 x 2,5 mm percee ø8, soudee en fond de feuillure corniere forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0030",
+   "document_id": "DOC-08-A-275",
+   "texte": "dc 796 dc796 joint silicone dc 796 (dow corning) ou silicone neutre mastic dow corning (dowsil) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0031",
+   "document_id": "DOC-08-A-275",
+   "texte": "  2 cales hetre 700 kg/m3 ou promatect h, section 8 x 80 mm, largeur = epaisseur du vitrage cale  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0032",
+   "document_id": "DOC-08-A-275",
+   "texte": "hus 7,5x160 hus7,5x160 vis hus 7,5x160 (hilti) fixation hilti "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0033",
+   "document_id": "DOC-08-A-275",
+   "texte": "hus 7,5x80 hus7,5x80 vis hus 7,5x80 (hilti) fixation hilti "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-08-A-275-0034",
+   "document_id": "DOC-08-A-275",
+   "texte": "hus 7,5x120 hus7,5x120 vis hus 7,5x120 (hilti) fixation hilti "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0001",
+   "document_id": "DOC-11-A-507",
+   "texte": "32.800 32800 montant et traverse d'huisserie profile forster profilsysteme ag construction support normalisee rigide ou flexible (pl. 2, 5, 10, 15, 16)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0002",
+   "document_id": "DOC-11-A-507",
+   "texte": "32.810 32810 montant et traverse d'huisserie profile forster profilsysteme ag construction support normalisee rigide ou flexible (pl. 2, 5, 10, 15, 16)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0003",
+   "document_id": "DOC-11-A-507",
+   "texte": "32.870 32870 montant et traverse d'huisserie profile forster profilsysteme ag construction support normalisee rigide ou flexible (pl. 2, 5, 10, 15, 16)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0004",
+   "document_id": "DOC-11-A-507",
+   "texte": "32.890 32890 montant et traverse d'huisserie profile forster profilsysteme ag construction support normalisee rigide ou flexible (pl. 2, 5, 10, 15, 16)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0005",
+   "document_id": "DOC-11-A-507",
+   "texte": "32.803 32803 montant et traverse d'huisserie profile forster profilsysteme ag construction support associee (pl. 3, 6, 11)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0006",
+   "document_id": "DOC-11-A-507",
+   "texte": "32.805 32805 montant et traverse d'huisserie profile forster profilsysteme ag construction support associee (pl. 3, 6, 11)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0007",
+   "document_id": "DOC-11-A-507",
+   "texte": "32.892 32892 montant et traverse d'huisserie profile forster profilsysteme ag construction support associee (pl. 3, 6, 11)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0008",
+   "document_id": "DOC-11-A-507",
+   "texte": "32.891 32891 montant et traverse d'huisserie profile forster profilsysteme ag construction support associee (pl. 3, 6, 11)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0009",
+   "document_id": "DOC-11-A-507",
+   "texte": "32.810 32810 montant et traverse d'huisserie assembles dos-a-dos profile forster profilsysteme ag construction support associee, assembles dos-a-dos aux profils 01.535 ou 32.851 par vis m5 min. au pas de 600 mm max."
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0010",
+   "document_id": "DOC-11-A-507",
+   "texte": "32.800 32800 montant et traverse d'huisserie assembles dos-a-dos profile forster profilsysteme ag construction support associee, assembles dos-a-dos aux profils 01.535 ou 32.851 par vis m5 min. au pas de 600 mm max."
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0011",
+   "document_id": "DOC-11-A-507",
+   "texte": "01.535 01535 profil d'assemblage dos-a-dos profile forster profilsysteme ag support associe"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0012",
+   "document_id": "DOC-11-A-507",
+   "texte": "32.851 32851 profil d'assemblage dos-a-dos profile forster profilsysteme ag support associe"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0013",
+   "document_id": "DOC-11-A-507",
+   "texte": "735.800 735800 montant et traverse d'huisserie fuego light 30 profile forster profilsysteme ag tube acier 20x15x1,5 visse (vis tf ø3,5x25,4 pas 300) + joint intumescent 948.002 (pl. 46)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0014",
+   "document_id": "DOC-11-A-507",
+   "texte": "735.803 735803 montant et traverse d'huisserie fuego light 30 profile forster profilsysteme ag tube acier 20x15x1,5 visse (vis tf ø3,5x25,4 pas 300) + joint intumescent 948.002 (pl. 46)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0015",
+   "document_id": "DOC-11-A-507",
+   "texte": "735.805 735805 montant et traverse d'huisserie fuego light 30 profile forster profilsysteme ag tube acier 20x15x1,5 visse (vis tf ø3,5x25,4 pas 300) + joint intumescent 948.002 (pl. 46)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0016",
+   "document_id": "DOC-11-A-507",
+   "texte": "736.800 736800 montant et traverse d'huisserie fuego light 60 profile forster profilsysteme ag tube acier 20x15x1,5 visse (vis tf ø3,5x25,4 pas 300) + joint intumescent 948.002 (pl. 46)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0017",
+   "document_id": "DOC-11-A-507",
+   "texte": "736.803 736803 montant et traverse d'huisserie fuego light 60 profile forster profilsysteme ag tube acier 20x15x1,5 visse (vis tf ø3,5x25,4 pas 300) + joint intumescent 948.002 (pl. 46)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0018",
+   "document_id": "DOC-11-A-507",
+   "texte": "736.805 736805 montant et traverse d'huisserie fuego light 60 profile forster profilsysteme ag tube acier 20x15x1,5 visse (vis tf ø3,5x25,4 pas 300) + joint intumescent 948.002 (pl. 46)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0019",
+   "document_id": "DOC-11-A-507",
+   "texte": "32.803 32803 montant / traverse haute de vantail profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0020",
+   "document_id": "DOC-11-A-507",
+   "texte": "32.892 32892 montant / traverse haute de vantail profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0021",
+   "document_id": "DOC-11-A-507",
+   "texte": "32.805 32805 montant / traverse haute de vantail profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0022",
+   "document_id": "DOC-11-A-507",
+   "texte": "32.891 32891 montant / traverse haute de vantail profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0023",
+   "document_id": "DOC-11-A-507",
+   "texte": "32.800 32800 montant / traverse haute de vantail profile forster profilsysteme ag double parclosage"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0024",
+   "document_id": "DOC-11-A-507",
+   "texte": "32.870 32870 montant / traverse haute de vantail profile forster profilsysteme ag double parclosage"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0025",
+   "document_id": "DOC-11-A-507",
+   "texte": "32.890 32890 montant / traverse haute de vantail profile forster profilsysteme ag double parclosage"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0026",
+   "document_id": "DOC-11-A-507",
+   "texte": "32.851 32851 traverse basse profile forster profilsysteme ag ou tube acier 50x50x1,5 en double parclosage"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0027",
+   "document_id": "DOC-11-A-507",
+   "texte": "32.855 32855 traverse basse profile forster profilsysteme ag associe ou non a un seuil automatique stadi bs (athmer)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0028",
+   "document_id": "DOC-11-A-507",
+   "texte": "32.854 32854 traverse basse profile forster profilsysteme ag associe ou non a un seuil automatique stadi bs (athmer)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0029",
+   "document_id": "DOC-11-A-507",
+   "texte": "32.801 32801 traverse basse (difference de niveau) profile forster profilsysteme ag avec joint de butee 905307"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0030",
+   "document_id": "DOC-11-A-507",
+   "texte": "32.802 32802 traverse basse (difference de niveau) profile forster profilsysteme ag avec joint de butee 905307"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0031",
+   "document_id": "DOC-11-A-507",
+   "texte": "32.852 32852 traverse intermediaire de vantail profile forster profilsysteme ag entraxe minimal entre traverses 250 mm"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0032",
+   "document_id": "DOC-11-A-507",
+   "texte": "02.535 02535 traverse intermediaire de vantail profile forster profilsysteme ag entraxe minimal entre traverses 250 mm"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0033",
+   "document_id": "DOC-11-A-507",
+   "texte": "01.535 01535 profil de peripherie de cloison / chassis attenant profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0034",
+   "document_id": "DOC-11-A-507",
+   "texte": "02.535 02535 profil de peripherie de cloison / chassis attenant profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0035",
+   "document_id": "DOC-11-A-507",
+   "texte": "905307 905307 joint de porte (de butee) joint_butee forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0036",
+   "document_id": "DOC-11-A-507",
+   "texte": "948.002 948002 joint intumescent (peripherie bloc-porte, integration fuego light) joint_intumescent forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0037",
+   "document_id": "DOC-11-A-507",
+   "texte": "948003 948003 bande de fibre minerale 15 x 3 mm bande_fibre forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0038",
+   "document_id": "DOC-11-A-507",
+   "texte": "948004 948004 bande de fibre minerale 15 x 4 mm bande_fibre forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0039",
+   "document_id": "DOC-11-A-507",
+   "texte": "948005 948005 bande de fibre minerale 15 x 5 mm bande_fibre forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0040",
+   "document_id": "DOC-11-A-507",
+   "texte": "948006 948006 bande de fibre minerale 15 x 6 mm bande_fibre forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0041",
+   "document_id": "DOC-11-A-507",
+   "texte": "948007 948007 bande de fibre minerale 20 x 3 mm bande_fibre forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0042",
+   "document_id": "DOC-11-A-507",
+   "texte": "948008 948008 bande de fibre minerale 20 x 4 mm bande_fibre forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0043",
+   "document_id": "DOC-11-A-507",
+   "texte": "948009 948009 bande de fibre minerale 20 x 5 mm bande_fibre forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0044",
+   "document_id": "DOC-11-A-507",
+   "texte": "948016 948016 bande de fibre minerale 20 x 6 mm bande_fibre forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0045",
+   "document_id": "DOC-11-A-507",
+   "texte": "901241 901241 parclose acier clipsee parclose forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0046",
+   "document_id": "DOC-11-A-507",
+   "texte": "901226 901226 parclose acier clipsee parclose forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0047",
+   "document_id": "DOC-11-A-507",
+   "texte": "901227 901227 parclose acier clipsee parclose forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0048",
+   "document_id": "DOC-11-A-507",
+   "texte": "901228 901228 parclose acier clipsee parclose forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0049",
+   "document_id": "DOC-11-A-507",
+   "texte": "901246 901246 parclose acier clipsee parclose forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0050",
+   "document_id": "DOC-11-A-507",
+   "texte": "901247 901247 parclose acier clipsee parclose forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0051",
+   "document_id": "DOC-11-A-507",
+   "texte": "906577 906577 vis bouton de parclose vis_bouton forster profilsysteme ag reparties au pas maximal de 300 mm"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0052",
+   "document_id": "DOC-11-A-507",
+   "texte": "906578 906578 vis bouton de parclose vis_bouton forster profilsysteme ag reparties au pas maximal de 300 mm"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0053",
+   "document_id": "DOC-11-A-507",
+   "texte": "906579 906579 vis bouton de parclose vis_bouton forster profilsysteme ag reparties au pas maximal de 300 mm"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0054",
+   "document_id": "DOC-11-A-507",
+   "texte": "906421 906421 ressort de fixation de parclose + rivets pop inox ø3,2 ressort_parclose forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0055",
+   "document_id": "DOC-11-A-507",
+   "texte": "  silicone « feu » firestop 700 (dow corning) ou pyrosil b (illbruck) sur bandes de fibre mastic  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0056",
+   "document_id": "DOC-11-A-507",
+   "texte": "900.100 900100 busette de drainage busette forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0057",
+   "document_id": "DOC-11-A-507",
+   "texte": "  cales bois hetre, supalux ou promatect h 10 x 80 x ep. vitrage cale  portes : 4 cales en diagonale aux angles ; fixes : 2 cales d'assise (pl. 29)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0058",
+   "document_id": "DOC-11-A-507",
+   "texte": "pyroswiss 5 pyroswiss5 pyroswiss 5 mm vitrage vetrotech saint-gobain international ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0059",
+   "document_id": "DOC-11-A-507",
+   "texte": "pyroswiss 6 pyroswiss6 pyroswiss 6 mm vitrage vetrotech saint-gobain international ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0060",
+   "document_id": "DOC-11-A-507",
+   "texte": "pyroswiss 10 pyroswiss10 pyroswiss 10 mm vitrage vetrotech saint-gobain international ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0061",
+   "document_id": "DOC-11-A-507",
+   "texte": "pyroswiss satinovo 6 pyroswisssatinovo6 pyroswiss satinovo 6 mm vitrage vetrotech saint-gobain international ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0062",
+   "document_id": "DOC-11-A-507",
+   "texte": "pyroswiss mastercarre 6 pyroswissmastercarre6 pyroswiss mastercarre 6 mm vitrage vetrotech saint-gobain international ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0063",
+   "document_id": "DOC-11-A-507",
+   "texte": "pyroswiss parsol 6 pyroswissparsol6 pyroswiss parsol 6 mm vitrage vetrotech saint-gobain international ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0064",
+   "document_id": "DOC-11-A-507",
+   "texte": "pyroswiss seralit 6 pyroswissseralit6 pyroswiss seralit 6 mm vitrage vetrotech saint-gobain international ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0065",
+   "document_id": "DOC-11-A-507",
+   "texte": "pyroswiss stadip pyroswissstadip pyroswiss stadip vitrage vetrotech saint-gobain international ag pyroswiss 6 mm cote oppose au feu + pvb 0,38 mm (clair, silence ou couleur) + vitrage liste planche 26"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0066",
+   "document_id": "DOC-11-A-507",
+   "texte": "pyroswiss climaplus fe pyroswissclimaplusfe pyroswiss climaplus avec couche a faible emissivite vitrage vetrotech saint-gobain international ag pyroswiss 6 mm ou vetroflam 6 mm cote oppose au feu + intercalaire acier ≥ 8 mm + vitrage liste planche 27"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0067",
+   "document_id": "DOC-11-A-507",
+   "texte": "pyroswiss climaplus pyroswissclimaplus pyroswiss climaplus sans couche a faible emissivite vitrage vetrotech saint-gobain international ag pyroswiss 6 mm cote oppose au feu + intercalaire acier ≥ 8 mm + vitrage liste planche 27"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0068",
+   "document_id": "DOC-11-A-507",
+   "texte": "vetroflam 6 vetroflam6 vetroflam 6 mm vitrage vetrotech saint-gobain international ag composant de pyroswiss climaplus (pyroswiss muni d'une couche a faible emissivite)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0069",
+   "document_id": "DOC-11-A-507",
+   "texte": "scotchshield sh4clarl scotchshieldsh4clarl film auto-adhesif scotchshield sh4clarl (3m) film_adhesif 3m surface maximale totale 0,5 m2"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0070",
+   "document_id": "DOC-11-A-507",
+   "texte": "scotchtint re35 amarl scotchtintre35amarl film auto-adhesif scotchtint re35 amarl (3m) film_adhesif 3m surface maximale totale 0,5 m2"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0071",
+   "document_id": "DOC-11-A-507",
+   "texte": "fasara 20pl fasara20pl film auto-adhesif fasara 20pl (3m) film_adhesif 3m surface maximale totale 0,5 m2"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0072",
+   "document_id": "DOC-11-A-507",
+   "texte": "scotchcal 100-10 white scotchcal100-10white film auto-adhesif scotchcal 100-10 white (3m) film_adhesif 3m surface maximale totale 0,5 m2"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0073",
+   "document_id": "DOC-11-A-507",
+   "texte": "  panneau plein : 2 plaques ba13 (placoplatre) + toles acier 10/10 collees pyrocol ; option face sgg emalit evolution ≥ 6 mm panneau  surface maximum 2 m2"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0074",
+   "document_id": "DOC-11-A-507",
+   "texte": "907662 907662 paumelle a souder 2d paumelle forster profilsysteme ag a environ 120 mm des bords haut et bas, avec pion 917013 a mi-hauteur"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0075",
+   "document_id": "DOC-11-A-507",
+   "texte": "907663 907663 paumelle a souder 2d paumelle forster profilsysteme ag a environ 120 mm des bords haut et bas, avec pion 917013 a mi-hauteur"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0076",
+   "document_id": "DOC-11-A-507",
+   "texte": "907667 907667 paumelle a souder 3d paumelle forster profilsysteme ag a environ 120 mm des bords haut et bas, avec pion 917013 a mi-hauteur"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0077",
+   "document_id": "DOC-11-A-507",
+   "texte": "907600 907600 paumelle a visser paumelle forster profilsysteme ag a environ 120 mm des bords haut et bas, avec pion 917013 a mi-hauteur"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0078",
+   "document_id": "DOC-11-A-507",
+   "texte": "907618 907618 paumelle a visser paumelle forster profilsysteme ag a environ 120 mm des bords haut et bas, avec pion 917013 a mi-hauteur"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0079",
+   "document_id": "DOC-11-A-507",
+   "texte": "917644 917644 paumelle a visser paumelle forster profilsysteme ag a environ 120 mm des bords haut et bas, avec pion 917013 a mi-hauteur"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0080",
+   "document_id": "DOC-11-A-507",
+   "texte": "917645 917645 paumelle a visser paumelle forster profilsysteme ag a environ 120 mm des bords haut et bas, avec pion 917013 a mi-hauteur"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0081",
+   "document_id": "DOC-11-A-507",
+   "texte": "917654 917654 paumelle a visser paumelle forster profilsysteme ag a environ 120 mm des bords haut et bas, avec pion 917013 a mi-hauteur"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0082",
+   "document_id": "DOC-11-A-507",
+   "texte": "917655 917655 paumelle a visser paumelle forster profilsysteme ag a environ 120 mm des bords haut et bas, avec pion 917013 a mi-hauteur"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0083",
+   "document_id": "DOC-11-A-507",
+   "texte": "917611 917611 paumelle 917611 (anciennement 907642) paumelle forster profilsysteme ag deux paumelles a environ 250 mm des bords, associees au pion 917025"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0084",
+   "document_id": "DOC-11-A-507",
+   "texte": "917013 917013 pion anti-degondage pion_anti_degondage forster profilsysteme ag a mi-hauteur du vantail"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0085",
+   "document_id": "DOC-11-A-507",
+   "texte": "917025 917025 pion anti-degondage pion_anti_degondage forster profilsysteme ag associe uniquement avec paumelle 917611 (907642)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0086",
+   "document_id": "DOC-11-A-507",
+   "texte": "7441 7441 bras a souder 7441 (bras du bas) bras_pivot dorma (dormakaba) en substitution des paumelles ; associable a un pivot de sol"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0087",
+   "document_id": "DOC-11-A-507",
+   "texte": "7441k 7441k bras a souder 7441 k (pivot du haut complet) bras_pivot dorma (dormakaba) en substitution des paumelles"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0088",
+   "document_id": "DOC-11-A-507",
+   "texte": "bts 80f bts80f pivot de sol bts 80f pivot_sol dorma (dormakaba) en complement des bras a souder ; scelle au mortier liquide dans reservation beton"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0089",
+   "document_id": "DOC-11-A-507",
+   "texte": "bts 80 emb bts80emb pivot de sol bts 80 emb pivot_sol dorma (dormakaba) en complement des bras a souder ; scelle au mortier liquide dans reservation beton"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0090",
+   "document_id": "DOC-11-A-507",
+   "texte": "bts 75v bts75v pivot de sol bts 75v pivot_sol dorma (dormakaba) en complement des bras a souder ; scelle au mortier liquide dans reservation beton"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0091",
+   "document_id": "DOC-11-A-507",
+   "texte": "bts 84 bts84 pivot de sol bts 84 pivot_sol dorma (dormakaba) en complement des bras a souder ; scelle au mortier liquide dans reservation beton"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0092",
+   "document_id": "DOC-11-A-507",
+   "texte": "janus janus pivot de sol janus pivot_sol sevax en complement des bras a souder ; scelle au mortier liquide dans reservation beton"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0093",
+   "document_id": "DOC-11-A-507",
+   "texte": "minos minos pivot de sol minos pivot_sol sevax en complement des bras a souder ; scelle au mortier liquide dans reservation beton"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0094",
+   "document_id": "DOC-11-A-507",
+   "texte": "ts500 ts500 pivot de sol ts500 pivot_sol geze en complement des bras a souder ; scelle au mortier liquide dans reservation beton"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0095",
+   "document_id": "DOC-11-A-507",
+   "texte": "ts550 ts550 pivot de sol ts550 pivot_sol geze en complement des bras a souder ; scelle au mortier liquide dans reservation beton"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0096",
+   "document_id": "DOC-11-A-507",
+   "texte": "  serrure a mortaiser 1 point de fermeture serrure  avec plats acier soudes dans traverses haute et basse (pl. 30-31)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0097",
+   "document_id": "DOC-11-A-507",
+   "texte": "  serrure solenoide 1 point de fermeture serrure  coffre muni d'une plaque interdens 15 (odice) 1 mm + plaque ba10 de part et d'autre (pl. 30, 31, 38)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0098",
+   "document_id": "DOC-11-A-507",
+   "texte": "  serrure a mortaiser 2 points (haut et median) serrure  plats acier soudes en traverse basse (pl. 30, 32)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0099",
+   "document_id": "DOC-11-A-507",
+   "texte": "  serrure a mortaiser 1 point (vantail principal) serrure  (pl. 33, 34)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0100",
+   "document_id": "DOC-11-A-507",
+   "texte": "  serrure solenoide 1 point (vantail principal) serrure  plaque interdens 15 + ba10 (pl. 33, 34, 38)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0101",
+   "document_id": "DOC-11-A-507",
+   "texte": "  serrure a mortaiser 2 points haut et median (vantail principal) serrure  (pl. 33, 35, 36, 37)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0102",
+   "document_id": "DOC-11-A-507",
+   "texte": "hz33f hz33f verrou automatique a mortaiser hz33f (dorma) en traverse haute verrou dorma (dormakaba) traverse haute uniquement (pl. 22, 34, 36)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0103",
+   "document_id": "DOC-11-A-507",
+   "texte": "  cremone encastree a levier avec tetiere 1 point (haut), sans antipanique serrure  (pl. 34, 36)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0104",
+   "document_id": "DOC-11-A-507",
+   "texte": "  cremone encastree a levier avec tetiere 2 points (haut et bas), sans antipanique serrure  (pl. 34, 37)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0105",
+   "document_id": "DOC-11-A-507",
+   "texte": "  serrure de commande a levier, verrouillage automatique 1 point (haut), sans antipanique serrure  (pl. 34, 36)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0106",
+   "document_id": "DOC-11-A-507",
+   "texte": "  serrure de commande a levier, verrouillage automatique 2 points (haut et bas), sans antipanique serrure  (pl. 34, 37)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0107",
+   "document_id": "DOC-11-A-507",
+   "texte": "  serrure de commande, verrouillage automatique 1 point (haut), avec antipanique serrure  (pl. 34, 36)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0108",
+   "document_id": "DOC-11-A-507",
+   "texte": "  serrure de commande, verrouillage automatique 2 points (haut et bas), avec antipanique serrure  (pl. 34, 37)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0109",
+   "document_id": "DOC-11-A-507",
+   "texte": "  cremone pompier 2 points (haut et bas) serrure  (pl. 34, 37)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0110",
+   "document_id": "DOC-11-A-507",
+   "texte": "  vantail secondaire sans verrouillage serrure  si et seulement si le vantail principal est muni d'une serrure a mortaiser 2 points (haut et median) (pl. 35)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-14-000468-0001",
+   "document_id": "DOC-EFR-14-000468",
+   "texte": "hz33f hz33f verrou automatique hz33f (dorma) — ancienne reference verrou dorma (dormakaba) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-14-000468-0002",
+   "document_id": "DOC-EFR-14-000468",
+   "texte": "hz43f hz43f verrou automatique hz43f (dorma) — en lieu et place du hz33f verrou dorma (dormakaba) planche 1 : « hz 43-f », variante « hz 43-f22 (hz 43-f24) »"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0111",
+   "document_id": "DOC-11-A-507",
+   "texte": "907720 907720 serrure 1 point classique (bequille et/ou push-bar) — fonction w sans ap, din g kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0114",
+   "document_id": "DOC-11-A-507",
+   "texte": "907724 907724 serrure 1 point classique (bequille et/ou push-bar) — fonction e avec ap, din g kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0117",
+   "document_id": "DOC-11-A-507",
+   "texte": "907728 907728 serrure 1 point classique (bequille et/ou push-bar) — fonction b avec ap, din g kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0120",
+   "document_id": "DOC-11-A-507",
+   "texte": "907403 907403 serrure 1 point classique (bequille et/ou push-bar) — fonction d avec ap, din g coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0122",
+   "document_id": "DOC-11-A-507",
+   "texte": "907721 907721 serrure 1 point classique (bequille et/ou push-bar) — fonction w sans ap, din d kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0125",
+   "document_id": "DOC-11-A-507",
+   "texte": "907725 907725 serrure 1 point classique (bequille et/ou push-bar) — fonction e avec ap, din d kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0128",
+   "document_id": "DOC-11-A-507",
+   "texte": "907729 907729 serrure 1 point classique (bequille et/ou push-bar) — fonction b avec ap, din d kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0131",
+   "document_id": "DOC-11-A-507",
+   "texte": "907402 907402 serrure 1 point classique (bequille et/ou push-bar) — fonction d avec ap, din d coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0133",
+   "document_id": "DOC-11-A-507",
+   "texte": "917732 917732 serrure 2 points classique (bequille et/ou push-bar) — fonction l+w sans ap, din g kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0136",
+   "document_id": "DOC-11-A-507",
+   "texte": "917736 917736 serrure 2 points classique (bequille et/ou push-bar) — fonction e avec ap, din g kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0139",
+   "document_id": "DOC-11-A-507",
+   "texte": "917740 917740 serrure 2 points classique (bequille et/ou push-bar) — fonction b avec ap, din g kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0142",
+   "document_id": "DOC-11-A-507",
+   "texte": "917733 917733 serrure 2 points classique (bequille et/ou push-bar) — fonction l+w sans ap, din d kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0145",
+   "document_id": "DOC-11-A-507",
+   "texte": "917737 917737 serrure 2 points classique (bequille et/ou push-bar) — fonction e avec ap, din d kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0148",
+   "document_id": "DOC-11-A-507",
+   "texte": "917741 917741 serrure 2 points classique (bequille et/ou push-bar) — fonction b avec ap, din d kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0151",
+   "document_id": "DOC-11-A-507",
+   "texte": "907734 907734 serrure 1 point version push-bar — fonction b avec ap, din d kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0154",
+   "document_id": "DOC-11-A-507",
+   "texte": "907735 907735 serrure 1 point version push-bar — fonction b avec ap, din g kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0157",
+   "document_id": "DOC-11-A-507",
+   "texte": "917764 917764 serrure 2 points version push-bar — fonction b avec ap, din d kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0160",
+   "document_id": "DOC-11-A-507",
+   "texte": "917765 917765 serrure 2 points version push-bar — fonction b avec ap, din g kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0163",
+   "document_id": "DOC-11-A-507",
+   "texte": "907038 907038 kit gache ou coffre — controle d'acces gache_electrique forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0164",
+   "document_id": "DOC-11-A-507",
+   "texte": "907039 907039 kit gache ou coffre — controle d'acces gache_electrique forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0165",
+   "document_id": "DOC-11-A-507",
+   "texte": "142 u 142u ouverture electrique (laterale) gache_electrique eff eff (effeff) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0166",
+   "document_id": "DOC-11-A-507",
+   "texte": "143 143 ouverture electrique (laterale) gache_electrique eff eff (effeff) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0167",
+   "document_id": "DOC-11-A-507",
+   "texte": "442 rr 442rr ouverture electrique (laterale) gache_electrique dorma (dormakaba) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0168",
+   "document_id": "DOC-11-A-507",
+   "texte": "907441d 907441d ouverture electrique (laterale) gache_electrique forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0169",
+   "document_id": "DOC-11-A-507",
+   "texte": "907442g 907442g ouverture electrique (laterale) gache_electrique forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0170",
+   "document_id": "DOC-11-A-507",
+   "texte": "145 145 ouverture electrique (haute) gache_electrique eff eff (effeff) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0171",
+   "document_id": "DOC-11-A-507",
+   "texte": "907294 907294 push-bar pour longueur de 650 a 799 mm barre_antipanique forster profilsysteme ag compatible avec toutes les references de serrures version classique et/ou push-bar"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0172",
+   "document_id": "DOC-11-A-507",
+   "texte": "907295 907295 push-bar pour longueur de 800 a 950 mm barre_antipanique forster profilsysteme ag compatible avec toutes les references de serrures version classique et/ou push-bar"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0173",
+   "document_id": "DOC-11-A-507",
+   "texte": "907296 907296 push-bar pour longueur de 951 a 1100 mm barre_antipanique forster profilsysteme ag compatible avec toutes les references de serrures version classique et/ou push-bar"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0174",
+   "document_id": "DOC-11-A-507",
+   "texte": "907297 907297 push-bar pour longueur de 1101 a 1250 mm barre_antipanique forster profilsysteme ag compatible avec toutes les references de serrures version classique et/ou push-bar"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0175",
+   "document_id": "DOC-11-A-507",
+   "texte": "907720 907720 serrure 1 point classique (bequille et/ou push-bar) — fonction w sans ap, din g kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0178",
+   "document_id": "DOC-11-A-507",
+   "texte": "907724 907724 serrure 1 point classique (bequille et/ou push-bar) — fonction e avec ap, din g kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0181",
+   "document_id": "DOC-11-A-507",
+   "texte": "907728 907728 serrure 1 point classique (bequille et/ou push-bar) — fonction b avec ap, din g kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0184",
+   "document_id": "DOC-11-A-507",
+   "texte": "907403 907403 serrure 1 point classique (bequille et/ou push-bar) — fonction d avec ap, din g coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0186",
+   "document_id": "DOC-11-A-507",
+   "texte": "907721 907721 serrure 1 point classique (bequille et/ou push-bar) — fonction w sans ap, din d kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0189",
+   "document_id": "DOC-11-A-507",
+   "texte": "907725 907725 serrure 1 point classique (bequille et/ou push-bar) — fonction e avec ap, din d kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0192",
+   "document_id": "DOC-11-A-507",
+   "texte": "907729 907729 serrure 1 point classique (bequille et/ou push-bar) — fonction b avec ap, din d kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0195",
+   "document_id": "DOC-11-A-507",
+   "texte": "907402 907402 serrure 1 point classique (bequille et/ou push-bar) — fonction d avec ap, din d coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0197",
+   "document_id": "DOC-11-A-507",
+   "texte": "917732 917732 serrure 2 points classique (bequille et/ou push-bar) — fonction l+w sans ap, din g kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0200",
+   "document_id": "DOC-11-A-507",
+   "texte": "917736 917736 serrure 2 points classique (bequille et/ou push-bar) — fonction e avec ap, din g kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0203",
+   "document_id": "DOC-11-A-507",
+   "texte": "917740 917740 serrure 2 points classique (bequille et/ou push-bar) — fonction b avec ap, din g kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0206",
+   "document_id": "DOC-11-A-507",
+   "texte": "917733 917733 serrure 2 points classique (bequille et/ou push-bar) — fonction l+w sans ap, din d kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0209",
+   "document_id": "DOC-11-A-507",
+   "texte": "917737 917737 serrure 2 points classique (bequille et/ou push-bar) — fonction e avec ap, din d kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0212",
+   "document_id": "DOC-11-A-507",
+   "texte": "917741 917741 serrure 2 points classique (bequille et/ou push-bar) — fonction b avec ap, din d kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0215",
+   "document_id": "DOC-11-A-507",
+   "texte": "907734 907734 serrure 1 point version push-bar — fonction b avec ap, din d kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0218",
+   "document_id": "DOC-11-A-507",
+   "texte": "907735 907735 serrure 1 point version push-bar — fonction b avec ap, din g kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0221",
+   "document_id": "DOC-11-A-507",
+   "texte": "917764 917764 serrure 2 points version push-bar — fonction b avec ap, din d kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0224",
+   "document_id": "DOC-11-A-507",
+   "texte": "917765 917765 serrure 2 points version push-bar — fonction b avec ap, din g kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0227",
+   "document_id": "DOC-11-A-507",
+   "texte": "907038 907038 kit gache ou coffre — controle d'acces gache_electrique forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0228",
+   "document_id": "DOC-11-A-507",
+   "texte": "907039 907039 kit gache ou coffre — controle d'acces gache_electrique forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0229",
+   "document_id": "DOC-11-A-507",
+   "texte": "142 u 142u ouverture electrique (laterale) gache_electrique eff eff (effeff) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0230",
+   "document_id": "DOC-11-A-507",
+   "texte": "143 143 ouverture electrique (laterale) gache_electrique eff eff (effeff) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0231",
+   "document_id": "DOC-11-A-507",
+   "texte": "442 rr 442rr ouverture electrique (laterale) gache_electrique dorma (dormakaba) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0232",
+   "document_id": "DOC-11-A-507",
+   "texte": "907441d 907441d ouverture electrique (laterale) gache_electrique forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0233",
+   "document_id": "DOC-11-A-507",
+   "texte": "907442g 907442g ouverture electrique (laterale) gache_electrique forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0234",
+   "document_id": "DOC-11-A-507",
+   "texte": "145 145 ouverture electrique (haute) gache_electrique eff eff (effeff) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0235",
+   "document_id": "DOC-11-A-507",
+   "texte": "907294 907294 push-bar pour longueur de 650 a 799 mm barre_antipanique forster profilsysteme ag compatible avec toutes les references de serrures version classique et/ou push-bar"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0236",
+   "document_id": "DOC-11-A-507",
+   "texte": "907295 907295 push-bar pour longueur de 800 a 950 mm barre_antipanique forster profilsysteme ag compatible avec toutes les references de serrures version classique et/ou push-bar"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0237",
+   "document_id": "DOC-11-A-507",
+   "texte": "907296 907296 push-bar pour longueur de 951 a 1100 mm barre_antipanique forster profilsysteme ag compatible avec toutes les references de serrures version classique et/ou push-bar"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0238",
+   "document_id": "DOC-11-A-507",
+   "texte": "907297 907297 push-bar pour longueur de 1101 a 1250 mm barre_antipanique forster profilsysteme ag compatible avec toutes les references de serrures version classique et/ou push-bar"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0239",
+   "document_id": "DOC-11-A-507",
+   "texte": "917746 917746 commande a levier — vantail secondaire (semi-fixe) kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0241",
+   "document_id": "DOC-11-A-507",
+   "texte": "917747 917747 commande a levier — vantail secondaire (semi-fixe) kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0243",
+   "document_id": "DOC-11-A-507",
+   "texte": "907438 907438 commande a levier 907438 — vantail secondaire verrou forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0244",
+   "document_id": "DOC-11-A-507",
+   "texte": "917752 917752 equipement complet 2 vantaux — serrure 1 point, fonction e avec ap, din g kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0247",
+   "document_id": "DOC-11-A-507",
+   "texte": "917753 917753 equipement complet 2 vantaux — serrure 1 point, fonction b avec ap, din g kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0250",
+   "document_id": "DOC-11-A-507",
+   "texte": "907411 907411 equipement complet 2 vantaux — serrure 1 point, fonction d avec ap, din g coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0252",
+   "document_id": "DOC-11-A-507",
+   "texte": "917754 917754 equipement complet 2 vantaux — serrure 1 point, fonction e avec ap, din d kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0255",
+   "document_id": "DOC-11-A-507",
+   "texte": "917755 917755 equipement complet 2 vantaux — serrure 1 point, fonction b avec ap, din d kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0258",
+   "document_id": "DOC-11-A-507",
+   "texte": "907410 907410 equipement complet 2 vantaux — serrure 1 point, fonction d avec ap, din d coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0260",
+   "document_id": "DOC-11-A-507",
+   "texte": "917760 917760 equipement complet 2 vantaux — serrure 2 points, fonction e avec ap, din g kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0263",
+   "document_id": "DOC-11-A-507",
+   "texte": "917761 917761 equipement complet 2 vantaux — serrure 2 points, fonction b avec ap, din g kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0266",
+   "document_id": "DOC-11-A-507",
+   "texte": "917762 917762 equipement complet 2 vantaux — serrure 2 points, fonction e avec ap, din d kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0269",
+   "document_id": "DOC-11-A-507",
+   "texte": "917763 917763 equipement complet 2 vantaux — serrure 2 points, fonction b avec ap, din d kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0272",
+   "document_id": "DOC-11-A-507",
+   "texte": "917766 917766 equipement vantail secondaire (semi-fixe) — version push-bar kit_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0274",
+   "document_id": "DOC-11-A-507",
+   "texte": "309x---pz 309x---pz serrure solenoide 309x---pz — mecanique — entraxe 35 mm serrure eff eff (effeff) entree controlee ; sortie libre et/ou controlee (tableau planche 38)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0275",
+   "document_id": "DOC-11-A-507",
+   "texte": "kel060 kel060 serrure solenoide kel060 — mecanique — entraxe 35 mm serrure abloy entree controlee ; sortie libre et/ou controlee (tableau planche 38)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0276",
+   "document_id": "DOC-11-A-507",
+   "texte": "709x---pz 709x---pz serrure solenoide 709x---pz — electrique — entraxe 35 mm serrure eff eff (effeff) entree controlee ; sortie libre et/ou controlee (tableau planche 38)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0277",
+   "document_id": "DOC-11-A-507",
+   "texte": "kel460 kel460 serrure solenoide kel460 — electrique — entraxe 35 mm serrure abloy entree controlee ; sortie libre et/ou controlee (tableau planche 38)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0278",
+   "document_id": "DOC-11-A-507",
+   "texte": "709x---pzx 709x---pzx serrure solenoide 709x---pzx — electrique — entraxe 35 mm serrure eff eff (effeff) entree controlee ; sortie libre et/ou controlee (tableau planche 38)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0279",
+   "document_id": "DOC-11-A-507",
+   "texte": "kel461 kel461 serrure solenoide kel461 — electrique — entraxe 35 mm serrure abloy entree controlee ; sortie libre et/ou controlee (tableau planche 38)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0280",
+   "document_id": "DOC-11-A-507",
+   "texte": "509x-pz 509x-pz serrure solenoide 509x-pz — motorisee — entraxe 35 mm serrure eff eff (effeff) entree controlee ; sortie libre et/ou controlee (tableau planche 38)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0281",
+   "document_id": "DOC-11-A-507",
+   "texte": "509xstrg 509xstrg serrure solenoide 509xstrg — motorisee — entraxe 35 mm serrure eff eff (effeff) entree controlee ; sortie libre et/ou controlee (tableau planche 38)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0282",
+   "document_id": "DOC-11-A-507",
+   "texte": "kel420 kel420 serrure solenoide kel420 — motorisee — entraxe 35 mm serrure abloy entree controlee ; sortie libre et/ou controlee (tableau planche 38)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0283",
+   "document_id": "DOC-11-A-507",
+   "texte": "kel461 + ckel das kel461+ckeldas serrure solenoide kel461 + ckel das — das electrique — entraxe 35 mm serrure abloy entree controlee ; sortie libre et/ou controlee (tableau planche 38)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0284",
+   "document_id": "DOC-11-A-507",
+   "texte": "  bequilles, boutons de porte, barres antipanique (push-bar), poignees de tirage, batons de marechal (bois, aluminium, acier ou inox) bequille  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0285",
+   "document_id": "DOC-11-A-507",
+   "texte": "  ouvertures electriques medianes et/ou hautes par gache electrique a emission gache_electrique  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0286",
+   "document_id": "DOC-11-A-507",
+   "texte": "tv 100 tv100 verrou supplementaire electromagnetique en applique tv 100 ventouse dorma (dormakaba) en traverse haute et cote feu uniquement (pl. 40)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0287",
+   "document_id": "DOC-11-A-507",
+   "texte": "tv 200 tv200 verrou supplementaire electromagnetique en applique tv 200 ventouse dorma (dormakaba) en traverse haute et cote feu uniquement (pl. 40)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0288",
+   "document_id": "DOC-11-A-507",
+   "texte": "vcan vcan verrou supplementaire electromagnetique en applique vcan ventouse geze en traverse haute et cote feu uniquement (pl. 40)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0289",
+   "document_id": "DOC-11-A-507",
+   "texte": "ts72 ts72 ferme-porte ts72 ferme_porte dorma (dormakaba) cote feu; ou cote oppose au feu avec plaque promatect h ou supalux 10 mm interposee (pl. 42)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0290",
+   "document_id": "DOC-11-A-507",
+   "texte": "ts73 ts73 ferme-porte ts73 ferme_porte dorma (dormakaba) cote feu; ou cote oppose au feu avec plaque promatect h ou supalux 10 mm interposee (pl. 42)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0291",
+   "document_id": "DOC-11-A-507",
+   "texte": "ts83 ts83 ferme-porte ts83 ferme_porte dorma (dormakaba) cote feu; ou cote oppose au feu avec plaque promatect h ou supalux 10 mm interposee (pl. 42)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0292",
+   "document_id": "DOC-11-A-507",
+   "texte": "ts90 ts90 ferme-porte ts90 ferme_porte dorma (dormakaba) cote feu; ou cote oppose au feu avec plaque promatect h ou supalux 10 mm interposee (pl. 42)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0293",
+   "document_id": "DOC-11-A-507",
+   "texte": "ts91 ts91 ferme-porte ts91 ferme_porte dorma (dormakaba) cote feu; ou cote oppose au feu avec plaque promatect h ou supalux 10 mm interposee (pl. 42)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0294",
+   "document_id": "DOC-11-A-507",
+   "texte": "ts92 ts92 ferme-porte ts92 ferme_porte dorma (dormakaba) cote feu; ou cote oppose au feu avec plaque promatect h ou supalux 10 mm interposee (pl. 42)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0295",
+   "document_id": "DOC-11-A-507",
+   "texte": "ts93 ts93 ferme-porte ts93 ferme_porte dorma (dormakaba) cote feu; ou cote oppose au feu avec plaque promatect h ou supalux 10 mm interposee (pl. 42)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0296",
+   "document_id": "DOC-11-A-507",
+   "texte": "ed100 ed100 ferme-porte ed100 ouvre_porte dorma (dormakaba) cote feu (pl. 43, 44)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0297",
+   "document_id": "DOC-11-A-507",
+   "texte": "ed200 ed200 ferme-porte ed200 ouvre_porte dorma (dormakaba) cote feu (pl. 43, 44)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0298",
+   "document_id": "DOC-11-A-507",
+   "texte": "ed250 ed250 ferme-porte ed250 ouvre_porte dorma (dormakaba) cote feu (pl. 43, 44)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0299",
+   "document_id": "DOC-11-A-507",
+   "texte": "ts99fl ts99fl ferme-porte ts99fl ferme_porte dorma (dormakaba) cote feu; ou cote oppose au feu avec plaque promatect h ou supalux 10 mm interposee (pl. 42)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0300",
+   "document_id": "DOC-11-A-507",
+   "texte": "ts1500 ts1500 ferme-porte ts1500 ferme_porte geze cote feu; ou cote oppose au feu avec plaque promatect h ou supalux 10 mm interposee (pl. 42)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0301",
+   "document_id": "DOC-11-A-507",
+   "texte": "ts2000 ts2000 ferme-porte ts2000 ferme_porte geze cote feu; ou cote oppose au feu avec plaque promatect h ou supalux 10 mm interposee (pl. 42)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0302",
+   "document_id": "DOC-11-A-507",
+   "texte": "ts3000 ts3000 ferme-porte ts3000 ferme_porte geze cote feu; ou cote oppose au feu avec plaque promatect h ou supalux 10 mm interposee (pl. 42)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0303",
+   "document_id": "DOC-11-A-507",
+   "texte": "ts4000 ts4000 ferme-porte ts4000 ferme_porte geze cote feu; ou cote oppose au feu avec plaque promatect h ou supalux 10 mm interposee (pl. 42)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0304",
+   "document_id": "DOC-11-A-507",
+   "texte": "ts5000 ts5000 ferme-porte ts5000 ferme_porte geze cote feu; ou cote oppose au feu avec plaque promatect h ou supalux 10 mm interposee (pl. 42)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0305",
+   "document_id": "DOC-11-A-507",
+   "texte": "ts wood tswood ferme-porte ts wood ferme_porte geze cote feu; ou cote oppose au feu avec plaque promatect h ou supalux 10 mm interposee (pl. 42)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0306",
+   "document_id": "DOC-11-A-507",
+   "texte": "isa160 isa160 ferme-porte isa160 ouvre_porte geze cote feu (pl. 43, 44)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0307",
+   "document_id": "DOC-11-A-507",
+   "texte": "slimdrive emd-f slimdriveemd-f ferme-porte slimdrive emd-f ouvre_porte geze cote feu (pl. 43, 44)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0308",
+   "document_id": "DOC-11-A-507",
+   "texte": "hl100 hl100 ferme-porte hl100 ferme_porte levasseur cote feu; ou cote oppose au feu avec plaque promatect h ou supalux 10 mm interposee (pl. 42)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0309",
+   "document_id": "DOC-11-A-507",
+   "texte": "1593 1593 ferme-porte « 1593 » (dorma) avec kit de protection 904001 ferme_porte dorma (dormakaba) cote oppose au feu, associe au kit de protection 904001 (forster) au sein du corps (pl. 42)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0310",
+   "document_id": "DOC-11-A-507",
+   "texte": "904001 904001 kit de protection de ferme-porte kit_protection forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0311",
+   "document_id": "DOC-11-A-507",
+   "texte": "its96 en 2-4 its96en2-4 ferme-porte encastre (invisible) its96 en 2-4 ferme_porte dorma (dormakaba) uniquement dans le ou les vantaux (pl. 41) ; bras a glissiere uniquement dans le dormant ; corps uniquement dans le vantail"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0312",
+   "document_id": "DOC-11-A-507",
+   "texte": "  tous les selecteurs de fermeture invisibles incorpores dans les bandeaux des ferme-portes selecteur_fermeture  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0313",
+   "document_id": "DOC-11-A-507",
+   "texte": "sr wab srwab selecteur de fermeture sr wab selecteur_fermeture geze "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0314",
+   "document_id": "DOC-11-A-507",
+   "texte": "sr 90 sr90 selecteur de fermeture sr 90 selecteur_fermeture dictator "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0315",
+   "document_id": "DOC-11-A-507",
+   "texte": "sr 390 sr390 selecteur de fermeture sr 390 selecteur_fermeture dorma (dormakaba) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0316",
+   "document_id": "DOC-11-A-507",
+   "texte": "907100 907100 selecteur de fermeture 907100 selecteur_fermeture forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0317",
+   "document_id": "DOC-11-A-507",
+   "texte": "91400 91400 selecteur de fermeture 91400 selecteur_fermeture jpm "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0318",
+   "document_id": "DOC-11-A-507",
+   "texte": "wa 762xxx wa762683 selecteur de fermeture wa 762683 selecteur_fermeture sevax "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0319",
+   "document_id": "DOC-11-A-507",
+   "texte": "sp 81 sp81 selecteur de fermeture sp 81 selecteur_fermeture levasseur "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0320",
+   "document_id": "DOC-11-A-507",
+   "texte": "sv 2+ battee sv2+battee selecteur de fermeture sv 2+ battee selecteur_fermeture groom "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0321",
+   "document_id": "DOC-11-A-507",
+   "texte": "ayc-e55 ayc-e55 lecteur de code extra plat eff eff ayc-e55 lecteur eff eff (effeff) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0322",
+   "document_id": "DOC-11-A-507",
+   "texte": "10312g 10312g passage de cable invisible eff eff passe_cable eff eff (effeff) place sur l'huisserie cote articulations (planche 39 : « 103126 »)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0323",
+   "document_id": "DOC-11-A-507",
+   "texte": "209xkab z09xkab cable de connexion 12 conducteurs cable eff eff (effeff) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0324",
+   "document_id": "DOC-11-A-507",
+   "texte": "stadi bs stadibs seuil automatique stadi bs seuil_automatique athmer place sous la traverse basse ; compatible uniquement avec les profiles forster 32.855 ou 32.854"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0325",
+   "document_id": "DOC-11-A-507",
+   "texte": "hus 7,5x100 hus7,5x100 vis hus 7,5x100 (hilti) fixation hilti "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0326",
+   "document_id": "DOC-11-A-507",
+   "texte": "hus 7,5x80 hus7,5x80 vis hus 7,5x80 (hilti) fixation hilti "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0327",
+   "document_id": "DOC-11-A-507",
+   "texte": "hus 7,5x120 hus7,5x120 vis hus 7,5x120 (hilti) fixation hilti "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0328",
+   "document_id": "DOC-11-A-507",
+   "texte": "  cheville plastique et vis a bois ø10x140 fixation  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-EXT-22-2-0001",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "texte": "  verrou thermique (seuil 124 °c) — axe a 120 mm du haut du vantail serrure  coffre ø24x44 mm, reservation ø26 mm ; tetiere ø50x35x3 mm ; 2 vis inox tete fraisee m5x6,5 ; engage dans trous ø26 du montant d'huisserie"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-EXT-22-2-0002",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "texte": "  verrou thermique (seuil 124 °c) — axe a 490 mm du bas du vantail serrure  coffre ø24x44 mm, reservation ø26 mm ; tetiere ø50x35x3 mm ; 2 vis inox tete fraisee m5x6,5 ; engage dans trous ø26 du montant d'huisserie"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-EXT-22-2-0003",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "texte": "  verrou thermique (seuil 124 °c) — axe a 1040 mm du bas du vantail serrure  coffre ø24x44 mm, reservation ø26 mm ; tetiere ø50x35x3 mm ; 2 vis inox tete fraisee m5x6,5 ; engage dans trous ø26 du montant d'huisserie"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-EXT-22-2-0004",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "texte": "987404 987404 serrure a rouleau 987404 (rouleau + pene dormant) — 2 vantaux, vantail mobile serrure forster profilsysteme ag coffre 183,5x15,5x47 mm a 1282 mm du bas ; reservation 274 x 20 mm ; tetiere 320x29,5x3 mm ; gache 987008"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-EXT-22-2-0005",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "texte": "987404 987404 serrure a rouleau 987404 (rouleau + pene dormant) — 1 vantail serrure forster profilsysteme ag coffre 183,5x15,5x47 mm a 1282 mm du bas ; reservation 200 x 20 mm ; tetiere 320x29,5x3 mm ; gache 987008"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-EXT-22-2-0006",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "texte": "907518 907518 serrure a rouleau 907518 (rouleau + pene dormant) — 2 vantaux, vantail mobile serrure forster profilsysteme ag coffre 183,5x15,5x47 mm a 1282 mm du bas ; reservation 274 x 20 mm ; tetiere 320x29,5x3 mm ; gache 987008"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-EXT-22-2-0007",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "texte": "907518 907518 serrure a rouleau 907518 (rouleau + pene dormant) — 1 vantail serrure forster profilsysteme ag coffre 183,5x15,5x47 mm a 1282 mm du bas ; reservation 200 x 20 mm ; tetiere 320x29,5x3 mm ; gache 987008"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-EXT-22-2-0008",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "texte": "987008 987008 gache de serrure a rouleau 320 x 29,5 x 3 mm gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-EXT-22-2-0009",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "texte": "907438 907438 verrou encastre levier a bascule 907438 (vantail semi-fixe) verrou forster profilsysteme ag coffre 150x15x47 mm a 1602 mm du bas ; reservation 160x20 mm ; tetiere 320x29,5x3 mm"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-22-002556-0001",
+   "document_id": "DOC-EFR-22-002556",
+   "texte": "contraflam lite 30 monolithique contraflamlite30monolithique contraflam lite 30 monolithique vitrage vetrotech saint-gobain international ag compositions planches 1-2 ; epaisseur a adapter selon dimensions ; film ≤ 150 μm m0/m1/a1/a2/b admis"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-22-002556-0002",
+   "document_id": "DOC-EFR-22-002556",
+   "texte": "contraflam lite 30 climaplus ou climalit contraflamlite30climaplusouclimalit contraflam lite 30 climaplus ou climalit vitrage vetrotech saint-gobain international ag compositions planches 1-2 ; epaisseur a adapter selon dimensions ; film ≤ 150 μm m0/m1/a1/a2/b admis"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-22-002556-0003",
+   "document_id": "DOC-EFR-22-002556",
+   "texte": "contraflam lite 60 monolithique contraflamlite60monolithique contraflam lite 60 monolithique vitrage vetrotech saint-gobain international ag compositions planches 1-2 ; epaisseur a adapter selon dimensions ; film ≤ 150 μm m0/m1/a1/a2/b admis"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-22-002556-0004",
+   "document_id": "DOC-EFR-22-002556",
+   "texte": "contraflam lite 60 climaplus ou climalit contraflamlite60climaplusouclimalit contraflam lite 60 climaplus ou climalit vitrage vetrotech saint-gobain international ag compositions planches 1-2 ; epaisseur a adapter selon dimensions ; film ≤ 150 μm m0/m1/a1/a2/b admis"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-22-002556-0005",
+   "document_id": "DOC-EFR-22-002556",
+   "texte": "  profiles de profondeur 60 mm presto 60 en remplacement des presto 50 profile  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0001",
+   "document_id": "DOC-13-A-175",
+   "texte": "pyroguard t e30/6 pyroguardte30/6 pyroguard t e30/6 vitrage pyroguard uk ltd "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0002",
+   "document_id": "DOC-13-A-175",
+   "texte": "pyroguard t e30/8 pyroguardte30/8 pyroguard t e30/8 vitrage pyroguard uk ltd "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0003",
+   "document_id": "DOC-13-A-175",
+   "texte": "pyroguard t e30/10 pyroguardte30/10 pyroguard t e30/10 vitrage pyroguard uk ltd "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0004",
+   "document_id": "DOC-13-A-175",
+   "texte": "pyroguard t e30/12 pyroguardte30/12 pyroguard t e30/12 vitrage pyroguard uk ltd "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0005",
+   "document_id": "DOC-13-A-175",
+   "texte": "pyroguard t ew30/6 pyroguardtew30/6 pyroguard t ew30/6 vitrage pyroguard uk ltd "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0006",
+   "document_id": "DOC-13-A-175",
+   "texte": "pyroguard t ew30/6 vf pyroguardtew30/6vf pyroguard t ew30/6 vf vitrage pyroguard uk ltd composition planche 20"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0007",
+   "document_id": "DOC-13-A-175",
+   "texte": "pyroguard t ew30/6 vi pyroguardtew30/6vi pyroguard t ew30/6 vi vitrage pyroguard uk ltd composition planche 20"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0008",
+   "document_id": "DOC-13-A-175",
+   "texte": "  panneau 28 mm : 2 plaques ba13 + 2 parements metalliques 10/10 colles panneau  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0009",
+   "document_id": "DOC-13-A-175",
+   "texte": "32.851 32851 profile de cloison fixe presto 50 profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0010",
+   "document_id": "DOC-13-A-175",
+   "texte": "32.853 32853 profile de cloison fixe presto 50 profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0011",
+   "document_id": "DOC-13-A-175",
+   "texte": "32.852 32852 profile de cloison fixe presto 50 profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0012",
+   "document_id": "DOC-13-A-175",
+   "texte": "01.565 01565 profile de cloison fixe presto 50 profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0013",
+   "document_id": "DOC-13-A-175",
+   "texte": "01.570 01570 profile de cloison fixe presto 50 profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0014",
+   "document_id": "DOC-13-A-175",
+   "texte": "01.590 01590 profile de cloison fixe presto 50 profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0015",
+   "document_id": "DOC-13-A-175",
+   "texte": "01.587 01587 profile de cloison fixe presto 50 profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0016",
+   "document_id": "DOC-13-A-175",
+   "texte": "02.565 02565 profile de cloison fixe presto 50 profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0017",
+   "document_id": "DOC-13-A-175",
+   "texte": "02.570 02570 profile de cloison fixe presto 50 profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0018",
+   "document_id": "DOC-13-A-175",
+   "texte": "02.590 02590 profile de cloison fixe presto 50 profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0019",
+   "document_id": "DOC-13-A-175",
+   "texte": "02.587 02587 profile de cloison fixe presto 50 profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0020",
+   "document_id": "DOC-13-A-175",
+   "texte": "01.535 01535 profile de peripherie ou montant/traverse intermediaire limite a 3000 mm profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0021",
+   "document_id": "DOC-13-A-175",
+   "texte": "02.535 02535 profile de peripherie ou montant/traverse intermediaire limite a 3000 mm profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0022",
+   "document_id": "DOC-13-A-175",
+   "texte": "901241 901241 parclose acier parclose forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0023",
+   "document_id": "DOC-13-A-175",
+   "texte": "901226 901226 parclose acier parclose forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0024",
+   "document_id": "DOC-13-A-175",
+   "texte": "901231 901231 parclose acier parclose forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0025",
+   "document_id": "DOC-13-A-175",
+   "texte": "901227 901227 parclose acier parclose forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0026",
+   "document_id": "DOC-13-A-175",
+   "texte": "901228 901228 parclose acier parclose forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0027",
+   "document_id": "DOC-13-A-175",
+   "texte": "901246 901246 parclose acier parclose forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0028",
+   "document_id": "DOC-13-A-175",
+   "texte": "901247 901247 parclose acier parclose forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0029",
+   "document_id": "DOC-13-A-175",
+   "texte": "906577 906577 vis bouton acier de parclose vis_bouton forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0030",
+   "document_id": "DOC-13-A-175",
+   "texte": "906578 906578 vis bouton de parclose (conditionnement) vis_bouton forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0031",
+   "document_id": "DOC-13-A-175",
+   "texte": "906579 906579 vis bouton de parclose (conditionnement) vis_bouton forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0032",
+   "document_id": "DOC-13-A-175",
+   "texte": "906421 906421 ressort de parclose ressort_parclose forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0033",
+   "document_id": "DOC-13-A-175",
+   "texte": "900100 900100 busette busette forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0034",
+   "document_id": "DOC-13-A-175",
+   "texte": "948003 948003 bande de fibre minerale 15 x 3 bande_fibre forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0035",
+   "document_id": "DOC-13-A-175",
+   "texte": "948004 948004 bande de fibre minerale 15 x 4 bande_fibre forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0036",
+   "document_id": "DOC-13-A-175",
+   "texte": "948005 948005 bande de fibre minerale 15 x 5 bande_fibre forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0037",
+   "document_id": "DOC-13-A-175",
+   "texte": "  bande de fibre minerale 15 x 2 (sans reference) bande_fibre  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0038",
+   "document_id": "DOC-13-A-175",
+   "texte": "  2 cales promatect h (promat) 10 x 80 x ep. vitrage cale  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0039",
+   "document_id": "DOC-13-A-175",
+   "texte": "hus 8x135 hus8x135 vis hus 8x135 (hilti) fixation hilti "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0040",
+   "document_id": "DOC-13-A-175",
+   "texte": "hus 7,5x160 hus7,5x160 vis hus 7,5x160 (hilti) fixation hilti "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0041",
+   "document_id": "DOC-13-A-175",
+   "texte": "hus 7,5x80 hus7,5x80 vis hus 7,5x80 (hilti) fixation hilti "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-175-0042",
+   "document_id": "DOC-13-A-175",
+   "texte": "hus 7,5x120 hus7,5x120 vis hus 7,5x120 (hilti) fixation hilti "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0001",
+   "document_id": "DOC-13-A-704",
+   "texte": "76.851 76851 montant / traverse thermfix vario 45 x 50 mm profile forster profilsysteme ag montants de hauteur inferieure a 3 m"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0002",
+   "document_id": "DOC-13-A-704",
+   "texte": "76.852 76852 montant / traverse thermfix vario 45 x 75 mm profile forster profilsysteme ag montants de hauteur inferieure a 3 m"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0003",
+   "document_id": "DOC-13-A-704",
+   "texte": "76.853 76853 montant / traverse thermfix vario 45 x 90 mm profile forster profilsysteme ag selon dimensionnement statique"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0004",
+   "document_id": "DOC-13-A-704",
+   "texte": "76.854 76854 montant / traverse thermfix vario 45 x 110 mm profile forster profilsysteme ag selon dimensionnement statique"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0005",
+   "document_id": "DOC-13-A-704",
+   "texte": "76.855 76855 montant / traverse thermfix vario 45 x 130 mm profile forster profilsysteme ag selon dimensionnement statique"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0006",
+   "document_id": "DOC-13-A-704",
+   "texte": "76.856 76856 montant / traverse thermfix vario 45 x 150 mm profile forster profilsysteme ag selon dimensionnement statique"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0007",
+   "document_id": "DOC-13-A-704",
+   "texte": "76.861 76861 montant / traverse thermfix vario 60 x 50 mm profile forster profilsysteme ag montants de hauteur inferieure a 3 m"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0008",
+   "document_id": "DOC-13-A-704",
+   "texte": "76.862 76862 montant / traverse thermfix vario 60 x 75 mm profile forster profilsysteme ag montants de hauteur inferieure a 3 m"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0009",
+   "document_id": "DOC-13-A-704",
+   "texte": "76.863 76863 montant / traverse thermfix vario 60 x 90 mm profile forster profilsysteme ag selon dimensionnement statique"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0010",
+   "document_id": "DOC-13-A-704",
+   "texte": "76.864 76864 montant / traverse thermfix vario 60 x 110 mm profile forster profilsysteme ag selon dimensionnement statique"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0011",
+   "document_id": "DOC-13-A-704",
+   "texte": "76.865 76865 montant / traverse thermfix vario 60 x 130 mm profile forster profilsysteme ag selon dimensionnement statique"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0012",
+   "document_id": "DOC-13-A-704",
+   "texte": "76.866 76866 montant / traverse thermfix vario 60 x 150 mm profile forster profilsysteme ag selon dimensionnement statique"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0013",
+   "document_id": "DOC-13-A-704",
+   "texte": "76859 76859 profil rapporte 45 x 20 mm associe a un tube acier (soudure 15 mm pas ≤ 300) profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0014",
+   "document_id": "DOC-13-A-704",
+   "texte": "76869 76869 profil rapporte 60 x 20 mm associe a un tube acier (soudure 15 mm pas ≤ 300) profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0015",
+   "document_id": "DOC-13-A-704",
+   "texte": "pyrostop 60-101 pyrostop60-101 pyrostop 60-101 vitrage pilkington deutschland ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0016",
+   "document_id": "DOC-13-A-704",
+   "texte": "pyrostop 60-201 pyrostop60-201 pyrostop 60-201 vitrage pilkington deutschland ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0017",
+   "document_id": "DOC-13-A-704",
+   "texte": "pyrostop 60-201 + p5a pyrostop60-201+p5a pyrostop 60-201 + p5a vitrage pilkington deutschland ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0018",
+   "document_id": "DOC-13-A-704",
+   "texte": "pyrostop 60-201 + p6b pyrostop60-201+p6b pyrostop 60-201 + p6b vitrage pilkington deutschland ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0019",
+   "document_id": "DOC-13-A-704",
+   "texte": "pyrostop 60-xxx isolant pyrostop60-xxxisolant pyrostop 60-101 ou 60-201 monte en isolant vitrage pilkington deutschland ag intercalaire acier 6 a 16 mm + verre float, trempe ou feuillete (pl. 38)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0020",
+   "document_id": "DOC-13-A-704",
+   "texte": "pyrostop 60-101 triple pyrostop60-101triple pyrostop 60-101 monte en triple vitrage vitrage pilkington deutschland ag 60-101 + intercalaire 8-12 + float faible emissivite + intercalaire 8-12 + feuillete faible emissivite (pl. 38)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0021",
+   "document_id": "DOC-13-A-704",
+   "texte": "  panneau ame aestuver (xella) ≥ 20 mm, colle silacoll450, 2 toles alu 15/10, mastic ms-polymer 908005 panneau  obligatoire au droit du nez de chaque dalle"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0022",
+   "document_id": "DOC-13-A-704",
+   "texte": "  panneau 40,5 mm : 3 ba13 special feu (lafarge) + 2 toles alu 15/10 ; chicanage 20 mm possible panneau  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0023",
+   "document_id": "DOC-13-A-704",
+   "texte": "933540 933540 serreur inox thermfix vario serreur forster profilsysteme ag fixe au pas de 300 mm"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0024",
+   "document_id": "DOC-13-A-704",
+   "texte": "933541 933541 serreur inox thermfix vario serreur forster profilsysteme ag fixe au pas de 300 mm"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0025",
+   "document_id": "DOC-13-A-704",
+   "texte": "933560 933560 serreur inox thermfix vario serreur forster profilsysteme ag fixe au pas de 300 mm"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0026",
+   "document_id": "DOC-13-A-704",
+   "texte": "933561 933561 serreur inox thermfix vario serreur forster profilsysteme ag fixe au pas de 300 mm"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0027",
+   "document_id": "DOC-13-A-704",
+   "texte": "935445 935445 joint epdm thermfix vario 45 x 8 mm joint_epdm forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0028",
+   "document_id": "DOC-13-A-704",
+   "texte": "935446 935446 joint epdm thermfix vario 45 x 8 mm joint_epdm forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0029",
+   "document_id": "DOC-13-A-704",
+   "texte": "935460 935460 joint epdm thermfix vario 60 x 8 mm joint_epdm forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0030",
+   "document_id": "DOC-13-A-704",
+   "texte": "935461 935461 joint epdm thermfix vario 60 x 8 mm joint_epdm forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0031",
+   "document_id": "DOC-13-A-704",
+   "texte": "  vis acier de serrage ref. 936.809 a 936.817 (selon epaisseur du remplissage) fixation  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0032",
+   "document_id": "DOC-13-A-704",
+   "texte": "  distanceur ref. 936845 a 936861 (selon epaisseur du remplissage) distanceur  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0033",
+   "document_id": "DOC-13-A-704",
+   "texte": "936570 936570 base de serrage support_verre forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0034",
+   "document_id": "DOC-13-A-704",
+   "texte": "  support de verre (pl. 9) ou plat acier soude pour vitrage lourd (pl. 32) support_verre  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0035",
+   "document_id": "DOC-13-A-704",
+   "texte": "  cales bois, flammi 12 (etancheite jung), supalux ou promatect-h 80 x ep. x 3 mm cale  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0036",
+   "document_id": "DOC-13-A-704",
+   "texte": "948000 948000 bande de joint intumescent 24,5 x 1,5 mm en peripherie des remplissages joint_intumescent forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0037",
+   "document_id": "DOC-13-A-704",
+   "texte": "  capots en profiles acier, acier inoxydable ou aluminium (pl. 6) accessoire  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0038",
+   "document_id": "DOC-13-A-704",
+   "texte": "  compensateurs auto-adhesifs aestuver (xella) ref. 938020 a 938025, largeur 20 mm calfeutrement  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0039",
+   "document_id": "DOC-13-A-704",
+   "texte": "terofol sd50 terofolsd50 bande pare-vapeur terofol sd50 pare_vapeur henkel "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0040",
+   "document_id": "DOC-13-A-704",
+   "texte": "kerafix kerafix joint silicone kerafix (jung) mastic etancheite jung "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0041",
+   "document_id": "DOC-13-A-704",
+   "texte": "altofeu altofeu cordon de laine de roche altofeu (illbruck) calfeutrement illbruck "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0042",
+   "document_id": "DOC-13-A-704",
+   "texte": "  laine de roche rockwool 60 kg/m3 (≥ 120 mm en calfeutrement horizontal) calfeutrement  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0043",
+   "document_id": "DOC-13-A-704",
+   "texte": "948 005 948005 bande de fibre minerale 15 x 5 mm sous tole de fermeture bande_fibre forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0044",
+   "document_id": "DOC-13-A-704",
+   "texte": "hst-r m8x75/10 hst-rm8x75/10 goujon d'ancrage auto-expansif hst-r m8x75/10 (hilti), trou ø9 fixation hilti "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0045",
+   "document_id": "DOC-13-A-704",
+   "texte": "hst-r m10x90/10 hst-rm10x90/10 goujon d'ancrage auto-expansif hst-r m10x90/10 (hilti), trou ø11 fixation hilti "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-13-A-704-0046",
+   "document_id": "DOC-13-A-704",
+   "texte": "  etrier : platine acier ≥ 10 mm (≥ 150 x 90) + 2 plats ≥ 8 mm (≥ 40 x 100) ; ou 2 cornieres ≥ 10 mm (≥ 80 x 120) ; boulons m8 ou m10, trous oblongs (dilatation 50 mm) corniere  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0001",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "735.851 735851 profil acier thermiquement isole fuego light, section 70 x 65 mm (cadre peripherique) profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0002",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "736.831 736831 profil acier thermiquement isole fuego light, section 50 x 65 mm (cadre peripherique) profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0003",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "735.850 735850 profil acier thermiquement isole fuego light, section 50 x 65 mm (cadre peripherique) profile forster profilsysteme ag double parclosage"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0004",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "736.830 736830 profil acier thermiquement isole fuego light, section 30 x 65 mm (cadre peripherique) profile forster profilsysteme ag double parclosage"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0005",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "948.002 948002 joint intumescent 24,5 x 2,2 mm en fond de feuillure joint_intumescent forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0006",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "948000 948000 joint intumescent 24,5 x 1,5 mm en fond de feuillure (alternative) joint_intumescent forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0007",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "900.100 900100 busette pa 6.6 ø10 mm, a 80 mm des extremites puis pas ≤ 500 mm, 15 mm de l'extremite haute du profil busette forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0008",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "980.101 980101 busette pa 6.6 ø9,5 mm, a 80 mm des extremites puis pas ≤ 500 mm, 8 mm de l'extremite haute busette forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0009",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "  manchon u acier 16x46x16 l110 ep. 3 + vis a tole tf (profils 735.850/851) ; u 16x26x16 + vis ø4,2x12,7 (736.830/831) manchon  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0010",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "contraflam structure 30 contraflamstructure30 contraflam structure 30 vitrage vetrotech saint-gobain international ag composition exacte en possession du laboratoire ; faces pl. 30 / contre-faces pl. 31 ; film ≤ 150 μm m0/m1/a1/a2/b admis"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0011",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "contraflam structure 30 corner contraflamstructure30corner contraflam structure 30 corner vitrage vetrotech saint-gobain international ag composition exacte en possession du laboratoire ; faces pl. 30 / contre-faces pl. 31 ; film ≤ 150 μm m0/m1/a1/a2/b admis"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0012",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "contraflam structure 30 climaplus contraflamstructure30climaplus contraflam structure 30 climaplus vitrage vetrotech saint-gobain international ag composition exacte en possession du laboratoire ; faces pl. 30 / contre-faces pl. 31 ; film ≤ 150 μm m0/m1/a1/a2/b admis"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0013",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "contraflam structure 30 climalit contraflamstructure30climalit contraflam structure 30 climalit vitrage vetrotech saint-gobain international ag composition exacte en possession du laboratoire ; faces pl. 30 / contre-faces pl. 31 ; film ≤ 150 μm m0/m1/a1/a2/b admis"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0014",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "contraflam structure 30 climaplus corner contraflamstructure30climapluscorner contraflam structure 30 climaplus corner vitrage vetrotech saint-gobain international ag composition exacte en possession du laboratoire ; faces pl. 30 / contre-faces pl. 31 ; film ≤ 150 μm m0/m1/a1/a2/b admis"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0015",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "contraflam structure 30 climalit corner contraflamstructure30climalitcorner contraflam structure 30 climalit corner vitrage vetrotech saint-gobain international ag composition exacte en possession du laboratoire ; faces pl. 30 / contre-faces pl. 31 ; film ≤ 150 μm m0/m1/a1/a2/b admis"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0016",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "901226 901226 parclose acier (simple parclosage) sur boutons 906577/906578/906579 parclose forster profilsysteme ag boutons a 70 mm des angles puis pas ≤ 250 mm (pl. 27)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0017",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "901227 901227 parclose acier (simple parclosage) sur boutons 906577/906578/906579 parclose forster profilsysteme ag boutons a 70 mm des angles puis pas ≤ 250 mm (pl. 27)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0018",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "901228 901228 parclose acier (simple parclosage) sur boutons 906577/906578/906579 parclose forster profilsysteme ag boutons a 70 mm des angles puis pas ≤ 250 mm (pl. 27)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0019",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "901246 901246 parclose acier (simple parclosage) sur boutons 906577/906578/906579 parclose forster profilsysteme ag boutons a 70 mm des angles puis pas ≤ 250 mm (pl. 27)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0020",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "901247 901247 parclose acier (simple parclosage) sur boutons 906577/906578/906579 parclose forster profilsysteme ag boutons a 70 mm des angles puis pas ≤ 250 mm (pl. 27)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0021",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "901248 901248 parclose acier (simple parclosage) sur boutons 906577/906578/906579 parclose forster profilsysteme ag boutons a 70 mm des angles puis pas ≤ 250 mm (pl. 27)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0022",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "901204 901204 parclose acier fixee par vis ø4,8 x 19 mm parclose forster profilsysteme ag vis a 70 mm des angles puis pas ≤ 250 mm"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0023",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "901205 901205 parclose acier fixee par vis ø4,8 x 19 mm parclose forster profilsysteme ag vis a 70 mm des angles puis pas ≤ 250 mm"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0024",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "901206 901206 parclose acier fixee par vis ø4,8 x 19 mm parclose forster profilsysteme ag vis a 70 mm des angles puis pas ≤ 250 mm"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0025",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "906577 906577 bouton de parclose vis_bouton forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0026",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "906578 906578 bouton de parclose vis_bouton forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0027",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "906579 906579 bouton de parclose vis_bouton forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0028",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "  bandes de fibres minerales ref. 948003 a 948010 (forster), etanchees silicone neutre ou dc 791 (dow corning) bande_fibre  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0029",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "905315 905315 joint epdm cote parclose joint_epdm forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0030",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "905316 905316 joint epdm cote parclose joint_epdm forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0031",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "905317 905317 joint epdm cote parclose joint_epdm forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0032",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "905312 905312 joint epdm cote ailette joint_epdm forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0033",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "905314 905314 joint epdm cote ailette joint_epdm forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0034",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "palusol alu palusolalu bande palusol « alu » (ep. vitrage − 2) x 2 mm collee sur la tranche — jonction en ligne joint_intumescent  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0035",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "palusol t palusolt bande palusol t (odice) (ep. vitrage − 3) x 2 mm — jonction corner 90° joint_intumescent odice "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0036",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "kerafix fxl 200 kerafixfxl200 bande intumescente kerafix fxl 200 (kuhn) — jonctions en ligne, corner et angle x joint_intumescent kuhn "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0037",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "dowsil 895 dowsil895 mastic silicone dowsil 895 de part et d'autre des vitrages / bandes mastic dow corning (dowsil) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0038",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "dowsil 995 dowsil995 mastic silicone dowsil 995 de part et d'autre des vitrages / bandes mastic dow corning (dowsil) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0039",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "  cales superposees bois / flammi 12 (kuhn ou jung) / promatect-h / promatect-mt 80x24x3 et 80 x ep. x 5 mm a 100 mm des angles cale  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0040",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "ffs d7,5x72 ffsd7,5x72 vis ffs d7,5x72 fixation fischer "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-21-002687-0041",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "hus d6x80 husd6x80 vis hus d6x80 fixation hilti "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0001",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "735.800 735800 profile acier isole 70 x 65 mm profile forster profilsysteme ag profile peripherique de bati"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0002",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "735.851 735851 profile acier isole 70 x 65 mm profile forster profilsysteme ag profile peripherique de bati"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0003",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "735.854 735854 profile acier isole 70 x 65 mm profile forster profilsysteme ag profile peripherique de bati"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0004",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "735.800/t 735800/t profile acier isole 70 x 65 mm profile forster profilsysteme ag profile peripherique de bati"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0005",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "735.852 735852 profile acier isole 90 x 65 mm profile forster profilsysteme ag profile peripherique de bati"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0006",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "735.855 735855 profile acier isole 90 x 65 mm profile forster profilsysteme ag profile peripherique de bati"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0007",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "735.700/t 735700/t profile acier isole 100 x 65 mm profile forster profilsysteme ag profile peripherique de bati"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0008",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "735.300/t 735300/t profile acier isole 125 x 65 mm profile forster profilsysteme ag profile peripherique de bati"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0009",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "735.852 735852 profile acier isole 90 x 65 mm profile forster profilsysteme ag profile intermediaire de bati"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0010",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "735.853 735853 profile acier isole 90 x 65 mm profile forster profilsysteme ag profile intermediaire de bati"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0011",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "735.800 735800 profile acier isole 70 x 65 mm profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0012",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "735.800/t 735800/t profile acier isole 70 x 65 mm profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0013",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "943264 943264 profile acier isole 70 x 65 mm profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0014",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "943265 943265 profile acier isole 70 x 65 mm profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0015",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "735.700/t 735700/t profile acier isole 100 x 65 mm profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0016",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "735.300/t 735300/t profile acier isole 125 x 65 mm profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0017",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "735.854 735854 profile acier isole 70 x 65 mm profile forster profilsysteme ag associe ou non a un seuil automatique stadi bs (athmer)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0018",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "735.850 735850 profile acier isole 50 x 65 mm profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0019",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "735.850/t 735850/t profile acier isole 50 x 65 mm profile forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0020",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "735.852 735852 profile acier isole 90 x 65 mm profile forster profilsysteme ag 1 a 3 traverses intermediaires"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0021",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "736.832 736832 profile acier isole 70 x 65 mm profile forster profilsysteme ag 1 a 3 traverses intermediaires"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0022",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "stadi bs stadibs seuil automatique stadi bs sous traverse basse 735.854 seuil_automatique athmer "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0023",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "948.002 948002 joint intumescent palstop p (branddex) 24 x 2,2 mm — fond de feuillure bati / vantail ; 2 bandes en fond de feuillure des vitrages joint_intumescent forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0024",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "905.307 905307 joint de butee cr insere en gorge joint_butee forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0025",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "900.100 900100 busette de drainage (pl. 50) busette forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0026",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "980101 980101 busette de drainage (pl. 50) busette forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0027",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "fireflam 30 fireflam30 polflam ei 30 / fireflam 30 vitrage polflam sp. z o.o. composition exacte en possession du laboratoire"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0028",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "fireflam 30 dgu fireflam30dgu polflam ei 30 dgu / fireflam 30 dgu vitrage polflam sp. z o.o. fireflam 30 ≥ 20 mm + intercalaire acier ou alu ≥ 8 mm + contreface planche 57"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0029",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "  panneau plein ≥ 40,5 mm : 3 ba13 special feu 12,5 + 2 parements metalliques 15/10 colles panneau  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0030",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "906.577 906577 bouton de parclose (simple parclosage clippe) vis_bouton forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0031",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "906.421 906421 parclose a ressort + rivets pop ø3,2 ressort_parclose forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0032",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "  2 cales bois dur 80 x ep. vitrage x 5 mm a l/20 des extremites de la baie (pl. 25) cale  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0033",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "957010 957010 pion anti-degondage a mi-hauteur pion_anti_degondage forster profilsysteme ag (pl. 26) ; remplacable par une paumelle"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0034",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "947013 947013 pion anti-degondage a mi-hauteur pion_anti_degondage forster profilsysteme ag (pl. 26) ; remplacable par une paumelle"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0035",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "907662 907662 paumelle a souder 2d paumelle forster profilsysteme ag pl. 27 ; a 200 mm des extremites"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0036",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "907663 907663 paumelle a souder 2d paumelle forster profilsysteme ag pl. 27 ; a 200 mm des extremites"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0037",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "907664 907664 paumelle a souder 2d paumelle forster profilsysteme ag pl. 27 ; a 200 mm des extremites"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0038",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "907667 907667 paumelle a souder 3d paumelle forster profilsysteme ag pl. 30, 34 ; a 200 mm des extremites"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0039",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "907668 907668 paumelle a souder 3d paumelle forster profilsysteme ag pl. 30, 34 ; a 200 mm des extremites"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0040",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "907669 907669 paumelle a souder 3d paumelle forster profilsysteme ag pl. 30, 34 ; a 200 mm des extremites"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0041",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "907670 907670 paumelle a visser 3d paumelle forster profilsysteme ag pl. 28 ; a 140 mm des extremites"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0042",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "907671 907671 paumelle a visser 3d paumelle forster profilsysteme ag pl. 28 ; a 140 mm des extremites"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0043",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "907672 907672 paumelle a visser 3d paumelle forster profilsysteme ag pl. 28 ; a 140 mm des extremites"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0044",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "907673 907673 paumelle a visser 3d paumelle forster profilsysteme ag pl. 28 ; a 140 mm des extremites"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0045",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "907652 907652 paumelle a visser 2d paumelle forster profilsysteme ag pl. 32 ; a 200 mm des extremites"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0046",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "907653 907653 paumelle a visser 2d paumelle forster profilsysteme ag pl. 32 ; a 200 mm des extremites"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0047",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "907656 907656 paumelle a visser 2d paumelle forster profilsysteme ag pl. 32 ; a 200 mm des extremites"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0048",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "907657 907657 paumelle a visser 2d paumelle forster profilsysteme ag pl. 32 ; a 200 mm des extremites"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0049",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "907740 907740 paumelle a encastrer invisible paumelle forster profilsysteme ag pl. 31"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0050",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "  serrure a mortaiser 1 point median, avec ou sans antipanique (references planche 48) serrure  references en planche 48 (image) — non trouvees en texte"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0051",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "  serrure a mortaiser 2 points (haut et median), avec ou sans antipanique (references planche 48) serrure  references en planche 48 (image) — non trouvees en texte"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0052",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "  serrure a mortaiser 1 point median, avec ou sans antipanique (references planche 48) serrure  references en planche 48 (image) — non trouvees en texte"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0053",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "  serrure a mortaiser 2 points (haut et median), avec ou sans antipanique (references planche 48) serrure  references en planche 48 (image) — non trouvees en texte"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0054",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "  serrure de commande a levier, verrouillage automatique 1 point (haut), avec ou sans antipanique serrure  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0055",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "  serrure de commande a levier, verrouillage automatique 2 points (haut et bas), avec ou sans antipanique serrure  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0056",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "  cremone pompier 2 points (haut et bas) serrure  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0057",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "  vantail secondaire sans verrouillage serrure  si et seulement si le vantail principal est muni d'une serrure a mortaiser 2 points (haut et median)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0058",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "118 profix 2 118profix2 gache electrique a emission 118 profix 2 (eff eff) — ouvertures electriques medianes et/ou hautes gache_electrique eff eff (effeff) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0059",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "tv 100 tv100 verrou supplementaire electromagnetique en applique tv 100 (dorma) ventouse dorma (dormakaba) traverse haute, cote feu uniquement (pl. 46)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0060",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "tv 200 tv200 verrou supplementaire electromagnetique en applique tv 200 (dorma) ventouse dorma (dormakaba) traverse haute, cote feu uniquement (pl. 46)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0061",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "957018 957018 verrou thermique 957018 au plan de jonction — axe a 120 mm du haut du vantail verrou_thermique forster profilsysteme ag 3 verrous ; coffre ø24x44 mm dans reservation ø25 ; tetiere ø50x35x3 ; 2 vis inox m5x6,5 ; engages dans reservations 26x25x11 mm (huisserie ou semi-fixe)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0062",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "957018 957018 verrou thermique 957018 au plan de jonction — axe a 490 mm du bas du vantail verrou_thermique forster profilsysteme ag 3 verrous ; coffre ø24x44 mm dans reservation ø25 ; tetiere ø50x35x3 ; 2 vis inox m5x6,5 ; engages dans reservations 26x25x11 mm (huisserie ou semi-fixe)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0063",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "957018 957018 verrou thermique 957018 au plan de jonction — axe a 1040 mm du bas du vantail verrou_thermique forster profilsysteme ag 3 verrous ; coffre ø24x44 mm dans reservation ø25 ; tetiere ø50x35x3 ; 2 vis inox m5x6,5 ; engages dans reservations 26x25x11 mm (huisserie ou semi-fixe)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0064",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "957019 957019 verrou thermique 957019 au plan de jonction — axe a 120 mm du haut du vantail verrou_thermique forster profilsysteme ag 3 verrous ; coffre ø24x44 mm dans reservation ø25 ; tetiere ø50x35x3 ; 2 vis inox m5x6,5 ; engages dans reservations 26x25x11 mm (huisserie ou semi-fixe)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0065",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "957019 957019 verrou thermique 957019 au plan de jonction — axe a 490 mm du bas du vantail verrou_thermique forster profilsysteme ag 3 verrous ; coffre ø24x44 mm dans reservation ø25 ; tetiere ø50x35x3 ; 2 vis inox m5x6,5 ; engages dans reservations 26x25x11 mm (huisserie ou semi-fixe)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0066",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "957019 957019 verrou thermique 957019 au plan de jonction — axe a 1040 mm du bas du vantail verrou_thermique forster profilsysteme ag 3 verrous ; coffre ø24x44 mm dans reservation ø25 ; tetiere ø50x35x3 ; 2 vis inox m5x6,5 ; engages dans reservations 26x25x11 mm (huisserie ou semi-fixe)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0067",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "907438 907438 verrou encastre levier a bascule 907438 — 2 points de verrouillage (obligatoire sur le semi-fixe) verrou forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0068",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "907276 907276 verrou encastre levier a bascule 907276 — 2 points de verrouillage (obligatoire sur le semi-fixe) verrou forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0069",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "907030 907030 tige de pene d'entrainement pene forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0070",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "987004 987004 tige de pene d'entrainement pene forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0071",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "907056 907056 pene haut pene forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0072",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "947214 947214 pene de maintien pene forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0073",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "957062 957062 gache fixee en deux parties gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0074",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "948018 948018 joint intumescent au battement cote vantail et dormant (= 948002) joint_intumescent forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0075",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "987404 987404 serrure a rouleau 987404 (rouleau + pene dormant), coffre a 1262 mm du bas serrure forster profilsysteme ag gache 907572 ou 987008 ; joint intumescent 948019 ep. 2 mm sur l'ailette"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0076",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "907518 907518 serrure a rouleau 907518 (rouleau + pene dormant), coffre a 1262 mm du bas serrure forster profilsysteme ag gache 907572 ou 987008 ; joint intumescent 948019 ep. 2 mm sur l'ailette"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0077",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "907572 907572 gache de serrure a rouleau gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0078",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "987008 987008 gache de serrure a rouleau gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0079",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "948019 948019 joint intumescent ep. 2 mm a cote de la serrure a rouleau et de la gache joint_intumescent forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0080",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "  bequilles, boutons de porte ou push-bar en aluminium, acier ou acier inoxydable (pl. 51) bequille  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0081",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "  baton de marechal acier / inox toute hauteur bequille  de part et d'autre : oui ; cote feu uniquement : non ; cote oppose au feu uniquement : oui"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0082",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "  baton de marechal acier / inox / alu hauteur reduite (30 cm) bequille  de part et d'autre : oui ; cote feu uniquement : oui ; cote oppose au feu uniquement : oui"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0083",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "  baton de marechal aluminium toute hauteur bequille  de part et d'autre : oui ; cote feu uniquement : oui ; cote oppose au feu uniquement : oui"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0084",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "ts 72 ts72 ferme-porte en applique ts 72 ferme_porte dorma (dormakaba) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0085",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "ts 73 ts73 ferme-porte en applique ts 73 ferme_porte dorma (dormakaba) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0086",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "ts 83 ts83 ferme-porte en applique ts 83 ferme_porte dorma (dormakaba) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0087",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "ts 90 ts90 ferme-porte en applique ts 90 ferme_porte dorma (dormakaba) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0088",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "ts 91 ts91 ferme-porte en applique ts 91 ferme_porte dorma (dormakaba) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0089",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "ts 92 ts92 ferme-porte en applique ts 92 ferme_porte dorma (dormakaba) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0090",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "ts 93 ts93 ferme-porte en applique ts 93 ferme_porte dorma (dormakaba) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0091",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "ts 96 ts96 ferme-porte en applique ts 96 ferme_porte dorma (dormakaba) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0092",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "ts 98 ts98 ferme-porte en applique ts 98 ferme_porte dorma (dormakaba) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0093",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "ts 2000 ts2000 ferme-porte en applique ts 2000 ferme_porte geze "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0094",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "ts 4000 ts4000 ferme-porte en applique ts 4000 ferme_porte geze "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0095",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "ts 5000 ts5000 ferme-porte en applique ts 5000 ferme_porte geze "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0096",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "ts 61 ts61 ferme-porte en applique ts 61 ferme_porte eco schulte "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0097",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "its 96 its96 ferme-porte encastre its 96 ferme_porte dorma (dormakaba) montage et sens du feu : planches 37-38 (image)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0098",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "its 96 2s its962s ferme-porte encastre its 96 2s ferme_porte dorma (dormakaba) montage et sens du feu : planches 37-38 (image)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0099",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "dc 850 dc850 ferme-porte encastre dc 850 ferme_porte assa abloy montage et sens du feu : planches 37-38 (image)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0100",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "boxer boxer ferme-porte encastre boxer ferme_porte geze montage et sens du feu : planches 37-38 (image)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0101",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "ed 100 ed100 ouvre-porte ed 100 ouvre_porte dorma (dormakaba) plaque de montage promatect h ou supalux ≥ 10 mm interposee (pl. 39)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0102",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "ed 250 ed250 ouvre-porte ed 250 ouvre_porte dorma (dormakaba) plaque de montage promatect h ou supalux ≥ 10 mm interposee (pl. 39)"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0103",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "flatscan sw flatscansw detecteur de securisation pour porte battante detecteur dormakaba "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0104",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "907103 907103 taquet d'entrainement (pl. 35) taquet forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0105",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "mk 396 mk396 taquet d'entrainement (pl. 35) taquet dorma (dormakaba) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0106",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "gsr gsr bandeau selecteur de fermeture en applique gsr selecteur_fermeture dormakaba visse sur contreplaque acier isolee par 2 bandes promatect-h 10 mm"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0107",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "gsr emf gsremf bandeau selecteur de fermeture en applique gsr emf selecteur_fermeture dormakaba visse sur contreplaque acier isolee par 2 bandes promatect-h 10 mm"
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0108",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "ku 480 ku480 passe-cable encastre ku 480 passe_cable dorma (dormakaba) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0109",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "ea 280 ea280 passe-cable encastre ea 280 passe_cable assa abloy "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0110",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "ea 281 ea281 passe-cable encastre ea 281 passe_cable assa abloy "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0111",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "10312 10312 passe-cable encastre 10312 passe_cable eff eff (effeff) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0112",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "10318 10318 passe-cable encastre 10318 passe_cable eff eff (effeff) "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0113",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "  passe-cables en applique uniquement en acier, sur le vantail (pl. 40) passe_cable  "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0114",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "907076 907076 contacteur de position contacteur forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0115",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "907077 907077 contacteur de position contacteur forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0116",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "hus 7,5x160 hus7,5x160 vis beton hus 7,5x160 (hilti) fixation hilti "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-EFR-24-000553-R1-0117",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "hus 7,5x120 hus7,5x120 vis beton hus 7,5x120 (hilti) fixation hilti "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0112",
+   "document_id": "DOC-11-A-507",
+   "texte": "907220 907220 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0113",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0115",
+   "document_id": "DOC-11-A-507",
+   "texte": "907224 907224 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0116",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0118",
+   "document_id": "DOC-11-A-507",
+   "texte": "907228 907228 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0119",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0121",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0123",
+   "document_id": "DOC-11-A-507",
+   "texte": "907221 907221 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0124",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0126",
+   "document_id": "DOC-11-A-507",
+   "texte": "907225 907225 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0127",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0129",
+   "document_id": "DOC-11-A-507",
+   "texte": "907229 907229 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0130",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0132",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0134",
+   "document_id": "DOC-11-A-507",
+   "texte": "907232 907232 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0135",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0137",
+   "document_id": "DOC-11-A-507",
+   "texte": "907236 907236 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0138",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0140",
+   "document_id": "DOC-11-A-507",
+   "texte": "907240 907240 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0141",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0143",
+   "document_id": "DOC-11-A-507",
+   "texte": "907233 907233 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0144",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0146",
+   "document_id": "DOC-11-A-507",
+   "texte": "907237 907237 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0147",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0149",
+   "document_id": "DOC-11-A-507",
+   "texte": "907241 907241 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0150",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0152",
+   "document_id": "DOC-11-A-507",
+   "texte": "907262 907262 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0153",
+   "document_id": "DOC-11-A-507",
+   "texte": "947023 947023 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0155",
+   "document_id": "DOC-11-A-507",
+   "texte": "907261 907261 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0156",
+   "document_id": "DOC-11-A-507",
+   "texte": "947023 947023 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0158",
+   "document_id": "DOC-11-A-507",
+   "texte": "907262 907262 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0159",
+   "document_id": "DOC-11-A-507",
+   "texte": "947023 947023 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0161",
+   "document_id": "DOC-11-A-507",
+   "texte": "907261 907261 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0162",
+   "document_id": "DOC-11-A-507",
+   "texte": "947023 947023 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0176",
+   "document_id": "DOC-11-A-507",
+   "texte": "907220 907220 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0177",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0179",
+   "document_id": "DOC-11-A-507",
+   "texte": "907224 907224 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0180",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0182",
+   "document_id": "DOC-11-A-507",
+   "texte": "907228 907228 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0183",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0185",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0187",
+   "document_id": "DOC-11-A-507",
+   "texte": "907221 907221 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0188",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0190",
+   "document_id": "DOC-11-A-507",
+   "texte": "907225 907225 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0191",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0193",
+   "document_id": "DOC-11-A-507",
+   "texte": "907229 907229 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0194",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0196",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0198",
+   "document_id": "DOC-11-A-507",
+   "texte": "907232 907232 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0199",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0201",
+   "document_id": "DOC-11-A-507",
+   "texte": "907236 907236 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0202",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0204",
+   "document_id": "DOC-11-A-507",
+   "texte": "907240 907240 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0205",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0207",
+   "document_id": "DOC-11-A-507",
+   "texte": "907233 907233 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0208",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0210",
+   "document_id": "DOC-11-A-507",
+   "texte": "907237 907237 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0211",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0213",
+   "document_id": "DOC-11-A-507",
+   "texte": "907241 907241 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0214",
+   "document_id": "DOC-11-A-507",
+   "texte": "907001 907001 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0216",
+   "document_id": "DOC-11-A-507",
+   "texte": "907262 907262 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0217",
+   "document_id": "DOC-11-A-507",
+   "texte": "947023 947023 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0219",
+   "document_id": "DOC-11-A-507",
+   "texte": "907261 907261 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0220",
+   "document_id": "DOC-11-A-507",
+   "texte": "947023 947023 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0222",
+   "document_id": "DOC-11-A-507",
+   "texte": "907262 907262 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0223",
+   "document_id": "DOC-11-A-507",
+   "texte": "947023 947023 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0225",
+   "document_id": "DOC-11-A-507",
+   "texte": "907261 907261 coffre de serrure coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0226",
+   "document_id": "DOC-11-A-507",
+   "texte": "947023 947023 gache gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0240",
+   "document_id": "DOC-11-A-507",
+   "texte": "907247 907247 coffre coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0242",
+   "document_id": "DOC-11-A-507",
+   "texte": "907246 907246 coffre coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0245",
+   "document_id": "DOC-11-A-507",
+   "texte": "907249 907249 coffre vantail principal coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0246",
+   "document_id": "DOC-11-A-507",
+   "texte": "907435 907435 coffre vantail secondaire coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0248",
+   "document_id": "DOC-11-A-507",
+   "texte": "907253 907253 coffre vantail principal coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0249",
+   "document_id": "DOC-11-A-507",
+   "texte": "907436 907436 coffre vantail secondaire coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0251",
+   "document_id": "DOC-11-A-507",
+   "texte": "907436 907436 coffre vantail secondaire coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0253",
+   "document_id": "DOC-11-A-507",
+   "texte": "907290 907290 coffre vantail principal coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0254",
+   "document_id": "DOC-11-A-507",
+   "texte": "907435 907435 coffre vantail secondaire coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0256",
+   "document_id": "DOC-11-A-507",
+   "texte": "907254 907254 coffre vantail principal coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0257",
+   "document_id": "DOC-11-A-507",
+   "texte": "907436 907436 coffre vantail secondaire coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0259",
+   "document_id": "DOC-11-A-507",
+   "texte": "907435 907435 coffre vantail secondaire coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0261",
+   "document_id": "DOC-11-A-507",
+   "texte": "907257 907257 coffre vantail principal coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0262",
+   "document_id": "DOC-11-A-507",
+   "texte": "907436 907436 coffre vantail secondaire coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0264",
+   "document_id": "DOC-11-A-507",
+   "texte": "907261 907261 coffre vantail principal coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0265",
+   "document_id": "DOC-11-A-507",
+   "texte": "907436 907436 coffre vantail secondaire coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0267",
+   "document_id": "DOC-11-A-507",
+   "texte": "907258 907258 coffre vantail principal coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0268",
+   "document_id": "DOC-11-A-507",
+   "texte": "907436 907436 coffre vantail secondaire coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0270",
+   "document_id": "DOC-11-A-507",
+   "texte": "907262 907262 coffre vantail principal coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0271",
+   "document_id": "DOC-11-A-507",
+   "texte": "907436 907436 coffre vantail secondaire coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-0273",
+   "document_id": "DOC-11-A-507",
+   "texte": "907436 907436 coffre coffre_serrure forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-EXT-22-2-0010",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "texte": "907030 907030 tige de pene d'entrainement pene forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-EXT-22-2-0011",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "texte": "907056 907056 pene haut pene forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-EXT-22-2-0012",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "texte": "917276 917276 pene de maintien pene forster profilsysteme ag "
+  },
+  {
+   "objet_type": "document_composant",
+   "objet_id": "DC-11-A-507-EXT-22-2-0013",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "texte": "917028 917028 gache 70 x 30 x 4 mm (h x l x e) gache forster profilsysteme ag "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-08-A-275-0001",
+   "document_id": "DOC-08-A-275",
+   "texte": "sens du feu indifferent "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-08-A-275-0002",
+   "document_id": "DOC-08-A-275",
+   "texte": "aucun autre classement n'est autorise "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-08-A-275-0003",
+   "document_id": "DOC-08-A-275",
+   "texte": "support 120/70 : montage sur allege non autorise "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-08-A-275-0004",
+   "document_id": "DOC-08-A-275",
+   "texte": "en cas de contestation, le texte prevaut sur les planches "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-08-A-275-0005",
+   "document_id": "DOC-08-A-275",
+   "texte": "vitrages autonettoyants : aucun contact avec du silicone "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-08-A-275-0006",
+   "document_id": "DOC-08-A-275",
+   "texte": "verres resistants au feu sablables sur une face ; film decoratif m0 ou m1 autorise "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-08-A-275-EXT-20-2-0001",
+   "document_id": "DOC-08-A-275-EXT-20-2",
+   "texte": "cumulable avec l'extension 18/1 "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-08-A-275-REC-19-2-0001",
+   "document_id": "DOC-08-A-275-REC-19-2",
+   "texte": "classements conserves au regard de l'en 1364-1:2015 (analyse thermocouples din) "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-08-A-275-0007",
+   "document_id": "DOC-08-A-275",
+   "texte": "constructions supports : pv de classement au moins identique a l'element "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-11-A-507-0001",
+   "document_id": "DOC-11-A-507",
+   "texte": "ossature : sens du feu indifferent indifferent pour l'ossature"
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-11-A-507-0002",
+   "document_id": "DOC-11-A-507",
+   "texte": "pyroswiss monolithique : sens du feu indifferent indifferent pour le pyroswiss monolithique"
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-11-A-507-0003",
+   "document_id": "DOC-11-A-507",
+   "texte": "vitrages feuilletes ou isolants : feu cote oppose au pyroswiss feu cote oppose au pyroswiss pour les vitrages feuilletes ou isolants"
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-11-A-507-0004",
+   "document_id": "DOC-11-A-507",
+   "texte": "pyroswiss climaplus faible emissivite : feu cote tampon de marquage feu cote tampon de marquage pour les vitrages pyroswiss climaplus avec couche a faible emissivite"
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-11-A-507-0005",
+   "document_id": "DOC-11-A-507",
+   "texte": "aucun autre classement n'est autorise aucun autre classement n'est autorise."
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-11-A-507-0006",
+   "document_id": "DOC-11-A-507",
+   "texte": "extensions cumulables uniquement apres avis du laboratoire "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-EFR-14-000468-0001",
+   "document_id": "DOC-EFR-14-000468",
+   "texte": "non cumulable avec d'autres extensions sauf mention explicite "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-11-A-507-EXT-22-2-0001",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "texte": "non cumulable avec efr-14-000468 "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-EFR-22-002556-0001",
+   "document_id": "DOC-EFR-22-002556",
+   "texte": "cumulable avec les extensions precedentes dans la limite des classements du §4 "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-11-A-507-REC-22-2-0001",
+   "document_id": "DOC-11-A-507-REC-22-2",
+   "texte": "reconduction valable uniquement accompagnee du pv de reference "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-11-A-507-0007",
+   "document_id": "DOC-11-A-507",
+   "texte": "vantaux inegaux : largeur du principal > largeur du secondaire la largeur du vantail principal doit etre superieure a la largeur du vantail secondaire"
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-11-A-507-0008",
+   "document_id": "DOC-11-A-507",
+   "texte": "semi-fixe sans verrouillage uniquement si principal equipe d'une serrure 2 points (haut et median) sans verrouillage, si et seulement si le vantail principal est muni d'une serrure a mortaiser a 2 points de fermeture (haut et median)"
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-11-A-507-0009",
+   "document_id": "DOC-11-A-507",
+   "texte": "tv 100 : traverse haute, cote feu uniquement "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-11-A-507-0010",
+   "document_id": "DOC-11-A-507",
+   "texte": "tv 200 : traverse haute, cote feu uniquement "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-11-A-507-0011",
+   "document_id": "DOC-11-A-507",
+   "texte": "vcan : traverse haute, cote feu uniquement "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-11-A-507-0012",
+   "document_id": "DOC-11-A-507",
+   "texte": "ferme-porte encastre its96 : sens du feu indifferent (pl. 41) "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-11-A-507-0013",
+   "document_id": "DOC-11-A-507",
+   "texte": "seuil stadi bs uniquement avec traverses basses 32.855 ou 32.854 "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-11-A-507-EXT-22-2-0002",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "texte": "nombre de points de maintien identique au pv de reference le nombre de points de maintien de chaque bloc-porte doit lui, rester identique au proces-verbal de reference."
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-11-A-507-EXT-22-2-0003",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "texte": "suppression des renforts acier autorisee si passages libres identiques au pv "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-EFR-22-002556-0002",
+   "document_id": "DOC-EFR-22-002556",
+   "texte": "passages libres de porte inchanges par rapport aux pv de reference "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-EFR-22-002556-0003",
+   "document_id": "DOC-EFR-22-002556",
+   "texte": "joints cr : vitrages vetroflam ou contraflam lite ; joints epdm : contraflam lite uniquement "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-EFR-22-002556-0004",
+   "document_id": "DOC-EFR-22-002556",
+   "texte": "angles entre 20° et 30° : faisabilite a confirmer au cas par cas par le demandeur "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-13-A-175-0001",
+   "document_id": "DOC-13-A-175",
+   "texte": "ossature : sens du feu indifferent "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-13-A-175-0002",
+   "document_id": "DOC-13-A-175",
+   "texte": "pyroguard t ew30/6 toujours cote oppose au feu ; face reflechissante (tampon) cote feu = cote lame d'air pour les isolants "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-13-A-175-0003",
+   "document_id": "DOC-13-A-175",
+   "texte": "aucun autre classement n'est autorise "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-13-A-175-0004",
+   "document_id": "DOC-13-A-175",
+   "texte": "montage de la cloison vitree sur allege non autorise (support flexible 120/70) "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-13-A-175-0005",
+   "document_id": "DOC-13-A-175",
+   "texte": "vitrages e30 : face depolie a l'acide autorisee sur la totalite "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-13-A-175-0006",
+   "document_id": "DOC-13-A-175",
+   "texte": "serigraphie sur 50 % maximum de la surface du vitrage "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-EXT-14-1-14-2-0001",
+   "document_id": "DOC-EXT-14-1-14-2",
+   "texte": "non cumulable avec d'autres extensions sauf mention explicite "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-EXT-14-1-14-2-0002",
+   "document_id": "DOC-EXT-14-1-14-2",
+   "texte": "montage sur allege non autorise pour blocs-portes et cloisons fixes 3 ou 4 cotes (lecture ocr) "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-13-A-704-0001",
+   "document_id": "DOC-13-A-704",
+   "texte": "sens du feu indifferent, sauf exceptions ci-dessous "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-13-A-704-0002",
+   "document_id": "DOC-13-A-704",
+   "texte": "aucun autre classement n'est autorise "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-13-A-704-0003",
+   "document_id": "DOC-13-A-704",
+   "texte": "panneau obligatoire au droit du nez de chaque dalle (ame aestuver ≥ 20 mm) "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-13-A-704-0004",
+   "document_id": "DOC-13-A-704",
+   "texte": "76.851 : montants de hauteur < 3 m "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-13-A-704-0005",
+   "document_id": "DOC-13-A-704",
+   "texte": "76.852 : montants de hauteur < 3 m "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-13-A-704-0006",
+   "document_id": "DOC-13-A-704",
+   "texte": "76.861 : montants de hauteur < 3 m "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-13-A-704-0007",
+   "document_id": "DOC-13-A-704",
+   "texte": "76.862 : montants de hauteur < 3 m "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-13-A-704-0008",
+   "document_id": "DOC-13-A-704",
+   "texte": "profil 76859 : mise en œuvre uniquement cote oppose au feu "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-13-A-704-0009",
+   "document_id": "DOC-13-A-704",
+   "texte": "profil 76869 : mise en œuvre uniquement cote oppose au feu "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-13-A-704-0010",
+   "document_id": "DOC-13-A-704",
+   "texte": "montage a facettes de la planche 23 : feu cote oppose aux porteurs uniquement "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-EFR-21-002687-0001",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "sens du feu indifferent "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-EFR-21-002687-0002",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "aucun autre classement n'est autorise "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-EFR-24-000553-R1-0001",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "n'atteste pas la conformite sve / issue de secours (en 1125, en 179, en 1935, en 13633, en 13637) "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-EFR-24-000553-R1-0002",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "n'atteste pas la conformite das (nf s 61-937-x) "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-EFR-24-000553-R1-0003",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "n'atteste pas la conformite controle d'acces (en 17352, en 50133-x) "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-EFR-24-000553-R1-0004",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "sens du feu indifferent, sauf conditions des ferme-portes (§3.3.5.3.3, pl. 37-38) "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-EFR-24-000553-R1-0005",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "aucun autre classement n'est autorise "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-EFR-24-000553-R1-0006",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "montage du bloc-porte vitre sur allege non autorise (cloison legere) "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-EFR-24-000553-R1-0007",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "semi-fixe sans verrouillage uniquement si principal equipe d'une serrure 2 points (haut et median) "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-EFR-24-000553-R1-0008",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "tv 100 : traverse haute, cote feu uniquement "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-EFR-24-000553-R1-0009",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "tv 200 : traverse haute, cote feu uniquement "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-EFR-24-000553-R1-0010",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "verrous thermiques : au moins autant de points de maintien que prevu a l'origine "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-EFR-24-000553-R1-0011",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "panneaux ba13 ≤ 50 % de la surface du vantail ; obturation complete avec 1 a 3 traverses intermediaires "
+  },
+  {
+   "objet_type": "restriction",
+   "objet_id": "RST-EFR-24-000553-R1-0012",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "dimensions maximales des vitrages deduites des dimensions hors-tout des vantaux "
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-08-A-275-CV",
+   "document_id": "DOC-08-A-275",
+   "texte": "cloison vitree fuego light 60"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-08-A-275-EXT-20-2-ISO",
+   "document_id": "DOC-08-A-275-EXT-20-2",
+   "texte": "cloison 08-a-275 avec pyrostop 60-101 / 60-201 montes en isolants, avec ou sans store"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-11-A-507-BP",
+   "document_id": "DOC-11-A-507",
+   "texte": "bloc-porte 1 ou 2 vantaux presto 50"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-11-A-507-BP1",
+   "document_id": "DOC-11-A-507",
+   "texte": "bloc-porte 1 vantail"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-11-A-507-BP2",
+   "document_id": "DOC-11-A-507",
+   "texte": "bloc-porte 2 vantaux egaux ou inegaux"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-EFR-22-002556-BP-CL30",
+   "document_id": "DOC-EFR-22-002556",
+   "texte": "bloc-porte 11-a-507 muni de vitrages contraflam lite 30 (mono ou climaplus/climalit)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-11-A-507-EXT-22-2-VT",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "texte": "bloc-porte 11-a-507 equipe de verrous thermiques"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-13-A-175-CV",
+   "document_id": "DOC-13-A-175",
+   "texte": "cloison vitree presto 50"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-13-A-175-CV-E30",
+   "document_id": "DOC-13-A-175",
+   "texte": "cloison vitree munie de vitrages pyroguard t e30/6, e30/8, e30/10 ou e30/12"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-13-A-175-CV-EW30",
+   "document_id": "DOC-13-A-175",
+   "texte": "cloison vitree munie de vitrages pyroguard t ew30/6, ew30/6 vf ou ew30/6 vi"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-13-A-704-FV",
+   "document_id": "DOC-13-A-704",
+   "texte": "facade vitree thermfix vario (series 45 et 60)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-13-A-704-FV45",
+   "document_id": "DOC-13-A-704",
+   "texte": "facade thermfix vario serie 45"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-13-A-704-FV60",
+   "document_id": "DOC-13-A-704",
+   "texte": "facade thermfix vario serie 60"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-EFR-21-002687-CBB",
+   "document_id": "DOC-EFR-21-002687",
+   "texte": "cloison vitree bord a bord fuego light 30 — vitrages contraflam structure 30"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-EFR-24-000553-R1-BP",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "bloc-porte vitre fuego light 30, 1 ou 2 vantaux egaux ou inegaux"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-EFR-24-000553-R1-BP1",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "bloc-porte 1 vantail"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-EFR-24-000553-R1-BP2",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "bloc-porte 2 vantaux egaux ou inegaux"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-EFR-24-000553-R1-BP-VT",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "texte": "variante : verrous thermiques (§3.3.5.2.3, rev. 1)"
+  }
+ ]
+}

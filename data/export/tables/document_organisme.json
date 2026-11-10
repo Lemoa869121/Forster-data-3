@@ -1,0 +1,439 @@
+{
+ "table": "document_organisme",
+ "colonnes": [
+  "document_id",
+  "organisme_id",
+  "role_code",
+  "nom_tel_qu_ecrit",
+  "source_page_id"
+ ],
+ "lignes": [
+  {
+   "document_id": "DOC-08-A-275",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-08-A-275-REC-24-3",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-08-A-275-REC-19-2",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-08-A-275-EXT-20-2",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-08-A-275",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": "FORSTER ROHR PROFILTECHNIK AG / FORSTER SYSTEMES DE PROFILES",
+   "source_page_id": "SP-08-A-275-P001"
+  },
+  {
+   "document_id": "DOC-08-A-275",
+   "organisme_id": "ORG-PILKINGTON",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": "PILKINGTON (ACTIVITE FEU)",
+   "source_page_id": "SP-08-A-275-P001"
+  },
+  {
+   "document_id": "DOC-08-A-275",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "fabricant_ossature",
+   "nom_tel_qu_ecrit": "Usine FORSTER, ARBON (CH)",
+   "source_page_id": "SP-08-A-275-P002-1"
+  },
+  {
+   "document_id": "DOC-08-A-275",
+   "organisme_id": "ORG-PILKINGTON",
+   "role_code": "fabricant_vitrage",
+   "nom_tel_qu_ecrit": "Usine PILKINGTON, Gelsenkirchen (D)",
+   "source_page_id": "SP-08-A-275-P002-1"
+  },
+  {
+   "document_id": "DOC-08-A-275-REC-24-3",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-08-A-275-REC-24-3",
+   "organisme_id": "ORG-PILKINGTON",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-08-A-275-REC-19-2",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-08-A-275-REC-19-2",
+   "organisme_id": "ORG-PILKINGTON",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-08-A-275-EXT-20-2",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-08-A-275-EXT-20-2",
+   "organisme_id": "ORG-PILKINGTON",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-11-A-507",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-11-A-507-REC-22-2",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-11-A-507-REC-17-1",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-EFR-14-000468",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-EFR-22-002556",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-11-A-507",
+   "organisme_id": "ORG-VETROTECH",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": "VETROTECH SAINT-GOBAIN INTERNATIONAL",
+   "source_page_id": "SP-11-A-507-P001"
+  },
+  {
+   "document_id": "DOC-11-A-507",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": "FORSTER ROHR PROFILTECHNIK AG FORSTER SYSTEMES DE PROFILES",
+   "source_page_id": "SP-11-A-507-P001"
+  },
+  {
+   "document_id": "DOC-11-A-507",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "fabricant_ossature",
+   "nom_tel_qu_ecrit": "FORSTER ROHR & PROFILTECHNIK AG CH-9320 ARBON",
+   "source_page_id": "SP-11-A-507-P002-1"
+  },
+  {
+   "document_id": "DOC-11-A-507",
+   "organisme_id": "ORG-VETROTECH",
+   "role_code": "fabricant_vitrage",
+   "nom_tel_qu_ecrit": "VETROTECH SAINT GOBAIN INTERNATIONAL - Usine de VETROTECH SAINT-GOBAIN France",
+   "source_page_id": "SP-11-A-507-P002-1"
+  },
+  {
+   "document_id": "DOC-11-A-507-REC-22-2",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-11-A-507-REC-22-2",
+   "organisme_id": "ORG-VETROTECH",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-11-A-507-REC-17-1",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-11-A-507-REC-17-1",
+   "organisme_id": "ORG-VETROTECH",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "organisme_id": "ORG-VETROTECH",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-EFR-14-000468",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "co_demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-EFR-14-000468",
+   "organisme_id": "ORG-VETROTECH",
+   "role_code": "co_demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-EFR-22-002556",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "co_demandeur",
+   "nom_tel_qu_ecrit": "FORSTER PROFILSYSTEME AG",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-EFR-22-002556",
+   "organisme_id": "ORG-VETROTECH",
+   "role_code": "co_demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-13-A-175",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-13-A-175-REC-23-2",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-EXT-14-1-14-2",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-13-A-175",
+   "organisme_id": "ORG-PYROGUARD",
+   "role_code": "co_demandeur",
+   "nom_tel_qu_ecrit": "C.G.I. International LTD.",
+   "source_page_id": "SP-13-A-175-P001"
+  },
+  {
+   "document_id": "DOC-13-A-175",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "co_demandeur",
+   "nom_tel_qu_ecrit": "FORSTER ROHR & PROFILTECHNIK AG",
+   "source_page_id": "SP-13-A-175-P001"
+  },
+  {
+   "document_id": "DOC-13-A-175",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "fabricant_ossature",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-13-A-175-P002-1"
+  },
+  {
+   "document_id": "DOC-13-A-175",
+   "organisme_id": "ORG-PYROGUARD",
+   "role_code": "fabricant_vitrage",
+   "nom_tel_qu_ecrit": "CGI France (Seingbouse)",
+   "source_page_id": "SP-13-A-175-P002-1"
+  },
+  {
+   "document_id": "DOC-13-A-175-REC-23-2",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": "FORSTER PROFILSYSTEME AG",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-13-A-175-REC-23-2",
+   "organisme_id": "ORG-PYROGUARD",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": "PYROGUARD UK LTD",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-EXT-14-1-14-2",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "co_demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-EXT-14-1-14-2",
+   "organisme_id": "ORG-PYROGUARD",
+   "role_code": "co_demandeur",
+   "nom_tel_qu_ecrit": "C.G.I. International LTD.",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-13-A-704",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-13-A-704",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-13-A-704-REC-24-2",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-13-A-704-REC-24-2",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-13-A-704",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "fabricant_ossature",
+   "nom_tel_qu_ecrit": "Usine FORSTER, ARBON (CH)",
+   "source_page_id": "SP-13-A-704-P002-2"
+  },
+  {
+   "document_id": "DOC-13-A-704",
+   "organisme_id": "ORG-PILKINGTON",
+   "role_code": "fabricant_vitrage",
+   "nom_tel_qu_ecrit": "Usine PILKINGTON, GELSENKIRSCHEN (DE)",
+   "source_page_id": "SP-13-A-704-P002-2"
+  },
+  {
+   "document_id": "DOC-EFR-21-002687",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-EFR-21-002687",
+   "organisme_id": "ORG-VETROTECH",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": "VETROTECH SAINT-GOBAIN INTERNATIONAL",
+   "source_page_id": "SP-EFR-21-002687-P001"
+  },
+  {
+   "document_id": "DOC-EFR-21-002687",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": "FORSTER ROHR & PROFILTECHNIK AG FORSTER SYSTÈMES DE PROFILÉS",
+   "source_page_id": "SP-EFR-21-002687-P001"
+  },
+  {
+   "document_id": "DOC-EFR-21-002687",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "fabricant_ossature",
+   "nom_tel_qu_ecrit": "FORSTER - Usine d'Arbon - CH",
+   "source_page_id": "SP-EFR-21-002687-P002-REFERENCE-ET-PROVENANCE"
+  },
+  {
+   "document_id": "DOC-EFR-21-002687",
+   "organisme_id": "ORG-VETROTECH",
+   "role_code": "fabricant_vitrage",
+   "nom_tel_qu_ecrit": "Usines de Romont (CH), Würselen (DE), Coventry (UK)",
+   "source_page_id": "SP-EFR-21-002687-P002-REFERENCE-ET-PROVENANCE"
+  },
+  {
+   "document_id": "DOC-EFR-24-000553-R1",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-EFR-24-000553-R1",
+   "organisme_id": "ORG-POLFLAM",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": "POLFLAM SP. Z O.O.",
+   "source_page_id": "SP-EFR-24-000553-R1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-000553-R1",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": "FORSTER PROFILSYSTEME AG Hofstrasse 41 8590 Romanshorn",
+   "source_page_id": "SP-EFR-24-000553-R1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-000553-R1",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "fabricant_ossature",
+   "nom_tel_qu_ecrit": "FORSTER – Usine de Romanshorn - CH",
+   "source_page_id": "SP-EFR-24-000553-R1-P003-2"
+  },
+  {
+   "document_id": "DOC-EFR-24-000553-R1",
+   "organisme_id": "ORG-POLFLAM",
+   "role_code": "fabricant_vitrage",
+   "nom_tel_qu_ecrit": "POLFLAM SP. Z O.O, JEZIORZANY (PL)",
+   "source_page_id": "SP-EFR-24-000553-R1-P003-2"
+  }
+ ]
+}

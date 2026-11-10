@@ -1,0 +1,65 @@
+{
+ "table": "ref_unite",
+ "colonnes": [
+  "code",
+  "libelle",
+  "facteur_vers_si"
+ ],
+ "lignes": [
+  {
+   "code": "mm",
+   "libelle": "millimètre",
+   "facteur_vers_si": 0.001
+  },
+  {
+   "code": "m",
+   "libelle": "mètre",
+   "facteur_vers_si": 1.0
+  },
+  {
+   "code": "m2",
+   "libelle": "mètre carré",
+   "facteur_vers_si": 1.0
+  },
+  {
+   "code": "deg",
+   "libelle": "degré",
+   "facteur_vers_si": null
+  },
+  {
+   "code": "kg_m3",
+   "libelle": "kilogramme par mètre cube",
+   "facteur_vers_si": 1.0
+  },
+  {
+   "code": "min",
+   "libelle": "minute",
+   "facteur_vers_si": 60.0
+  },
+  {
+   "code": "um",
+   "libelle": "micromètre",
+   "facteur_vers_si": 1e-06
+  },
+  {
+   "code": "degC",
+   "libelle": "degré Celsius",
+   "facteur_vers_si": null
+  },
+  {
+   "code": "kg",
+   "libelle": "kilogramme",
+   "facteur_vers_si": 1.0
+  },
+  {
+   "code": "pa",
+   "libelle": "pascal",
+   "facteur_vers_si": 1.0
+  },
+  {
+   "code": "db",
+   "libelle": "décibel",
+   "facteur_vers_si": null
+  }
+ ]
+}

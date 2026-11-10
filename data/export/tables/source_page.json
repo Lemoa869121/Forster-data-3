@@ -1,0 +1,1685 @@
+{
+ "table": "source_page",
+ "colonnes": [
+  "id",
+  "document_id",
+  "page_doc",
+  "page_doc_total",
+  "section",
+  "planche",
+  "type_zone_code",
+  "libelle"
+ ],
+ "lignes": [
+  {
+   "id": "SP-08-A-275-P001",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 1,
+   "page_doc_total": 35,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "page_garde",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-REC-24-3-P001-DUREE-DE-VALIDITE",
+   "document_id": "DOC-08-A-275-REC-24-3",
+   "page_doc": 1,
+   "page_doc_total": 1,
+   "section": "Durée de validité",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-REC-19-2-P002-ANALYSE",
+   "document_id": "DOC-08-A-275-REC-19-2",
+   "page_doc": 2,
+   "page_doc_total": 2,
+   "section": "Analyse",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-EXT-20-2-P002-1-2",
+   "document_id": "DOC-08-A-275-EXT-20-2",
+   "page_doc": 2,
+   "page_doc_total": 5,
+   "section": "§1-§2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-EXT-20-2-P003-3-4",
+   "document_id": "DOC-08-A-275-EXT-20-2",
+   "page_doc": 3,
+   "page_doc_total": 5,
+   "section": "§3-§4",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-REC-19-2-P001",
+   "document_id": "DOC-08-A-275-REC-19-2",
+   "page_doc": 1,
+   "page_doc_total": 2,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P002-1",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 2,
+   "page_doc_total": 35,
+   "section": "§1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P007-3-1",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 7,
+   "page_doc_total": 35,
+   "section": "§3.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P007-3-2",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 7,
+   "page_doc_total": 35,
+   "section": "§3.2",
+   "planche": null,
+   "type_zone_code": "tableau",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P007-4-2",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 7,
+   "page_doc_total": 35,
+   "section": "§4.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P005-1-2-5-2",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 5,
+   "page_doc_total": 35,
+   "section": "§1.2.5.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P002-1-1",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 2,
+   "page_doc_total": 35,
+   "section": "§1.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P035-PLPLANCHE-25",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 35,
+   "page_doc_total": 35,
+   "section": null,
+   "planche": "Planche 25",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P008-4-3-1",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 8,
+   "page_doc_total": 35,
+   "section": "§4.3.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P003-1-2-1-3",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 3,
+   "page_doc_total": 35,
+   "section": "§1.2.1.3",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P004-1-2-3",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 4,
+   "page_doc_total": 35,
+   "section": "§1.2.3",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P004-1-2-2",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 4,
+   "page_doc_total": 35,
+   "section": "§1.2.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P008-4-3-2",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 8,
+   "page_doc_total": 35,
+   "section": "§4.3.2",
+   "planche": null,
+   "type_zone_code": "tableau",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P030-PLPLANCHE-19-N-20",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 30,
+   "page_doc_total": 35,
+   "section": null,
+   "planche": "Planche 19 (n°20)",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P009-4-3-3",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 9,
+   "page_doc_total": 35,
+   "section": "§4.3.3",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P009-4-3-4",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 9,
+   "page_doc_total": 35,
+   "section": "§4.3.4",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P012-PLPLANCHE-2",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 12,
+   "page_doc_total": 35,
+   "section": null,
+   "planche": "Planche 2",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P011-PLPLANCHE-1",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 11,
+   "page_doc_total": 35,
+   "section": null,
+   "planche": "Planche 1",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P003-1-2-1-4",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 3,
+   "page_doc_total": 35,
+   "section": "§1.2.1.4",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P006-1-2-5-4",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 6,
+   "page_doc_total": 35,
+   "section": "§1.2.5.4",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P005-1-2-4",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 5,
+   "page_doc_total": 35,
+   "section": "§1.2.4",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P005-1-2-5-1",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 5,
+   "page_doc_total": 35,
+   "section": "§1.2.5.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P006-1-2-5-3",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 6,
+   "page_doc_total": 35,
+   "section": "§1.2.5.3",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P003-1-2-1-2",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 3,
+   "page_doc_total": 35,
+   "section": "§1.2.1.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P009-4-3-5",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 9,
+   "page_doc_total": 35,
+   "section": "§4.3.5",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-08-A-275-P018-PLPLANCHE-8",
+   "document_id": "DOC-08-A-275",
+   "page_doc": 18,
+   "page_doc_total": 35,
+   "section": null,
+   "planche": "Planche 8",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P001",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 1,
+   "page_doc_total": 60,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "page_garde",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-REC-22-2-P002-DUREE-DE-VALIDITE",
+   "document_id": "DOC-11-A-507-REC-22-2",
+   "page_doc": 2,
+   "page_doc_total": 2,
+   "section": "Durée de validité",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-REC-22-2-P001-SUIVI-DE-DOCUMENT",
+   "document_id": "DOC-11-A-507-REC-22-2",
+   "page_doc": 1,
+   "page_doc_total": 2,
+   "section": "Suivi de document",
+   "planche": null,
+   "type_zone_code": "suivi_revision",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-REC-17-1-P001-DUREE-DE-VALIDITE",
+   "document_id": "DOC-11-A-507-REC-17-1",
+   "page_doc": 1,
+   "page_doc_total": 1,
+   "section": "Durée de validité",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-14-000468-P002-1-4",
+   "document_id": "DOC-EFR-14-000468",
+   "page_doc": 2,
+   "page_doc_total": 3,
+   "section": "§1-§4",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-EXT-22-2-P002-1-DESCRIPTION-DES-MODIFICATIONS",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "page_doc": 2,
+   "page_doc_total": 7,
+   "section": "§1 Description des modifications",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-EXT-22-2-P003-2-4",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "page_doc": 3,
+   "page_doc_total": 7,
+   "section": "§2-§4",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-22-002556-P002-1",
+   "document_id": "DOC-EFR-22-002556",
+   "page_doc": 2,
+   "page_doc_total": 15,
+   "section": "§1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-22-002556-P003-2-3",
+   "document_id": "DOC-EFR-22-002556",
+   "page_doc": 3,
+   "page_doc_total": 15,
+   "section": "§2-§3",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-22-002556-P004-4-CONCLUSIONS",
+   "document_id": "DOC-EFR-22-002556",
+   "page_doc": 4,
+   "page_doc_total": 15,
+   "section": "§4 Conclusions",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P009-1-2-9-3",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 9,
+   "page_doc_total": 60,
+   "section": "§1.2.9.3",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P002-1",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 2,
+   "page_doc_total": 60,
+   "section": "§1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P010-3-1",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 10,
+   "page_doc_total": 60,
+   "section": "§3.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P002-1-2-1",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 2,
+   "page_doc_total": 60,
+   "section": "§1.2.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P011-4-3-2",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 11,
+   "page_doc_total": 60,
+   "section": "§4.3.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P010-3-2",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 10,
+   "page_doc_total": 60,
+   "section": "§3.2",
+   "planche": null,
+   "type_zone_code": "tableau",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P010-4-2",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 10,
+   "page_doc_total": 60,
+   "section": "§4.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-14-000468-P001",
+   "document_id": "DOC-EFR-14-000468",
+   "page_doc": 1,
+   "page_doc_total": 3,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P011-4-3-1",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 11,
+   "page_doc_total": 60,
+   "section": "§4.3.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P043-PLPLANCHE-31",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 43,
+   "page_doc_total": 60,
+   "section": null,
+   "planche": "Planche 31",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P044-PLPLANCHE-32",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 44,
+   "page_doc_total": 60,
+   "section": null,
+   "planche": "Planche 32",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P046-PLPLANCHE-34",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 46,
+   "page_doc_total": 60,
+   "section": null,
+   "planche": "Planche 34",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P047-PLPLANCHE-35",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 47,
+   "page_doc_total": 60,
+   "section": null,
+   "planche": "Planche 35",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P048-PLPLANCHE-36",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 48,
+   "page_doc_total": 60,
+   "section": null,
+   "planche": "Planche 36",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P049-PLPLANCHE-37",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 49,
+   "page_doc_total": 60,
+   "section": null,
+   "planche": "Planche 37",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P008-1-2-7-7",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 8,
+   "page_doc_total": 60,
+   "section": "§1.2.7.7",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P005-1-2-6",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 5,
+   "page_doc_total": 60,
+   "section": "§1.2.6",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P003-1-2-2",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 3,
+   "page_doc_total": 60,
+   "section": "§1.2.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P004-1-2-4",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 4,
+   "page_doc_total": 60,
+   "section": "§1.2.4",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P004-1-2-5",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 4,
+   "page_doc_total": 60,
+   "section": "§1.2.5",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P003-1-2-3",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 3,
+   "page_doc_total": 60,
+   "section": "§1.2.3",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P033-PLPLANCHE-21",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 33,
+   "page_doc_total": 60,
+   "section": null,
+   "planche": "Planche 21",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P012-4-3-2",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 12,
+   "page_doc_total": 60,
+   "section": "§4.3.2",
+   "planche": null,
+   "type_zone_code": "tableau",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P005-1-2-7-1",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 5,
+   "page_doc_total": 60,
+   "section": "§1.2.7.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P008-1-2-7-5-PIVOT-DE-SOL",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 8,
+   "page_doc_total": 60,
+   "section": "§1.2.7.5 Pivot de sol",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P006-1-2-7-2",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 6,
+   "page_doc_total": 60,
+   "section": "§1.2.7.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P042-PLPLANCHE-30",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 42,
+   "page_doc_total": 60,
+   "section": null,
+   "planche": "Planche 30",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P045-PLPLANCHE-33",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 45,
+   "page_doc_total": 60,
+   "section": null,
+   "planche": "Planche 33",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P050-PLPLANCHE-38",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 50,
+   "page_doc_total": 60,
+   "section": null,
+   "planche": "Planche 38",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P007-1-2-7-4",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 7,
+   "page_doc_total": 60,
+   "section": "§1.2.7.4",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P006-1-2-7-3",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 6,
+   "page_doc_total": 60,
+   "section": "§1.2.7.3",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P007-1-2-7-5",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 7,
+   "page_doc_total": 60,
+   "section": "§1.2.7.5",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P053-PLPLANCHE-41",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 53,
+   "page_doc_total": 60,
+   "section": null,
+   "planche": "Planche 41",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P007-1-2-7-5-SELECTEUR-DE-FERMETURE",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 7,
+   "page_doc_total": 60,
+   "section": "§1.2.7.5 Sélecteur de fermeture",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P008-1-2-7-6",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 8,
+   "page_doc_total": 60,
+   "section": "§1.2.7.6",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P009-1-2-9-1",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 9,
+   "page_doc_total": 60,
+   "section": "§1.2.9.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P009-1-2-9-2",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 9,
+   "page_doc_total": 60,
+   "section": "§1.2.9.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P008-1-2-8",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 8,
+   "page_doc_total": 60,
+   "section": "§1.2.8",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-P035-PLPLANCHE-23",
+   "document_id": "DOC-11-A-507",
+   "page_doc": 35,
+   "page_doc_total": 60,
+   "section": null,
+   "planche": "Planche 23",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-22-002556-P004-3",
+   "document_id": "DOC-EFR-22-002556",
+   "page_doc": 4,
+   "page_doc_total": 15,
+   "section": "§3",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-22-002556-P007-PLPLANCHE-2",
+   "document_id": "DOC-EFR-22-002556",
+   "page_doc": 7,
+   "page_doc_total": 15,
+   "section": null,
+   "planche": "Planche 2",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-175-P001",
+   "document_id": "DOC-13-A-175",
+   "page_doc": 1,
+   "page_doc_total": 26,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "page_garde",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-175-REC-23-2-P001-DUREE-DE-VALIDITE",
+   "document_id": "DOC-13-A-175-REC-23-2",
+   "page_doc": 1,
+   "page_doc_total": 1,
+   "section": "Durée de validité",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EXT-14-1-14-2-P002-1-3",
+   "document_id": "DOC-EXT-14-1-14-2",
+   "page_doc": 2,
+   "page_doc_total": 5,
+   "section": "§1-§3",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-175-P002-1",
+   "document_id": "DOC-13-A-175",
+   "page_doc": 2,
+   "page_doc_total": 26,
+   "section": "§1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-175-P004-3-1",
+   "document_id": "DOC-13-A-175",
+   "page_doc": 4,
+   "page_doc_total": 26,
+   "section": "§3.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-175-P004-3-2-1",
+   "document_id": "DOC-13-A-175",
+   "page_doc": 4,
+   "page_doc_total": 26,
+   "section": "§3.2.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-175-P004-3-2-2",
+   "document_id": "DOC-13-A-175",
+   "page_doc": 4,
+   "page_doc_total": 26,
+   "section": "§3.2.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-175-P005-4-2",
+   "document_id": "DOC-13-A-175",
+   "page_doc": 5,
+   "page_doc_total": 26,
+   "section": "§4.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-175-P004-3-2",
+   "document_id": "DOC-13-A-175",
+   "page_doc": 4,
+   "page_doc_total": 26,
+   "section": "§3.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-175-P004-1-2-4-2",
+   "document_id": "DOC-13-A-175",
+   "page_doc": 4,
+   "page_doc_total": 26,
+   "section": "§1.2.4.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-175-P005-4-3-2",
+   "document_id": "DOC-13-A-175",
+   "page_doc": 5,
+   "page_doc_total": 26,
+   "section": "§4.3.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EXT-14-1-14-2-P001",
+   "document_id": "DOC-EXT-14-1-14-2",
+   "page_doc": 1,
+   "page_doc_total": 5,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-175-P005-4-3-1",
+   "document_id": "DOC-13-A-175",
+   "page_doc": 5,
+   "page_doc_total": 26,
+   "section": "§4.3.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-175-P003-1-2-2",
+   "document_id": "DOC-13-A-175",
+   "page_doc": 3,
+   "page_doc_total": 26,
+   "section": "§1.2.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-175-P022-PLPLANCHE-16",
+   "document_id": "DOC-13-A-175",
+   "page_doc": 22,
+   "page_doc_total": 26,
+   "section": null,
+   "planche": "Planche 16",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-175-P026-PLPLANCHE-20",
+   "document_id": "DOC-13-A-175",
+   "page_doc": 26,
+   "page_doc_total": 26,
+   "section": null,
+   "planche": "Planche 20",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-175-P006-4-3-2-1",
+   "document_id": "DOC-13-A-175",
+   "page_doc": 6,
+   "page_doc_total": 26,
+   "section": "§4.3.2.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-175-P003-1-2-3",
+   "document_id": "DOC-13-A-175",
+   "page_doc": 3,
+   "page_doc_total": 26,
+   "section": "§1.2.3",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-175-P008-PLPLANCHE-2",
+   "document_id": "DOC-13-A-175",
+   "page_doc": 8,
+   "page_doc_total": 26,
+   "section": null,
+   "planche": "Planche 2",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-175-P009-PLPLANCHE-3",
+   "document_id": "DOC-13-A-175",
+   "page_doc": 9,
+   "page_doc_total": 26,
+   "section": null,
+   "planche": "Planche 3",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-175-P002-1-2-1-1",
+   "document_id": "DOC-13-A-175",
+   "page_doc": 2,
+   "page_doc_total": 26,
+   "section": "§1.2.1.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-175-P003-1-2-4-1",
+   "document_id": "DOC-13-A-175",
+   "page_doc": 3,
+   "page_doc_total": 26,
+   "section": "§1.2.4.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-175-P002-1-2-1-2",
+   "document_id": "DOC-13-A-175",
+   "page_doc": 2,
+   "page_doc_total": 26,
+   "section": "§1.2.1.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-175-P015-PLPLANCHE-9",
+   "document_id": "DOC-13-A-175",
+   "page_doc": 15,
+   "page_doc_total": 26,
+   "section": null,
+   "planche": "Planche 9",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-EXT-14-1-14-2-P002-3",
+   "document_id": "DOC-EXT-14-1-14-2",
+   "page_doc": 2,
+   "page_doc_total": 5,
+   "section": "§3",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-704-P001",
+   "document_id": "DOC-13-A-704",
+   "page_doc": 1,
+   "page_doc_total": 51,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "page_garde",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-704-REC-24-2-P001-DUREE-DE-VALIDITE",
+   "document_id": "DOC-13-A-704-REC-24-2",
+   "page_doc": 1,
+   "page_doc_total": 1,
+   "section": "Durée de validité",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-704-P002-2",
+   "document_id": "DOC-13-A-704",
+   "page_doc": 2,
+   "page_doc_total": 51,
+   "section": "§2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-704-P006-4-1",
+   "document_id": "DOC-13-A-704",
+   "page_doc": 6,
+   "page_doc_total": 51,
+   "section": "§4.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-704-P002-3-1",
+   "document_id": "DOC-13-A-704",
+   "page_doc": 2,
+   "page_doc_total": 51,
+   "section": "§3.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-704-P006-4-2",
+   "document_id": "DOC-13-A-704",
+   "page_doc": 6,
+   "page_doc_total": 51,
+   "section": "§4.2",
+   "planche": null,
+   "type_zone_code": "tableau",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-704-P006-5-2",
+   "document_id": "DOC-13-A-704",
+   "page_doc": 6,
+   "page_doc_total": 51,
+   "section": "§5.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-704-P003-3-2-2",
+   "document_id": "DOC-13-A-704",
+   "page_doc": 3,
+   "page_doc_total": 51,
+   "section": "§3.2.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-704-P043-PLPLANCHE-35",
+   "document_id": "DOC-13-A-704",
+   "page_doc": 43,
+   "page_doc_total": 51,
+   "section": null,
+   "planche": "Planche 35",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-704-P003-3-2-1",
+   "document_id": "DOC-13-A-704",
+   "page_doc": 3,
+   "page_doc_total": 51,
+   "section": "§3.2.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-704-P007-5-3-1",
+   "document_id": "DOC-13-A-704",
+   "page_doc": 7,
+   "page_doc_total": 51,
+   "section": "§5.3.1",
+   "planche": null,
+   "type_zone_code": "tableau",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-704-P004-3-3",
+   "document_id": "DOC-13-A-704",
+   "page_doc": 4,
+   "page_doc_total": 51,
+   "section": "§3.3",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-704-P005-3-5-1",
+   "document_id": "DOC-13-A-704",
+   "page_doc": 5,
+   "page_doc_total": 51,
+   "section": "§3.5.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-704-P005-3-5-2",
+   "document_id": "DOC-13-A-704",
+   "page_doc": 5,
+   "page_doc_total": 51,
+   "section": "§3.5.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-704-P004-3-4-1",
+   "document_id": "DOC-13-A-704",
+   "page_doc": 4,
+   "page_doc_total": 51,
+   "section": "§3.4.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-13-A-704-P006-3-7",
+   "document_id": "DOC-13-A-704",
+   "page_doc": 6,
+   "page_doc_total": 51,
+   "section": "§3.7",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-21-002687-P001",
+   "document_id": "DOC-EFR-21-002687",
+   "page_doc": 1,
+   "page_doc_total": 45,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "page_garde",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-21-002687-P002-REFERENCE-ET-PROVENANCE",
+   "document_id": "DOC-EFR-21-002687",
+   "page_doc": 2,
+   "page_doc_total": 45,
+   "section": "Référence et provenance",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-21-002687-P007-REFERENCE-DES-CLASSEMENTS",
+   "document_id": "DOC-EFR-21-002687",
+   "page_doc": 7,
+   "page_doc_total": 45,
+   "section": "Référence des classements",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-21-002687-P007-CLASSEMENTS",
+   "document_id": "DOC-EFR-21-002687",
+   "page_doc": 7,
+   "page_doc_total": 45,
+   "section": "Classements",
+   "planche": null,
+   "type_zone_code": "tableau",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-21-002687-P011-PLPLANCHE-1",
+   "document_id": "DOC-EFR-21-002687",
+   "page_doc": 11,
+   "page_doc_total": 45,
+   "section": null,
+   "planche": "Planche 1",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-21-002687-P003-3-3-1",
+   "document_id": "DOC-EFR-21-002687",
+   "page_doc": 3,
+   "page_doc_total": 45,
+   "section": "§3.3.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-21-002687-P004-3-3-3",
+   "document_id": "DOC-EFR-21-002687",
+   "page_doc": 4,
+   "page_doc_total": 45,
+   "section": "§3.3.3",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-21-002687-P005-3-3-3",
+   "document_id": "DOC-EFR-21-002687",
+   "page_doc": 5,
+   "page_doc_total": 45,
+   "section": "§3.3.3",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-21-002687-P003-3-3-2",
+   "document_id": "DOC-EFR-21-002687",
+   "page_doc": 3,
+   "page_doc_total": 45,
+   "section": "§3.3.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-21-002687-P008-6-3-1",
+   "document_id": "DOC-EFR-21-002687",
+   "page_doc": 8,
+   "page_doc_total": 45,
+   "section": "§6.3.1",
+   "planche": null,
+   "type_zone_code": "tableau",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-21-002687-P009-6-3-1-2-4",
+   "document_id": "DOC-EFR-21-002687",
+   "page_doc": 9,
+   "page_doc_total": 45,
+   "section": "§6.3.1.2.4",
+   "planche": null,
+   "type_zone_code": "tableau",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-21-002687-P005-3-3-4-1",
+   "document_id": "DOC-EFR-21-002687",
+   "page_doc": 5,
+   "page_doc_total": 45,
+   "section": "§3.3.4.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-21-002687-P006-3-3-4-2",
+   "document_id": "DOC-EFR-21-002687",
+   "page_doc": 6,
+   "page_doc_total": 45,
+   "section": "§3.3.4.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P001",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 1,
+   "page_doc_total": 77,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "page_garde",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P002-SUIVI-DES-REVISIONS",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 2,
+   "page_doc_total": 77,
+   "section": "Suivi des révisions",
+   "planche": null,
+   "type_zone_code": "suivi_revision",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P010-3-3-7-3",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 10,
+   "page_doc_total": 77,
+   "section": "§3.3.7.3",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P003-2",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 3,
+   "page_doc_total": 77,
+   "section": "§2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P010-5-1",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 10,
+   "page_doc_total": 77,
+   "section": "§5.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P012-8-EXCLUSIONS",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 12,
+   "page_doc_total": 77,
+   "section": "§8 Exclusions",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P011-6-3",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 11,
+   "page_doc_total": 77,
+   "section": "§6.3",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P007-3-3-5-2-3",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 7,
+   "page_doc_total": 77,
+   "section": "§3.3.5.2.3",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P010-5-2",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 10,
+   "page_doc_total": 77,
+   "section": "§5.2",
+   "planche": null,
+   "type_zone_code": "tableau",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P011-6-2",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 11,
+   "page_doc_total": 77,
+   "section": "§6.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P009-3-3-7-2",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 9,
+   "page_doc_total": 77,
+   "section": "§3.3.7.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P060-PLPLANCHE-48",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 60,
+   "page_doc_total": 77,
+   "section": null,
+   "planche": "Planche 48",
+   "type_zone_code": "planche",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P004-3-3-1",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 4,
+   "page_doc_total": 77,
+   "section": "§3.3.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P004-3-3-2-2",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 4,
+   "page_doc_total": 77,
+   "section": "§3.3.2.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P005-3-3-2-2",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 5,
+   "page_doc_total": 77,
+   "section": "§3.3.2.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P005-3-3-3-1",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 5,
+   "page_doc_total": 77,
+   "section": "§3.3.3.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P005-3-3-3-2",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 5,
+   "page_doc_total": 77,
+   "section": "§3.3.3.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P005-3-3-4",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 5,
+   "page_doc_total": 77,
+   "section": "§3.3.4",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P006-3-3-5-1",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 6,
+   "page_doc_total": 77,
+   "section": "§3.3.5.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P006-3-3-5-2",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 6,
+   "page_doc_total": 77,
+   "section": "§3.3.5.2",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P007-3-3-5-3",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 7,
+   "page_doc_total": 77,
+   "section": "§3.3.5.3",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P008-3-3-5-3-2",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 8,
+   "page_doc_total": 77,
+   "section": "§3.3.5.3.2",
+   "planche": null,
+   "type_zone_code": "tableau",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P008-3-3-5-3-3",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 8,
+   "page_doc_total": 77,
+   "section": "§3.3.5.3.3",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P008-3-3-5-3-4",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 8,
+   "page_doc_total": 77,
+   "section": "§3.3.5.3.4",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P008-3-3-5-3-5",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 8,
+   "page_doc_total": 77,
+   "section": "§3.3.5.3.5",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P008-3-3-5-3-6",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 8,
+   "page_doc_total": 77,
+   "section": "§3.3.5.3.6",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P008-3-3-5-3-7",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 8,
+   "page_doc_total": 77,
+   "section": "§3.3.5.3.7",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P008-3-3-5-3-8",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 8,
+   "page_doc_total": 77,
+   "section": "§3.3.5.3.8",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P008-3-3-5-3-9",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 8,
+   "page_doc_total": 77,
+   "section": "§3.3.5.3.9",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P009-3-3-6",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 9,
+   "page_doc_total": 77,
+   "section": "§3.3.6",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-EFR-24-000553-R1-P009-3-3-7-1",
+   "document_id": "DOC-EFR-24-000553-R1",
+   "page_doc": 9,
+   "page_doc_total": 77,
+   "section": "§3.3.7.1",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "table": "ref_typologie",
+ "colonnes": [
+  "code",
+  "libelle",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "bloc_porte",
+   "libelle": "Bloc-porte",
+   "description": null
+  },
+  {
+   "code": "cloison_vitree",
+   "libelle": "Cloison vitrée",
+   "description": null
+  },
+  {
+   "code": "cloison_vitree_bord_a_bord",
+   "libelle": "Cloison vitrée à vitrages collés bord à bord",
+   "description": null
+  },
+  {
+   "code": "facade_vitree",
+   "libelle": "Façade vitrée",
+   "description": null
+  },
+  {
+   "code": "chassis_fixe",
+   "libelle": "Châssis fixe",
+   "description": null
+  }
+ ]
+}

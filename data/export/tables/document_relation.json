@@ -1,0 +1,419 @@
+{
+ "table": "document_relation",
+ "colonnes": [
+  "id",
+  "document_source_id",
+  "document_cible_id",
+  "type_relation_code",
+  "date_relation",
+  "commentaire",
+  "source_page_id"
+ ],
+ "lignes": [
+  {
+   "id": "REL-08-A-275-REC-24-3-reconduit-08-A-275",
+   "document_source_id": "DOC-08-A-275-REC-24-3",
+   "document_cible_id": "DOC-08-A-275",
+   "type_relation_code": "reconduit",
+   "date_relation": "2024-06-03",
+   "commentaire": null,
+   "source_page_id": "SP-08-A-275-REC-24-3-P001-DUREE-DE-VALIDITE"
+  },
+  {
+   "id": "REL-08-A-275-REC-24-3-reconduit_extension-08-A-275-EXT-20-2",
+   "document_source_id": "DOC-08-A-275-REC-24-3",
+   "document_cible_id": "DOC-08-A-275-EXT-20-2",
+   "type_relation_code": "reconduit_extension",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": "SP-08-A-275-REC-24-3-P001-DUREE-DE-VALIDITE"
+  },
+  {
+   "id": "REL-08-A-275-REC-24-3-non_reconduit-08-A-275-EXT-18-1",
+   "document_source_id": "DOC-08-A-275-REC-24-3",
+   "document_cible_id": "DOC-08-A-275-EXT-18-1",
+   "type_relation_code": "non_reconduit",
+   "date_relation": null,
+   "commentaire": "« L'extension 18/1 n'est pas reconduite »",
+   "source_page_id": "SP-08-A-275-REC-24-3-P001-DUREE-DE-VALIDITE"
+  },
+  {
+   "id": "REL-08-A-275-REC-19-2-reconduit-08-A-275",
+   "document_source_id": "DOC-08-A-275-REC-19-2",
+   "document_cible_id": "DOC-08-A-275",
+   "type_relation_code": "reconduit",
+   "date_relation": "2019-03-08",
+   "commentaire": null,
+   "source_page_id": "SP-08-A-275-REC-19-2-P002-ANALYSE"
+  },
+  {
+   "id": "REL-08-A-275-REC-19-2-reconduit_extension-08-A-275-EXT-18-1",
+   "document_source_id": "DOC-08-A-275-REC-19-2",
+   "document_cible_id": "DOC-08-A-275-EXT-18-1",
+   "type_relation_code": "reconduit_extension",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": "SP-08-A-275-REC-19-2-P001"
+  },
+  {
+   "id": "REL-08-A-275-EXT-20-2-etend-08-A-275",
+   "document_source_id": "DOC-08-A-275-EXT-20-2",
+   "document_cible_id": "DOC-08-A-275",
+   "type_relation_code": "etend",
+   "date_relation": "2020-05-18",
+   "commentaire": null,
+   "source_page_id": "SP-08-A-275-EXT-20-2-P002-1-2"
+  },
+  {
+   "id": "REL-08-A-275-EXT-18-1-etend-08-A-275",
+   "document_source_id": "DOC-08-A-275-EXT-18-1",
+   "document_cible_id": "DOC-08-A-275",
+   "type_relation_code": "etend",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": null
+  },
+  {
+   "id": "REL-08-A-275-EXT-20-2-cumulable_avec-08-A-275-EXT-18-1",
+   "document_source_id": "DOC-08-A-275-EXT-20-2",
+   "document_cible_id": "DOC-08-A-275-EXT-18-1",
+   "type_relation_code": "cumulable_avec",
+   "date_relation": null,
+   "commentaire": "« La présente extension est cumulable avec l'extension 18/1 »",
+   "source_page_id": "SP-08-A-275-EXT-20-2-P003-3-4"
+  },
+  {
+   "id": "REL-08-A-275-a_pour_reference-08-A-275-RAPPORT",
+   "document_source_id": "DOC-08-A-275",
+   "document_cible_id": "DOC-08-A-275-RAPPORT",
+   "type_relation_code": "a_pour_reference",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": "SP-08-A-275-P001"
+  },
+  {
+   "id": "REL-11-A-507-REC-22-2-reconduit-11-A-507",
+   "document_source_id": "DOC-11-A-507-REC-22-2",
+   "document_cible_id": "DOC-11-A-507",
+   "type_relation_code": "reconduit",
+   "date_relation": "2022-09-13",
+   "commentaire": null,
+   "source_page_id": "SP-11-A-507-REC-22-2-P002-DUREE-DE-VALIDITE"
+  },
+  {
+   "id": "REL-11-A-507-REC-22-2-remplace-11-A-507-REC-22-2-R0",
+   "document_source_id": "DOC-11-A-507-REC-22-2",
+   "document_cible_id": "DOC-11-A-507-REC-22-2-R0",
+   "type_relation_code": "remplace",
+   "date_relation": "2022-09-13",
+   "commentaire": null,
+   "source_page_id": "SP-11-A-507-REC-22-2-P001-SUIVI-DE-DOCUMENT"
+  },
+  {
+   "id": "REL-11-A-507-REC-22-2-reconduit_extension-EFR-14-000468",
+   "document_source_id": "DOC-11-A-507-REC-22-2",
+   "document_cible_id": "DOC-EFR-14-000468",
+   "type_relation_code": "reconduit_extension",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": "SP-11-A-507-REC-22-2-P002-DUREE-DE-VALIDITE"
+  },
+  {
+   "id": "REL-11-A-507-REC-22-2-reconduit_extension-11-A-507-EXT-22-2",
+   "document_source_id": "DOC-11-A-507-REC-22-2",
+   "document_cible_id": "DOC-11-A-507-EXT-22-2",
+   "type_relation_code": "reconduit_extension",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": "SP-11-A-507-REC-22-2-P002-DUREE-DE-VALIDITE"
+  },
+  {
+   "id": "REL-11-A-507-REC-17-1-reconduit-11-A-507",
+   "document_source_id": "DOC-11-A-507-REC-17-1",
+   "document_cible_id": "DOC-11-A-507",
+   "type_relation_code": "reconduit",
+   "date_relation": "2017-06-06",
+   "commentaire": null,
+   "source_page_id": "SP-11-A-507-REC-17-1-P001-DUREE-DE-VALIDITE"
+  },
+  {
+   "id": "REL-11-A-507-REC-17-1-reconduit_extension-EFR-14-000468",
+   "document_source_id": "DOC-11-A-507-REC-17-1",
+   "document_cible_id": "DOC-EFR-14-000468",
+   "type_relation_code": "reconduit_extension",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": "SP-11-A-507-REC-17-1-P001-DUREE-DE-VALIDITE"
+  },
+  {
+   "id": "REL-EFR-14-000468-etend-11-A-507",
+   "document_source_id": "DOC-EFR-14-000468",
+   "document_cible_id": "DOC-11-A-507",
+   "type_relation_code": "etend",
+   "date_relation": "2014-06-30",
+   "commentaire": null,
+   "source_page_id": "SP-EFR-14-000468-P002-1-4"
+  },
+  {
+   "id": "REL-EFR-14-000468-etend-11-A-506",
+   "document_source_id": "DOC-EFR-14-000468",
+   "document_cible_id": "DOC-11-A-506",
+   "type_relation_code": "etend",
+   "date_relation": "2014-06-30",
+   "commentaire": null,
+   "source_page_id": "SP-EFR-14-000468-P002-1-4"
+  },
+  {
+   "id": "REL-11-A-507-EXT-22-2-etend-11-A-507",
+   "document_source_id": "DOC-11-A-507-EXT-22-2",
+   "document_cible_id": "DOC-11-A-507",
+   "type_relation_code": "etend",
+   "date_relation": "2022-05-23",
+   "commentaire": null,
+   "source_page_id": "SP-11-A-507-EXT-22-2-P002-1-DESCRIPTION-DES-MODIFICATIONS"
+  },
+  {
+   "id": "REL-11-A-507-EXT-22-2-non_cumulable_avec-EFR-14-000468",
+   "document_source_id": "DOC-11-A-507-EXT-22-2",
+   "document_cible_id": "DOC-EFR-14-000468",
+   "type_relation_code": "non_cumulable_avec",
+   "date_relation": null,
+   "commentaire": "« La présente extension n'est pas cumulable avec l'extension EFR-14-000468 »",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  },
+  {
+   "id": "REL-EFR-22-002556-etend-11-A-507",
+   "document_source_id": "DOC-EFR-22-002556",
+   "document_cible_id": "DOC-11-A-507",
+   "type_relation_code": "etend",
+   "date_relation": "2023-04-14",
+   "commentaire": null,
+   "source_page_id": "SP-EFR-22-002556-P002-1"
+  },
+  {
+   "id": "REL-EFR-22-002556-etend-11-A-506",
+   "document_source_id": "DOC-EFR-22-002556",
+   "document_cible_id": "DOC-11-A-506",
+   "type_relation_code": "etend",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": "SP-EFR-22-002556-P002-1"
+  },
+  {
+   "id": "REL-EFR-22-002556-etend-10-A-650",
+   "document_source_id": "DOC-EFR-22-002556",
+   "document_cible_id": "DOC-10-A-650",
+   "type_relation_code": "etend",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": "SP-EFR-22-002556-P002-1"
+  },
+  {
+   "id": "REL-11-A-507-a_pour_reference-11-A-507-RAPPORT",
+   "document_source_id": "DOC-11-A-507",
+   "document_cible_id": "DOC-11-A-507-RAPPORT",
+   "type_relation_code": "a_pour_reference",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": "SP-11-A-507-P001"
+  },
+  {
+   "id": "REL-11-A-507-support_associe-10-A-650",
+   "document_source_id": "DOC-11-A-507",
+   "document_cible_id": "DOC-10-A-650",
+   "type_relation_code": "support_associe",
+   "date_relation": null,
+   "commentaire": "Cloison vitrée E30 ou E60",
+   "source_page_id": "SP-11-A-507-P009-1-2-9-3"
+  },
+  {
+   "id": "REL-11-A-507-support_associe-12-A-079",
+   "document_source_id": "DOC-11-A-507",
+   "document_cible_id": "DOC-12-A-079",
+   "type_relation_code": "support_associe",
+   "date_relation": null,
+   "commentaire": "Cloison vitrée EI30 ou EI60",
+   "source_page_id": "SP-11-A-507-P009-1-2-9-3"
+  },
+  {
+   "id": "REL-11-A-507-support_associe-12-A-077",
+   "document_source_id": "DOC-11-A-507",
+   "document_cible_id": "DOC-12-A-077",
+   "type_relation_code": "support_associe",
+   "date_relation": null,
+   "commentaire": "Cloison vitrée EI30 ou EI60",
+   "source_page_id": "SP-11-A-507-P009-1-2-9-3"
+  },
+  {
+   "id": "REL-13-A-175-REC-23-2-reconduit-13-A-175",
+   "document_source_id": "DOC-13-A-175-REC-23-2",
+   "document_cible_id": "DOC-13-A-175",
+   "type_relation_code": "reconduit",
+   "date_relation": "2023-07-19",
+   "commentaire": null,
+   "source_page_id": "SP-13-A-175-REC-23-2-P001-DUREE-DE-VALIDITE"
+  },
+  {
+   "id": "REL-13-A-175-REC-23-2-reconduit_extension-EXT-14-1-14-2",
+   "document_source_id": "DOC-13-A-175-REC-23-2",
+   "document_cible_id": "DOC-EXT-14-1-14-2",
+   "type_relation_code": "reconduit_extension",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": "SP-13-A-175-REC-23-2-P001-DUREE-DE-VALIDITE"
+  },
+  {
+   "id": "REL-13-A-175-REC-23-2-reconduit_extension-13-A-175-EXT-18-2",
+   "document_source_id": "DOC-13-A-175-REC-23-2",
+   "document_cible_id": "DOC-13-A-175-EXT-18-2",
+   "type_relation_code": "reconduit_extension",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": "SP-13-A-175-REC-23-2-P001-DUREE-DE-VALIDITE"
+  },
+  {
+   "id": "REL-EXT-14-1-14-2-etend-13-A-175",
+   "document_source_id": "DOC-EXT-14-1-14-2",
+   "document_cible_id": "DOC-13-A-175",
+   "type_relation_code": "etend",
+   "date_relation": "2014-05-28",
+   "commentaire": null,
+   "source_page_id": "SP-EXT-14-1-14-2-P002-1-3"
+  },
+  {
+   "id": "REL-EXT-14-1-14-2-etend-13-A-176",
+   "document_source_id": "DOC-EXT-14-1-14-2",
+   "document_cible_id": "DOC-13-A-176",
+   "type_relation_code": "etend",
+   "date_relation": "2014-05-28",
+   "commentaire": null,
+   "source_page_id": "SP-EXT-14-1-14-2-P002-1-3"
+  },
+  {
+   "id": "REL-EXT-14-1-14-2-etend-13-A-177",
+   "document_source_id": "DOC-EXT-14-1-14-2",
+   "document_cible_id": "DOC-13-A-177",
+   "type_relation_code": "etend",
+   "date_relation": "2014-05-28",
+   "commentaire": null,
+   "source_page_id": "SP-EXT-14-1-14-2-P002-1-3"
+  },
+  {
+   "id": "REL-EXT-14-1-14-2-etend-13-A-178",
+   "document_source_id": "DOC-EXT-14-1-14-2",
+   "document_cible_id": "DOC-13-A-178",
+   "type_relation_code": "etend",
+   "date_relation": "2014-05-28",
+   "commentaire": null,
+   "source_page_id": "SP-EXT-14-1-14-2-P002-1-3"
+  },
+  {
+   "id": "REL-13-A-175-EXT-18-2-etend-13-A-175",
+   "document_source_id": "DOC-13-A-175-EXT-18-2",
+   "document_cible_id": "DOC-13-A-175",
+   "type_relation_code": "etend",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": null
+  },
+  {
+   "id": "REL-13-A-175-a_pour_reference-13-A-175-A",
+   "document_source_id": "DOC-13-A-175",
+   "document_cible_id": "DOC-13-A-175-A",
+   "type_relation_code": "a_pour_reference",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": "SP-13-A-175-P001"
+  },
+  {
+   "id": "REL-13-A-175-a_pour_reference-13-A-175-B",
+   "document_source_id": "DOC-13-A-175",
+   "document_cible_id": "DOC-13-A-175-B",
+   "type_relation_code": "a_pour_reference",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": "SP-13-A-175-P001"
+  },
+  {
+   "id": "REL-13-A-704-REC-24-2-reconduit-13-A-704",
+   "document_source_id": "DOC-13-A-704-REC-24-2",
+   "document_cible_id": "DOC-13-A-704",
+   "type_relation_code": "reconduit",
+   "date_relation": "2024-06-03",
+   "commentaire": null,
+   "source_page_id": "SP-13-A-704-REC-24-2-P001-DUREE-DE-VALIDITE"
+  },
+  {
+   "id": "REL-13-A-704-REC-24-2-reconduit_extension-13-A-704-EXT-18-1",
+   "document_source_id": "DOC-13-A-704-REC-24-2",
+   "document_cible_id": "DOC-13-A-704-EXT-18-1",
+   "type_relation_code": "reconduit_extension",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": "SP-13-A-704-REC-24-2-P001-DUREE-DE-VALIDITE"
+  },
+  {
+   "id": "REL-13-A-704-EXT-18-1-etend-13-A-704",
+   "document_source_id": "DOC-13-A-704-EXT-18-1",
+   "document_cible_id": "DOC-13-A-704",
+   "type_relation_code": "etend",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": null
+  },
+  {
+   "id": "REL-13-A-704-a_pour_reference-13-A-704-RAPPORT",
+   "document_source_id": "DOC-13-A-704",
+   "document_cible_id": "DOC-13-A-704-RAPPORT",
+   "type_relation_code": "a_pour_reference",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": "SP-13-A-704-P001"
+  },
+  {
+   "id": "REL-EFR-21-002687-a_pour_reference-EFR-21-002687-AL",
+   "document_source_id": "DOC-EFR-21-002687",
+   "document_cible_id": "DOC-EFR-21-002687-AL",
+   "type_relation_code": "a_pour_reference",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": "SP-EFR-21-002687-P001"
+  },
+  {
+   "id": "REL-EFR-24-000553-R1-remplace-EFR-24-000553-R0",
+   "document_source_id": "DOC-EFR-24-000553-R1",
+   "document_cible_id": "DOC-EFR-24-000553-R0",
+   "type_relation_code": "remplace",
+   "date_relation": "2024-11-21",
+   "commentaire": "Rév. 1 : ajout §3.3.5.2.3 et planches 58 à 65",
+   "source_page_id": "SP-EFR-24-000553-R1-P002-SUIVI-DES-REVISIONS"
+  },
+  {
+   "id": "REL-EFR-24-000553-R1-a_pour_reference-EFR-24-000553-AL",
+   "document_source_id": "DOC-EFR-24-000553-R1",
+   "document_cible_id": "DOC-EFR-24-000553-AL",
+   "type_relation_code": "a_pour_reference",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": "SP-EFR-24-000553-R1-P001"
+  },
+  {
+   "id": "REL-EFR-24-000553-R1-support_associe-EFR-24-000552",
+   "document_source_id": "DOC-EFR-24-000553-R1",
+   "document_cible_id": "DOC-EFR-24-000552",
+   "type_relation_code": "support_associe",
+   "date_relation": null,
+   "commentaire": "Intégration dans cloison vitrée Fuego Light 30 classée EI 30",
+   "source_page_id": "SP-EFR-24-000553-R1-P010-3-3-7-3"
+  },
+  {
+   "id": "REL-EFR-24-000553-R1-support_associe-EFR-23-001318",
+   "document_source_id": "DOC-EFR-24-000553-R1",
+   "document_cible_id": "DOC-EFR-23-001318",
+   "type_relation_code": "support_associe",
+   "date_relation": null,
+   "commentaire": "Intégration dans cloison vitrée Fuego Light 30 classée EI 60",
+   "source_page_id": "SP-EFR-24-000553-R1-P010-3-3-7-3"
+  }
+ ]
+}

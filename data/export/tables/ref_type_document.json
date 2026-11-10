@@ -1,0 +1,60 @@
+{
+ "table": "ref_type_document",
+ "colonnes": [
+  "code",
+  "libelle",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "pv_classement",
+   "libelle": "Procès-verbal de classement",
+   "description": "PV de classement de résistance au feu (arrêté du 22/03/2004 modifié)"
+  },
+  {
+   "code": "reconduction",
+   "libelle": "Reconduction",
+   "description": "Prolonge la validité d'un PV et de ses extensions"
+  },
+  {
+   "code": "extension",
+   "libelle": "Extension de classement",
+   "description": "Extension simple sur un PV"
+  },
+  {
+   "code": "extension_multiple",
+   "libelle": "Extension de classement multiple",
+   "description": "Extension portant sur plusieurs PV"
+  },
+  {
+   "code": "appreciation_laboratoire",
+   "libelle": "Appréciation de laboratoire",
+   "description": "Document de référence (non fourni) servant de base au PV"
+  },
+  {
+   "code": "rapport_essai",
+   "libelle": "Rapport d'essai",
+   "description": "Rapport d'essai (non fourni sauf mention)"
+  },
+  {
+   "code": "rapport_classement",
+   "libelle": "Rapport de classement",
+   "description": "Rapport de classement (EN 13501-2)"
+  },
+  {
+   "code": "additif",
+   "libelle": "Additif",
+   "description": "Additif / modification"
+  },
+  {
+   "code": "avis_chantier",
+   "libelle": "Avis de chantier",
+   "description": "Avis ponctuel du laboratoire"
+  },
+  {
+   "code": "document_reference",
+   "libelle": "Document de référence cité",
+   "description": "Document cité, non présent dans le corpus"
+  }
+ ]
+}

@@ -1,0 +1,727 @@
+{
+ "document": [
+  {
+   "id": "DOC-11-A-507-EXT-22-2",
+   "numero": "22/2",
+   "numero_normalise": "11-A-507/EXT-22/2",
+   "revision": null,
+   "type_code": "extension",
+   "domaine_code": "feu",
+   "objet": "Mise en œuvre de quincaillerie (verrous thermiques, serrure à rouleau)",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "date_emission": "2022-05-23",
+   "date_validite": null,
+   "validite_liee_au_pv": 1,
+   "nb_pages": 7,
+   "arrete_reference": "Arrêté du 14 mars 2011 modifiant l'arrêté du 22 mars 2004",
+   "numeros_affaire": "EFR-21-004971",
+   "fichier_source_id": "FIC-11-A-507",
+   "ordre_dans_fichier": 5,
+   "present_dans_corpus": 1,
+   "statut_extraction": "extrait",
+   "commentaire": null
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-11-A-507-EXT-22-2-P002-1-DESCRIPTION-DES-MODIFICATIONS",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "page_doc": 2,
+   "page_doc_total": 7,
+   "section": "§1 Description des modifications",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-11-A-507-EXT-22-2-P003-2-4",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "page_doc": 3,
+   "page_doc_total": 7,
+   "section": "§2-§4",
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_relation": [
+  {
+   "id": "REL-11-A-507-EXT-22-2-etend-11-A-507",
+   "document_source_id": "DOC-11-A-507-EXT-22-2",
+   "document_cible_id": "DOC-11-A-507",
+   "type_relation_code": "etend",
+   "date_relation": "2022-05-23",
+   "commentaire": null,
+   "source_page_id": "SP-11-A-507-EXT-22-2-P002-1-DESCRIPTION-DES-MODIFICATIONS"
+  },
+  {
+   "id": "REL-11-A-507-EXT-22-2-non_cumulable_avec-EFR-14-000468",
+   "document_source_id": "DOC-11-A-507-EXT-22-2",
+   "document_cible_id": "DOC-EFR-14-000468",
+   "type_relation_code": "non_cumulable_avec",
+   "date_relation": null,
+   "commentaire": "« La présente extension n'est pas cumulable avec l'extension EFR-14-000468 »",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "organisme_id": "ORG-VETROTECH",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_signataire": [
+  {
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "intervenant_id": "PER-ANDREA-VIARD",
+   "fonction": "Chargé d'affaires"
+  },
+  {
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "intervenant_id": "PER-REGIS-KORYLUK",
+   "fonction": "Superviseur"
+  }
+ ],
+ "document_essai": [
+  {
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "essai_id": "ESS-EFR-21-002096-B",
+   "role": "justification",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  },
+  {
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "essai_id": "ESS-EFR-21-002096-C",
+   "role": "justification",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  },
+  {
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "essai_id": "ESS-EFR-21-002099",
+   "role": "justification",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  }
+ ],
+ "essai": [
+  {
+   "id": "ESS-EFR-21-002096-B",
+   "reference": "EFR-21-002096-B",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "norme_id": "NRM-EN-1634-1PA1-2018",
+   "date_essai": null,
+   "objet": "Bloc-porte à 2 vantaux à ossature métallique Presto 50 (FORSTER)",
+   "systeme_teste": "Presto 50"
+  },
+  {
+   "id": "ESS-EFR-21-002096-C",
+   "reference": "EFR-21-002096-C",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "norme_id": "NRM-EN-1634-1PA1-2018",
+   "date_essai": null,
+   "objet": "Bloc-porte à 2 vantaux à ossature métallique Presto 50 (FORSTER)",
+   "systeme_teste": "Presto 50"
+  },
+  {
+   "id": "ESS-EFR-21-002099",
+   "reference": "EFR-21-002099",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "norme_id": "NRM-EN-1634-1PA1-2018",
+   "date_essai": null,
+   "objet": "Bloc-porte à 1 vantail à ossature métallique Presto 50 (FORSTER)",
+   "systeme_teste": "Presto 50"
+  }
+ ],
+ "essai_resultat": [
+  {
+   "id": "ESS-EFR-21-002096-B-RES-E-003",
+   "essai_id": "ESS-EFR-21-002096-B",
+   "critere_code": "E",
+   "duree_min": 31.0,
+   "operateur_code": "eq",
+   "condition_essai": null,
+   "nature_code": "teste",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  },
+  {
+   "id": "ESS-EFR-21-002096-B-RES-W-004",
+   "essai_id": "ESS-EFR-21-002096-B",
+   "critere_code": "W",
+   "duree_min": 14.0,
+   "operateur_code": "eq",
+   "condition_essai": null,
+   "nature_code": "teste",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  },
+  {
+   "id": "ESS-EFR-21-002096-C-RES-E-005",
+   "essai_id": "ESS-EFR-21-002096-C",
+   "critere_code": "E",
+   "duree_min": 31.0,
+   "operateur_code": "eq",
+   "condition_essai": null,
+   "nature_code": "teste",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  },
+  {
+   "id": "ESS-EFR-21-002096-C-RES-W-006",
+   "essai_id": "ESS-EFR-21-002096-C",
+   "critere_code": "W",
+   "duree_min": 12.0,
+   "operateur_code": "eq",
+   "condition_essai": null,
+   "nature_code": "teste",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  },
+  {
+   "id": "ESS-EFR-21-002099-RES-E-007",
+   "essai_id": "ESS-EFR-21-002099",
+   "critere_code": "E",
+   "duree_min": 35.0,
+   "operateur_code": "eq",
+   "condition_essai": null,
+   "nature_code": "teste",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  },
+  {
+   "id": "ESS-EFR-21-002099-RES-W-008",
+   "essai_id": "ESS-EFR-21-002099",
+   "critere_code": "W",
+   "duree_min": 16.0,
+   "operateur_code": "eq",
+   "condition_essai": null,
+   "nature_code": "teste",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-11-A-507-EXT-22-2-VT",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "code": "VT",
+   "libelle": "Bloc-porte 11-A-507 équipé de verrous thermiques",
+   "typologie_code": "bloc_porte",
+   "systeme_id": "SYS-PRESTO-50",
+   "nb_vantaux_min": 1,
+   "nb_vantaux_max": 2,
+   "vantaux_inegaux": 1,
+   "vitree": 1,
+   "parent_configuration_id": null,
+   "source_page_id": "SP-11-A-507-EXT-22-2-P002-1-DESCRIPTION-DES-MODIFICATIONS"
+  }
+ ],
+ "document_composant": [
+  {
+   "id": "DC-11-A-507-EXT-22-2-0001",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "configuration_id": "CFG-11-A-507-EXT-22-2-VT",
+   "reference_id": null,
+   "reference_brute": null,
+   "designation_document": "Verrou thermique (seuil 124 °C) — axé à 120 mm du haut du vantail",
+   "categorie_code": "verrou_thermique",
+   "role_code": "condamnation",
+   "localisation_code": "vantail",
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": "Coffre Ø24x44 mm, réservation Ø26 mm ; têtière Ø50x35x3 mm ; 2 vis inox tête fraisée M5x6,5 ; engagé dans trous Ø26 du montant d'huisserie",
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-11-A-507-EXT-22-2-P002-1-DESCRIPTION-DES-MODIFICATIONS",
+   "statut_extraction": "extrait"
+  },
+  {
+   "id": "DC-11-A-507-EXT-22-2-0002",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "configuration_id": "CFG-11-A-507-EXT-22-2-VT",
+   "reference_id": null,
+   "reference_brute": null,
+   "designation_document": "Verrou thermique (seuil 124 °C) — axé à 490 mm du bas du vantail",
+   "categorie_code": "verrou_thermique",
+   "role_code": "condamnation",
+   "localisation_code": "vantail",
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": "Coffre Ø24x44 mm, réservation Ø26 mm ; têtière Ø50x35x3 mm ; 2 vis inox tête fraisée M5x6,5 ; engagé dans trous Ø26 du montant d'huisserie",
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-11-A-507-EXT-22-2-P002-1-DESCRIPTION-DES-MODIFICATIONS",
+   "statut_extraction": "extrait"
+  },
+  {
+   "id": "DC-11-A-507-EXT-22-2-0003",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "configuration_id": "CFG-11-A-507-EXT-22-2-VT",
+   "reference_id": null,
+   "reference_brute": null,
+   "designation_document": "Verrou thermique (seuil 124 °C) — axé à 1040 mm du bas du vantail",
+   "categorie_code": "verrou_thermique",
+   "role_code": "condamnation",
+   "localisation_code": "vantail",
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": "Coffre Ø24x44 mm, réservation Ø26 mm ; têtière Ø50x35x3 mm ; 2 vis inox tête fraisée M5x6,5 ; engagé dans trous Ø26 du montant d'huisserie",
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-11-A-507-EXT-22-2-P002-1-DESCRIPTION-DES-MODIFICATIONS",
+   "statut_extraction": "extrait"
+  },
+  {
+   "id": "DC-11-A-507-EXT-22-2-0004",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "configuration_id": "CFG-11-A-507-EXT-22-2-VT",
+   "reference_id": "REF-FORSTER-987404",
+   "reference_brute": "987404",
+   "designation_document": "Serrure à rouleau 987404 (rouleau + pêne dormant) — 2 vantaux, vantail mobile",
+   "categorie_code": "serrure",
+   "role_code": "condamnation",
+   "localisation_code": "vantail_principal",
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": "Coffre 183,5x15,5x47 mm à 1282 mm du bas ; réservation 274 x 20 mm ; têtière 320x29,5x3 mm ; gâche 987008",
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-11-A-507-EXT-22-2-P002-1-DESCRIPTION-DES-MODIFICATIONS",
+   "statut_extraction": "extrait"
+  },
+  {
+   "id": "DC-11-A-507-EXT-22-2-0005",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "configuration_id": "CFG-11-A-507-EXT-22-2-VT",
+   "reference_id": "REF-FORSTER-987404",
+   "reference_brute": "987404",
+   "designation_document": "Serrure à rouleau 987404 (rouleau + pêne dormant) — 1 vantail",
+   "categorie_code": "serrure",
+   "role_code": "condamnation",
+   "localisation_code": "vantail",
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": "Coffre 183,5x15,5x47 mm à 1282 mm du bas ; réservation 200 x 20 mm ; têtière 320x29,5x3 mm ; gâche 987008",
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-11-A-507-EXT-22-2-P002-1-DESCRIPTION-DES-MODIFICATIONS",
+   "statut_extraction": "extrait"
+  },
+  {
+   "id": "DC-11-A-507-EXT-22-2-0006",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "configuration_id": "CFG-11-A-507-EXT-22-2-VT",
+   "reference_id": "REF-FORSTER-907518",
+   "reference_brute": "907518",
+   "designation_document": "Serrure à rouleau 907518 (rouleau + pêne dormant) — 2 vantaux, vantail mobile",
+   "categorie_code": "serrure",
+   "role_code": "condamnation",
+   "localisation_code": "vantail_principal",
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": "Coffre 183,5x15,5x47 mm à 1282 mm du bas ; réservation 274 x 20 mm ; têtière 320x29,5x3 mm ; gâche 987008",
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-11-A-507-EXT-22-2-P002-1-DESCRIPTION-DES-MODIFICATIONS",
+   "statut_extraction": "extrait"
+  },
+  {
+   "id": "DC-11-A-507-EXT-22-2-0007",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "configuration_id": "CFG-11-A-507-EXT-22-2-VT",
+   "reference_id": "REF-FORSTER-907518",
+   "reference_brute": "907518",
+   "designation_document": "Serrure à rouleau 907518 (rouleau + pêne dormant) — 1 vantail",
+   "categorie_code": "serrure",
+   "role_code": "condamnation",
+   "localisation_code": "vantail",
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": "Coffre 183,5x15,5x47 mm à 1282 mm du bas ; réservation 200 x 20 mm ; têtière 320x29,5x3 mm ; gâche 987008",
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-11-A-507-EXT-22-2-P002-1-DESCRIPTION-DES-MODIFICATIONS",
+   "statut_extraction": "extrait"
+  },
+  {
+   "id": "DC-11-A-507-EXT-22-2-0008",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "configuration_id": "CFG-11-A-507-EXT-22-2-VT",
+   "reference_id": "REF-FORSTER-987008",
+   "reference_brute": "987008",
+   "designation_document": "Gâche de serrure à rouleau 320 x 29,5 x 3 mm",
+   "categorie_code": "gache",
+   "role_code": "condamnation",
+   "localisation_code": "huisserie",
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-11-A-507-EXT-22-2-P002-1-DESCRIPTION-DES-MODIFICATIONS",
+   "statut_extraction": "extrait"
+  },
+  {
+   "id": "DC-11-A-507-EXT-22-2-0009",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "configuration_id": "CFG-11-A-507-EXT-22-2-VT",
+   "reference_id": "REF-FORSTER-907438",
+   "reference_brute": "907438",
+   "designation_document": "Verrou encastré levier à bascule 907438 (vantail semi-fixe)",
+   "categorie_code": "verrou",
+   "role_code": "condamnation",
+   "localisation_code": "vantail_secondaire",
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": "Coffre 150x15x47 mm à 1602 mm du bas ; réservation 160x20 mm ; têtière 320x29,5x3 mm",
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-11-A-507-EXT-22-2-P002-1-DESCRIPTION-DES-MODIFICATIONS",
+   "statut_extraction": "extrait"
+  },
+  {
+   "id": "DC-11-A-507-EXT-22-2-0010",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "configuration_id": "CFG-11-A-507-EXT-22-2-VT",
+   "reference_id": "REF-FORSTER-907030",
+   "reference_brute": "907030",
+   "designation_document": "Tige de pêne d'entraînement",
+   "categorie_code": "pene",
+   "role_code": "condamnation",
+   "localisation_code": "vantail_secondaire",
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": "DC-11-A-507-EXT-22-2-0009",
+   "role_dans_parent": "pene",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P002-1-DESCRIPTION-DES-MODIFICATIONS",
+   "statut_extraction": "extrait"
+  },
+  {
+   "id": "DC-11-A-507-EXT-22-2-0011",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "configuration_id": "CFG-11-A-507-EXT-22-2-VT",
+   "reference_id": "REF-FORSTER-907056",
+   "reference_brute": "907056",
+   "designation_document": "Pêne haut",
+   "categorie_code": "pene",
+   "role_code": "condamnation",
+   "localisation_code": "vantail_secondaire",
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": "DC-11-A-507-EXT-22-2-0009",
+   "role_dans_parent": "pene",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P002-1-DESCRIPTION-DES-MODIFICATIONS",
+   "statut_extraction": "extrait"
+  },
+  {
+   "id": "DC-11-A-507-EXT-22-2-0012",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "configuration_id": "CFG-11-A-507-EXT-22-2-VT",
+   "reference_id": "REF-FORSTER-917276",
+   "reference_brute": "917276",
+   "designation_document": "Pêne de maintien",
+   "categorie_code": "pene",
+   "role_code": "condamnation",
+   "localisation_code": "vantail_secondaire",
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": "DC-11-A-507-EXT-22-2-0009",
+   "role_dans_parent": "pene",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P002-1-DESCRIPTION-DES-MODIFICATIONS",
+   "statut_extraction": "extrait"
+  },
+  {
+   "id": "DC-11-A-507-EXT-22-2-0013",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "configuration_id": "CFG-11-A-507-EXT-22-2-VT",
+   "reference_id": "REF-FORSTER-917028",
+   "reference_brute": "917028",
+   "designation_document": "Gâche 70 x 30 x 4 mm (H x L x E)",
+   "categorie_code": "gache",
+   "role_code": "condamnation",
+   "localisation_code": "huisserie",
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": "DC-11-A-507-EXT-22-2-0009",
+   "role_dans_parent": "gache",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P002-1-DESCRIPTION-DES-MODIFICATIONS",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "dc_serrure": [
+  {
+   "document_composant_id": "DC-11-A-507-EXT-22-2-0001",
+   "type_serrure_code": "verrou_thermique",
+   "fonction_code": null,
+   "nb_points": 1,
+   "point_haut": null,
+   "point_median": null,
+   "point_bas": null,
+   "antipanique": null,
+   "main_din": null,
+   "entraxe_mm": null,
+   "type_commande": "thermique",
+   "version": null,
+   "seuil_temperature_c": 124.0,
+   "position_depuis_bas_mm": null,
+   "position_depuis_haut_mm": 120.0,
+   "vantail": "tous"
+  },
+  {
+   "document_composant_id": "DC-11-A-507-EXT-22-2-0002",
+   "type_serrure_code": "verrou_thermique",
+   "fonction_code": null,
+   "nb_points": 1,
+   "point_haut": null,
+   "point_median": null,
+   "point_bas": null,
+   "antipanique": null,
+   "main_din": null,
+   "entraxe_mm": null,
+   "type_commande": "thermique",
+   "version": null,
+   "seuil_temperature_c": 124.0,
+   "position_depuis_bas_mm": 490.0,
+   "position_depuis_haut_mm": null,
+   "vantail": "tous"
+  },
+  {
+   "document_composant_id": "DC-11-A-507-EXT-22-2-0003",
+   "type_serrure_code": "verrou_thermique",
+   "fonction_code": null,
+   "nb_points": 1,
+   "point_haut": null,
+   "point_median": null,
+   "point_bas": null,
+   "antipanique": null,
+   "main_din": null,
+   "entraxe_mm": null,
+   "type_commande": "thermique",
+   "version": null,
+   "seuil_temperature_c": 124.0,
+   "position_depuis_bas_mm": 1040.0,
+   "position_depuis_haut_mm": null,
+   "vantail": "tous"
+  },
+  {
+   "document_composant_id": "DC-11-A-507-EXT-22-2-0004",
+   "type_serrure_code": "rouleau",
+   "fonction_code": null,
+   "nb_points": 1,
+   "point_haut": 0,
+   "point_median": 1,
+   "point_bas": 0,
+   "antipanique": null,
+   "main_din": null,
+   "entraxe_mm": null,
+   "type_commande": null,
+   "version": null,
+   "seuil_temperature_c": null,
+   "position_depuis_bas_mm": 1282.0,
+   "position_depuis_haut_mm": null,
+   "vantail": "principal"
+  },
+  {
+   "document_composant_id": "DC-11-A-507-EXT-22-2-0005",
+   "type_serrure_code": "rouleau",
+   "fonction_code": null,
+   "nb_points": 1,
+   "point_haut": 0,
+   "point_median": 1,
+   "point_bas": 0,
+   "antipanique": null,
+   "main_din": null,
+   "entraxe_mm": null,
+   "type_commande": null,
+   "version": null,
+   "seuil_temperature_c": null,
+   "position_depuis_bas_mm": 1282.0,
+   "position_depuis_haut_mm": null,
+   "vantail": "unique"
+  },
+  {
+   "document_composant_id": "DC-11-A-507-EXT-22-2-0006",
+   "type_serrure_code": "rouleau",
+   "fonction_code": null,
+   "nb_points": 1,
+   "point_haut": 0,
+   "point_median": 1,
+   "point_bas": 0,
+   "antipanique": null,
+   "main_din": null,
+   "entraxe_mm": null,
+   "type_commande": null,
+   "version": null,
+   "seuil_temperature_c": null,
+   "position_depuis_bas_mm": 1282.0,
+   "position_depuis_haut_mm": null,
+   "vantail": "principal"
+  },
+  {
+   "document_composant_id": "DC-11-A-507-EXT-22-2-0007",
+   "type_serrure_code": "rouleau",
+   "fonction_code": null,
+   "nb_points": 1,
+   "point_haut": 0,
+   "point_median": 1,
+   "point_bas": 0,
+   "antipanique": null,
+   "main_din": null,
+   "entraxe_mm": null,
+   "type_commande": null,
+   "version": null,
+   "seuil_temperature_c": null,
+   "position_depuis_bas_mm": 1282.0,
+   "position_depuis_haut_mm": null,
+   "vantail": "unique"
+  },
+  {
+   "document_composant_id": "DC-11-A-507-EXT-22-2-0009",
+   "type_serrure_code": "verrou_bascule",
+   "fonction_code": null,
+   "nb_points": 1,
+   "point_haut": 1,
+   "point_median": 0,
+   "point_bas": 0,
+   "antipanique": null,
+   "main_din": null,
+   "entraxe_mm": null,
+   "type_commande": null,
+   "version": null,
+   "seuil_temperature_c": null,
+   "position_depuis_bas_mm": 1602.0,
+   "position_depuis_haut_mm": null,
+   "vantail": "secondaire"
+  }
+ ],
+ "caracteristique_document": [
+  {
+   "id": "CAR-11-A-507-EXT-22-2-0001",
+   "document_composant_id": "DC-11-A-507-EXT-22-2-0008",
+   "type_caracteristique_code": "section",
+   "valeur_origine": "320 x 29,5 x 3 mm",
+   "valeur_texte": "320x29.5x3",
+   "valeur_num": null,
+   "valeur_bool": null,
+   "unite_origine": null,
+   "nature_code": "nominal",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P002-1-DESCRIPTION-DES-MODIFICATIONS"
+  },
+  {
+   "id": "CAR-11-A-507-EXT-22-2-0002",
+   "document_composant_id": "DC-11-A-507-EXT-22-2-0013",
+   "type_caracteristique_code": "section",
+   "valeur_origine": "70 x 30 x 4 mm",
+   "valeur_texte": "70x30x4",
+   "valeur_num": null,
+   "valeur_bool": null,
+   "unite_origine": null,
+   "nature_code": "nominal",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P002-1-DESCRIPTION-DES-MODIFICATIONS"
+  }
+ ],
+ "reference_composant": [
+  {
+   "id": "REF-FORSTER-907030",
+   "reference_normalisee": "907030",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "pene",
+   "designation": "Tige de pêne d'entraînement"
+  },
+  {
+   "id": "REF-FORSTER-907056",
+   "reference_normalisee": "907056",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "pene",
+   "designation": "Pêne haut"
+  },
+  {
+   "id": "REF-FORSTER-907438",
+   "reference_normalisee": "907438",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "verrou",
+   "designation": "Commande à levier 907438 — vantail secondaire"
+  },
+  {
+   "id": "REF-FORSTER-907518",
+   "reference_normalisee": "907518",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "serrure",
+   "designation": "Serrure à rouleau 907518 (rouleau + pêne dormant) — 2 vantaux, vantail mobile"
+  },
+  {
+   "id": "REF-FORSTER-917028",
+   "reference_normalisee": "917028",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "gache",
+   "designation": "Gâche 70 x 30 x 4 mm (H x L x E)"
+  },
+  {
+   "id": "REF-FORSTER-917276",
+   "reference_normalisee": "917276",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "pene",
+   "designation": "Pêne de maintien"
+  },
+  {
+   "id": "REF-FORSTER-987008",
+   "reference_normalisee": "987008",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "gache",
+   "designation": "Gâche de serrure à rouleau 320 x 29,5 x 3 mm"
+  },
+  {
+   "id": "REF-FORSTER-987404",
+   "reference_normalisee": "987404",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "serrure",
+   "designation": "Serrure à rouleau 987404 (rouleau + pêne dormant) — 2 vantaux, vantail mobile"
+  }
+ ],
+ "restriction": [
+  {
+   "id": "RST-11-A-507-EXT-22-2-0001",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "configuration_id": null,
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Non cumulable avec EFR-14-000468",
+   "texte_source": null,
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  },
+  {
+   "id": "RST-11-A-507-EXT-22-2-0002",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "configuration_id": "CFG-11-A-507-EXT-22-2-VT",
+   "document_composant_id": null,
+   "type_code": "condition_mise_en_oeuvre",
+   "libelle": "Nombre de points de maintien identique au PV de référence",
+   "texte_source": "Le nombre de points de maintien de chaque bloc-porte doit lui, rester identique au procès-verbal de référence.",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P002-1-DESCRIPTION-DES-MODIFICATIONS"
+  },
+  {
+   "id": "RST-11-A-507-EXT-22-2-0003",
+   "document_id": "DOC-11-A-507-EXT-22-2",
+   "configuration_id": "CFG-11-A-507-EXT-22-2-VT",
+   "document_composant_id": null,
+   "type_code": "condition_mise_en_oeuvre",
+   "libelle": "Suppression des renforts acier autorisée si passages libres identiques au PV",
+   "texte_source": null,
+   "source_page_id": "SP-11-A-507-EXT-22-2-P002-1-DESCRIPTION-DES-MODIFICATIONS"
+  }
+ ]
+}

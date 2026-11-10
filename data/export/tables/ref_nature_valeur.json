@@ -1,0 +1,45 @@
+{
+ "table": "ref_nature_valeur",
+ "colonnes": [
+  "code",
+  "libelle",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "teste",
+   "libelle": "Valeur testée",
+   "description": "Mesurée / observée lors d'un essai"
+  },
+  {
+   "code": "autorise_max",
+   "libelle": "Limite autorisée maximale",
+   "description": "Domaine d'application (maximum)"
+  },
+  {
+   "code": "autorise_min",
+   "libelle": "Limite autorisée minimale",
+   "description": "Domaine d'application (minimum)"
+  },
+  {
+   "code": "autorise_exact",
+   "libelle": "Valeur imposée",
+   "description": "Valeur fixe imposée par le document"
+  },
+  {
+   "code": "nominal",
+   "libelle": "Caractéristique nominale de composant",
+   "description": "Dimension / caractéristique de composant"
+  },
+  {
+   "code": "exige_min",
+   "libelle": "Exigence minimale",
+   "description": "Exigence (ex. masse volumique support)"
+  },
+  {
+   "code": "classement",
+   "libelle": "Classement prononcé",
+   "description": "Performance classée"
+  }
+ ]
+}

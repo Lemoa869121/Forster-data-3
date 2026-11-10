@@ -1,0 +1,3640 @@
+{
+ "organisme": [
+  {
+   "id": "ORG-EFECTIS-FRANCE",
+   "nom": "Efectis France",
+   "nom_normalise": "EFECTIS FRANCE",
+   "pays_code": "FR",
+   "ville": "Maizières-lès-Metz",
+   "adresse": "Voie Romaine F-57280 Maizières-lès-Metz",
+   "est_fabricant": 0,
+   "est_laboratoire": 1
+  },
+  {
+   "id": "ORG-FORSTER",
+   "nom": "FORSTER PROFILSYSTEME AG",
+   "nom_normalise": "FORSTER PROFILSYSTEME AG",
+   "pays_code": "CH",
+   "ville": "Arbon",
+   "adresse": "Amriswilerstrasse 50, Postfach 400, CH-9320 Arbon",
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-VETROTECH",
+   "nom": "VETROTECH SAINT-GOBAIN INTERNATIONAL AG",
+   "nom_normalise": "VETROTECH SAINT-GOBAIN INTERNATIONAL AG",
+   "pays_code": "CH",
+   "ville": "Flamatt",
+   "adresse": "Bernstrasse 43, CH-3175 Flamatt",
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-PYROGUARD",
+   "nom": "PYROGUARD UK LTD",
+   "nom_normalise": "PYROGUARD UK LTD",
+   "pays_code": "GB",
+   "ville": "Haydock",
+   "adresse": "Millfield Lane, Haydock, Merseyside WA11 9GA",
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-PILKINGTON",
+   "nom": "PILKINGTON DEUTSCHLAND AG",
+   "nom_normalise": "PILKINGTON DEUTSCHLAND AG",
+   "pays_code": "DE",
+   "ville": "Gelsenkirchen",
+   "adresse": "Haydnstrasse 19, D-45884 Gelsenkirchen",
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-POLFLAM",
+   "nom": "POLFLAM SP. Z O.O.",
+   "nom_normalise": "POLFLAM SP. Z O.O.",
+   "pays_code": "PL",
+   "ville": "Tarczyn",
+   "adresse": "Jeziorzany, Aleja Krakowska 3, 05-555 Tarczyn",
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-DMT",
+   "nom": "Laboratoire DMT",
+   "nom_normalise": "LABORATOIRE DMT",
+   "pays_code": "DE",
+   "ville": "Lathen",
+   "adresse": null,
+   "est_fabricant": 0,
+   "est_laboratoire": 1
+  },
+  {
+   "id": "ORG-CTICM",
+   "nom": "CTICM",
+   "nom_normalise": "CTICM",
+   "pays_code": "FR",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 0,
+   "est_laboratoire": 1
+  },
+  {
+   "id": "ORG-DORMA",
+   "nom": "DORMA (dormakaba)",
+   "nom_normalise": "DORMA (DORMAKABA)",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-GEZE",
+   "nom": "GEZE",
+   "nom_normalise": "GEZE",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-LEVASSEUR",
+   "nom": "LEVASSEUR",
+   "nom_normalise": "LEVASSEUR",
+   "pays_code": "FR",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-EFF-EFF",
+   "nom": "EFF EFF (effeff)",
+   "nom_normalise": "EFF EFF (EFFEFF)",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-ABLOY",
+   "nom": "ABLOY",
+   "nom_normalise": "ABLOY",
+   "pays_code": "FI",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-ATHMER",
+   "nom": "ATHMER",
+   "nom_normalise": "ATHMER",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-SEVAX",
+   "nom": "SEVAX",
+   "nom_normalise": "SEVAX",
+   "pays_code": "FR",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-DICTATOR",
+   "nom": "DICTATOR",
+   "nom_normalise": "DICTATOR",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-JPM",
+   "nom": "JPM",
+   "nom_normalise": "JPM",
+   "pays_code": "FR",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-GROOM",
+   "nom": "GROOM",
+   "nom_normalise": "GROOM",
+   "pays_code": "FR",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-HILTI",
+   "nom": "HILTI",
+   "nom_normalise": "HILTI",
+   "pays_code": "LI",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-3M",
+   "nom": "3M",
+   "nom_normalise": "3M",
+   "pays_code": "US",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-ODICE",
+   "nom": "ODICE",
+   "nom_normalise": "ODICE",
+   "pays_code": "FR",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-PROMAT",
+   "nom": "PROMAT",
+   "nom_normalise": "PROMAT",
+   "pays_code": null,
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-DOW",
+   "nom": "DOW CORNING (DOWSIL)",
+   "nom_normalise": "DOW CORNING (DOWSIL)",
+   "pays_code": "US",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-ILLBRUCK",
+   "nom": "ILLBRUCK",
+   "nom_normalise": "ILLBRUCK",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-ASSA-ABLOY",
+   "nom": "ASSA ABLOY",
+   "nom_normalise": "ASSA ABLOY",
+   "pays_code": "SE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-ECO-SCHULTE",
+   "nom": "ECO SCHULTE",
+   "nom_normalise": "ECO SCHULTE",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-BRANDDEX",
+   "nom": "BRANDDEX",
+   "nom_normalise": "BRANDDEX",
+   "pays_code": null,
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-KUHN",
+   "nom": "KUHN",
+   "nom_normalise": "KUHN",
+   "pays_code": null,
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-JUNG",
+   "nom": "ETANCHEITE JUNG",
+   "nom_normalise": "ETANCHEITE JUNG",
+   "pays_code": null,
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-XELLA",
+   "nom": "XELLA",
+   "nom_normalise": "XELLA",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-FISCHER",
+   "nom": "FISCHER",
+   "nom_normalise": "FISCHER",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-KNAUF",
+   "nom": "KNAUF",
+   "nom_normalise": "KNAUF",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-LAFARGE",
+   "nom": "LAFARGE",
+   "nom_normalise": "LAFARGE",
+   "pays_code": "FR",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-PLACO",
+   "nom": "PLACOPLATRE",
+   "nom_normalise": "PLACOPLATRE",
+   "pays_code": "FR",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-ROCKWOOL",
+   "nom": "ROCKWOOL",
+   "nom_normalise": "ROCKWOOL",
+   "pays_code": "DK",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-HENKEL",
+   "nom": "HENKEL",
+   "nom_normalise": "HENKEL",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-SILACOLL",
+   "nom": "SILACOLL",
+   "nom_normalise": "SILACOLL",
+   "pays_code": null,
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-DORMAKABA",
+   "nom": "DORMAKABA",
+   "nom_normalise": "DORMAKABA",
+   "pays_code": "CH",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  }
+ ],
+ "organisme_alias": [
+  {
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "alias": "EFECTIS France Espace Technologique Saint-Aubin"
+  },
+  {
+   "organisme_id": "ORG-FORSTER",
+   "alias": "FORSTER SYSTEMES DE PROFILES SA"
+  },
+  {
+   "organisme_id": "ORG-FORSTER",
+   "alias": "FORSTER ROHR & PROFILTECHNIK AG"
+  },
+  {
+   "organisme_id": "ORG-FORSTER",
+   "alias": "FORSTER ROHR PROFILTECHNIK AG"
+  },
+  {
+   "organisme_id": "ORG-FORSTER",
+   "alias": "FORSTER SYSTÈMES DE PROFILÉS"
+  },
+  {
+   "organisme_id": "ORG-FORSTER",
+   "alias": "FORSTER SYSTEME DE PROFILES SA"
+  },
+  {
+   "organisme_id": "ORG-FORSTER",
+   "alias": "FORSTER PROFILSYSTEME AG (Hofstrasse 41, 8590 Romanshorn)"
+  },
+  {
+   "organisme_id": "ORG-VETROTECH",
+   "alias": "V.S.G.I."
+  },
+  {
+   "organisme_id": "ORG-PYROGUARD",
+   "alias": "C.G.I. International LTD."
+  },
+  {
+   "organisme_id": "ORG-PYROGUARD",
+   "alias": "CGI France (Seingbouse)"
+  },
+  {
+   "organisme_id": "ORG-PILKINGTON",
+   "alias": "PILKINGTON (ACTIVITE FEU), Vitry-sur-Seine"
+  }
+ ],
+ "intervenant": [
+  {
+   "id": "PER-HERVE-RYCKEWAERT",
+   "nom": "Hervé RYCKEWAERT"
+  },
+  {
+   "id": "PER-SEBASTIEN-BONINSEGNA",
+   "nom": "Sébastien BONINSEGNA"
+  },
+  {
+   "id": "PER-ANDREA-VIARD",
+   "nom": "Andréa VIARD"
+  },
+  {
+   "id": "PER-REGIS-KORYLUK",
+   "nom": "Régis KORYLUK"
+  },
+  {
+   "id": "PER-OLIVIA-D-HALLUIN",
+   "nom": "Olivia D'HALLUIN"
+  },
+  {
+   "id": "PER-RENAUD-SCHILLINGER",
+   "nom": "Renaud SCHILLINGER"
+  },
+  {
+   "id": "PER-JACINTHE-BEC",
+   "nom": "Jacinthe BEC"
+  },
+  {
+   "id": "PER-JEROME-VISSE",
+   "nom": "Jerome VISSE"
+  },
+  {
+   "id": "PER-VIRGINIE-GOULON",
+   "nom": "Virginie GOULON"
+  },
+  {
+   "id": "PER-OLIVIA-LUCIFORA",
+   "nom": "Olivia LUCIFORA"
+  }
+ ],
+ "norme": [
+  {
+   "id": "NRM-EN-13501-2-2004",
+   "code": "EN 13501-2",
+   "annee": "2004",
+   "amendement": null,
+   "titre": null
+  },
+  {
+   "id": "NRM-EN-13501-2-2007",
+   "code": "EN 13501-2",
+   "annee": "2007",
+   "amendement": null,
+   "titre": null
+  },
+  {
+   "id": "NRM-EN-13501-2-2016",
+   "code": "EN 13501-2",
+   "annee": "2016",
+   "amendement": null,
+   "titre": null
+  },
+  {
+   "id": "NRM-EN-13501-2-2023",
+   "code": "EN 13501-2",
+   "annee": "2023",
+   "amendement": null,
+   "titre": null
+  },
+  {
+   "id": "NRM-EN-13501-2",
+   "code": "EN 13501-2",
+   "annee": null,
+   "amendement": null,
+   "titre": null
+  },
+  {
+   "id": "NRM-EN-1634-1-2008",
+   "code": "EN 1634-1",
+   "annee": "2008",
+   "amendement": null,
+   "titre": null
+  },
+  {
+   "id": "NRM-EN-1634-1PA1-2018",
+   "code": "EN 1634-1",
+   "annee": null,
+   "amendement": "+A1:2018",
+   "titre": null
+  },
+  {
+   "id": "NRM-EN-1364-1-1999",
+   "code": "EN 1364-1",
+   "annee": "1999",
+   "amendement": null,
+   "titre": null
+  },
+  {
+   "id": "NRM-EN-1364-1-2015",
+   "code": "EN 1364-1",
+   "annee": "2015",
+   "amendement": null,
+   "titre": null
+  },
+  {
+   "id": "NRM-EN-1125",
+   "code": "EN 1125",
+   "annee": null,
+   "amendement": null,
+   "titre": null
+  },
+  {
+   "id": "NRM-EN-179",
+   "code": "EN 179",
+   "annee": null,
+   "amendement": null,
+   "titre": null
+  },
+  {
+   "id": "NRM-EN-1935",
+   "code": "EN 1935",
+   "annee": null,
+   "amendement": null,
+   "titre": null
+  },
+  {
+   "id": "NRM-EN-13633",
+   "code": "EN 13633",
+   "annee": null,
+   "amendement": null,
+   "titre": null
+  },
+  {
+   "id": "NRM-EN-13637",
+   "code": "EN 13637",
+   "annee": null,
+   "amendement": null,
+   "titre": null
+  },
+  {
+   "id": "NRM-NF-S-61-937",
+   "code": "NF S 61-937",
+   "annee": null,
+   "amendement": null,
+   "titre": null
+  },
+  {
+   "id": "NRM-EN-17352",
+   "code": "EN 17352",
+   "annee": null,
+   "amendement": null,
+   "titre": null
+  },
+  {
+   "id": "NRM-EN-50133",
+   "code": "EN 50133",
+   "annee": null,
+   "amendement": null,
+   "titre": null
+  },
+  {
+   "id": "NRM-ARRETE-DU-22-MARS-2004-MODIFIE-2004",
+   "code": "Arrêté du 22 mars 2004 modifié",
+   "annee": "2004",
+   "amendement": null,
+   "titre": "Résistance au feu des produits, éléments de construction et d'ouvrages"
+  },
+  {
+   "id": "NRM-ARRETE-DU-14-MARS-2011-2011",
+   "code": "Arrêté du 14 mars 2011",
+   "annee": "2011",
+   "amendement": null,
+   "titre": "Modifiant l'arrêté du 22 mars 2004"
+  },
+  {
+   "id": "NRM-DTU-39",
+   "code": "DTU 39",
+   "annee": null,
+   "amendement": null,
+   "titre": null
+  }
+ ],
+ "systeme": [
+  {
+   "id": "SYS-PRESTO-50",
+   "nom": "Presto 50",
+   "nom_normalise": "PRESTO 50",
+   "fabricant_id": "ORG-FORSTER",
+   "isolation_thermique": 0,
+   "profondeur_mm": 50,
+   "commentaire": "Profils acier non isolés, profondeur 50 mm"
+  },
+  {
+   "id": "SYS-PRESTO-60",
+   "nom": "Presto 60",
+   "nom_normalise": "PRESTO 60",
+   "fabricant_id": "ORG-FORSTER",
+   "isolation_thermique": 0,
+   "profondeur_mm": 60,
+   "commentaire": "Profondeur 60 mm (extension 23/4-23/3)"
+  },
+  {
+   "id": "SYS-FUEGO-LIGHT-30",
+   "nom": "Fuego Light 30",
+   "nom_normalise": "FUEGO LIGHT 30",
+   "fabricant_id": "ORG-FORSTER",
+   "isolation_thermique": 1,
+   "profondeur_mm": 65,
+   "commentaire": "Profils acier isolés thermiquement, épaisseur 65 mm (EFR-24-000553)"
+  },
+  {
+   "id": "SYS-FUEGO-LIGHT-60",
+   "nom": "Fuego Light 60",
+   "nom_normalise": "FUEGO LIGHT 60",
+   "fabricant_id": "ORG-FORSTER",
+   "isolation_thermique": 1,
+   "profondeur_mm": null,
+   "commentaire": "Profils acier isolés thermiquement"
+  },
+  {
+   "id": "SYS-THERMFIX-VARIO",
+   "nom": "Thermfix Vario",
+   "nom_normalise": "THERMFIX VARIO",
+   "fabricant_id": "ORG-FORSTER",
+   "isolation_thermique": null,
+   "profondeur_mm": null,
+   "commentaire": "Système de façade acier, séries 45 et 60"
+  }
+ ],
+ "essai": [
+  {
+   "id": "ESS-DMT-DO-50-020",
+   "reference": "DMT-DO-50-020",
+   "laboratoire_id": "ORG-DMT",
+   "norme_id": "NRM-EN-1634-1-2008",
+   "date_essai": "2011-11-23",
+   "objet": "Bloc-porte à deux vantaux tôlés sur bâti acier muni d'un verrou HZ43F (DORMA)",
+   "systeme_teste": null
+  },
+  {
+   "id": "ESS-EFR-21-002096-B",
+   "reference": "EFR-21-002096-B",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "norme_id": "NRM-EN-1634-1PA1-2018",
+   "date_essai": null,
+   "objet": "Bloc-porte à 2 vantaux à ossature métallique Presto 50 (FORSTER)",
+   "systeme_teste": "Presto 50"
+  },
+  {
+   "id": "ESS-EFR-21-002096-C",
+   "reference": "EFR-21-002096-C",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "norme_id": "NRM-EN-1634-1PA1-2018",
+   "date_essai": null,
+   "objet": "Bloc-porte à 2 vantaux à ossature métallique Presto 50 (FORSTER)",
+   "systeme_teste": "Presto 50"
+  },
+  {
+   "id": "ESS-EFR-21-002099",
+   "reference": "EFR-21-002099",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "norme_id": "NRM-EN-1634-1PA1-2018",
+   "date_essai": null,
+   "objet": "Bloc-porte à 1 vantail à ossature métallique Presto 50 (FORSTER)",
+   "systeme_teste": "Presto 50"
+  },
+  {
+   "id": "ESS-09-V-249",
+   "reference": "09-V-249",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "date_essai": null,
+   "objet": "Cloison vitrée profilés non isolés ECONOMY 60 (JANSEN), vitrages SGG CONTRAFLAM LITE 30 DGU 1400 x 3260 mm",
+   "systeme_teste": "JANSEN ECONOMY 60"
+  },
+  {
+   "id": "ESS-EFR-19-003584",
+   "reference": "EFR-19-003584",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "norme_id": null,
+   "date_essai": null,
+   "objet": "Cloison vitrée de hauteur 5000 mm — joints EPDM",
+   "systeme_teste": null
+  },
+  {
+   "id": "ESS-EFR-15-V-003109",
+   "reference": "EFR-15-V-003109",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "norme_id": null,
+   "date_essai": null,
+   "objet": "Joints CR",
+   "systeme_teste": null
+  },
+  {
+   "id": "ESS-08-G-053",
+   "reference": "08-G-053",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "date_essai": "2008-02-21",
+   "objet": "Châssis vitré Presto 50 (FORSTER) installé dans une cloison légère type 98/48",
+   "systeme_teste": "Presto 50"
+  },
+  {
+   "id": "ESS-DMT-DO-61-037",
+   "reference": "DMT-DO-61-037",
+   "laboratoire_id": "ORG-DMT",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "date_essai": "2015-03-11",
+   "objet": "Cloison vitrée acier à rupture de pont thermique, vitrages Pyrostop 60-101 ISOLANT 2500 x 1472 et 1289 x 3000 mm",
+   "systeme_teste": null
+  },
+  {
+   "id": "ESS-01-V-234",
+   "reference": "01-V-234",
+   "laboratoire_id": "ORG-CTICM",
+   "norme_id": null,
+   "date_essai": null,
+   "objet": "Bloc-porte un vantail avec parties latérales vitrées, dont une en Pyrodur 30-251 VISI (store)",
+   "systeme_teste": null
+  }
+ ],
+ "essai_resultat": [
+  {
+   "id": "ESS-DMT-DO-50-020-RES-E-001",
+   "essai_id": "ESS-DMT-DO-50-020",
+   "critere_code": "E",
+   "duree_min": 60,
+   "operateur_code": "gt",
+   "condition_essai": "Sens du feu côté opposé aux paumelles",
+   "nature_code": "teste",
+   "source_page_id": "SP-EFR-14-000468-P002-1-4"
+  },
+  {
+   "id": "ESS-DMT-DO-50-020-RES-I2-002",
+   "essai_id": "ESS-DMT-DO-50-020",
+   "critere_code": "I2",
+   "duree_min": 60,
+   "operateur_code": "gt",
+   "condition_essai": "Sens du feu côté opposé aux paumelles",
+   "nature_code": "teste",
+   "source_page_id": "SP-EFR-14-000468-P002-1-4"
+  },
+  {
+   "id": "ESS-EFR-21-002096-B-RES-E-003",
+   "essai_id": "ESS-EFR-21-002096-B",
+   "critere_code": "E",
+   "duree_min": 31,
+   "operateur_code": "eq",
+   "condition_essai": null,
+   "nature_code": "teste",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  },
+  {
+   "id": "ESS-EFR-21-002096-B-RES-W-004",
+   "essai_id": "ESS-EFR-21-002096-B",
+   "critere_code": "W",
+   "duree_min": 14,
+   "operateur_code": "eq",
+   "condition_essai": null,
+   "nature_code": "teste",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  },
+  {
+   "id": "ESS-EFR-21-002096-C-RES-E-005",
+   "essai_id": "ESS-EFR-21-002096-C",
+   "critere_code": "E",
+   "duree_min": 31,
+   "operateur_code": "eq",
+   "condition_essai": null,
+   "nature_code": "teste",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  },
+  {
+   "id": "ESS-EFR-21-002096-C-RES-W-006",
+   "essai_id": "ESS-EFR-21-002096-C",
+   "critere_code": "W",
+   "duree_min": 12,
+   "operateur_code": "eq",
+   "condition_essai": null,
+   "nature_code": "teste",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  },
+  {
+   "id": "ESS-EFR-21-002099-RES-E-007",
+   "essai_id": "ESS-EFR-21-002099",
+   "critere_code": "E",
+   "duree_min": 35,
+   "operateur_code": "eq",
+   "condition_essai": null,
+   "nature_code": "teste",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  },
+  {
+   "id": "ESS-EFR-21-002099-RES-W-008",
+   "essai_id": "ESS-EFR-21-002099",
+   "critere_code": "W",
+   "duree_min": 16,
+   "operateur_code": "eq",
+   "condition_essai": null,
+   "nature_code": "teste",
+   "source_page_id": "SP-11-A-507-EXT-22-2-P003-2-4"
+  },
+  {
+   "id": "ESS-09-V-249-RES-E-009",
+   "essai_id": "ESS-09-V-249",
+   "critere_code": "E",
+   "duree_min": 119,
+   "operateur_code": "eq",
+   "condition_essai": "Sens du feu côté parclose ; vitrages testés côté contre-face et côté opposé",
+   "nature_code": "teste",
+   "source_page_id": "SP-EFR-22-002556-P003-2-3"
+  },
+  {
+   "id": "ESS-09-V-249-RES-W-010",
+   "essai_id": "ESS-09-V-249",
+   "critere_code": "W",
+   "duree_min": 117,
+   "operateur_code": "eq",
+   "condition_essai": "Idem",
+   "nature_code": "teste",
+   "source_page_id": "SP-EFR-22-002556-P003-2-3"
+  },
+  {
+   "id": "ESS-08-G-053-RES-E-011",
+   "essai_id": "ESS-08-G-053",
+   "critere_code": "E",
+   "duree_min": 60,
+   "operateur_code": "gt",
+   "condition_essai": "Bon comportement de la jonction (lecture OCR dégradée)",
+   "nature_code": "teste",
+   "source_page_id": "SP-EXT-14-1-14-2-P002-1-3"
+  },
+  {
+   "id": "ESS-08-G-053-RES-I-012",
+   "essai_id": "ESS-08-G-053",
+   "critere_code": "I",
+   "duree_min": 60,
+   "operateur_code": "ge",
+   "condition_essai": "Thermocouples additionnels DIN (comparables EN 1364-1:2015) : pas de déclassement prématuré",
+   "nature_code": "teste",
+   "source_page_id": "SP-08-A-275-REC-19-2-P002-ANALYSE"
+  },
+  {
+   "id": "ESS-DMT-DO-61-037-RES-E-013",
+   "essai_id": "ESS-DMT-DO-61-037",
+   "critere_code": "E",
+   "duree_min": 60,
+   "operateur_code": "gt",
+   "condition_essai": "Feu côté opposé à la contreface (2500x1472) et côté contreface (1289x3000)",
+   "nature_code": "teste",
+   "source_page_id": "SP-08-A-275-EXT-20-2-P002-1-2"
+  },
+  {
+   "id": "ESS-DMT-DO-61-037-RES-I-014",
+   "essai_id": "ESS-DMT-DO-61-037",
+   "critere_code": "I",
+   "duree_min": 60,
+   "operateur_code": "gt",
+   "condition_essai": "Idem",
+   "nature_code": "teste",
+   "source_page_id": "SP-08-A-275-EXT-20-2-P002-1-2"
+  },
+  {
+   "id": "ESS-01-V-234-RES-E-015",
+   "essai_id": "ESS-01-V-234",
+   "critere_code": "E",
+   "duree_min": 40,
+   "operateur_code": "eq",
+   "condition_essai": "Limite non due au vitrage",
+   "nature_code": "teste",
+   "source_page_id": "SP-08-A-275-EXT-20-2-P002-1-2"
+  }
+ ],
+ "reference_composant": [
+  {
+   "id": "REF-FORSTER-32800",
+   "reference_normalisee": "32800",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant et traverse d'huisserie"
+  },
+  {
+   "id": "REF-FORSTER-32810",
+   "reference_normalisee": "32810",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant et traverse d'huisserie"
+  },
+  {
+   "id": "REF-FORSTER-32870",
+   "reference_normalisee": "32870",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant et traverse d'huisserie"
+  },
+  {
+   "id": "REF-FORSTER-32890",
+   "reference_normalisee": "32890",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant et traverse d'huisserie"
+  },
+  {
+   "id": "REF-FORSTER-32803",
+   "reference_normalisee": "32803",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant et traverse d'huisserie"
+  },
+  {
+   "id": "REF-FORSTER-32805",
+   "reference_normalisee": "32805",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant et traverse d'huisserie"
+  },
+  {
+   "id": "REF-FORSTER-32892",
+   "reference_normalisee": "32892",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant et traverse d'huisserie"
+  },
+  {
+   "id": "REF-FORSTER-32891",
+   "reference_normalisee": "32891",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant et traverse d'huisserie"
+  },
+  {
+   "id": "REF-FORSTER-01535",
+   "reference_normalisee": "01535",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profil d'assemblage dos-à-dos"
+  },
+  {
+   "id": "REF-FORSTER-32851",
+   "reference_normalisee": "32851",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profil d'assemblage dos-à-dos"
+  },
+  {
+   "id": "REF-FORSTER-735800",
+   "reference_normalisee": "735800",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant et traverse d'huisserie Fuego Light 30"
+  },
+  {
+   "id": "REF-FORSTER-735803",
+   "reference_normalisee": "735803",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant et traverse d'huisserie Fuego Light 30"
+  },
+  {
+   "id": "REF-FORSTER-735805",
+   "reference_normalisee": "735805",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant et traverse d'huisserie Fuego Light 30"
+  },
+  {
+   "id": "REF-FORSTER-736800",
+   "reference_normalisee": "736800",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant et traverse d'huisserie Fuego Light 60"
+  },
+  {
+   "id": "REF-FORSTER-736803",
+   "reference_normalisee": "736803",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant et traverse d'huisserie Fuego Light 60"
+  },
+  {
+   "id": "REF-FORSTER-736805",
+   "reference_normalisee": "736805",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant et traverse d'huisserie Fuego Light 60"
+  },
+  {
+   "id": "REF-FORSTER-32855",
+   "reference_normalisee": "32855",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Traverse basse"
+  },
+  {
+   "id": "REF-FORSTER-32854",
+   "reference_normalisee": "32854",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Traverse basse"
+  },
+  {
+   "id": "REF-FORSTER-32801",
+   "reference_normalisee": "32801",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Traverse basse (différence de niveau)"
+  },
+  {
+   "id": "REF-FORSTER-32802",
+   "reference_normalisee": "32802",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Traverse basse (différence de niveau)"
+  },
+  {
+   "id": "REF-FORSTER-32852",
+   "reference_normalisee": "32852",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Traverse intermédiaire de vantail"
+  },
+  {
+   "id": "REF-FORSTER-02535",
+   "reference_normalisee": "02535",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Traverse intermédiaire de vantail"
+  },
+  {
+   "id": "REF-FORSTER-905307",
+   "reference_normalisee": "905307",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "joint_butee",
+   "designation": "Joint de porte (de butée)"
+  },
+  {
+   "id": "REF-FORSTER-948002",
+   "reference_normalisee": "948002",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "joint_intumescent",
+   "designation": "Joint intumescent (périphérie bloc-porte, intégration Fuego Light)"
+  },
+  {
+   "id": "REF-FORSTER-948003",
+   "reference_normalisee": "948003",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "bande_fibre",
+   "designation": "Bande de fibre minérale 15 x 3 mm"
+  },
+  {
+   "id": "REF-FORSTER-948004",
+   "reference_normalisee": "948004",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "bande_fibre",
+   "designation": "Bande de fibre minérale 15 x 4 mm"
+  },
+  {
+   "id": "REF-FORSTER-948005",
+   "reference_normalisee": "948005",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "bande_fibre",
+   "designation": "Bande de fibre minérale 15 x 5 mm"
+  },
+  {
+   "id": "REF-FORSTER-948006",
+   "reference_normalisee": "948006",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "bande_fibre",
+   "designation": "Bande de fibre minérale 15 x 6 mm"
+  },
+  {
+   "id": "REF-FORSTER-948007",
+   "reference_normalisee": "948007",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "bande_fibre",
+   "designation": "Bande de fibre minérale 20 x 3 mm"
+  },
+  {
+   "id": "REF-FORSTER-948008",
+   "reference_normalisee": "948008",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "bande_fibre",
+   "designation": "Bande de fibre minérale 20 x 4 mm"
+  },
+  {
+   "id": "REF-FORSTER-948009",
+   "reference_normalisee": "948009",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "bande_fibre",
+   "designation": "Bande de fibre minérale 20 x 5 mm"
+  },
+  {
+   "id": "REF-FORSTER-948016",
+   "reference_normalisee": "948016",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "bande_fibre",
+   "designation": "Bande de fibre minérale 20 x 6 mm"
+  },
+  {
+   "id": "REF-FORSTER-901241",
+   "reference_normalisee": "901241",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "parclose",
+   "designation": "Parclose acier clipsée"
+  },
+  {
+   "id": "REF-FORSTER-901226",
+   "reference_normalisee": "901226",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "parclose",
+   "designation": "Parclose acier clipsée"
+  },
+  {
+   "id": "REF-FORSTER-901227",
+   "reference_normalisee": "901227",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "parclose",
+   "designation": "Parclose acier clipsée"
+  },
+  {
+   "id": "REF-FORSTER-901228",
+   "reference_normalisee": "901228",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "parclose",
+   "designation": "Parclose acier clipsée"
+  },
+  {
+   "id": "REF-FORSTER-901246",
+   "reference_normalisee": "901246",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "parclose",
+   "designation": "Parclose acier clipsée"
+  },
+  {
+   "id": "REF-FORSTER-901247",
+   "reference_normalisee": "901247",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "parclose",
+   "designation": "Parclose acier clipsée"
+  },
+  {
+   "id": "REF-FORSTER-906577",
+   "reference_normalisee": "906577",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "vis_bouton",
+   "designation": "Vis bouton de parclose"
+  },
+  {
+   "id": "REF-FORSTER-906578",
+   "reference_normalisee": "906578",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "vis_bouton",
+   "designation": "Vis bouton de parclose"
+  },
+  {
+   "id": "REF-FORSTER-906579",
+   "reference_normalisee": "906579",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "vis_bouton",
+   "designation": "Vis bouton de parclose"
+  },
+  {
+   "id": "REF-FORSTER-906421",
+   "reference_normalisee": "906421",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "ressort_parclose",
+   "designation": "Ressort de fixation de parclose + rivets pop inox Ø3,2"
+  },
+  {
+   "id": "REF-FORSTER-900100",
+   "reference_normalisee": "900100",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "busette",
+   "designation": "Busette de drainage"
+  },
+  {
+   "id": "REF-VETROTECH-PYROSWISS5",
+   "reference_normalisee": "PYROSWISS5",
+   "fabricant_id": "ORG-VETROTECH",
+   "categorie_code": "vitrage",
+   "designation": "PYROSWISS 5 mm"
+  },
+  {
+   "id": "REF-VETROTECH-PYROSWISS6",
+   "reference_normalisee": "PYROSWISS6",
+   "fabricant_id": "ORG-VETROTECH",
+   "categorie_code": "vitrage",
+   "designation": "PYROSWISS 6 mm"
+  },
+  {
+   "id": "REF-VETROTECH-PYROSWISS10",
+   "reference_normalisee": "PYROSWISS10",
+   "fabricant_id": "ORG-VETROTECH",
+   "categorie_code": "vitrage",
+   "designation": "PYROSWISS 10 mm"
+  },
+  {
+   "id": "REF-VETROTECH-PYROSWISSSATINOVO6",
+   "reference_normalisee": "PYROSWISSSATINOVO6",
+   "fabricant_id": "ORG-VETROTECH",
+   "categorie_code": "vitrage",
+   "designation": "PYROSWISS SATINOVO 6 mm"
+  },
+  {
+   "id": "REF-VETROTECH-PYROSWISSMASTERCARRE6",
+   "reference_normalisee": "PYROSWISSMASTERCARRE6",
+   "fabricant_id": "ORG-VETROTECH",
+   "categorie_code": "vitrage",
+   "designation": "PYROSWISS MASTERCARRE 6 mm"
+  },
+  {
+   "id": "REF-VETROTECH-PYROSWISSPARSOL6",
+   "reference_normalisee": "PYROSWISSPARSOL6",
+   "fabricant_id": "ORG-VETROTECH",
+   "categorie_code": "vitrage",
+   "designation": "PYROSWISS PARSOL 6 mm"
+  },
+  {
+   "id": "REF-VETROTECH-PYROSWISSSERALIT6",
+   "reference_normalisee": "PYROSWISSSERALIT6",
+   "fabricant_id": "ORG-VETROTECH",
+   "categorie_code": "vitrage",
+   "designation": "PYROSWISS SERALIT 6 mm"
+  },
+  {
+   "id": "REF-VETROTECH-PYROSWISSSTADIP",
+   "reference_normalisee": "PYROSWISSSTADIP",
+   "fabricant_id": "ORG-VETROTECH",
+   "categorie_code": "vitrage",
+   "designation": "PYROSWISS STADIP"
+  },
+  {
+   "id": "REF-VETROTECH-PYROSWISSCLIMAPLUSFE",
+   "reference_normalisee": "PYROSWISSCLIMAPLUSFE",
+   "fabricant_id": "ORG-VETROTECH",
+   "categorie_code": "vitrage",
+   "designation": "PYROSWISS CLIMAPLUS avec couche à faible émissivité"
+  },
+  {
+   "id": "REF-VETROTECH-PYROSWISSCLIMAPLUS",
+   "reference_normalisee": "PYROSWISSCLIMAPLUS",
+   "fabricant_id": "ORG-VETROTECH",
+   "categorie_code": "vitrage",
+   "designation": "PYROSWISS CLIMAPLUS sans couche à faible émissivité"
+  },
+  {
+   "id": "REF-VETROTECH-VETROFLAM6",
+   "reference_normalisee": "VETROFLAM6",
+   "fabricant_id": "ORG-VETROTECH",
+   "categorie_code": "vitrage",
+   "designation": "VETROFLAM 6 mm"
+  },
+  {
+   "id": "REF-3M-SCOTCHSHIELDSH4CLARL",
+   "reference_normalisee": "SCOTCHSHIELDSH4CLARL",
+   "fabricant_id": "ORG-3M",
+   "categorie_code": "film_adhesif",
+   "designation": "Film auto-adhésif Scotchshield SH4CLARL (3M)"
+  },
+  {
+   "id": "REF-3M-SCOTCHTINTRE35AMARL",
+   "reference_normalisee": "SCOTCHTINTRE35AMARL",
+   "fabricant_id": "ORG-3M",
+   "categorie_code": "film_adhesif",
+   "designation": "Film auto-adhésif Scotchtint RE35 AMARL (3M)"
+  },
+  {
+   "id": "REF-3M-FASARA20PL",
+   "reference_normalisee": "FASARA20PL",
+   "fabricant_id": "ORG-3M",
+   "categorie_code": "film_adhesif",
+   "designation": "Film auto-adhésif FASARA 20PL (3M)"
+  },
+  {
+   "id": "REF-3M-SCOTCHCAL100-10WHITE",
+   "reference_normalisee": "SCOTCHCAL100-10WHITE",
+   "fabricant_id": "ORG-3M",
+   "categorie_code": "film_adhesif",
+   "designation": "Film auto-adhésif Scotchcal 100-10 white (3M)"
+  },
+  {
+   "id": "REF-FORSTER-907662",
+   "reference_normalisee": "907662",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "paumelle",
+   "designation": "Paumelle à souder 2D"
+  },
+  {
+   "id": "REF-FORSTER-907663",
+   "reference_normalisee": "907663",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "paumelle",
+   "designation": "Paumelle à souder 2D"
+  },
+  {
+   "id": "REF-FORSTER-907667",
+   "reference_normalisee": "907667",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "paumelle",
+   "designation": "Paumelle à souder 3D"
+  },
+  {
+   "id": "REF-FORSTER-907600",
+   "reference_normalisee": "907600",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "paumelle",
+   "designation": "Paumelle à visser"
+  },
+  {
+   "id": "REF-FORSTER-907618",
+   "reference_normalisee": "907618",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "paumelle",
+   "designation": "Paumelle à visser"
+  },
+  {
+   "id": "REF-FORSTER-917644",
+   "reference_normalisee": "917644",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "paumelle",
+   "designation": "Paumelle à visser"
+  },
+  {
+   "id": "REF-FORSTER-917645",
+   "reference_normalisee": "917645",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "paumelle",
+   "designation": "Paumelle à visser"
+  },
+  {
+   "id": "REF-FORSTER-917654",
+   "reference_normalisee": "917654",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "paumelle",
+   "designation": "Paumelle à visser"
+  },
+  {
+   "id": "REF-FORSTER-917655",
+   "reference_normalisee": "917655",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "paumelle",
+   "designation": "Paumelle à visser"
+  },
+  {
+   "id": "REF-FORSTER-917611",
+   "reference_normalisee": "917611",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "paumelle",
+   "designation": "Paumelle 917611 (anciennement 907642)"
+  },
+  {
+   "id": "REF-FORSTER-917013",
+   "reference_normalisee": "917013",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "pion_anti_degondage",
+   "designation": "Pion anti-dégondage"
+  },
+  {
+   "id": "REF-FORSTER-917025",
+   "reference_normalisee": "917025",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "pion_anti_degondage",
+   "designation": "Pion anti-dégondage"
+  },
+  {
+   "id": "REF-DORMA-7441",
+   "reference_normalisee": "7441",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "bras_pivot",
+   "designation": "Bras à souder 7441 (bras du bas)"
+  },
+  {
+   "id": "REF-DORMA-7441K",
+   "reference_normalisee": "7441K",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "bras_pivot",
+   "designation": "Bras à souder 7441 K (pivot du haut complet)"
+  },
+  {
+   "id": "REF-DORMA-BTS80F",
+   "reference_normalisee": "BTS80F",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "pivot_sol",
+   "designation": "Pivot de sol BTS 80F"
+  },
+  {
+   "id": "REF-DORMA-BTS80EMB",
+   "reference_normalisee": "BTS80EMB",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "pivot_sol",
+   "designation": "Pivot de sol BTS 80 EMB"
+  },
+  {
+   "id": "REF-DORMA-BTS75V",
+   "reference_normalisee": "BTS75V",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "pivot_sol",
+   "designation": "Pivot de sol BTS 75V"
+  },
+  {
+   "id": "REF-DORMA-BTS84",
+   "reference_normalisee": "BTS84",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "pivot_sol",
+   "designation": "Pivot de sol BTS 84"
+  },
+  {
+   "id": "REF-SEVAX-JANUS",
+   "reference_normalisee": "JANUS",
+   "fabricant_id": "ORG-SEVAX",
+   "categorie_code": "pivot_sol",
+   "designation": "Pivot de sol JANUS"
+  },
+  {
+   "id": "REF-SEVAX-MINOS",
+   "reference_normalisee": "MINOS",
+   "fabricant_id": "ORG-SEVAX",
+   "categorie_code": "pivot_sol",
+   "designation": "Pivot de sol MINOS"
+  },
+  {
+   "id": "REF-GEZE-TS500",
+   "reference_normalisee": "TS500",
+   "fabricant_id": "ORG-GEZE",
+   "categorie_code": "pivot_sol",
+   "designation": "Pivot de sol TS500"
+  },
+  {
+   "id": "REF-GEZE-TS550",
+   "reference_normalisee": "TS550",
+   "fabricant_id": "ORG-GEZE",
+   "categorie_code": "pivot_sol",
+   "designation": "Pivot de sol TS550"
+  },
+  {
+   "id": "REF-DORMA-HZ33F",
+   "reference_normalisee": "HZ33F",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "verrou",
+   "designation": "Verrou automatique à mortaiser HZ33F (DORMA) en traverse haute"
+  },
+  {
+   "id": "REF-DORMA-HZ43F",
+   "reference_normalisee": "HZ43F",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "verrou",
+   "designation": "Verrou automatique HZ43F (DORMA) — en lieu et place du HZ33F"
+  },
+  {
+   "id": "REF-FORSTER-907720",
+   "reference_normalisee": "907720",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Serrure 1 point classique (béquille et/ou push-bar) — fonction W sans AP, DIN G"
+  },
+  {
+   "id": "REF-FORSTER-907220",
+   "reference_normalisee": "907220",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Coffre de serrure"
+  },
+  {
+   "id": "REF-FORSTER-907001",
+   "reference_normalisee": "907001",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "gache",
+   "designation": "Gâche"
+  },
+  {
+   "id": "REF-FORSTER-907724",
+   "reference_normalisee": "907724",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Serrure 1 point classique (béquille et/ou push-bar) — fonction E avec AP, DIN G"
+  },
+  {
+   "id": "REF-FORSTER-907224",
+   "reference_normalisee": "907224",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Coffre de serrure"
+  },
+  {
+   "id": "REF-FORSTER-907728",
+   "reference_normalisee": "907728",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Serrure 1 point classique (béquille et/ou push-bar) — fonction B avec AP, DIN G"
+  },
+  {
+   "id": "REF-FORSTER-907228",
+   "reference_normalisee": "907228",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Coffre de serrure"
+  },
+  {
+   "id": "REF-FORSTER-907403",
+   "reference_normalisee": "907403",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Serrure 1 point classique (béquille et/ou push-bar) — fonction D avec AP, DIN G"
+  },
+  {
+   "id": "REF-FORSTER-907721",
+   "reference_normalisee": "907721",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Serrure 1 point classique (béquille et/ou push-bar) — fonction W sans AP, DIN D"
+  },
+  {
+   "id": "REF-FORSTER-907221",
+   "reference_normalisee": "907221",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Coffre de serrure"
+  },
+  {
+   "id": "REF-FORSTER-907725",
+   "reference_normalisee": "907725",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Serrure 1 point classique (béquille et/ou push-bar) — fonction E avec AP, DIN D"
+  },
+  {
+   "id": "REF-FORSTER-907225",
+   "reference_normalisee": "907225",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Coffre de serrure"
+  },
+  {
+   "id": "REF-FORSTER-907729",
+   "reference_normalisee": "907729",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Serrure 1 point classique (béquille et/ou push-bar) — fonction B avec AP, DIN D"
+  },
+  {
+   "id": "REF-FORSTER-907229",
+   "reference_normalisee": "907229",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Coffre de serrure"
+  },
+  {
+   "id": "REF-FORSTER-907402",
+   "reference_normalisee": "907402",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Serrure 1 point classique (béquille et/ou push-bar) — fonction D avec AP, DIN D"
+  },
+  {
+   "id": "REF-FORSTER-917732",
+   "reference_normalisee": "917732",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Serrure 2 points classique (béquille et/ou push-bar) — fonction L+W sans AP, DIN G"
+  },
+  {
+   "id": "REF-FORSTER-907232",
+   "reference_normalisee": "907232",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Coffre de serrure"
+  },
+  {
+   "id": "REF-FORSTER-917736",
+   "reference_normalisee": "917736",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Serrure 2 points classique (béquille et/ou push-bar) — fonction E avec AP, DIN G"
+  },
+  {
+   "id": "REF-FORSTER-907236",
+   "reference_normalisee": "907236",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Coffre de serrure"
+  },
+  {
+   "id": "REF-FORSTER-917740",
+   "reference_normalisee": "917740",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Serrure 2 points classique (béquille et/ou push-bar) — fonction B avec AP, DIN G"
+  },
+  {
+   "id": "REF-FORSTER-907240",
+   "reference_normalisee": "907240",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Coffre de serrure"
+  },
+  {
+   "id": "REF-FORSTER-917733",
+   "reference_normalisee": "917733",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Serrure 2 points classique (béquille et/ou push-bar) — fonction L+W sans AP, DIN D"
+  },
+  {
+   "id": "REF-FORSTER-907233",
+   "reference_normalisee": "907233",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Coffre de serrure"
+  },
+  {
+   "id": "REF-FORSTER-917737",
+   "reference_normalisee": "917737",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Serrure 2 points classique (béquille et/ou push-bar) — fonction E avec AP, DIN D"
+  },
+  {
+   "id": "REF-FORSTER-907237",
+   "reference_normalisee": "907237",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Coffre de serrure"
+  },
+  {
+   "id": "REF-FORSTER-917741",
+   "reference_normalisee": "917741",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Serrure 2 points classique (béquille et/ou push-bar) — fonction B avec AP, DIN D"
+  },
+  {
+   "id": "REF-FORSTER-907241",
+   "reference_normalisee": "907241",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Coffre de serrure"
+  },
+  {
+   "id": "REF-FORSTER-907734",
+   "reference_normalisee": "907734",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Serrure 1 point version push-bar — fonction B avec AP, DIN D"
+  },
+  {
+   "id": "REF-FORSTER-907262",
+   "reference_normalisee": "907262",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Coffre de serrure"
+  },
+  {
+   "id": "REF-FORSTER-947023",
+   "reference_normalisee": "947023",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "gache",
+   "designation": "Gâche"
+  },
+  {
+   "id": "REF-FORSTER-907735",
+   "reference_normalisee": "907735",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Serrure 1 point version push-bar — fonction B avec AP, DIN G"
+  },
+  {
+   "id": "REF-FORSTER-907261",
+   "reference_normalisee": "907261",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Coffre de serrure"
+  },
+  {
+   "id": "REF-FORSTER-917764",
+   "reference_normalisee": "917764",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Serrure 2 points version push-bar — fonction B avec AP, DIN D"
+  },
+  {
+   "id": "REF-FORSTER-917765",
+   "reference_normalisee": "917765",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Serrure 2 points version push-bar — fonction B avec AP, DIN G"
+  },
+  {
+   "id": "REF-FORSTER-907038",
+   "reference_normalisee": "907038",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "gache_electrique",
+   "designation": "Kit gâche ou coffre — contrôle d'accès"
+  },
+  {
+   "id": "REF-FORSTER-907039",
+   "reference_normalisee": "907039",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "gache_electrique",
+   "designation": "Kit gâche ou coffre — contrôle d'accès"
+  },
+  {
+   "id": "REF-EFF-EFF-142U",
+   "reference_normalisee": "142U",
+   "fabricant_id": "ORG-EFF-EFF",
+   "categorie_code": "gache_electrique",
+   "designation": "Ouverture électrique (latérale)"
+  },
+  {
+   "id": "REF-EFF-EFF-143",
+   "reference_normalisee": "143",
+   "fabricant_id": "ORG-EFF-EFF",
+   "categorie_code": "gache_electrique",
+   "designation": "Ouverture électrique (latérale)"
+  },
+  {
+   "id": "REF-DORMA-442RR",
+   "reference_normalisee": "442RR",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "gache_electrique",
+   "designation": "Ouverture électrique (latérale)"
+  },
+  {
+   "id": "REF-FORSTER-907441D",
+   "reference_normalisee": "907441D",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "gache_electrique",
+   "designation": "Ouverture électrique (latérale)"
+  },
+  {
+   "id": "REF-FORSTER-907442G",
+   "reference_normalisee": "907442G",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "gache_electrique",
+   "designation": "Ouverture électrique (latérale)"
+  },
+  {
+   "id": "REF-EFF-EFF-145",
+   "reference_normalisee": "145",
+   "fabricant_id": "ORG-EFF-EFF",
+   "categorie_code": "gache_electrique",
+   "designation": "Ouverture électrique (haute)"
+  },
+  {
+   "id": "REF-FORSTER-907294",
+   "reference_normalisee": "907294",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "barre_antipanique",
+   "designation": "Push-bar pour longueur de 650 à 799 mm"
+  },
+  {
+   "id": "REF-FORSTER-907295",
+   "reference_normalisee": "907295",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "barre_antipanique",
+   "designation": "Push-bar pour longueur de 800 à 950 mm"
+  },
+  {
+   "id": "REF-FORSTER-907296",
+   "reference_normalisee": "907296",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "barre_antipanique",
+   "designation": "Push-bar pour longueur de 951 à 1100 mm"
+  },
+  {
+   "id": "REF-FORSTER-907297",
+   "reference_normalisee": "907297",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "barre_antipanique",
+   "designation": "Push-bar pour longueur de 1101 à 1250 mm"
+  },
+  {
+   "id": "REF-FORSTER-917746",
+   "reference_normalisee": "917746",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Commande à levier — vantail secondaire (semi-fixe)"
+  },
+  {
+   "id": "REF-FORSTER-907247",
+   "reference_normalisee": "907247",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Coffre"
+  },
+  {
+   "id": "REF-FORSTER-917747",
+   "reference_normalisee": "917747",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Commande à levier — vantail secondaire (semi-fixe)"
+  },
+  {
+   "id": "REF-FORSTER-907246",
+   "reference_normalisee": "907246",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Coffre"
+  },
+  {
+   "id": "REF-FORSTER-907438",
+   "reference_normalisee": "907438",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "verrou",
+   "designation": "Commande à levier 907438 — vantail secondaire"
+  },
+  {
+   "id": "REF-FORSTER-917752",
+   "reference_normalisee": "917752",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Équipement complet 2 vantaux — serrure 1 point, fonction E avec AP, DIN G"
+  },
+  {
+   "id": "REF-FORSTER-907249",
+   "reference_normalisee": "907249",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Coffre vantail principal"
+  },
+  {
+   "id": "REF-FORSTER-907435",
+   "reference_normalisee": "907435",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Coffre vantail secondaire"
+  },
+  {
+   "id": "REF-FORSTER-917753",
+   "reference_normalisee": "917753",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Équipement complet 2 vantaux — serrure 1 point, fonction B avec AP, DIN G"
+  },
+  {
+   "id": "REF-FORSTER-907253",
+   "reference_normalisee": "907253",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Coffre vantail principal"
+  },
+  {
+   "id": "REF-FORSTER-907436",
+   "reference_normalisee": "907436",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Coffre vantail secondaire"
+  },
+  {
+   "id": "REF-FORSTER-907411",
+   "reference_normalisee": "907411",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Équipement complet 2 vantaux — serrure 1 point, fonction D avec AP, DIN G"
+  },
+  {
+   "id": "REF-FORSTER-917754",
+   "reference_normalisee": "917754",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Équipement complet 2 vantaux — serrure 1 point, fonction E avec AP, DIN D"
+  },
+  {
+   "id": "REF-FORSTER-907290",
+   "reference_normalisee": "907290",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Coffre vantail principal"
+  },
+  {
+   "id": "REF-FORSTER-917755",
+   "reference_normalisee": "917755",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Équipement complet 2 vantaux — serrure 1 point, fonction B avec AP, DIN D"
+  },
+  {
+   "id": "REF-FORSTER-907254",
+   "reference_normalisee": "907254",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Coffre vantail principal"
+  },
+  {
+   "id": "REF-FORSTER-907410",
+   "reference_normalisee": "907410",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Équipement complet 2 vantaux — serrure 1 point, fonction D avec AP, DIN D"
+  },
+  {
+   "id": "REF-FORSTER-917760",
+   "reference_normalisee": "917760",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Équipement complet 2 vantaux — serrure 2 points, fonction E avec AP, DIN G"
+  },
+  {
+   "id": "REF-FORSTER-907257",
+   "reference_normalisee": "907257",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Coffre vantail principal"
+  },
+  {
+   "id": "REF-FORSTER-917761",
+   "reference_normalisee": "917761",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Équipement complet 2 vantaux — serrure 2 points, fonction B avec AP, DIN G"
+  },
+  {
+   "id": "REF-FORSTER-917762",
+   "reference_normalisee": "917762",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Équipement complet 2 vantaux — serrure 2 points, fonction E avec AP, DIN D"
+  },
+  {
+   "id": "REF-FORSTER-907258",
+   "reference_normalisee": "907258",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "coffre_serrure",
+   "designation": "Coffre vantail principal"
+  },
+  {
+   "id": "REF-FORSTER-917763",
+   "reference_normalisee": "917763",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Équipement complet 2 vantaux — serrure 2 points, fonction B avec AP, DIN D"
+  },
+  {
+   "id": "REF-FORSTER-917766",
+   "reference_normalisee": "917766",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_serrure",
+   "designation": "Équipement vantail secondaire (semi-fixe) — version push-bar"
+  },
+  {
+   "id": "REF-EFF-EFF-309X-PZ",
+   "reference_normalisee": "309X---PZ",
+   "fabricant_id": "ORG-EFF-EFF",
+   "categorie_code": "serrure",
+   "designation": "Serrure solénoïde 309X---PZ — mecanique — entraxe 35 mm"
+  },
+  {
+   "id": "REF-ABLOY-KEL060",
+   "reference_normalisee": "KEL060",
+   "fabricant_id": "ORG-ABLOY",
+   "categorie_code": "serrure",
+   "designation": "Serrure solénoïde KEL060 — mecanique — entraxe 35 mm"
+  },
+  {
+   "id": "REF-EFF-EFF-709X-PZ",
+   "reference_normalisee": "709X---PZ",
+   "fabricant_id": "ORG-EFF-EFF",
+   "categorie_code": "serrure",
+   "designation": "Serrure solénoïde 709X---PZ — electrique — entraxe 35 mm"
+  },
+  {
+   "id": "REF-ABLOY-KEL460",
+   "reference_normalisee": "KEL460",
+   "fabricant_id": "ORG-ABLOY",
+   "categorie_code": "serrure",
+   "designation": "Serrure solénoïde KEL460 — electrique — entraxe 35 mm"
+  },
+  {
+   "id": "REF-EFF-EFF-709X-PZX",
+   "reference_normalisee": "709X---PZX",
+   "fabricant_id": "ORG-EFF-EFF",
+   "categorie_code": "serrure",
+   "designation": "Serrure solénoïde 709X---PZX — electrique — entraxe 35 mm"
+  },
+  {
+   "id": "REF-ABLOY-KEL461",
+   "reference_normalisee": "KEL461",
+   "fabricant_id": "ORG-ABLOY",
+   "categorie_code": "serrure",
+   "designation": "Serrure solénoïde KEL461 — electrique — entraxe 35 mm"
+  },
+  {
+   "id": "REF-EFF-EFF-509X-PZ",
+   "reference_normalisee": "509X-PZ",
+   "fabricant_id": "ORG-EFF-EFF",
+   "categorie_code": "serrure",
+   "designation": "Serrure solénoïde 509X-PZ — motorisee — entraxe 35 mm"
+  },
+  {
+   "id": "REF-EFF-EFF-509XSTRG",
+   "reference_normalisee": "509XSTRG",
+   "fabricant_id": "ORG-EFF-EFF",
+   "categorie_code": "serrure",
+   "designation": "Serrure solénoïde 509XSTRG — motorisee — entraxe 35 mm"
+  },
+  {
+   "id": "REF-ABLOY-KEL420",
+   "reference_normalisee": "KEL420",
+   "fabricant_id": "ORG-ABLOY",
+   "categorie_code": "serrure",
+   "designation": "Serrure solénoïde KEL420 — motorisee — entraxe 35 mm"
+  },
+  {
+   "id": "REF-ABLOY-KEL461PCKELDAS",
+   "reference_normalisee": "KEL461+CKELDAS",
+   "fabricant_id": "ORG-ABLOY",
+   "categorie_code": "serrure",
+   "designation": "Serrure solénoïde KEL461 + CKEL DAS — das electrique — entraxe 35 mm"
+  },
+  {
+   "id": "REF-DORMA-TV100",
+   "reference_normalisee": "TV100",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "ventouse",
+   "designation": "Verrou supplémentaire électromagnétique en applique TV 100"
+  },
+  {
+   "id": "REF-DORMA-TV200",
+   "reference_normalisee": "TV200",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "ventouse",
+   "designation": "Verrou supplémentaire électromagnétique en applique TV 200"
+  },
+  {
+   "id": "REF-GEZE-VCAN",
+   "reference_normalisee": "VCAN",
+   "fabricant_id": "ORG-GEZE",
+   "categorie_code": "ventouse",
+   "designation": "Verrou supplémentaire électromagnétique en applique VCAN"
+  },
+  {
+   "id": "REF-DORMA-TS72",
+   "reference_normalisee": "TS72",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "ferme_porte",
+   "designation": "Ferme-porte TS72"
+  },
+  {
+   "id": "REF-DORMA-TS73",
+   "reference_normalisee": "TS73",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "ferme_porte",
+   "designation": "Ferme-porte TS73"
+  },
+  {
+   "id": "REF-DORMA-TS83",
+   "reference_normalisee": "TS83",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "ferme_porte",
+   "designation": "Ferme-porte TS83"
+  },
+  {
+   "id": "REF-DORMA-TS90",
+   "reference_normalisee": "TS90",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "ferme_porte",
+   "designation": "Ferme-porte TS90"
+  },
+  {
+   "id": "REF-DORMA-TS91",
+   "reference_normalisee": "TS91",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "ferme_porte",
+   "designation": "Ferme-porte TS91"
+  },
+  {
+   "id": "REF-DORMA-TS92",
+   "reference_normalisee": "TS92",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "ferme_porte",
+   "designation": "Ferme-porte TS92"
+  },
+  {
+   "id": "REF-DORMA-TS93",
+   "reference_normalisee": "TS93",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "ferme_porte",
+   "designation": "Ferme-porte TS93"
+  },
+  {
+   "id": "REF-DORMA-ED100",
+   "reference_normalisee": "ED100",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "ouvre_porte",
+   "designation": "Ferme-porte ED100"
+  },
+  {
+   "id": "REF-DORMA-ED200",
+   "reference_normalisee": "ED200",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "ouvre_porte",
+   "designation": "Ferme-porte ED200"
+  },
+  {
+   "id": "REF-DORMA-ED250",
+   "reference_normalisee": "ED250",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "ouvre_porte",
+   "designation": "Ferme-porte ED250"
+  },
+  {
+   "id": "REF-DORMA-TS99FL",
+   "reference_normalisee": "TS99FL",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "ferme_porte",
+   "designation": "Ferme-porte TS99FL"
+  },
+  {
+   "id": "REF-GEZE-TS1500",
+   "reference_normalisee": "TS1500",
+   "fabricant_id": "ORG-GEZE",
+   "categorie_code": "ferme_porte",
+   "designation": "Ferme-porte TS1500"
+  },
+  {
+   "id": "REF-GEZE-TS2000",
+   "reference_normalisee": "TS2000",
+   "fabricant_id": "ORG-GEZE",
+   "categorie_code": "ferme_porte",
+   "designation": "Ferme-porte TS2000"
+  },
+  {
+   "id": "REF-GEZE-TS3000",
+   "reference_normalisee": "TS3000",
+   "fabricant_id": "ORG-GEZE",
+   "categorie_code": "ferme_porte",
+   "designation": "Ferme-porte TS3000"
+  },
+  {
+   "id": "REF-GEZE-TS4000",
+   "reference_normalisee": "TS4000",
+   "fabricant_id": "ORG-GEZE",
+   "categorie_code": "ferme_porte",
+   "designation": "Ferme-porte TS4000"
+  },
+  {
+   "id": "REF-GEZE-TS5000",
+   "reference_normalisee": "TS5000",
+   "fabricant_id": "ORG-GEZE",
+   "categorie_code": "ferme_porte",
+   "designation": "Ferme-porte TS5000"
+  },
+  {
+   "id": "REF-GEZE-TSWOOD",
+   "reference_normalisee": "TSWOOD",
+   "fabricant_id": "ORG-GEZE",
+   "categorie_code": "ferme_porte",
+   "designation": "Ferme-porte TS WOOD"
+  },
+  {
+   "id": "REF-GEZE-ISA160",
+   "reference_normalisee": "ISA160",
+   "fabricant_id": "ORG-GEZE",
+   "categorie_code": "ouvre_porte",
+   "designation": "Ferme-porte ISA160"
+  },
+  {
+   "id": "REF-GEZE-SLIMDRIVEEMD-F",
+   "reference_normalisee": "SLIMDRIVEEMD-F",
+   "fabricant_id": "ORG-GEZE",
+   "categorie_code": "ouvre_porte",
+   "designation": "Ferme-porte SLIMDRIVE EMD-F"
+  },
+  {
+   "id": "REF-LEVASSEUR-HL100",
+   "reference_normalisee": "HL100",
+   "fabricant_id": "ORG-LEVASSEUR",
+   "categorie_code": "ferme_porte",
+   "designation": "Ferme-porte HL100"
+  },
+  {
+   "id": "REF-DORMA-1593",
+   "reference_normalisee": "1593",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "ferme_porte",
+   "designation": "Ferme-porte « 1593 » (DORMA) avec kit de protection 904001"
+  },
+  {
+   "id": "REF-FORSTER-904001",
+   "reference_normalisee": "904001",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "kit_protection",
+   "designation": "Kit de protection de ferme-porte"
+  },
+  {
+   "id": "REF-DORMA-ITS96EN2-4",
+   "reference_normalisee": "ITS96EN2-4",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "ferme_porte",
+   "designation": "Ferme-porte encastré (invisible) ITS96 EN 2-4"
+  },
+  {
+   "id": "REF-GEZE-SRWAB",
+   "reference_normalisee": "SRWAB",
+   "fabricant_id": "ORG-GEZE",
+   "categorie_code": "selecteur_fermeture",
+   "designation": "Sélecteur de fermeture SR WAB"
+  },
+  {
+   "id": "REF-DICTATOR-SR90",
+   "reference_normalisee": "SR90",
+   "fabricant_id": "ORG-DICTATOR",
+   "categorie_code": "selecteur_fermeture",
+   "designation": "Sélecteur de fermeture SR 90"
+  },
+  {
+   "id": "REF-DORMA-SR390",
+   "reference_normalisee": "SR390",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "selecteur_fermeture",
+   "designation": "Sélecteur de fermeture SR 390"
+  },
+  {
+   "id": "REF-FORSTER-907100",
+   "reference_normalisee": "907100",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "selecteur_fermeture",
+   "designation": "Sélecteur de fermeture 907100"
+  },
+  {
+   "id": "REF-JPM-91400",
+   "reference_normalisee": "91400",
+   "fabricant_id": "ORG-JPM",
+   "categorie_code": "selecteur_fermeture",
+   "designation": "Sélecteur de fermeture 91400"
+  },
+  {
+   "id": "REF-SEVAX-WA762683",
+   "reference_normalisee": "WA762683",
+   "fabricant_id": "ORG-SEVAX",
+   "categorie_code": "selecteur_fermeture",
+   "designation": "Sélecteur de fermeture WA 762683"
+  },
+  {
+   "id": "REF-LEVASSEUR-SP81",
+   "reference_normalisee": "SP81",
+   "fabricant_id": "ORG-LEVASSEUR",
+   "categorie_code": "selecteur_fermeture",
+   "designation": "Sélecteur de fermeture SP 81"
+  },
+  {
+   "id": "REF-GROOM-SV2PBATTEE",
+   "reference_normalisee": "SV2+BATTEE",
+   "fabricant_id": "ORG-GROOM",
+   "categorie_code": "selecteur_fermeture",
+   "designation": "Sélecteur de fermeture SV 2+ BATTEE"
+  },
+  {
+   "id": "REF-EFF-EFF-AYC-E55",
+   "reference_normalisee": "AYC-E55",
+   "fabricant_id": "ORG-EFF-EFF",
+   "categorie_code": "lecteur",
+   "designation": "Lecteur de code extra plat EFF EFF AYC-E55"
+  },
+  {
+   "id": "REF-EFF-EFF-10312G",
+   "reference_normalisee": "10312G",
+   "fabricant_id": "ORG-EFF-EFF",
+   "categorie_code": "passe_cable",
+   "designation": "Passage de câble invisible EFF EFF"
+  },
+  {
+   "id": "REF-EFF-EFF-Z09XKAB",
+   "reference_normalisee": "Z09XKAB",
+   "fabricant_id": "ORG-EFF-EFF",
+   "categorie_code": "cable",
+   "designation": "Câble de connexion 12 conducteurs"
+  },
+  {
+   "id": "REF-ATHMER-STADIBS",
+   "reference_normalisee": "STADIBS",
+   "fabricant_id": "ORG-ATHMER",
+   "categorie_code": "seuil_automatique",
+   "designation": "Seuil automatique STADI BS"
+  },
+  {
+   "id": "REF-HILTI-HUS7-5X100",
+   "reference_normalisee": "HUS7,5X100",
+   "fabricant_id": "ORG-HILTI",
+   "categorie_code": "fixation",
+   "designation": "Vis HUS 7,5x100 (HILTI)"
+  },
+  {
+   "id": "REF-HILTI-HUS7-5X80",
+   "reference_normalisee": "HUS7,5X80",
+   "fabricant_id": "ORG-HILTI",
+   "categorie_code": "fixation",
+   "designation": "Vis HUS 7,5x80 (HILTI)"
+  },
+  {
+   "id": "REF-HILTI-HUS7-5X120",
+   "reference_normalisee": "HUS7,5X120",
+   "fabricant_id": "ORG-HILTI",
+   "categorie_code": "fixation",
+   "designation": "Vis HUS 7,5x120 (HILTI)"
+  },
+  {
+   "id": "REF-FORSTER-987404",
+   "reference_normalisee": "987404",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "serrure",
+   "designation": "Serrure à rouleau 987404 (rouleau + pêne dormant) — 2 vantaux, vantail mobile"
+  },
+  {
+   "id": "REF-FORSTER-907518",
+   "reference_normalisee": "907518",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "serrure",
+   "designation": "Serrure à rouleau 907518 (rouleau + pêne dormant) — 2 vantaux, vantail mobile"
+  },
+  {
+   "id": "REF-FORSTER-987008",
+   "reference_normalisee": "987008",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "gache",
+   "designation": "Gâche de serrure à rouleau 320 x 29,5 x 3 mm"
+  },
+  {
+   "id": "REF-FORSTER-907030",
+   "reference_normalisee": "907030",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "pene",
+   "designation": "Tige de pêne d'entraînement"
+  },
+  {
+   "id": "REF-FORSTER-907056",
+   "reference_normalisee": "907056",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "pene",
+   "designation": "Pêne haut"
+  },
+  {
+   "id": "REF-FORSTER-917276",
+   "reference_normalisee": "917276",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "pene",
+   "designation": "Pêne de maintien"
+  },
+  {
+   "id": "REF-FORSTER-917028",
+   "reference_normalisee": "917028",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "gache",
+   "designation": "Gâche 70 x 30 x 4 mm (H x L x E)"
+  },
+  {
+   "id": "REF-VETROTECH-CONTRAFLAMLITE30MONOLITHIQUE",
+   "reference_normalisee": "CONTRAFLAMLITE30MONOLITHIQUE",
+   "fabricant_id": "ORG-VETROTECH",
+   "categorie_code": "vitrage",
+   "designation": "CONTRAFLAM LITE 30 MONOLITHIQUE"
+  },
+  {
+   "id": "REF-VETROTECH-CONTRAFLAMLITE30CLIMAPLUSOUCLIMALIT",
+   "reference_normalisee": "CONTRAFLAMLITE30CLIMAPLUSOUCLIMALIT",
+   "fabricant_id": "ORG-VETROTECH",
+   "categorie_code": "vitrage",
+   "designation": "CONTRAFLAM LITE 30 CLIMAPLUS ou CLIMALIT"
+  },
+  {
+   "id": "REF-VETROTECH-CONTRAFLAMLITE60MONOLITHIQUE",
+   "reference_normalisee": "CONTRAFLAMLITE60MONOLITHIQUE",
+   "fabricant_id": "ORG-VETROTECH",
+   "categorie_code": "vitrage",
+   "designation": "CONTRAFLAM LITE 60 MONOLITHIQUE"
+  },
+  {
+   "id": "REF-VETROTECH-CONTRAFLAMLITE60CLIMAPLUSOUCLIMALIT",
+   "reference_normalisee": "CONTRAFLAMLITE60CLIMAPLUSOUCLIMALIT",
+   "fabricant_id": "ORG-VETROTECH",
+   "categorie_code": "vitrage",
+   "designation": "CONTRAFLAM LITE 60 CLIMAPLUS ou CLIMALIT"
+  },
+  {
+   "id": "REF-PYROGUARD-PYROGUARDTE30_6",
+   "reference_normalisee": "PYROGUARDTE30/6",
+   "fabricant_id": "ORG-PYROGUARD",
+   "categorie_code": "vitrage",
+   "designation": "PYROGUARD T E30/6"
+  },
+  {
+   "id": "REF-PYROGUARD-PYROGUARDTE30_8",
+   "reference_normalisee": "PYROGUARDTE30/8",
+   "fabricant_id": "ORG-PYROGUARD",
+   "categorie_code": "vitrage",
+   "designation": "PYROGUARD T E30/8"
+  },
+  {
+   "id": "REF-PYROGUARD-PYROGUARDTE30_10",
+   "reference_normalisee": "PYROGUARDTE30/10",
+   "fabricant_id": "ORG-PYROGUARD",
+   "categorie_code": "vitrage",
+   "designation": "PYROGUARD T E30/10"
+  },
+  {
+   "id": "REF-PYROGUARD-PYROGUARDTE30_12",
+   "reference_normalisee": "PYROGUARDTE30/12",
+   "fabricant_id": "ORG-PYROGUARD",
+   "categorie_code": "vitrage",
+   "designation": "PYROGUARD T E30/12"
+  },
+  {
+   "id": "REF-PYROGUARD-PYROGUARDTEW30_6",
+   "reference_normalisee": "PYROGUARDTEW30/6",
+   "fabricant_id": "ORG-PYROGUARD",
+   "categorie_code": "vitrage",
+   "designation": "PYROGUARD T EW30/6"
+  },
+  {
+   "id": "REF-PYROGUARD-PYROGUARDTEW30_6VF",
+   "reference_normalisee": "PYROGUARDTEW30/6VF",
+   "fabricant_id": "ORG-PYROGUARD",
+   "categorie_code": "vitrage",
+   "designation": "PYROGUARD T EW30/6 VF"
+  },
+  {
+   "id": "REF-PYROGUARD-PYROGUARDTEW30_6VI",
+   "reference_normalisee": "PYROGUARDTEW30/6VI",
+   "fabricant_id": "ORG-PYROGUARD",
+   "categorie_code": "vitrage",
+   "designation": "PYROGUARD T EW30/6 VI"
+  },
+  {
+   "id": "REF-FORSTER-32853",
+   "reference_normalisee": "32853",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profilé de cloison fixe Presto 50"
+  },
+  {
+   "id": "REF-FORSTER-01565",
+   "reference_normalisee": "01565",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profilé de cloison fixe Presto 50"
+  },
+  {
+   "id": "REF-FORSTER-01570",
+   "reference_normalisee": "01570",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profilé de cloison fixe Presto 50"
+  },
+  {
+   "id": "REF-FORSTER-01590",
+   "reference_normalisee": "01590",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profilé de cloison fixe Presto 50"
+  },
+  {
+   "id": "REF-FORSTER-01587",
+   "reference_normalisee": "01587",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profilé de cloison fixe Presto 50"
+  },
+  {
+   "id": "REF-FORSTER-02565",
+   "reference_normalisee": "02565",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profilé de cloison fixe Presto 50"
+  },
+  {
+   "id": "REF-FORSTER-02570",
+   "reference_normalisee": "02570",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profilé de cloison fixe Presto 50"
+  },
+  {
+   "id": "REF-FORSTER-02590",
+   "reference_normalisee": "02590",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profilé de cloison fixe Presto 50"
+  },
+  {
+   "id": "REF-FORSTER-02587",
+   "reference_normalisee": "02587",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profilé de cloison fixe Presto 50"
+  },
+  {
+   "id": "REF-FORSTER-901231",
+   "reference_normalisee": "901231",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "parclose",
+   "designation": "Parclose acier"
+  },
+  {
+   "id": "REF-HILTI-HUS8X135",
+   "reference_normalisee": "HUS8X135",
+   "fabricant_id": "ORG-HILTI",
+   "categorie_code": "fixation",
+   "designation": "Vis HUS 8x135 (HILTI)"
+  },
+  {
+   "id": "REF-HILTI-HUS7-5X160",
+   "reference_normalisee": "HUS7,5X160",
+   "fabricant_id": "ORG-HILTI",
+   "categorie_code": "fixation",
+   "designation": "Vis HUS 7,5x160 (HILTI)"
+  },
+  {
+   "id": "REF-PILKINGTON-PYROSTOP60-101",
+   "reference_normalisee": "PYROSTOP60-101",
+   "fabricant_id": "ORG-PILKINGTON",
+   "categorie_code": "vitrage",
+   "designation": "Pyrostop 60-101"
+  },
+  {
+   "id": "REF-PILKINGTON-PYROSTOP60-201",
+   "reference_normalisee": "PYROSTOP60-201",
+   "fabricant_id": "ORG-PILKINGTON",
+   "categorie_code": "vitrage",
+   "designation": "Pyrostop 60-201"
+  },
+  {
+   "id": "REF-PILKINGTON-PYROSTOP60-201-PVBOPALE",
+   "reference_normalisee": "PYROSTOP60-201(PVBOPALE)",
+   "fabricant_id": "ORG-PILKINGTON",
+   "categorie_code": "vitrage",
+   "designation": "Pyrostop 60-201 (PVB Opale)"
+  },
+  {
+   "id": "REF-PILKINGTON-PYROSTOP60-XXXISOLANT",
+   "reference_normalisee": "PYROSTOP60-XXXISOLANT",
+   "fabricant_id": "ORG-PILKINGTON",
+   "categorie_code": "vitrage",
+   "designation": "Pyrostop 60-xxx Isolant"
+  },
+  {
+   "id": "REF-PILKINGTON-PYROSTOPVISI",
+   "reference_normalisee": "PYROSTOPVISI",
+   "fabricant_id": "ORG-PILKINGTON",
+   "categorie_code": "vitrage",
+   "designation": "Pyrostop 60-1615 / 60-1515 / 60-1815 (VISI)"
+  },
+  {
+   "id": "REF-PILKINGTON-PYROSTOP60-1X1S",
+   "reference_normalisee": "PYROSTOP60-1X1S",
+   "fabricant_id": "ORG-PILKINGTON",
+   "categorie_code": "vitrage",
+   "designation": "Pyrostop 60-151 S / 60-161 S / 60-171 S / 60-181 S (store intégré)"
+  },
+  {
+   "id": "REF-FORSTER-736050",
+   "reference_normalisee": "736050",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profilé Fuego Light 60 (planche 1)"
+  },
+  {
+   "id": "REF-FORSTER-905312",
+   "reference_normalisee": "905312",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "joint_epdm",
+   "designation": "Joint de vitrage EPDM 2 mm"
+  },
+  {
+   "id": "REF-FORSTER-905315",
+   "reference_normalisee": "905315",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "joint_epdm",
+   "designation": "Joint de vitrage EPDM 3-5 mm"
+  },
+  {
+   "id": "REF-FORSTER-905314",
+   "reference_normalisee": "905314",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "joint_epdm",
+   "designation": "Joint de vitrage EPDM 5 mm"
+  },
+  {
+   "id": "REF-FORSTER-905316",
+   "reference_normalisee": "905316",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "joint_epdm",
+   "designation": "Joint de vitrage EPDM 4-6 mm"
+  },
+  {
+   "id": "REF-FORSTER-905317",
+   "reference_normalisee": "905317",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "joint_epdm",
+   "designation": "Joint de vitrage EPDM 6-8 mm"
+  },
+  {
+   "id": "REF-FORSTER-901245",
+   "reference_normalisee": "901245",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "parclose",
+   "designation": "Parclose"
+  },
+  {
+   "id": "REF-FORSTER-906574",
+   "reference_normalisee": "906574",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "vis_bouton",
+   "designation": "Bouton de fixation rivet pop"
+  },
+  {
+   "id": "REF-FORSTER-947026",
+   "reference_normalisee": "947026",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "cornière",
+   "designation": "Contreplaque acier 20 x 25 x 2,5 mm percée Ø8, soudée en fond de feuillure"
+  },
+  {
+   "id": "REF-DOW-DC796",
+   "reference_normalisee": "DC796",
+   "fabricant_id": "ORG-DOW",
+   "categorie_code": "mastic",
+   "designation": "Joint silicone DC 796 (DOW CORNING) ou silicone neutre"
+  },
+  {
+   "id": "REF-FORSTER-76851",
+   "reference_normalisee": "76851",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant / traverse Thermfix Vario 45 x 50 mm"
+  },
+  {
+   "id": "REF-FORSTER-76852",
+   "reference_normalisee": "76852",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant / traverse Thermfix Vario 45 x 75 mm"
+  },
+  {
+   "id": "REF-FORSTER-76853",
+   "reference_normalisee": "76853",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant / traverse Thermfix Vario 45 x 90 mm"
+  },
+  {
+   "id": "REF-FORSTER-76854",
+   "reference_normalisee": "76854",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant / traverse Thermfix Vario 45 x 110 mm"
+  },
+  {
+   "id": "REF-FORSTER-76855",
+   "reference_normalisee": "76855",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant / traverse Thermfix Vario 45 x 130 mm"
+  },
+  {
+   "id": "REF-FORSTER-76856",
+   "reference_normalisee": "76856",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant / traverse Thermfix Vario 45 x 150 mm"
+  },
+  {
+   "id": "REF-FORSTER-76861",
+   "reference_normalisee": "76861",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant / traverse Thermfix Vario 60 x 50 mm"
+  },
+  {
+   "id": "REF-FORSTER-76862",
+   "reference_normalisee": "76862",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant / traverse Thermfix Vario 60 x 75 mm"
+  },
+  {
+   "id": "REF-FORSTER-76863",
+   "reference_normalisee": "76863",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant / traverse Thermfix Vario 60 x 90 mm"
+  },
+  {
+   "id": "REF-FORSTER-76864",
+   "reference_normalisee": "76864",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant / traverse Thermfix Vario 60 x 110 mm"
+  },
+  {
+   "id": "REF-FORSTER-76865",
+   "reference_normalisee": "76865",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant / traverse Thermfix Vario 60 x 130 mm"
+  },
+  {
+   "id": "REF-FORSTER-76866",
+   "reference_normalisee": "76866",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Montant / traverse Thermfix Vario 60 x 150 mm"
+  },
+  {
+   "id": "REF-FORSTER-76859",
+   "reference_normalisee": "76859",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profil rapporté 45 x 20 mm associé à un tube acier (soudure 15 mm pas ≤ 300)"
+  },
+  {
+   "id": "REF-FORSTER-76869",
+   "reference_normalisee": "76869",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profil rapporté 60 x 20 mm associé à un tube acier (soudure 15 mm pas ≤ 300)"
+  },
+  {
+   "id": "REF-PILKINGTON-PYROSTOP60-201PP5A",
+   "reference_normalisee": "PYROSTOP60-201+P5A",
+   "fabricant_id": "ORG-PILKINGTON",
+   "categorie_code": "vitrage",
+   "designation": "Pyrostop 60-201 + P5A"
+  },
+  {
+   "id": "REF-PILKINGTON-PYROSTOP60-201PP6B",
+   "reference_normalisee": "PYROSTOP60-201+P6B",
+   "fabricant_id": "ORG-PILKINGTON",
+   "categorie_code": "vitrage",
+   "designation": "Pyrostop 60-201 + P6B"
+  },
+  {
+   "id": "REF-PILKINGTON-PYROSTOP60-101TRIPLE",
+   "reference_normalisee": "PYROSTOP60-101TRIPLE",
+   "fabricant_id": "ORG-PILKINGTON",
+   "categorie_code": "vitrage",
+   "designation": "Pyrostop 60-101 monté en triple vitrage"
+  },
+  {
+   "id": "REF-FORSTER-933540",
+   "reference_normalisee": "933540",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "serreur",
+   "designation": "Serreur inox Thermfix Vario"
+  },
+  {
+   "id": "REF-FORSTER-933541",
+   "reference_normalisee": "933541",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "serreur",
+   "designation": "Serreur inox Thermfix Vario"
+  },
+  {
+   "id": "REF-FORSTER-933560",
+   "reference_normalisee": "933560",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "serreur",
+   "designation": "Serreur inox Thermfix Vario"
+  },
+  {
+   "id": "REF-FORSTER-933561",
+   "reference_normalisee": "933561",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "serreur",
+   "designation": "Serreur inox Thermfix Vario"
+  },
+  {
+   "id": "REF-FORSTER-935445",
+   "reference_normalisee": "935445",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "joint_epdm",
+   "designation": "Joint EPDM Thermfix Vario 45 x 8 mm"
+  },
+  {
+   "id": "REF-FORSTER-935446",
+   "reference_normalisee": "935446",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "joint_epdm",
+   "designation": "Joint EPDM Thermfix Vario 45 x 8 mm"
+  },
+  {
+   "id": "REF-FORSTER-935460",
+   "reference_normalisee": "935460",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "joint_epdm",
+   "designation": "Joint EPDM Thermfix Vario 60 x 8 mm"
+  },
+  {
+   "id": "REF-FORSTER-935461",
+   "reference_normalisee": "935461",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "joint_epdm",
+   "designation": "Joint EPDM Thermfix Vario 60 x 8 mm"
+  },
+  {
+   "id": "REF-FORSTER-936570",
+   "reference_normalisee": "936570",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "support_verre",
+   "designation": "Base de serrage"
+  },
+  {
+   "id": "REF-FORSTER-948000",
+   "reference_normalisee": "948000",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "joint_intumescent",
+   "designation": "Bande de joint intumescent 24,5 x 1,5 mm en périphérie des remplissages"
+  },
+  {
+   "id": "REF-HENKEL-TEROFOLSD50",
+   "reference_normalisee": "TEROFOLSD50",
+   "fabricant_id": "ORG-HENKEL",
+   "categorie_code": "pare_vapeur",
+   "designation": "Bande pare-vapeur TEROFOL SD50"
+  },
+  {
+   "id": "REF-JUNG-KERAFIX",
+   "reference_normalisee": "KERAFIX",
+   "fabricant_id": "ORG-JUNG",
+   "categorie_code": "mastic",
+   "designation": "Joint silicone KERAFIX (JUNG)"
+  },
+  {
+   "id": "REF-ILLBRUCK-ALTOFEU",
+   "reference_normalisee": "ALTOFEU",
+   "fabricant_id": "ORG-ILLBRUCK",
+   "categorie_code": "calfeutrement",
+   "designation": "Cordon de laine de roche ALTOFEU (ILLBRÜCK)"
+  },
+  {
+   "id": "REF-HILTI-HST-RM8X75_10",
+   "reference_normalisee": "HST-RM8X75/10",
+   "fabricant_id": "ORG-HILTI",
+   "categorie_code": "fixation",
+   "designation": "Goujon d'ancrage auto-expansif HST-R M8x75/10 (HILTI), trou Ø9"
+  },
+  {
+   "id": "REF-HILTI-HST-RM10X90_10",
+   "reference_normalisee": "HST-RM10X90/10",
+   "fabricant_id": "ORG-HILTI",
+   "categorie_code": "fixation",
+   "designation": "Goujon d'ancrage auto-expansif HST-R M10x90/10 (HILTI), trou Ø11"
+  },
+  {
+   "id": "REF-FORSTER-735851",
+   "reference_normalisee": "735851",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profil acier thermiquement isolé Fuego Light, section 70 x 65 mm (cadre périphérique)"
+  },
+  {
+   "id": "REF-FORSTER-736831",
+   "reference_normalisee": "736831",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profil acier thermiquement isolé Fuego Light, section 50 x 65 mm (cadre périphérique)"
+  },
+  {
+   "id": "REF-FORSTER-735850",
+   "reference_normalisee": "735850",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profil acier thermiquement isolé Fuego Light, section 50 x 65 mm (cadre périphérique)"
+  },
+  {
+   "id": "REF-FORSTER-736830",
+   "reference_normalisee": "736830",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profil acier thermiquement isolé Fuego Light, section 30 x 65 mm (cadre périphérique)"
+  },
+  {
+   "id": "REF-FORSTER-980101",
+   "reference_normalisee": "980101",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "busette",
+   "designation": "Busette PA 6.6 Ø9,5 mm, à 80 mm des extrémités puis pas ≤ 500 mm, 8 mm de l'extrémité haute"
+  },
+  {
+   "id": "REF-VETROTECH-CONTRAFLAMSTRUCTURE30",
+   "reference_normalisee": "CONTRAFLAMSTRUCTURE30",
+   "fabricant_id": "ORG-VETROTECH",
+   "categorie_code": "vitrage",
+   "designation": "CONTRAFLAM STRUCTURE 30"
+  },
+  {
+   "id": "REF-VETROTECH-CONTRAFLAMSTRUCTURE30CORNER",
+   "reference_normalisee": "CONTRAFLAMSTRUCTURE30CORNER",
+   "fabricant_id": "ORG-VETROTECH",
+   "categorie_code": "vitrage",
+   "designation": "CONTRAFLAM STRUCTURE 30 CORNER"
+  },
+  {
+   "id": "REF-VETROTECH-CONTRAFLAMSTRUCTURE30CLIMAPLUS",
+   "reference_normalisee": "CONTRAFLAMSTRUCTURE30CLIMAPLUS",
+   "fabricant_id": "ORG-VETROTECH",
+   "categorie_code": "vitrage",
+   "designation": "CONTRAFLAM STRUCTURE 30 CLIMAPLUS"
+  },
+  {
+   "id": "REF-VETROTECH-CONTRAFLAMSTRUCTURE30CLIMALIT",
+   "reference_normalisee": "CONTRAFLAMSTRUCTURE30CLIMALIT",
+   "fabricant_id": "ORG-VETROTECH",
+   "categorie_code": "vitrage",
+   "designation": "CONTRAFLAM STRUCTURE 30 CLIMALIT"
+  },
+  {
+   "id": "REF-VETROTECH-CONTRAFLAMSTRUCTURE30CLIMAPLUSCORNER",
+   "reference_normalisee": "CONTRAFLAMSTRUCTURE30CLIMAPLUSCORNER",
+   "fabricant_id": "ORG-VETROTECH",
+   "categorie_code": "vitrage",
+   "designation": "CONTRAFLAM STRUCTURE 30 CLIMAPLUS CORNER"
+  },
+  {
+   "id": "REF-VETROTECH-CONTRAFLAMSTRUCTURE30CLIMALITCORNER",
+   "reference_normalisee": "CONTRAFLAMSTRUCTURE30CLIMALITCORNER",
+   "fabricant_id": "ORG-VETROTECH",
+   "categorie_code": "vitrage",
+   "designation": "CONTRAFLAM STRUCTURE 30 CLIMALIT CORNER"
+  },
+  {
+   "id": "REF-FORSTER-901248",
+   "reference_normalisee": "901248",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "parclose",
+   "designation": "Parclose acier (simple parclosage) sur boutons 906577/906578/906579"
+  },
+  {
+   "id": "REF-FORSTER-901204",
+   "reference_normalisee": "901204",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "parclose",
+   "designation": "Parclose acier fixée par vis Ø4,8 x 19 mm"
+  },
+  {
+   "id": "REF-FORSTER-901205",
+   "reference_normalisee": "901205",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "parclose",
+   "designation": "Parclose acier fixée par vis Ø4,8 x 19 mm"
+  },
+  {
+   "id": "REF-FORSTER-901206",
+   "reference_normalisee": "901206",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "parclose",
+   "designation": "Parclose acier fixée par vis Ø4,8 x 19 mm"
+  },
+  {
+   "id": "REF-INCONNU-PALUSOLALU",
+   "reference_normalisee": "PALUSOLALU",
+   "fabricant_id": null,
+   "categorie_code": "joint_intumescent",
+   "designation": "Bande PALUSOL « Alu » (ép. vitrage − 2) x 2 mm collée sur la tranche — jonction en ligne"
+  },
+  {
+   "id": "REF-ODICE-PALUSOLT",
+   "reference_normalisee": "PALUSOLT",
+   "fabricant_id": "ORG-ODICE",
+   "categorie_code": "joint_intumescent",
+   "designation": "Bande PALUSOL T (ODICE) (ép. vitrage − 3) x 2 mm — jonction CORNER 90°"
+  },
+  {
+   "id": "REF-KUHN-KERAFIXFXL200",
+   "reference_normalisee": "KERAFIXFXL200",
+   "fabricant_id": "ORG-KUHN",
+   "categorie_code": "joint_intumescent",
+   "designation": "Bande intumescente KERAFIX FXL 200 (KUHN) — jonctions en ligne, CORNER et angle X"
+  },
+  {
+   "id": "REF-DOW-DOWSIL895",
+   "reference_normalisee": "DOWSIL895",
+   "fabricant_id": "ORG-DOW",
+   "categorie_code": "mastic",
+   "designation": "Mastic silicone DOWSIL 895 de part et d'autre des vitrages / bandes"
+  },
+  {
+   "id": "REF-DOW-DOWSIL995",
+   "reference_normalisee": "DOWSIL995",
+   "fabricant_id": "ORG-DOW",
+   "categorie_code": "mastic",
+   "designation": "Mastic silicone DOWSIL 995 de part et d'autre des vitrages / bandes"
+  },
+  {
+   "id": "REF-FISCHER-FFSD7-5X72",
+   "reference_normalisee": "FFSD7,5X72",
+   "fabricant_id": "ORG-FISCHER",
+   "categorie_code": "fixation",
+   "designation": "Vis FFS D7,5x72"
+  },
+  {
+   "id": "REF-HILTI-HUSD6X80",
+   "reference_normalisee": "HUSD6X80",
+   "fabricant_id": "ORG-HILTI",
+   "categorie_code": "fixation",
+   "designation": "Vis HUS D6x80"
+  },
+  {
+   "id": "REF-FORSTER-735854",
+   "reference_normalisee": "735854",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profilé acier isolé 70 x 65 mm"
+  },
+  {
+   "id": "REF-FORSTER-735800_T",
+   "reference_normalisee": "735800/T",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profilé acier isolé 70 x 65 mm"
+  },
+  {
+   "id": "REF-FORSTER-735852",
+   "reference_normalisee": "735852",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profilé acier isolé 90 x 65 mm"
+  },
+  {
+   "id": "REF-FORSTER-735855",
+   "reference_normalisee": "735855",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profilé acier isolé 90 x 65 mm"
+  },
+  {
+   "id": "REF-FORSTER-735700_T",
+   "reference_normalisee": "735700/T",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profilé acier isolé 100 x 65 mm"
+  },
+  {
+   "id": "REF-FORSTER-735300_T",
+   "reference_normalisee": "735300/T",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profilé acier isolé 125 x 65 mm"
+  },
+  {
+   "id": "REF-FORSTER-735853",
+   "reference_normalisee": "735853",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profilé acier isolé 90 x 65 mm"
+  },
+  {
+   "id": "REF-FORSTER-943264",
+   "reference_normalisee": "943264",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profilé acier isolé 70 x 65 mm"
+  },
+  {
+   "id": "REF-FORSTER-943265",
+   "reference_normalisee": "943265",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profilé acier isolé 70 x 65 mm"
+  },
+  {
+   "id": "REF-FORSTER-735850_T",
+   "reference_normalisee": "735850/T",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profilé acier isolé 50 x 65 mm"
+  },
+  {
+   "id": "REF-FORSTER-736832",
+   "reference_normalisee": "736832",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "profile",
+   "designation": "Profilé acier isolé 70 x 65 mm"
+  },
+  {
+   "id": "REF-POLFLAM-FIREFLAM30",
+   "reference_normalisee": "FIREFLAM30",
+   "fabricant_id": "ORG-POLFLAM",
+   "categorie_code": "vitrage",
+   "designation": "POLFLAM EI 30 / FIREFLAM 30"
+  },
+  {
+   "id": "REF-POLFLAM-FIREFLAM30DGU",
+   "reference_normalisee": "FIREFLAM30DGU",
+   "fabricant_id": "ORG-POLFLAM",
+   "categorie_code": "vitrage",
+   "designation": "POLFLAM EI 30 DGU / FIREFLAM 30 DGU"
+  },
+  {
+   "id": "REF-FORSTER-957010",
+   "reference_normalisee": "957010",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "pion_anti_degondage",
+   "designation": "Pion anti-dégondage à mi-hauteur"
+  },
+  {
+   "id": "REF-FORSTER-947013",
+   "reference_normalisee": "947013",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "pion_anti_degondage",
+   "designation": "Pion anti-dégondage à mi-hauteur"
+  },
+  {
+   "id": "REF-FORSTER-907664",
+   "reference_normalisee": "907664",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "paumelle",
+   "designation": "Paumelle à souder 2D"
+  },
+  {
+   "id": "REF-FORSTER-907668",
+   "reference_normalisee": "907668",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "paumelle",
+   "designation": "Paumelle à souder 3D"
+  },
+  {
+   "id": "REF-FORSTER-907669",
+   "reference_normalisee": "907669",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "paumelle",
+   "designation": "Paumelle à souder 3D"
+  },
+  {
+   "id": "REF-FORSTER-907670",
+   "reference_normalisee": "907670",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "paumelle",
+   "designation": "Paumelle à visser 3D"
+  },
+  {
+   "id": "REF-FORSTER-907671",
+   "reference_normalisee": "907671",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "paumelle",
+   "designation": "Paumelle à visser 3D"
+  },
+  {
+   "id": "REF-FORSTER-907672",
+   "reference_normalisee": "907672",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "paumelle",
+   "designation": "Paumelle à visser 3D"
+  },
+  {
+   "id": "REF-FORSTER-907673",
+   "reference_normalisee": "907673",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "paumelle",
+   "designation": "Paumelle à visser 3D"
+  },
+  {
+   "id": "REF-FORSTER-907652",
+   "reference_normalisee": "907652",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "paumelle",
+   "designation": "Paumelle à visser 2D"
+  },
+  {
+   "id": "REF-FORSTER-907653",
+   "reference_normalisee": "907653",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "paumelle",
+   "designation": "Paumelle à visser 2D"
+  },
+  {
+   "id": "REF-FORSTER-907656",
+   "reference_normalisee": "907656",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "paumelle",
+   "designation": "Paumelle à visser 2D"
+  },
+  {
+   "id": "REF-FORSTER-907657",
+   "reference_normalisee": "907657",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "paumelle",
+   "designation": "Paumelle à visser 2D"
+  },
+  {
+   "id": "REF-FORSTER-907740",
+   "reference_normalisee": "907740",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "paumelle",
+   "designation": "Paumelle à encastrer invisible"
+  },
+  {
+   "id": "REF-EFF-EFF-118PROFIX2",
+   "reference_normalisee": "118PROFIX2",
+   "fabricant_id": "ORG-EFF-EFF",
+   "categorie_code": "gache_electrique",
+   "designation": "Gâche électrique à émission 118 profix 2 (EFF EFF) — ouvertures électriques médianes et/ou hautes"
+  },
+  {
+   "id": "REF-FORSTER-957018",
+   "reference_normalisee": "957018",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "verrou_thermique",
+   "designation": "Verrou thermique 957018 au plan de jonction — axé à 120 mm du haut du vantail"
+  },
+  {
+   "id": "REF-FORSTER-957019",
+   "reference_normalisee": "957019",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "verrou_thermique",
+   "designation": "Verrou thermique 957019 au plan de jonction — axé à 120 mm du haut du vantail"
+  },
+  {
+   "id": "REF-FORSTER-907276",
+   "reference_normalisee": "907276",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "verrou",
+   "designation": "Verrou encastré levier à bascule 907276 — 2 points de verrouillage (obligatoire sur le semi-fixe)"
+  },
+  {
+   "id": "REF-FORSTER-987004",
+   "reference_normalisee": "987004",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "pene",
+   "designation": "Tige de pêne d'entraînement"
+  },
+  {
+   "id": "REF-FORSTER-947214",
+   "reference_normalisee": "947214",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "pene",
+   "designation": "Pêne de maintien"
+  },
+  {
+   "id": "REF-FORSTER-957062",
+   "reference_normalisee": "957062",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "gache",
+   "designation": "Gâche fixée en deux parties"
+  },
+  {
+   "id": "REF-FORSTER-948018",
+   "reference_normalisee": "948018",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "joint_intumescent",
+   "designation": "Joint intumescent au battement côté vantail et dormant (≠ 948002)"
+  },
+  {
+   "id": "REF-FORSTER-907572",
+   "reference_normalisee": "907572",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "gache",
+   "designation": "Gâche de serrure à rouleau"
+  },
+  {
+   "id": "REF-FORSTER-948019",
+   "reference_normalisee": "948019",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "joint_intumescent",
+   "designation": "Joint intumescent ép. 2 mm à côté de la serrure à rouleau et de la gâche"
+  },
+  {
+   "id": "REF-DORMA-TS96",
+   "reference_normalisee": "TS96",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "ferme_porte",
+   "designation": "Ferme-porte en applique TS 96"
+  },
+  {
+   "id": "REF-DORMA-TS98",
+   "reference_normalisee": "TS98",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "ferme_porte",
+   "designation": "Ferme-porte en applique TS 98"
+  },
+  {
+   "id": "REF-ECO-SCHULTE-TS61",
+   "reference_normalisee": "TS61",
+   "fabricant_id": "ORG-ECO-SCHULTE",
+   "categorie_code": "ferme_porte",
+   "designation": "Ferme-porte en applique TS 61"
+  },
+  {
+   "id": "REF-DORMA-ITS96",
+   "reference_normalisee": "ITS96",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "ferme_porte",
+   "designation": "Ferme-porte encastré ITS 96"
+  },
+  {
+   "id": "REF-DORMA-ITS962S",
+   "reference_normalisee": "ITS962S",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "ferme_porte",
+   "designation": "Ferme-porte encastré ITS 96 2S"
+  },
+  {
+   "id": "REF-ASSA-ABLOY-DC850",
+   "reference_normalisee": "DC850",
+   "fabricant_id": "ORG-ASSA-ABLOY",
+   "categorie_code": "ferme_porte",
+   "designation": "Ferme-porte encastré DC 850"
+  },
+  {
+   "id": "REF-GEZE-BOXER",
+   "reference_normalisee": "BOXER",
+   "fabricant_id": "ORG-GEZE",
+   "categorie_code": "ferme_porte",
+   "designation": "Ferme-porte encastré Boxer"
+  },
+  {
+   "id": "REF-DORMAKABA-FLATSCANSW",
+   "reference_normalisee": "FLATSCANSW",
+   "fabricant_id": "ORG-DORMAKABA",
+   "categorie_code": "detecteur",
+   "designation": "Détecteur de sécurisation pour porte battante"
+  },
+  {
+   "id": "REF-FORSTER-907103",
+   "reference_normalisee": "907103",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "taquet",
+   "designation": "Taquet d'entraînement (pl. 35)"
+  },
+  {
+   "id": "REF-DORMA-MK396",
+   "reference_normalisee": "MK396",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "taquet",
+   "designation": "Taquet d'entraînement (pl. 35)"
+  },
+  {
+   "id": "REF-DORMAKABA-GSR",
+   "reference_normalisee": "GSR",
+   "fabricant_id": "ORG-DORMAKABA",
+   "categorie_code": "selecteur_fermeture",
+   "designation": "Bandeau sélecteur de fermeture en applique GSR"
+  },
+  {
+   "id": "REF-DORMAKABA-GSREMF",
+   "reference_normalisee": "GSREMF",
+   "fabricant_id": "ORG-DORMAKABA",
+   "categorie_code": "selecteur_fermeture",
+   "designation": "Bandeau sélecteur de fermeture en applique GSR EMF"
+  },
+  {
+   "id": "REF-DORMA-KU480",
+   "reference_normalisee": "KU480",
+   "fabricant_id": "ORG-DORMA",
+   "categorie_code": "passe_cable",
+   "designation": "Passe-câble encastré KU 480"
+  },
+  {
+   "id": "REF-ASSA-ABLOY-EA280",
+   "reference_normalisee": "EA280",
+   "fabricant_id": "ORG-ASSA-ABLOY",
+   "categorie_code": "passe_cable",
+   "designation": "Passe-câble encastré EA 280"
+  },
+  {
+   "id": "REF-ASSA-ABLOY-EA281",
+   "reference_normalisee": "EA281",
+   "fabricant_id": "ORG-ASSA-ABLOY",
+   "categorie_code": "passe_cable",
+   "designation": "Passe-câble encastré EA 281"
+  },
+  {
+   "id": "REF-EFF-EFF-10312",
+   "reference_normalisee": "10312",
+   "fabricant_id": "ORG-EFF-EFF",
+   "categorie_code": "passe_cable",
+   "designation": "Passe-câble encastré 10312"
+  },
+  {
+   "id": "REF-EFF-EFF-10318",
+   "reference_normalisee": "10318",
+   "fabricant_id": "ORG-EFF-EFF",
+   "categorie_code": "passe_cable",
+   "designation": "Passe-câble encastré 10318"
+  },
+  {
+   "id": "REF-FORSTER-907076",
+   "reference_normalisee": "907076",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "contacteur",
+   "designation": "Contacteur de position"
+  },
+  {
+   "id": "REF-FORSTER-907077",
+   "reference_normalisee": "907077",
+   "fabricant_id": "ORG-FORSTER",
+   "categorie_code": "contacteur",
+   "designation": "Contacteur de position"
+  }
+ ],
+ "reference_alias": [
+  {
+   "reference_id": "REF-FORSTER-917611",
+   "alias": "907642",
+   "type_alias": "ancienne_reference",
+   "document_id": "DOC-11-A-507"
+  },
+  {
+   "reference_id": "REF-DORMA-HZ43F",
+   "alias": "HZ 43-F",
+   "type_alias": "ecriture_document",
+   "document_id": "DOC-EFR-14-000468"
+  },
+  {
+   "reference_id": "REF-SEVAX-WA762683",
+   "alias": "WA 762xxx",
+   "type_alias": "ecriture_document",
+   "document_id": "DOC-11-A-507"
+  },
+  {
+   "reference_id": "REF-EFF-EFF-Z09XKAB",
+   "alias": "209XKAB",
+   "type_alias": "ecriture_document",
+   "document_id": "DOC-11-A-507"
+  },
+  {
+   "reference_id": "REF-POLFLAM-FIREFLAM30",
+   "alias": "POLFLAM EI 30",
+   "type_alias": "ecriture_document",
+   "document_id": "DOC-EFR-24-000553-R1"
+  },
+  {
+   "reference_id": "REF-POLFLAM-FIREFLAM30DGU",
+   "alias": "POLFLAM EI 30 DGU",
+   "type_alias": "ecriture_document",
+   "document_id": "DOC-EFR-24-000553-R1"
+  }
+ ],
+ "enrichissement_externe": [
+  {
+   "id": "ENR-0001",
+   "reference_id": "REF-DORMA-TS93",
+   "type_caracteristique_code": "type",
+   "valeur_texte": "Ferme-porte à glissière (technologie à came)",
+   "valeur_num": null,
+   "valeur_bool": null,
+   "unite_code": null,
+   "source": "enrichissement",
+   "source_libelle": "dormakaba — brochure technique TS 93 (FR)",
+   "source_url": "https://dormakaba.rokka.io/original/324fdc/120000010769_dormakaba-ferme-porte-ts93-documentation-technique-fr.pdf",
+   "date_recherche": "2026-11-10",
+   "statut_fiabilite_code": "confirme",
+   "commentaire": null
+  },
+  {
+   "id": "ENR-0002",
+   "reference_id": "REF-DORMA-TS93",
+   "type_caracteristique_code": "force",
+   "valeur_texte": "EN 2–5 ou EN 5–7 selon modèle",
+   "valeur_num": null,
+   "valeur_bool": null,
+   "unite_code": null,
+   "source": "enrichissement",
+   "source_libelle": "dormakaba — brochure technique TS 93 (FR)",
+   "source_url": "https://dormakaba.rokka.io/original/324fdc/120000010769_dormakaba-ferme-porte-ts93-documentation-technique-fr.pdf",
+   "date_recherche": "2026-11-10",
+   "statut_fiabilite_code": "confirme",
+   "commentaire": "Deux tailles de corps ; le PV ne précise pas la taille"
+  },
+  {
+   "id": "ENR-0003",
+   "reference_id": "REF-DORMA-TS93",
+   "type_caracteristique_code": "norme",
+   "valeur_texte": "NF EN 1154",
+   "valeur_num": null,
+   "valeur_bool": null,
+   "unite_code": null,
+   "source": "enrichissement",
+   "source_libelle": "dormakaba — texte de prescription TS 93",
+   "source_url": "https://dormakaba-res.cloudinary.com/raw/upload/v1745414782/dormakaba-prod/120000010748-dorma-dce-fp-ts-93.docx",
+   "date_recherche": "2026-11-10",
+   "statut_fiabilite_code": "confirme",
+   "commentaire": null
+  },
+  {
+   "id": "ENR-0004",
+   "reference_id": "REF-GEZE-TS5000",
+   "type_caracteristique_code": "force",
+   "valeur_texte": "EN 2–6 (EN 3–6 pour TS 5000 L)",
+   "valeur_num": null,
+   "valeur_bool": null,
+   "unite_code": null,
+   "source": "enrichissement",
+   "source_libelle": "Distributeur (cogeferm.fr) — fiche TS 5000",
+   "source_url": "https://www.cogeferm.fr/35-ferme-porte-ts-5000-sans-bras-force-2-a-6-geze.html",
+   "date_recherche": "2026-11-10",
+   "statut_fiabilite_code": "a_verifier",
+   "commentaire": "Source distributeur ; à confirmer sur fiche GEZE"
+  },
+  {
+   "id": "ENR-0005",
+   "reference_id": "REF-GEZE-TS5000",
+   "type_caracteristique_code": "norme",
+   "valeur_texte": "EN 1154",
+   "valeur_num": null,
+   "valeur_bool": null,
+   "unite_code": null,
+   "source": "enrichissement",
+   "source_libelle": "Distributeur (cogeferm.fr) — fiche TS 5000",
+   "source_url": "https://www.cogeferm.fr/35-ferme-porte-ts-5000-sans-bras-force-2-a-6-geze.html",
+   "date_recherche": "2026-11-10",
+   "statut_fiabilite_code": "a_verifier",
+   "commentaire": null
+  },
+  {
+   "id": "ENR-0006",
+   "reference_id": "REF-GEZE-TS5000",
+   "type_caracteristique_code": "largeur",
+   "valeur_texte": null,
+   "valeur_num": 1400,
+   "valeur_bool": null,
+   "unite_code": "mm",
+   "source": "enrichissement",
+   "source_libelle": "Distributeur (zeg-holz.de) — Türschließer TS 5000",
+   "source_url": "https://zeg-holz.de/pdfexport/product/8ea877803f9e82326167fb397df3933c",
+   "date_recherche": "2026-11-10",
+   "statut_fiabilite_code": "a_verifier",
+   "commentaire": "Largeur de vantail maximale annoncée par le fabricant (via distributeur) — ne modifie pas le domaine du PV"
+  },
+  {
+   "id": "ENR-0007",
+   "reference_id": "REF-EFF-EFF-118PROFIX2",
+   "type_caracteristique_code": "type",
+   "valeur_texte": "Gâche électrique à émission de courant (118F) ; réglage FaFix 3 mm",
+   "valeur_num": null,
+   "valeur_bool": null,
+   "unite_code": null,
+   "source": "enrichissement",
+   "source_libelle": "effeff France — fiche gâche 118F/138F profix 2 (hébergée par distributeur)",
+   "source_url": "https://media.trenois.com/static/gache-electrique-serie-138f_eff147_fiche-technique.pdf",
+   "date_recherche": "2026-11-10",
+   "statut_fiabilite_code": "a_verifier",
+   "commentaire": null
+  },
+  {
+   "id": "ENR-0008",
+   "reference_id": "REF-EFF-EFF-118PROFIX2",
+   "type_caracteristique_code": "reversible",
+   "valeur_texte": null,
+   "valeur_num": null,
+   "valeur_bool": 1,
+   "unite_code": null,
+   "source": "enrichissement",
+   "source_libelle": "effeff — fiche 118.13 ProFix 2",
+   "source_url": "https://static.foussier.fr/document/ft/052983-FT1.pdf",
+   "date_recherche": "2026-11-10",
+   "statut_fiabilite_code": "a_verifier",
+   "commentaire": "Forme symétrique : DIN gauche/droite et horizontale. Attention : une variante (118.14) est annoncée « non homologuée portes coupe-feu » par un revendeur"
+  },
+  {
+   "id": "ENR-0009",
+   "reference_id": "REF-DORMA-HZ43F",
+   "type_caracteristique_code": "fonction",
+   "valeur_texte": "Verrouillage automatique du battant semi-fixe (portes 2 vantaux)",
+   "valeur_num": null,
+   "valeur_bool": null,
+   "unite_code": null,
+   "source": "enrichissement",
+   "source_libelle": "dormakaba — brochure technique HZ 43-F (FR)",
+   "source_url": "https://dormakaba-res.cloudinary.com/image/upload/v1742512777/dormakaba-production/1735552046.pdf",
+   "date_recherche": "2026-11-10",
+   "statut_fiabilite_code": "confirme",
+   "commentaire": null
+  },
+  {
+   "id": "ENR-0010",
+   "reference_id": "REF-DORMA-HZ43F",
+   "type_caracteristique_code": "main",
+   "valeur_texte": "DIN-L ou DIN-R (pas de modèle universel)",
+   "valeur_num": null,
+   "valeur_bool": null,
+   "unite_code": null,
+   "source": "enrichissement",
+   "source_libelle": "dormakaba — brochure technique HZ 43-F (FR)",
+   "source_url": "https://dormakaba-res.cloudinary.com/image/upload/v1742512777/dormakaba-production/1735552046.pdf",
+   "date_recherche": "2026-11-10",
+   "statut_fiabilite_code": "confirme",
+   "commentaire": null
+  },
+  {
+   "id": "ENR-0011",
+   "reference_id": "REF-DORMA-HZ43F",
+   "type_caracteristique_code": "position",
+   "valeur_texte": "Montage en haut",
+   "valeur_num": null,
+   "valeur_bool": null,
+   "unite_code": null,
+   "source": "enrichissement",
+   "source_libelle": "dormakaba — brochure technique HZ 43-F (FR)",
+   "source_url": "https://dormakaba-res.cloudinary.com/image/upload/v1742512777/dormakaba-production/1735552046.pdf",
+   "date_recherche": "2026-11-10",
+   "statut_fiabilite_code": "confirme",
+   "commentaire": null
+  },
+  {
+   "id": "ENR-0012",
+   "reference_id": "REF-DORMA-HZ43F",
+   "type_caracteristique_code": "gamme",
+   "valeur_texte": "Variantes HZ 43-F22 et HZ 43-F24 (DIN-L / DIN-R)",
+   "valeur_num": null,
+   "valeur_bool": null,
+   "unite_code": null,
+   "source": "enrichissement",
+   "source_libelle": "dormakaba — Technikprospekt HZ 43-F (DE)",
+   "source_url": "https://dormakaba.rokka.io/original/0dbc4e/120000015996_dormakaba-standfluegelverriegelung-hz-43-f-technikprospekt-de.pdf",
+   "date_recherche": "2026-11-10",
+   "statut_fiabilite_code": "confirme",
+   "commentaire": null
+  }
+ ]
+}

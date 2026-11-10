@@ -1,0 +1,65 @@
+{
+ "table": "ref_type_support",
+ "colonnes": [
+  "code",
+  "libelle",
+  "famille",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "beton_arme",
+   "libelle": "Béton armé",
+   "famille": "rigide",
+   "description": null
+  },
+  {
+   "code": "beton_plein_parpaing",
+   "libelle": "Béton plein / parpaings",
+   "famille": "rigide",
+   "description": null
+  },
+  {
+   "code": "beton_cellulaire",
+   "libelle": "Béton cellulaire",
+   "famille": "rigide",
+   "description": null
+  },
+  {
+   "code": "maconnerie_beton_homogene",
+   "libelle": "Blocs béton / maçonnerie / béton homogène",
+   "famille": "rigide",
+   "description": null
+  },
+  {
+   "code": "cloison_legere_98_48",
+   "libelle": "Cloison plaques de plâtre 98/48",
+   "famille": "flexible",
+   "description": null
+  },
+  {
+   "code": "cloison_legere_120_70",
+   "libelle": "Cloison plaques de plâtre 120/70",
+   "famille": "flexible",
+   "description": null
+  },
+  {
+   "code": "cloison_vitree_associee",
+   "libelle": "Cloison vitrée classée (construction support associée)",
+   "famille": "associee",
+   "description": null
+  },
+  {
+   "code": "poteau_acier_protege",
+   "libelle": "Poteau acier protégé",
+   "famille": "associee",
+   "description": null
+  },
+  {
+   "code": "dalle_beton",
+   "libelle": "Dalle / voile béton armé",
+   "famille": "rigide",
+   "description": null
+  }
+ ]
+}

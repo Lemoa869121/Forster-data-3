@@ -1,0 +1,45 @@
+{
+ "table": "ref_type_vitrage",
+ "colonnes": [
+  "code",
+  "libelle",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "monolithique",
+   "libelle": "Monolithique",
+   "description": null
+  },
+  {
+   "code": "feuillete",
+   "libelle": "Feuilleté",
+   "description": null
+  },
+  {
+   "code": "isolant",
+   "libelle": "Isolant (double vitrage)",
+   "description": null
+  },
+  {
+   "code": "triple",
+   "libelle": "Triple vitrage",
+   "description": null
+  },
+  {
+   "code": "isolant_store",
+   "libelle": "Isolant à store intégré",
+   "description": null
+  },
+  {
+   "code": "angle_corner",
+   "libelle": "Vitrage d'angle (corner)",
+   "description": null
+  },
+  {
+   "code": "isolant_angle",
+   "libelle": "Isolant d'angle",
+   "description": null
+  }
+ ]
+}

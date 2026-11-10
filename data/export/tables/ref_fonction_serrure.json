@@ -1,0 +1,35 @@
+{
+ "table": "ref_fonction_serrure",
+ "colonnes": [
+  "code",
+  "libelle",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "W",
+   "libelle": "Fonction W",
+   "description": "Code fonction Forster tel qu'écrit dans les tableaux de serrures ; signification non définie dans le document"
+  },
+  {
+   "code": "E",
+   "libelle": "Fonction E",
+   "description": "Code fonction Forster ; signification non définie dans le document"
+  },
+  {
+   "code": "B",
+   "libelle": "Fonction B",
+   "description": "Code fonction Forster ; signification non définie dans le document"
+  },
+  {
+   "code": "D",
+   "libelle": "Fonction D",
+   "description": "Code fonction Forster ; signification non définie dans le document"
+  },
+  {
+   "code": "L+W",
+   "libelle": "Fonction L+W",
+   "description": "Code fonction Forster (serrure 2 points) ; signification non définie dans le document"
+  }
+ ]
+}

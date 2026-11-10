@@ -1,0 +1,35 @@
+{
+ "table": "ref_domaine_performance",
+ "colonnes": [
+  "code",
+  "libelle",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "feu",
+   "libelle": "Résistance au feu",
+   "description": null
+  },
+  {
+   "code": "effraction",
+   "libelle": "Résistance à l'effraction",
+   "description": null
+  },
+  {
+   "code": "balistique",
+   "libelle": "Résistance aux balles",
+   "description": null
+  },
+  {
+   "code": "aev",
+   "libelle": "Air - Eau - Vent",
+   "description": null
+  },
+  {
+   "code": "acoustique",
+   "libelle": "Acoustique",
+   "description": null
+  }
+ ]
+}

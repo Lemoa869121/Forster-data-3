@@ -1,0 +1,10 @@
+{
+ "table": "perf_effraction",
+ "colonnes": [
+  "performance_id",
+  "classe_rc",
+  "norme_id",
+  "duree_resistance_min"
+ ],
+ "lignes": []
+}

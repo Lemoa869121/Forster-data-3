@@ -1,0 +1,77 @@
+{
+ "table": "document_systeme",
+ "colonnes": [
+  "document_id",
+  "systeme_id",
+  "role",
+  "source_page_id"
+ ],
+ "lignes": [
+  {
+   "document_id": "DOC-08-A-275",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-08-A-275-P001"
+  },
+  {
+   "document_id": "DOC-11-A-507",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-11-A-507-P001"
+  },
+  {
+   "document_id": "DOC-11-A-507",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "integration",
+   "source_page_id": "SP-11-A-507-P002-1-2-1"
+  },
+  {
+   "document_id": "DOC-11-A-507",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "integration",
+   "source_page_id": "SP-11-A-507-P002-1-2-1"
+  },
+  {
+   "document_id": "DOC-EFR-22-002556",
+   "systeme_id": "SYS-PRESTO-60",
+   "role": "variante",
+   "source_page_id": "SP-EFR-22-002556-P002-1"
+  },
+  {
+   "document_id": "DOC-EFR-22-002556",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-22-002556-P002-1"
+  },
+  {
+   "document_id": "DOC-13-A-175",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-175-P001"
+  },
+  {
+   "document_id": "DOC-EXT-14-1-14-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EXT-14-1-14-2-P002-1-3"
+  },
+  {
+   "document_id": "DOC-13-A-704",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-13-A-704-P001"
+  },
+  {
+   "document_id": "DOC-EFR-21-002687",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-EFR-21-002687-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-000553-R1",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-EFR-24-000553-R1-P001"
+  }
+ ]
+}

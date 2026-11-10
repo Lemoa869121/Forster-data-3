@@ -1,0 +1,59 @@
+{
+ "table": "systeme",
+ "colonnes": [
+  "id",
+  "nom",
+  "nom_normalise",
+  "fabricant_id",
+  "isolation_thermique",
+  "profondeur_mm",
+  "commentaire"
+ ],
+ "lignes": [
+  {
+   "id": "SYS-PRESTO-50",
+   "nom": "Presto 50",
+   "nom_normalise": "PRESTO 50",
+   "fabricant_id": "ORG-FORSTER",
+   "isolation_thermique": 0,
+   "profondeur_mm": 50.0,
+   "commentaire": "Profils acier non isolés, profondeur 50 mm"
+  },
+  {
+   "id": "SYS-PRESTO-60",
+   "nom": "Presto 60",
+   "nom_normalise": "PRESTO 60",
+   "fabricant_id": "ORG-FORSTER",
+   "isolation_thermique": 0,
+   "profondeur_mm": 60.0,
+   "commentaire": "Profondeur 60 mm (extension 23/4-23/3)"
+  },
+  {
+   "id": "SYS-FUEGO-LIGHT-30",
+   "nom": "Fuego Light 30",
+   "nom_normalise": "FUEGO LIGHT 30",
+   "fabricant_id": "ORG-FORSTER",
+   "isolation_thermique": 1,
+   "profondeur_mm": 65.0,
+   "commentaire": "Profils acier isolés thermiquement, épaisseur 65 mm (EFR-24-000553)"
+  },
+  {
+   "id": "SYS-FUEGO-LIGHT-60",
+   "nom": "Fuego Light 60",
+   "nom_normalise": "FUEGO LIGHT 60",
+   "fabricant_id": "ORG-FORSTER",
+   "isolation_thermique": 1,
+   "profondeur_mm": null,
+   "commentaire": "Profils acier isolés thermiquement"
+  },
+  {
+   "id": "SYS-THERMFIX-VARIO",
+   "nom": "Thermfix Vario",
+   "nom_normalise": "THERMFIX VARIO",
+   "fabricant_id": "ORG-FORSTER",
+   "isolation_thermique": null,
+   "profondeur_mm": null,
+   "commentaire": "Système de façade acier, séries 45 et 60"
+  }
+ ]
+}

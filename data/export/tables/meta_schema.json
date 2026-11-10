@@ -1,0 +1,25 @@
+{
+ "table": "meta_schema",
+ "colonnes": [
+  "cle",
+  "valeur"
+ ],
+ "lignes": [
+  {
+   "cle": "schema_version",
+   "valeur": "1.0.0"
+  },
+  {
+   "cle": "data_sha256",
+   "valeur": "17bf30ba1bfc55adeb80d49fcbd6dd90e4c1f580c184798001ae121ebe5f6cd4"
+  },
+  {
+   "cle": "genere_le",
+   "valeur": "2026-11-10T11:16:31+00:00"
+  },
+  {
+   "cle": "nb_fichiers_sources",
+   "valeur": "6"
+  }
+ ]
+}

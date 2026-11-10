@@ -1,0 +1,11 @@
+{
+ "table": "perf_acoustique",
+ "colonnes": [
+  "performance_id",
+  "rw_db",
+  "c_db",
+  "ctr_db",
+  "norme_id"
+ ],
+ "lignes": []
+}

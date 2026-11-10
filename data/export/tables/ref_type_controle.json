@@ -1,0 +1,40 @@
+{
+ "table": "ref_type_controle",
+ "colonnes": [
+  "code",
+  "libelle",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "ocr_degrade",
+   "libelle": "Texte OCR dégradé",
+   "description": null
+  },
+  {
+   "code": "planche_image",
+   "libelle": "Planche image sans couche texte",
+   "description": null
+  },
+  {
+   "code": "incoherence",
+   "libelle": "Incohérence interne ou inter-documents",
+   "description": null
+  },
+  {
+   "code": "non_trouve",
+   "libelle": "Information non trouvée",
+   "description": null
+  },
+  {
+   "code": "document_absent",
+   "libelle": "Document cité mais non fourni",
+   "description": null
+  },
+  {
+   "code": "ambiguite_attribution",
+   "libelle": "Attribution de valeur ambiguë",
+   "description": null
+  }
+ ]
+}

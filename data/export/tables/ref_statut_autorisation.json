@@ -1,0 +1,40 @@
+{
+ "table": "ref_statut_autorisation",
+ "colonnes": [
+  "code",
+  "libelle",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "autorise",
+   "libelle": "Autorisé",
+   "description": null
+  },
+  {
+   "code": "obligatoire",
+   "libelle": "Obligatoire",
+   "description": null
+  },
+  {
+   "code": "interdit",
+   "libelle": "Interdit",
+   "description": null
+  },
+  {
+   "code": "remplace",
+   "libelle": "Référence remplacée (par une extension)",
+   "description": null
+  },
+  {
+   "code": "remplacant",
+   "libelle": "Référence de remplacement (autorisée par extension)",
+   "description": null
+  },
+  {
+   "code": "cite_essai",
+   "libelle": "Cité dans un essai (pas une autorisation)",
+   "description": null
+  }
+ ]
+}

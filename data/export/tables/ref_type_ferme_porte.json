@@ -1,0 +1,35 @@
+{
+ "table": "ref_type_ferme_porte",
+ "colonnes": [
+  "code",
+  "libelle",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "applique",
+   "libelle": "Ferme-porte en applique",
+   "description": null
+  },
+  {
+   "code": "encastre",
+   "libelle": "Ferme-porte encastré",
+   "description": null
+  },
+  {
+   "code": "ouvre_porte",
+   "libelle": "Ouvre-porte automatique",
+   "description": null
+  },
+  {
+   "code": "pivot_sol_frein",
+   "libelle": "Pivot de sol à frein",
+   "description": null
+  },
+  {
+   "code": "selecteur",
+   "libelle": "Sélecteur de fermeture",
+   "description": null
+  }
+ ]
+}

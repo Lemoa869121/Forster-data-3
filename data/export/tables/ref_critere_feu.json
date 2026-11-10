@@ -1,0 +1,55 @@
+{
+ "table": "ref_critere_feu",
+ "colonnes": [
+  "code",
+  "libelle",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "R",
+   "libelle": "Capacité portante",
+   "description": null
+  },
+  {
+   "code": "E",
+   "libelle": "Étanchéité au feu",
+   "description": null
+  },
+  {
+   "code": "I",
+   "libelle": "Isolation thermique",
+   "description": null
+  },
+  {
+   "code": "I1",
+   "libelle": "Isolation thermique I1",
+   "description": null
+  },
+  {
+   "code": "I2",
+   "libelle": "Isolation thermique I2",
+   "description": null
+  },
+  {
+   "code": "W",
+   "libelle": "Rayonnement",
+   "description": null
+  },
+  {
+   "code": "M",
+   "libelle": "Action mécanique",
+   "description": null
+  },
+  {
+   "code": "C",
+   "libelle": "Fermeture automatique",
+   "description": null
+  },
+  {
+   "code": "S",
+   "libelle": "Étanchéité aux fumées",
+   "description": null
+  }
+ ]
+}

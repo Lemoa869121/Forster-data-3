@@ -1,0 +1,335 @@
+{
+ "table": "ref_categorie_composant",
+ "colonnes": [
+  "code",
+  "libelle",
+  "famille",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "profile",
+   "libelle": "Profilé",
+   "famille": "profiles",
+   "description": null
+  },
+  {
+   "code": "tube_acier",
+   "libelle": "Tube / plat acier",
+   "famille": "profiles",
+   "description": null
+  },
+  {
+   "code": "manchon",
+   "libelle": "Manchon d'assemblage",
+   "famille": "profiles",
+   "description": null
+  },
+  {
+   "code": "vitrage",
+   "libelle": "Vitrage",
+   "famille": "remplissages",
+   "description": null
+  },
+  {
+   "code": "panneau",
+   "libelle": "Panneau plein",
+   "famille": "remplissages",
+   "description": null
+  },
+  {
+   "code": "film_adhesif",
+   "libelle": "Film adhésif",
+   "famille": "remplissages",
+   "description": null
+  },
+  {
+   "code": "parclose",
+   "libelle": "Parclose",
+   "famille": "maintien_vitrage",
+   "description": null
+  },
+  {
+   "code": "vis_bouton",
+   "libelle": "Vis bouton / bouton de parclose",
+   "famille": "maintien_vitrage",
+   "description": null
+  },
+  {
+   "code": "ressort_parclose",
+   "libelle": "Ressort de parclose",
+   "famille": "maintien_vitrage",
+   "description": null
+  },
+  {
+   "code": "serreur",
+   "libelle": "Serreur / profil de serrage",
+   "famille": "maintien_vitrage",
+   "description": null
+  },
+  {
+   "code": "support_verre",
+   "libelle": "Support de verre / base de serrage",
+   "famille": "maintien_vitrage",
+   "description": null
+  },
+  {
+   "code": "distanceur",
+   "libelle": "Distanceur",
+   "famille": "maintien_vitrage",
+   "description": null
+  },
+  {
+   "code": "cale",
+   "libelle": "Cale de vitrage",
+   "famille": "cales",
+   "description": null
+  },
+  {
+   "code": "joint_intumescent",
+   "libelle": "Joint / bande intumescent(e)",
+   "famille": "joints",
+   "description": null
+  },
+  {
+   "code": "joint_epdm",
+   "libelle": "Joint EPDM",
+   "famille": "joints",
+   "description": null
+  },
+  {
+   "code": "joint_cr",
+   "libelle": "Joint CR",
+   "famille": "joints",
+   "description": null
+  },
+  {
+   "code": "joint_butee",
+   "libelle": "Joint de butée",
+   "famille": "joints",
+   "description": null
+  },
+  {
+   "code": "bande_fibre",
+   "libelle": "Bande de fibre minérale",
+   "famille": "joints",
+   "description": null
+  },
+  {
+   "code": "mastic",
+   "libelle": "Mastic / silicone",
+   "famille": "joints",
+   "description": null
+  },
+  {
+   "code": "paumelle",
+   "libelle": "Paumelle",
+   "famille": "articulation",
+   "description": null
+  },
+  {
+   "code": "pion_anti_degondage",
+   "libelle": "Pion anti-dégondage",
+   "famille": "articulation",
+   "description": null
+  },
+  {
+   "code": "bras_pivot",
+   "libelle": "Bras à souder / pivot",
+   "famille": "articulation",
+   "description": null
+  },
+  {
+   "code": "pivot_sol",
+   "libelle": "Pivot de sol",
+   "famille": "articulation",
+   "description": null
+  },
+  {
+   "code": "serrure",
+   "libelle": "Serrure",
+   "famille": "condamnation",
+   "description": null
+  },
+  {
+   "code": "kit_serrure",
+   "libelle": "Kit serrure (coffre + gâche)",
+   "famille": "condamnation",
+   "description": null
+  },
+  {
+   "code": "coffre_serrure",
+   "libelle": "Coffre de serrure",
+   "famille": "condamnation",
+   "description": null
+  },
+  {
+   "code": "gache",
+   "libelle": "Gâche",
+   "famille": "condamnation",
+   "description": null
+  },
+  {
+   "code": "verrou",
+   "libelle": "Verrou",
+   "famille": "condamnation",
+   "description": null
+  },
+  {
+   "code": "verrou_thermique",
+   "libelle": "Verrou thermique",
+   "famille": "condamnation",
+   "description": null
+  },
+  {
+   "code": "cremone",
+   "libelle": "Crémone",
+   "famille": "condamnation",
+   "description": null
+  },
+  {
+   "code": "pene",
+   "libelle": "Pêne / tige",
+   "famille": "condamnation",
+   "description": null
+  },
+  {
+   "code": "ferme_porte",
+   "libelle": "Ferme-porte",
+   "famille": "fermeture",
+   "description": null
+  },
+  {
+   "code": "selecteur_fermeture",
+   "libelle": "Sélecteur de fermeture",
+   "famille": "fermeture",
+   "description": null
+  },
+  {
+   "code": "ouvre_porte",
+   "libelle": "Ouvre-porte automatique",
+   "famille": "fermeture",
+   "description": null
+  },
+  {
+   "code": "barre_antipanique",
+   "libelle": "Barre antipanique / push-bar",
+   "famille": "manoeuvre",
+   "description": null
+  },
+  {
+   "code": "bequille",
+   "libelle": "Béquille / garniture / poignée",
+   "famille": "manoeuvre",
+   "description": null
+  },
+  {
+   "code": "taquet",
+   "libelle": "Taquet d'entraînement",
+   "famille": "manoeuvre",
+   "description": null
+  },
+  {
+   "code": "gache_electrique",
+   "libelle": "Gâche électrique / ouverture électrique",
+   "famille": "controle_acces",
+   "description": null
+  },
+  {
+   "code": "ventouse",
+   "libelle": "Verrou électromagnétique en applique",
+   "famille": "controle_acces",
+   "description": null
+  },
+  {
+   "code": "passe_cable",
+   "libelle": "Passe-câble",
+   "famille": "controle_acces",
+   "description": null
+  },
+  {
+   "code": "lecteur",
+   "libelle": "Lecteur / clavier",
+   "famille": "controle_acces",
+   "description": null
+  },
+  {
+   "code": "contacteur",
+   "libelle": "Contacteur de position",
+   "famille": "controle_acces",
+   "description": null
+  },
+  {
+   "code": "detecteur",
+   "libelle": "Détecteur de sécurisation",
+   "famille": "controle_acces",
+   "description": null
+  },
+  {
+   "code": "cable",
+   "libelle": "Câble de connexion",
+   "famille": "controle_acces",
+   "description": null
+  },
+  {
+   "code": "seuil_automatique",
+   "libelle": "Seuil automatique",
+   "famille": "accessoire",
+   "description": null
+  },
+  {
+   "code": "busette",
+   "libelle": "Busette / douille de drainage",
+   "famille": "accessoire",
+   "description": null
+  },
+  {
+   "code": "kit_protection",
+   "libelle": "Kit / plaque de protection",
+   "famille": "accessoire",
+   "description": null
+  },
+  {
+   "code": "fixation",
+   "libelle": "Fixation (vis, cheville, goujon)",
+   "famille": "fixation",
+   "description": null
+  },
+  {
+   "code": "cornière",
+   "libelle": "Cornière / platine / étrier",
+   "famille": "fixation",
+   "description": null
+  },
+  {
+   "code": "calfeutrement",
+   "libelle": "Calfeutrement (laine, compensateur)",
+   "famille": "calfeutrement",
+   "description": null
+  },
+  {
+   "code": "plaque_protection",
+   "libelle": "Plaque de protection (plâtre, silicate)",
+   "famille": "calfeutrement",
+   "description": null
+  },
+  {
+   "code": "pare_vapeur",
+   "libelle": "Pare-vapeur",
+   "famille": "calfeutrement",
+   "description": null
+  },
+  {
+   "code": "intercalaire",
+   "libelle": "Intercalaire de vitrage isolant",
+   "famille": "remplissages",
+   "description": null
+  },
+  {
+   "code": "accessoire",
+   "libelle": "Accessoire divers",
+   "famille": "accessoire",
+   "description": null
+  }
+ ]
+}

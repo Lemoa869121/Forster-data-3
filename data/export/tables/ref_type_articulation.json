@@ -1,0 +1,30 @@
+{
+ "table": "ref_type_articulation",
+ "colonnes": [
+  "code",
+  "libelle",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "paumelle",
+   "libelle": "Paumelle",
+   "description": null
+  },
+  {
+   "code": "pion_anti_degondage",
+   "libelle": "Pion anti-dégondage",
+   "description": null
+  },
+  {
+   "code": "bras_pivot",
+   "libelle": "Bras à souder / pivot haut",
+   "description": null
+  },
+  {
+   "code": "pivot_sol",
+   "libelle": "Pivot de sol",
+   "description": null
+  }
+ ]
+}

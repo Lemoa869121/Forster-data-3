@@ -1,0 +1,201 @@
+{
+ "table": "ref_type_caracteristique",
+ "colonnes": [
+  "code",
+  "libelle",
+  "type_valeur",
+  "unite_code",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "section",
+   "libelle": "Section (l x h ou l x e)",
+   "type_valeur": "texte",
+   "unite_code": null,
+   "description": null
+  },
+  {
+   "code": "largeur",
+   "libelle": "Largeur",
+   "type_valeur": "reel",
+   "unite_code": "mm",
+   "description": null
+  },
+  {
+   "code": "hauteur",
+   "libelle": "Hauteur",
+   "type_valeur": "reel",
+   "unite_code": "mm",
+   "description": null
+  },
+  {
+   "code": "epaisseur",
+   "libelle": "Épaisseur",
+   "type_valeur": "reel",
+   "unite_code": "mm",
+   "description": null
+  },
+  {
+   "code": "longueur",
+   "libelle": "Longueur",
+   "type_valeur": "reel",
+   "unite_code": "mm",
+   "description": null
+  },
+  {
+   "code": "diametre",
+   "libelle": "Diamètre",
+   "type_valeur": "reel",
+   "unite_code": "mm",
+   "description": null
+  },
+  {
+   "code": "materiau",
+   "libelle": "Matériau",
+   "type_valeur": "texte",
+   "unite_code": null,
+   "description": null
+  },
+  {
+   "code": "marque",
+   "libelle": "Marque / fabricant cité",
+   "type_valeur": "texte",
+   "unite_code": null,
+   "description": null
+  },
+  {
+   "code": "fonction",
+   "libelle": "Fonction",
+   "type_valeur": "texte",
+   "unite_code": null,
+   "description": null
+  },
+  {
+   "code": "antipanique",
+   "libelle": "Fonction antipanique",
+   "type_valeur": "booleen",
+   "unite_code": null,
+   "description": null
+  },
+  {
+   "code": "main",
+   "libelle": "Main / sens DIN",
+   "type_valeur": "texte",
+   "unite_code": null,
+   "description": null
+  },
+  {
+   "code": "entraxe",
+   "libelle": "Entraxe",
+   "type_valeur": "reel",
+   "unite_code": "mm",
+   "description": null
+  },
+  {
+   "code": "nb_points",
+   "libelle": "Nombre de points de fermeture",
+   "type_valeur": "entier",
+   "unite_code": null,
+   "description": null
+  },
+  {
+   "code": "longueur_plage",
+   "libelle": "Plage de longueur",
+   "type_valeur": "texte",
+   "unite_code": null,
+   "description": null
+  },
+  {
+   "code": "force",
+   "libelle": "Force de fermeture",
+   "type_valeur": "texte",
+   "unite_code": null,
+   "description": null
+  },
+  {
+   "code": "seuil_temperature",
+   "libelle": "Seuil de déclenchement",
+   "type_valeur": "reel",
+   "unite_code": "degC",
+   "description": null
+  },
+  {
+   "code": "position",
+   "libelle": "Position de pose",
+   "type_valeur": "texte",
+   "unite_code": null,
+   "description": null
+  },
+  {
+   "code": "pas_pose",
+   "libelle": "Pas de pose",
+   "type_valeur": "reel",
+   "unite_code": "mm",
+   "description": null
+  },
+  {
+   "code": "reglable",
+   "libelle": "Réglable",
+   "type_valeur": "booleen",
+   "unite_code": null,
+   "description": null
+  },
+  {
+   "code": "conditionnement",
+   "libelle": "Conditionnement",
+   "type_valeur": "texte",
+   "unite_code": null,
+   "description": null
+  },
+  {
+   "code": "norme",
+   "libelle": "Norme associée",
+   "type_valeur": "texte",
+   "unite_code": null,
+   "description": null
+  },
+  {
+   "code": "gamme",
+   "libelle": "Gamme commerciale",
+   "type_valeur": "texte",
+   "unite_code": null,
+   "description": null
+  },
+  {
+   "code": "type",
+   "libelle": "Type",
+   "type_valeur": "texte",
+   "unite_code": null,
+   "description": null
+  },
+  {
+   "code": "reversible",
+   "libelle": "Réversible",
+   "type_valeur": "booleen",
+   "unite_code": null,
+   "description": null
+  },
+  {
+   "code": "compatibilite",
+   "libelle": "Compatibilité (énoncée par la source)",
+   "type_valeur": "texte",
+   "unite_code": null,
+   "description": null
+  },
+  {
+   "code": "reaction_feu",
+   "libelle": "Classement de réaction au feu",
+   "type_valeur": "texte",
+   "unite_code": null,
+   "description": null
+  },
+  {
+   "code": "masse_volumique",
+   "libelle": "Masse volumique",
+   "type_valeur": "reel",
+   "unite_code": "kg_m3",
+   "description": null
+  }
+ ]
+}

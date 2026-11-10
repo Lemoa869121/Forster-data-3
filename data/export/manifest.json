@@ -1,0 +1,365 @@
+{
+ "meta": {
+  "schema_version": "1.0.0",
+  "data_sha256": "17bf30ba1bfc55adeb80d49fcbd6dd90e4c1f580c184798001ae121ebe5f6cd4",
+  "genere_le": "2026-11-10T11:16:31+00:00",
+  "nb_fichiers_sources": "6"
+ },
+ "tables": [
+  {
+   "table": "caracteristique_document",
+   "nb_lignes": 107,
+   "fichier": "tables/caracteristique_document.json"
+  },
+  {
+   "table": "configuration",
+   "nb_lignes": 18,
+   "fichier": "tables/configuration.json"
+  },
+  {
+   "table": "controle_humain",
+   "nb_lignes": 32,
+   "fichier": "tables/controle_humain.json"
+  },
+  {
+   "table": "dc_articulation",
+   "nb_lignes": 39,
+   "fichier": "tables/dc_articulation.json"
+  },
+  {
+   "table": "dc_ferme_porte",
+   "nb_lignes": 41,
+   "fichier": "tables/dc_ferme_porte.json"
+  },
+  {
+   "table": "dc_fixation",
+   "nb_lignes": 17,
+   "fichier": "tables/dc_fixation.json"
+  },
+  {
+   "table": "dc_joint",
+   "nb_lignes": 44,
+   "fichier": "tables/dc_joint.json"
+  },
+  {
+   "table": "dc_profile",
+   "nb_lignes": 88,
+   "fichier": "tables/dc_profile.json"
+  },
+  {
+   "table": "dc_serrure",
+   "nb_lignes": 103,
+   "fichier": "tables/dc_serrure.json"
+  },
+  {
+   "table": "dc_vitrage",
+   "nb_lignes": 43,
+   "fichier": "tables/dc_vitrage.json"
+  },
+  {
+   "table": "dimension",
+   "nb_lignes": 327,
+   "fichier": "tables/dimension.json"
+  },
+  {
+   "table": "dimension_format",
+   "nb_lignes": 174,
+   "fichier": "tables/dimension_format.json"
+  },
+  {
+   "table": "document",
+   "nb_lignes": 38,
+   "fichier": "tables/document.json"
+  },
+  {
+   "table": "document_composant",
+   "nb_lignes": 630,
+   "fichier": "tables/document_composant.json"
+  },
+  {
+   "table": "document_essai",
+   "nb_lignes": 11,
+   "fichier": "tables/document_essai.json"
+  },
+  {
+   "table": "document_norme",
+   "nb_lignes": 23,
+   "fichier": "tables/document_norme.json"
+  },
+  {
+   "table": "document_organisme",
+   "nb_lignes": 61,
+   "fichier": "tables/document_organisme.json"
+  },
+  {
+   "table": "document_relation",
+   "nb_lignes": 45,
+   "fichier": "tables/document_relation.json"
+  },
+  {
+   "table": "document_signataire",
+   "nb_lignes": 34,
+   "fichier": "tables/document_signataire.json"
+  },
+  {
+   "table": "document_systeme",
+   "nb_lignes": 11,
+   "fichier": "tables/document_systeme.json"
+  },
+  {
+   "table": "enrichissement_externe",
+   "nb_lignes": 12,
+   "fichier": "tables/enrichissement_externe.json"
+  },
+  {
+   "table": "essai",
+   "nb_lignes": 10,
+   "fichier": "tables/essai.json"
+  },
+  {
+   "table": "essai_resultat",
+   "nb_lignes": 15,
+   "fichier": "tables/essai_resultat.json"
+  },
+  {
+   "table": "fichier_source",
+   "nb_lignes": 6,
+   "fichier": "tables/fichier_source.json"
+  },
+  {
+   "table": "intervenant",
+   "nb_lignes": 10,
+   "fichier": "tables/intervenant.json"
+  },
+  {
+   "table": "meta_schema",
+   "nb_lignes": 4,
+   "fichier": "tables/meta_schema.json"
+  },
+  {
+   "table": "norme",
+   "nb_lignes": 20,
+   "fichier": "tables/norme.json"
+  },
+  {
+   "table": "organisme",
+   "nb_lignes": 38,
+   "fichier": "tables/organisme.json"
+  },
+  {
+   "table": "organisme_alias",
+   "nb_lignes": 11,
+   "fichier": "tables/organisme_alias.json"
+  },
+  {
+   "table": "perf_acoustique",
+   "nb_lignes": 0,
+   "fichier": "tables/perf_acoustique.json"
+  },
+  {
+   "table": "perf_aev",
+   "nb_lignes": 0,
+   "fichier": "tables/perf_aev.json"
+  },
+  {
+   "table": "perf_balistique",
+   "nb_lignes": 0,
+   "fichier": "tables/perf_balistique.json"
+  },
+  {
+   "table": "perf_effraction",
+   "nb_lignes": 0,
+   "fichier": "tables/perf_effraction.json"
+  },
+  {
+   "table": "perf_feu",
+   "nb_lignes": 17,
+   "fichier": "tables/perf_feu.json"
+  },
+  {
+   "table": "performance",
+   "nb_lignes": 17,
+   "fichier": "tables/performance.json"
+  },
+  {
+   "table": "recherche_index",
+   "nb_lignes": 749,
+   "fichier": "tables/recherche_index.json"
+  },
+  {
+   "table": "ref_categorie_composant",
+   "nb_lignes": 54,
+   "fichier": "tables/ref_categorie_composant.json"
+  },
+  {
+   "table": "ref_critere_feu",
+   "nb_lignes": 9,
+   "fichier": "tables/ref_critere_feu.json"
+  },
+  {
+   "table": "ref_domaine_performance",
+   "nb_lignes": 5,
+   "fichier": "tables/ref_domaine_performance.json"
+  },
+  {
+   "table": "ref_fonction_serrure",
+   "nb_lignes": 5,
+   "fichier": "tables/ref_fonction_serrure.json"
+  },
+  {
+   "table": "ref_grandeur",
+   "nb_lignes": 9,
+   "fichier": "tables/ref_grandeur.json"
+  },
+  {
+   "table": "ref_localisation",
+   "nb_lignes": 8,
+   "fichier": "tables/ref_localisation.json"
+  },
+  {
+   "table": "ref_nature_valeur",
+   "nb_lignes": 7,
+   "fichier": "tables/ref_nature_valeur.json"
+  },
+  {
+   "table": "ref_objet_dimension",
+   "nb_lignes": 24,
+   "fichier": "tables/ref_objet_dimension.json"
+  },
+  {
+   "table": "ref_operateur",
+   "nb_lignes": 6,
+   "fichier": "tables/ref_operateur.json"
+  },
+  {
+   "table": "ref_role_composant",
+   "nb_lignes": 23,
+   "fichier": "tables/ref_role_composant.json"
+  },
+  {
+   "table": "ref_role_organisme",
+   "nb_lignes": 6,
+   "fichier": "tables/ref_role_organisme.json"
+  },
+  {
+   "table": "ref_statut_autorisation",
+   "nb_lignes": 6,
+   "fichier": "tables/ref_statut_autorisation.json"
+  },
+  {
+   "table": "ref_statut_extraction",
+   "nb_lignes": 4,
+   "fichier": "tables/ref_statut_extraction.json"
+  },
+  {
+   "table": "ref_statut_fiabilite",
+   "nb_lignes": 2,
+   "fichier": "tables/ref_statut_fiabilite.json"
+  },
+  {
+   "table": "ref_type_articulation",
+   "nb_lignes": 4,
+   "fichier": "tables/ref_type_articulation.json"
+  },
+  {
+   "table": "ref_type_caracteristique",
+   "nb_lignes": 27,
+   "fichier": "tables/ref_type_caracteristique.json"
+  },
+  {
+   "table": "ref_type_controle",
+   "nb_lignes": 6,
+   "fichier": "tables/ref_type_controle.json"
+  },
+  {
+   "table": "ref_type_document",
+   "nb_lignes": 10,
+   "fichier": "tables/ref_type_document.json"
+  },
+  {
+   "table": "ref_type_ferme_porte",
+   "nb_lignes": 5,
+   "fichier": "tables/ref_type_ferme_porte.json"
+  },
+  {
+   "table": "ref_type_fixation",
+   "nb_lignes": 9,
+   "fichier": "tables/ref_type_fixation.json"
+  },
+  {
+   "table": "ref_type_joint",
+   "nb_lignes": 6,
+   "fichier": "tables/ref_type_joint.json"
+  },
+  {
+   "table": "ref_type_relation",
+   "nb_lignes": 12,
+   "fichier": "tables/ref_type_relation.json"
+  },
+  {
+   "table": "ref_type_restriction",
+   "nb_lignes": 8,
+   "fichier": "tables/ref_type_restriction.json"
+  },
+  {
+   "table": "ref_type_serrure",
+   "nb_lignes": 11,
+   "fichier": "tables/ref_type_serrure.json"
+  },
+  {
+   "table": "ref_type_support",
+   "nb_lignes": 9,
+   "fichier": "tables/ref_type_support.json"
+  },
+  {
+   "table": "ref_type_vitrage",
+   "nb_lignes": 7,
+   "fichier": "tables/ref_type_vitrage.json"
+  },
+  {
+   "table": "ref_type_zone_source",
+   "nb_lignes": 7,
+   "fichier": "tables/ref_type_zone_source.json"
+  },
+  {
+   "table": "ref_typologie",
+   "nb_lignes": 5,
+   "fichier": "tables/ref_typologie.json"
+  },
+  {
+   "table": "ref_unite",
+   "nb_lignes": 11,
+   "fichier": "tables/ref_unite.json"
+  },
+  {
+   "table": "reference_alias",
+   "nb_lignes": 6,
+   "fichier": "tables/reference_alias.json"
+  },
+  {
+   "table": "reference_composant",
+   "nb_lignes": 359,
+   "fichier": "tables/reference_composant.json"
+  },
+  {
+   "table": "restriction",
+   "nb_lignes": 63,
+   "fichier": "tables/restriction.json"
+  },
+  {
+   "table": "source_page",
+   "nb_lignes": 167,
+   "fichier": "tables/source_page.json"
+  },
+  {
+   "table": "support_pose",
+   "nb_lignes": 32,
+   "fichier": "tables/support_pose.json"
+  },
+  {
+   "table": "systeme",
+   "nb_lignes": 5,
+   "fichier": "tables/systeme.json"
+  }
+ ]
+}

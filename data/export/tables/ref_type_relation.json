@@ -1,0 +1,70 @@
+{
+ "table": "ref_type_relation",
+ "colonnes": [
+  "code",
+  "libelle",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "reconduit",
+   "libelle": "reconduit",
+   "description": "Source = reconduction ; cible = PV reconduit"
+  },
+  {
+   "code": "reconduit_extension",
+   "libelle": "reconduit l'extension",
+   "description": "Source = reconduction ; cible = extension reconduite"
+  },
+  {
+   "code": "non_reconduit",
+   "libelle": "ne reconduit pas",
+   "description": "Source = reconduction ; cible = extension explicitement non reconduite"
+  },
+  {
+   "code": "etend",
+   "libelle": "étend",
+   "description": "Source = extension ; cible = PV de référence"
+  },
+  {
+   "code": "remplace",
+   "libelle": "annule et remplace",
+   "description": "Source = nouvelle version ; cible = version remplacée"
+  },
+  {
+   "code": "revise",
+   "libelle": "révision de",
+   "description": "Source = révision ; cible = indice précédent"
+  },
+  {
+   "code": "a_pour_reference",
+   "libelle": "a pour document de référence",
+   "description": "Source = PV ; cible = rapport / appréciation de laboratoire"
+  },
+  {
+   "code": "non_cumulable_avec",
+   "libelle": "non cumulable avec",
+   "description": "Interdiction explicite de cumul entre extensions"
+  },
+  {
+   "code": "cumulable_avec",
+   "libelle": "cumulable avec",
+   "description": "Cumul explicitement autorisé"
+  },
+  {
+   "code": "support_associe",
+   "libelle": "montage dans élément classé par",
+   "description": "Source = PV ; cible = PV de la construction support associée"
+  },
+  {
+   "code": "annexe_de",
+   "libelle": "annexe de",
+   "description": "Document annexe"
+  },
+  {
+   "code": "cite",
+   "libelle": "cite",
+   "description": "Simple citation"
+  }
+ ]
+}

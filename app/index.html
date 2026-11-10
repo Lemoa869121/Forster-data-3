@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PV Forster — recherche (démonstrateur sql.js)</title>
+<style>
+  :root { --fg:#1d232a; --mut:#5c6670; --bd:#d9dee3; --acc:#b3261e; --bg:#f6f7f8; }
+  * { box-sizing: border-box; }
+  body { margin:0; font:14px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; color:var(--fg); background:var(--bg); }
+  header { padding:14px 20px; background:#fff; border-bottom:1px solid var(--bd); display:flex; gap:16px; align-items:baseline; flex-wrap:wrap; }
+  header h1 { font-size:18px; margin:0; } #statut { color:var(--mut); font-size:12px; }
+  main { display:grid; grid-template-columns: 300px 1fr; gap:16px; padding:16px 20px; }
+  form { background:#fff; border:1px solid var(--bd); border-radius:8px; padding:12px; display:grid; gap:10px; align-content:start; }
+  label { display:grid; gap:3px; font-size:12px; color:var(--mut); }
+  input, select { font:inherit; padding:6px 8px; border:1px solid var(--bd); border-radius:6px; background:#fff; color:var(--fg); }
+  .ligne { display:grid; grid-template-columns:1fr 1fr; gap:8px; }
+  #compte { font-weight:600; } .carte { background:#fff; border:1px solid var(--bd); border-radius:8px; padding:10px 14px; margin-bottom:10px; cursor:pointer; }
+  .carte:hover { border-color:#9aa4ad; } .carte h3 { margin:0 0 4px; font-size:15px; } .classes { color:var(--acc); font-weight:600; margin-left:8px; }
+  .carte p { margin:2px 0; } .meta { color:var(--mut); font-size:12px; } .alerte { color:#8a5a00; }
+  details { margin-top:12px; } pre { white-space:pre-wrap; font-size:11px; background:#fff; border:1px solid var(--bd); padding:8px; border-radius:6px; }
+  #detail { position:fixed; inset:0 0 0 auto; width:min(1000px, 96vw); background:#fff; border-left:1px solid var(--bd); overflow:auto; padding:16px 20px; box-shadow:-8px 0 24px rgba(0,0,0,.08); }
+  #detail h3 { margin:18px 0 6px; font-size:14px; } table { border-collapse:collapse; width:100%; font-size:12px; }
+  th, td { border-bottom:1px solid var(--bd); padding:4px 6px; text-align:left; vertical-align:top; } th { background:var(--bg); position:sticky; top:0; }
+  #fermer { float:right; } .vide { color:var(--mut); }
+  @media (max-width: 760px) { main { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<header><h1>Procès-verbaux Forster — résistance au feu</h1><span id="statut">Initialisation…</span></header>
+<main>
+  <form id="filtres" onsubmit="return false">
+    <label>Référence de composant (serrure, paumelle, vitrage…)<input name="reference" placeholder="ex. 907724, HZ43F, TS 93"></label>
+    <label>Recherche libre<input name="texte" placeholder="ex. antipanique, store, Pyrostop"></label>
+    <label>Système Forster<select name="systeme"><option value="">Tous</option></select></label>
+    <label>Typologie<select name="typologie"><option value="">Toutes</option></select></label>
+    <div class="ligne">
+      <label>Durée mini (min)<select name="duree"><option value="">—</option><option>30</option><option>60</option><option>90</option><option>120</option></select></label>
+      <label>Critère exigé<select name="critere"><option value="">E seul ou plus</option><option value="I">avec I (EI)</option><option value="W">avec W (EW)</option></select></label>
+    </div>
+    <label>Catégorie de composant présente<select name="categorie"><option value="">Toutes</option></select></label>
+    <label>Fonction de serrure (code Forster)<select name="fonction"><option value="">Toutes</option></select></label>
+    <div class="ligne">
+      <label>Largeur ≥ (mm)<input name="largeur" type="number" min="0" step="10"></label>
+      <label>Hauteur ≥ (mm)<input name="hauteur" type="number" min="0" step="10"></label>
+    </div>
+    <label>Valide au<input name="valide" type="date"></label>
+    <details><summary>SQL généré</summary><pre id="sql"></pre></details>
+  </form>
+  <section><p id="compte"></p><div id="resultats"></div></section>
+</main>
+<aside id="detail" hidden></aside>
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

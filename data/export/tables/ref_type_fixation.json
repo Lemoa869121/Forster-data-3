@@ -1,0 +1,55 @@
+{
+ "table": "ref_type_fixation",
+ "colonnes": [
+  "code",
+  "libelle",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "vis_beton",
+   "libelle": "Vis béton (HUS…)",
+   "description": null
+  },
+  {
+   "code": "vis_cheville",
+   "libelle": "Vis + cheville",
+   "description": null
+  },
+  {
+   "code": "goujon",
+   "libelle": "Goujon d'ancrage",
+   "description": null
+  },
+  {
+   "code": "vis_metaux",
+   "libelle": "Vis métaux",
+   "description": null
+  },
+  {
+   "code": "vis_tole",
+   "libelle": "Vis à tôle / autoforeuse",
+   "description": null
+  },
+  {
+   "code": "rivet",
+   "libelle": "Rivet",
+   "description": null
+  },
+  {
+   "code": "boulon",
+   "libelle": "Boulon",
+   "description": null
+  },
+  {
+   "code": "soudure",
+   "libelle": "Soudure",
+   "description": null
+  },
+  {
+   "code": "cheville_metal",
+   "libelle": "Cheville métallique",
+   "description": null
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "table": "ref_type_joint",
+ "colonnes": [
+  "code",
+  "libelle",
+  "description"
+ ],
+ "lignes": [
+  {
+   "code": "intumescent",
+   "libelle": "Intumescent",
+   "description": null
+  },
+  {
+   "code": "epdm",
+   "libelle": "EPDM",
+   "description": null
+  },
+  {
+   "code": "cr",
+   "libelle": "CR (polychloroprène)",
+   "description": null
+  },
+  {
+   "code": "fibre_minerale",
+   "libelle": "Bande de fibre minérale",
+   "description": null
+  },
+  {
+   "code": "fibre_ceramique",
+   "libelle": "Bande de fibre céramique",
+   "description": null
+  },
+  {
+   "code": "butee",
+   "libelle": "Joint de butée",
+   "description": null
+  }
+ ]
+}
