@@ -54,6 +54,69 @@
    "isolation_thermique": null,
    "profondeur_mm": null,
    "commentaire": "Système de façade acier, séries 45 et 60"
+  },
+  {
+   "id": "SYS-FUEGO-LIGHT",
+   "nom": "Fuego Light (série non précisée)",
+   "nom_normalise": "FUEGO LIGHT (SERIE NON PRECISEE)",
+   "fabricant_id": "ORG-FORSTER",
+   "isolation_thermique": 1,
+   "profondeur_mm": null,
+   "commentaire": null
+  },
+  {
+   "id": "SYS-FUEGO-LIGHT-90",
+   "nom": "Fuego Light 90",
+   "nom_normalise": "FUEGO LIGHT 90",
+   "fabricant_id": "ORG-FORSTER",
+   "isolation_thermique": 1,
+   "profondeur_mm": null,
+   "commentaire": null
+  },
+  {
+   "id": "SYS-UNICO",
+   "nom": "Unico",
+   "nom_normalise": "UNICO",
+   "fabricant_id": "ORG-FORSTER",
+   "isolation_thermique": null,
+   "profondeur_mm": null,
+   "commentaire": null
+  },
+  {
+   "id": "SYS-THERMFIX-LIGHT",
+   "nom": "Thermfix Light",
+   "nom_normalise": "THERMFIX LIGHT",
+   "fabricant_id": "ORG-FORSTER",
+   "isolation_thermique": null,
+   "profondeur_mm": null,
+   "commentaire": null
+  },
+  {
+   "id": "SYS-FUEGO-LIGHT-120",
+   "nom": "Fuego Light 120",
+   "nom_normalise": "FUEGO LIGHT 120",
+   "fabricant_id": "ORG-FORSTER",
+   "isolation_thermique": 1,
+   "profondeur_mm": null,
+   "commentaire": null
+  },
+  {
+   "id": "SYS-UNICO-XS",
+   "nom": "Unico XS",
+   "nom_normalise": "UNICO XS",
+   "fabricant_id": "ORG-FORSTER",
+   "isolation_thermique": null,
+   "profondeur_mm": null,
+   "commentaire": null
+  },
+  {
+   "id": "SYS-PRESTO-XS",
+   "nom": "Presto XS",
+   "nom_normalise": "PRESTO XS",
+   "fabricant_id": "ORG-FORSTER",
+   "isolation_thermique": 0,
+   "profondeur_mm": null,
+   "commentaire": null
   }
  ]
 }

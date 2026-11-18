@@ -28,7 +28,8 @@ function run() {
   $('#compte').textContent = `${rows.length} PV`;
   $('#resultats').innerHTML = rows.map(r => `
     <article class="carte" data-id="${esc(r.id)}">
-      <h3>${esc(r.numero_normalise)} <span class="classes">${esc(r.classements || '')}</span></h3>
+      <h3>${esc(r.numero_normalise)} <span class="classes">${esc(r.classements || '')}</span>
+        ${r.auto ? '<span class="badge">extraction automatique — à vérifier</span>' : '<span class="badge ok">saisie relue</span>'}</h3>
       <p>${esc(r.objet)}</p>
       <p class="meta">Système : ${esc(r.systemes || '—')} · Valide jusqu'au ${esc(r.date_validite_effective || '—')}
         ${r.derniere_reconduction ? '(' + esc(r.derniere_reconduction) + ')' : ''} · ${r.nb_extensions} extension(s)

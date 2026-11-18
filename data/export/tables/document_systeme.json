@@ -72,6 +72,2160 @@
    "systeme_id": "SYS-FUEGO-LIGHT-30",
    "role": "principal",
    "source_page_id": "SP-EFR-24-000553-R1-P001"
+  },
+  {
+   "document_id": "DOC-08-A-287-REC-24-3",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-08-A-287-REC-24-3-P001"
+  },
+  {
+   "document_id": "DOC-08-A-287-REC-19-2",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-08-A-287-REC-19-2-P001"
+  },
+  {
+   "document_id": "DOC-08-A-287",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-08-A-287-P001"
+  },
+  {
+   "document_id": "DOC-08-A-287-EXT-11-1",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-08-A-287-EXT-11-1-P001"
+  },
+  {
+   "document_id": "DOC-08-A-287-EXT-11-1",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "variante",
+   "source_page_id": "SP-08-A-287-EXT-11-1-P001"
+  },
+  {
+   "document_id": "DOC-08-A-287-EXT-19-3",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-08-A-287-EXT-19-3-P001"
+  },
+  {
+   "document_id": "DOC-08-A-287-EXT-23-5",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-08-A-287-EXT-23-5-P001"
+  },
+  {
+   "document_id": "DOC-08-A-287-EXT-22-4",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-08-A-287-EXT-22-4-P001"
+  },
+  {
+   "document_id": "DOC-08-A-342-REC-24-3",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-08-A-342-REC-24-3-P001"
+  },
+  {
+   "document_id": "DOC-08-A-342-REC-19-2",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-08-A-342-REC-19-2-P001"
+  },
+  {
+   "document_id": "DOC-08-A-342",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-08-A-342-P001"
+  },
+  {
+   "document_id": "DOC-08-A-342-EXT-12-1",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-08-A-342-EXT-12-1-P001"
+  },
+  {
+   "document_id": "DOC-08-A-343-REC-24-3",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-08-A-343-REC-24-3-P001"
+  },
+  {
+   "document_id": "DOC-08-A-343-REC-19-2",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-08-A-343-REC-19-2-P001"
+  },
+  {
+   "document_id": "DOC-08-A-343",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-08-A-343-P001"
+  },
+  {
+   "document_id": "DOC-08-A-343-EXT-11-1",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-08-A-343-EXT-11-1-P001"
+  },
+  {
+   "document_id": "DOC-08-A-343-EXT-11-1",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "variante",
+   "source_page_id": "SP-08-A-343-EXT-11-1-P001"
+  },
+  {
+   "document_id": "DOC-08-A-343-EXT-17-2",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-08-A-343-EXT-17-2-P001"
+  },
+  {
+   "document_id": "DOC-08-A-343-EXT-23-5",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-08-A-343-EXT-23-5-P001"
+  },
+  {
+   "document_id": "DOC-08-A-343-EXT-22-4",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-08-A-343-EXT-22-4-P001"
+  },
+  {
+   "document_id": "DOC-09-A-496-REC-20-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-09-A-496-REC-20-2-P001"
+  },
+  {
+   "document_id": "DOC-09-A-496",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-09-A-496-P001"
+  },
+  {
+   "document_id": "DOC-09-A-496-EXT-11-1",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-09-A-496-EXT-11-1-P001"
+  },
+  {
+   "document_id": "DOC-09-A-496-EXT-12-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-09-A-496-EXT-12-2-P001"
+  },
+  {
+   "document_id": "DOC-09-A-496-EXT-15-3",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-09-A-496-EXT-15-3-P001"
+  },
+  {
+   "document_id": "DOC-09-A-496-EXT-19-5",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-09-A-496-EXT-19-5-P001"
+  },
+  {
+   "document_id": "DOC-09-A-497-REC-20-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-09-A-497-REC-20-2-P001"
+  },
+  {
+   "document_id": "DOC-09-A-497",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-09-A-497-P001"
+  },
+  {
+   "document_id": "DOC-09-A-497-EXT-11-1",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-09-A-497-EXT-11-1-P001"
+  },
+  {
+   "document_id": "DOC-09-A-497-EXT-12-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-09-A-497-EXT-12-2-P001"
+  },
+  {
+   "document_id": "DOC-09-A-497-EXT-12-3",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-09-A-497-EXT-12-3-P001"
+  },
+  {
+   "document_id": "DOC-09-A-497-EXT-15-3",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-09-A-497-EXT-15-3-P001"
+  },
+  {
+   "document_id": "DOC-09-A-497-EXT-22-7",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-09-A-497-EXT-22-7-P001"
+  },
+  {
+   "document_id": "DOC-09-A-497-EXT-23-8",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-09-A-497-EXT-23-8-P001"
+  },
+  {
+   "document_id": "DOC-10-A-631-REC-22-2",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-10-A-631-REC-22-2-P001"
+  },
+  {
+   "document_id": "DOC-10-A-631",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-10-A-631-P001"
+  },
+  {
+   "document_id": "DOC-10-A-631-EXT-14-1",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-10-A-631-EXT-14-1-P001"
+  },
+  {
+   "document_id": "DOC-10-A-632-REC-23-2",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-10-A-632-REC-23-2-P001"
+  },
+  {
+   "document_id": "DOC-10-A-632-REC-18-1",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-10-A-632-REC-18-1-P001"
+  },
+  {
+   "document_id": "DOC-10-A-632",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-10-A-632-P001"
+  },
+  {
+   "document_id": "DOC-10-A-632-EXT-23-1",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-10-A-632-EXT-23-1-P001"
+  },
+  {
+   "document_id": "DOC-10-A-650-REC-26-3",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-10-A-650-REC-26-3-P001"
+  },
+  {
+   "document_id": "DOC-10-A-650-REC-21-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-10-A-650-REC-21-2-P001"
+  },
+  {
+   "document_id": "DOC-10-A-650-REC-16-1",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-10-A-650-REC-16-1-P001"
+  },
+  {
+   "document_id": "DOC-10-A-650",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-10-A-650-P001"
+  },
+  {
+   "document_id": "DOC-10-A-650-EXT-17-1",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-10-A-650-EXT-17-1-P001"
+  },
+  {
+   "document_id": "DOC-10-A-650-EXT-23-4",
+   "systeme_id": "SYS-PRESTO-60",
+   "role": "principal",
+   "source_page_id": "SP-10-A-650-EXT-23-4-P001"
+  },
+  {
+   "document_id": "DOC-10-A-650-EXT-23-4",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "variante",
+   "source_page_id": "SP-10-A-650-EXT-23-4-P001"
+  },
+  {
+   "document_id": "DOC-11-A-091-REC-21-2",
+   "systeme_id": "SYS-FUEGO-LIGHT-90",
+   "role": "principal",
+   "source_page_id": "SP-11-A-091-REC-21-2-P001"
+  },
+  {
+   "document_id": "DOC-11-A-091",
+   "systeme_id": "SYS-FUEGO-LIGHT-90",
+   "role": "principal",
+   "source_page_id": "SP-11-A-091-P001"
+  },
+  {
+   "document_id": "DOC-11-A-504-REC-22-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-11-A-504-REC-22-2-P001"
+  },
+  {
+   "document_id": "DOC-11-A-504",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-11-A-504-P001"
+  },
+  {
+   "document_id": "DOC-11-A-505-REC-22-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-11-A-505-REC-22-2-P001"
+  },
+  {
+   "document_id": "DOC-11-A-505",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-11-A-505-P001"
+  },
+  {
+   "document_id": "DOC-11-A-505-EXT-23-3",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-11-A-505-EXT-23-3-P001"
+  },
+  {
+   "document_id": "DOC-11-A-506-REC-22-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-11-A-506-REC-22-2-P001"
+  },
+  {
+   "document_id": "DOC-11-A-506",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-11-A-506-P001"
+  },
+  {
+   "document_id": "DOC-11-A-506",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "variante",
+   "source_page_id": "SP-11-A-506-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-000468",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-14-000468-P001"
+  },
+  {
+   "document_id": "DOC-11-A-506-EXT-23-3",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-11-A-506-EXT-23-3-P001"
+  },
+  {
+   "document_id": "DOC-11-A-506-EXT-23-4",
+   "systeme_id": "SYS-PRESTO-60",
+   "role": "principal",
+   "source_page_id": "SP-11-A-506-EXT-23-4-P001"
+  },
+  {
+   "document_id": "DOC-11-A-506-EXT-23-4",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "variante",
+   "source_page_id": "SP-11-A-506-EXT-23-4-P001"
+  },
+  {
+   "document_id": "DOC-11-A-571-REC-22-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-11-A-571-REC-22-2-P001"
+  },
+  {
+   "document_id": "DOC-11-A-571",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-11-A-571-P001"
+  },
+  {
+   "document_id": "DOC-11-A-571-EXT-11-6",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-11-A-571-EXT-11-6-P001"
+  },
+  {
+   "document_id": "DOC-11-A-571-EXT-12-8",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-11-A-571-EXT-12-8-P001"
+  },
+  {
+   "document_id": "DOC-11-A-571-EXT-X5",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-11-A-571-EXT-X5-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-003209",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-14-003209-P001"
+  },
+  {
+   "document_id": "DOC-11-A-572-REC-22-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-11-A-572-REC-22-2-P001"
+  },
+  {
+   "document_id": "DOC-11-A-572",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-11-A-572-P001"
+  },
+  {
+   "document_id": "DOC-11-A-572",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "variante",
+   "source_page_id": "SP-11-A-572-P001"
+  },
+  {
+   "document_id": "DOC-11-A-572",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "variante",
+   "source_page_id": "SP-11-A-572-P001"
+  },
+  {
+   "document_id": "DOC-11-A-572-EXT-12-1",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-11-A-572-EXT-12-1-P001"
+  },
+  {
+   "document_id": "DOC-11-A-572-EXT-X4",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-11-A-572-EXT-X4-P001"
+  },
+  {
+   "document_id": "DOC-11-A-572-EXT-22-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-11-A-572-EXT-22-2-P001"
+  },
+  {
+   "document_id": "DOC-11-A-572-EXT-23-3",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-11-A-572-EXT-23-3-P001"
+  },
+  {
+   "document_id": "DOC-11-A-572-EXT-25-6",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-11-A-572-EXT-25-6-P001"
+  },
+  {
+   "document_id": "DOC-12-A-077-REC-22-2",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-12-A-077-REC-22-2-P001"
+  },
+  {
+   "document_id": "DOC-12-A-077-REC-17-1",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-12-A-077-REC-17-1-P001"
+  },
+  {
+   "document_id": "DOC-12-A-077",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-12-A-077-P001"
+  },
+  {
+   "document_id": "DOC-12-A-077-EXT-17-1",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-12-A-077-EXT-17-1-P001"
+  },
+  {
+   "document_id": "DOC-12-A-077-EXT-17-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-12-A-077-EXT-17-2-P001"
+  },
+  {
+   "document_id": "DOC-12-A-077-EXT-17-3",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-12-A-077-EXT-17-3-P001"
+  },
+  {
+   "document_id": "DOC-12-A-078-REC-22-2",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-12-A-078-REC-22-2-P001"
+  },
+  {
+   "document_id": "DOC-12-A-078",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-12-A-078-P001"
+  },
+  {
+   "document_id": "DOC-12-A-078-EXT-17-1",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-12-A-078-EXT-17-1-P001"
+  },
+  {
+   "document_id": "DOC-12-A-078-EXT-19-2",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-12-A-078-EXT-19-2-P001"
+  },
+  {
+   "document_id": "DOC-12-A-078-EXT-20-3",
+   "systeme_id": "SYS-FUEGO-LIGHT-90",
+   "role": "principal",
+   "source_page_id": "SP-12-A-078-EXT-20-3-P001"
+  },
+  {
+   "document_id": "DOC-12-A-078-EXT-20-3",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "variante",
+   "source_page_id": "SP-12-A-078-EXT-20-3-P001"
+  },
+  {
+   "document_id": "DOC-12-A-078-EXT-20-3",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "variante",
+   "source_page_id": "SP-12-A-078-EXT-20-3-P001"
+  },
+  {
+   "document_id": "DOC-12-A-078-EXT-23-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-12-A-078-EXT-23-2-P001"
+  },
+  {
+   "document_id": "DOC-12-A-078-EXT-23-3",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-12-A-078-EXT-23-3-P001"
+  },
+  {
+   "document_id": "DOC-12-A-079-REC-22-2",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-12-A-079-REC-22-2-P001"
+  },
+  {
+   "document_id": "DOC-12-A-079",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-12-A-079-P001"
+  },
+  {
+   "document_id": "DOC-12-A-079-EXT-23-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-12-A-079-EXT-23-2-P001"
+  },
+  {
+   "document_id": "DOC-12-A-080-REC-22-2",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-12-A-080-REC-22-2-P001"
+  },
+  {
+   "document_id": "DOC-12-A-080",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-12-A-080-P001"
+  },
+  {
+   "document_id": "DOC-12-A-080-EXT-23-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-12-A-080-EXT-23-2-P001"
+  },
+  {
+   "document_id": "DOC-12-A-080-EXT-23-3",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-12-A-080-EXT-23-3-P001"
+  },
+  {
+   "document_id": "DOC-12-A-080-EXT-23-2-5",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-12-A-080-EXT-23-2-5-P001"
+  },
+  {
+   "document_id": "DOC-12-A-086-REC-22-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-12-A-086-REC-22-2-P001"
+  },
+  {
+   "document_id": "DOC-12-A-086",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-12-A-086-P001"
+  },
+  {
+   "document_id": "DOC-12-A-086-EXT-16-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-12-A-086-EXT-16-2-P001"
+  },
+  {
+   "document_id": "DOC-12-A-087-REC-22-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-12-A-087-REC-22-2-P001"
+  },
+  {
+   "document_id": "DOC-12-A-087",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-12-A-087-P001"
+  },
+  {
+   "document_id": "DOC-12-A-087-EXT-13-1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-12-A-087-EXT-13-1-P001"
+  },
+  {
+   "document_id": "DOC-12-A-087-EXT-13-1",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "variante",
+   "source_page_id": "SP-12-A-087-EXT-13-1-P001"
+  },
+  {
+   "document_id": "DOC-12-A-090-REC-22-2",
+   "systeme_id": "SYS-THERMFIX-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-12-A-090-REC-22-2-P001"
+  },
+  {
+   "document_id": "DOC-12-A-090",
+   "systeme_id": "SYS-THERMFIX-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-12-A-090-P001"
+  },
+  {
+   "document_id": "DOC-12-A-090-EXT-12-1",
+   "systeme_id": "SYS-THERMFIX-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-12-A-090-EXT-12-1-P001"
+  },
+  {
+   "document_id": "DOC-12-A-090-EXT-22-2",
+   "systeme_id": "SYS-THERMFIX-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-12-A-090-EXT-22-2-P001"
+  },
+  {
+   "document_id": "DOC-12-A-090-EXT-24-3",
+   "systeme_id": "SYS-THERMFIX-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-12-A-090-EXT-24-3-P001"
+  },
+  {
+   "document_id": "DOC-12-A-090-EXT-25-5",
+   "systeme_id": "SYS-THERMFIX-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-12-A-090-EXT-25-5-P001"
+  },
+  {
+   "document_id": "DOC-12-A-091-REC-22-2",
+   "systeme_id": "SYS-THERMFIX-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-12-A-091-REC-22-2-P001"
+  },
+  {
+   "document_id": "DOC-12-A-091",
+   "systeme_id": "SYS-THERMFIX-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-12-A-091-P001"
+  },
+  {
+   "document_id": "DOC-12-A-091-EXT-12-1",
+   "systeme_id": "SYS-THERMFIX-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-12-A-091-EXT-12-1-P001"
+  },
+  {
+   "document_id": "DOC-12-A-091-EXT-22-2",
+   "systeme_id": "SYS-THERMFIX-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-12-A-091-EXT-22-2-P001"
+  },
+  {
+   "document_id": "DOC-12-A-091-EXT-24-3",
+   "systeme_id": "SYS-THERMFIX-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-12-A-091-EXT-24-3-P001"
+  },
+  {
+   "document_id": "DOC-12-A-091-EXT-25-5",
+   "systeme_id": "SYS-THERMFIX-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-12-A-091-EXT-25-5-P001"
+  },
+  {
+   "document_id": "DOC-12-A-461-REC-23-2",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-12-A-461-REC-23-2-P001"
+  },
+  {
+   "document_id": "DOC-12-A-461-REC-17-1",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-12-A-461-REC-17-1-P001"
+  },
+  {
+   "document_id": "DOC-12-A-462-REC-23-2",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-12-A-462-REC-23-2-P001"
+  },
+  {
+   "document_id": "DOC-12-A-462-REC-17-1",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-12-A-462-REC-17-1-P001"
+  },
+  {
+   "document_id": "DOC-12-A-765-REC-24-2",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-12-A-765-REC-24-2-P001"
+  },
+  {
+   "document_id": "DOC-12-A-765-REC-18-1",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-12-A-765-REC-18-1-P001"
+  },
+  {
+   "document_id": "DOC-12-A-765",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-12-A-765-P001"
+  },
+  {
+   "document_id": "DOC-13-A-1050-REC-24-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-13-A-1050-REC-24-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-1050-REC-19-1",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-13-A-1050-REC-19-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-1050",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-13-A-1050-P001"
+  },
+  {
+   "document_id": "DOC-13-A-1050-EXT-17-1",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-13-A-1050-EXT-17-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-176-REC-23-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-176-REC-23-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-176-REC-18-1",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-176-REC-18-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-176",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-176-P001"
+  },
+  {
+   "document_id": "DOC-13-A-176-EXT-14-1",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-176-EXT-14-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-176-EXT-14-1",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "variante",
+   "source_page_id": "SP-13-A-176-EXT-14-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-002247",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-14-002247-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-002247",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "variante",
+   "source_page_id": "SP-EFR-14-002247-P001"
+  },
+  {
+   "document_id": "DOC-13-A-176-EXT-22-5",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-176-EXT-22-5-P001"
+  },
+  {
+   "document_id": "DOC-13-A-176-EXT-23-6",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-176-EXT-23-6-P001"
+  },
+  {
+   "document_id": "DOC-13-A-177-REC-23-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-177-REC-23-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-177-REC-18-1",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-177-REC-18-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-177",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-177-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-002238",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-14-002238-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-002239",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-14-002239-P001"
+  },
+  {
+   "document_id": "DOC-13-A-177-EXT-18-4",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-177-EXT-18-4-P001"
+  },
+  {
+   "document_id": "DOC-13-A-177-EXT-18-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-177-EXT-18-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-177-EXT-18-2",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "variante",
+   "source_page_id": "SP-13-A-177-EXT-18-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-177-EXT-18-6",
+   "systeme_id": "SYS-PRESTO-60",
+   "role": "principal",
+   "source_page_id": "SP-13-A-177-EXT-18-6-P001"
+  },
+  {
+   "document_id": "DOC-13-A-177-EXT-18-6",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "variante",
+   "source_page_id": "SP-13-A-177-EXT-18-6-P001"
+  },
+  {
+   "document_id": "DOC-13-A-178-REC-23-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-178-REC-23-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-178-REC-18-1",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-178-REC-18-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-178",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-178-P001"
+  },
+  {
+   "document_id": "DOC-13-A-178-EXT-14-1",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-178-EXT-14-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-178-EXT-14-1",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "variante",
+   "source_page_id": "SP-13-A-178-EXT-14-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-001850",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-14-001850-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-001850",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "variante",
+   "source_page_id": "SP-EFR-14-001850-P001"
+  },
+  {
+   "document_id": "DOC-13-A-178-EXT-18-4",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-178-EXT-18-4-P001"
+  },
+  {
+   "document_id": "DOC-13-A-178-EXT-23-6",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-178-EXT-23-6-P001"
+  },
+  {
+   "document_id": "DOC-13-A-180-REC-24-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-180-REC-24-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-180-REC-19-1",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-180-REC-19-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-180",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-180-P001"
+  },
+  {
+   "document_id": "DOC-13-A-180-EXT-60-13",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-180-EXT-60-13-P001"
+  },
+  {
+   "document_id": "DOC-13-A-184-REC-24-2",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-13-A-184-REC-24-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-184-REC-19-1",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-13-A-184-REC-19-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-184",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-13-A-184-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-002239",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-14-002239-P001"
+  },
+  {
+   "document_id": "DOC-13-A-184-EXT-15-2",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-13-A-184-EXT-15-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-374-REC-24-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-374-REC-24-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-374-REC-19-1",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-374-REC-19-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-374",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-374-P001"
+  },
+  {
+   "document_id": "DOC-13-A-374-EXT-18-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-374-EXT-18-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-374-EXT-18-2",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "variante",
+   "source_page_id": "SP-13-A-374-EXT-18-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-374-EXT-60-13",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-374-EXT-60-13-P001"
+  },
+  {
+   "document_id": "DOC-13-A-417-REC-24-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-417-REC-24-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-417",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-417-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-001441",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-14-001441-P001"
+  },
+  {
+   "document_id": "DOC-13-A-417-EXT-15-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-417-EXT-15-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-427-REC-24-2",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-13-A-427-REC-24-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-427-REC-19-1",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-13-A-427-REC-19-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-427",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-13-A-427-P001"
+  },
+  {
+   "document_id": "DOC-13-A-429-REC-24-2",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-13-A-429-REC-24-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-429",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-13-A-429-P001"
+  },
+  {
+   "document_id": "DOC-13-A-429-EXT-18-1",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-13-A-429-EXT-18-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-429-EXT-18-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-429-EXT-18-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-429-EXT-18-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "variante",
+   "source_page_id": "SP-13-A-429-EXT-18-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-433-REC-24-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-433-REC-24-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-433-REC-20-1",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-433-REC-20-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-433",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-433-P001"
+  },
+  {
+   "document_id": "DOC-13-A-439-REC-24-2",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-13-A-439-REC-24-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-439-REC-20-1",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-13-A-439-REC-20-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-439",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-13-A-439-P001"
+  },
+  {
+   "document_id": "DOC-13-A-439-EXT-18-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-439-EXT-18-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-439-EXT-18-2",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "variante",
+   "source_page_id": "SP-13-A-439-EXT-18-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-439-EXT-23-4",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-13-A-439-EXT-23-4-P001"
+  },
+  {
+   "document_id": "DOC-13-A-441-REC-24-2",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-13-A-441-REC-24-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-441-REC-20-1",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-13-A-441-REC-20-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-441",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-13-A-441-P001"
+  },
+  {
+   "document_id": "DOC-13-A-441-EXT-20-2",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-13-A-441-EXT-20-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-441-EXT-23-3",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-13-A-441-EXT-23-3-P001"
+  },
+  {
+   "document_id": "DOC-13-A-441-EXT-23-4",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-13-A-441-EXT-23-4-P001"
+  },
+  {
+   "document_id": "DOC-13-A-442-REC-25-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-13-A-442-REC-25-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-442-REC-20-1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-13-A-442-REC-20-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-442",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-13-A-442-P001"
+  },
+  {
+   "document_id": "DOC-13-A-443-REC-25-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-13-A-443-REC-25-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-443-REC-20-1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-13-A-443-REC-20-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-443",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-13-A-443-P001"
+  },
+  {
+   "document_id": "DOC-13-A-676-REC-24-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-13-A-676-REC-24-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-676-REC-19-1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-13-A-676-REC-19-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-676",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-13-A-676-P001"
+  },
+  {
+   "document_id": "DOC-13-A-676-EXT-X4",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-13-A-676-EXT-X4-P001"
+  },
+  {
+   "document_id": "DOC-13-A-677-REC-24-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-13-A-677-REC-24-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-677-REC-19-1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-13-A-677-REC-19-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-677",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-13-A-677-P001"
+  },
+  {
+   "document_id": "DOC-13-A-705-REC-24-2",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-13-A-705-REC-24-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-705-REC-19-1",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-13-A-705-REC-19-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-705",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-13-A-705-P001"
+  },
+  {
+   "document_id": "DOC-13-V-582-REC-23-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-13-V-582-REC-23-2-P001"
+  },
+  {
+   "document_id": "DOC-13-V-582-REC-18-1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-13-V-582-REC-18-1-P001"
+  },
+  {
+   "document_id": "DOC-13-V-582",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-13-V-582-P001"
+  },
+  {
+   "document_id": "DOC-13-V-582-EXT-14-1",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-V-582-EXT-14-1-P001"
+  },
+  {
+   "document_id": "DOC-13-V-582-EXT-14-1",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": "SP-13-V-582-EXT-14-1-P001"
+  },
+  {
+   "document_id": "DOC-13-V-582-EXT-14-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-13-V-582-EXT-14-2-P001"
+  },
+  {
+   "document_id": "DOC-14-A-001-REC-24-2",
+   "systeme_id": "SYS-FUEGO-LIGHT-90",
+   "role": "principal",
+   "source_page_id": "SP-14-A-001-REC-24-2-P001"
+  },
+  {
+   "document_id": "DOC-14-A-001-REC-19-1",
+   "systeme_id": "SYS-FUEGO-LIGHT-90",
+   "role": "principal",
+   "source_page_id": "SP-14-A-001-REC-19-1-P001"
+  },
+  {
+   "document_id": "DOC-14-A-001",
+   "systeme_id": "SYS-FUEGO-LIGHT-90",
+   "role": "principal",
+   "source_page_id": "SP-14-A-001-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-001306-REC-24-2",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-14-001306-REC-24-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-001306-REC-20-1",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-14-001306-REC-20-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-001306",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-14-001306-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-001306-EXT-X4",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-14-001306-EXT-X4-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-001306-EXT-X4",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "variante",
+   "source_page_id": "SP-EFR-14-001306-EXT-X4-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-001850-REC-25-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-14-001850-REC-25-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-001850-REC-20-1",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-14-001850-REC-20-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-001852",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-14-001852-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-001852",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "variante",
+   "source_page_id": "SP-EFR-14-001852-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-001852-REC-25-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-14-001852-REC-25-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-001852-REC-20-1",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-14-001852-REC-20-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-15-002586",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-EFR-15-002586-P001"
+  },
+  {
+   "document_id": "DOC-EFR-15-002589",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-EFR-15-002589-P001"
+  },
+  {
+   "document_id": "DOC-EFR-16-003119-REC-23-1",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-16-003119-REC-23-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-16-003119",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-16-003119-P001"
+  },
+  {
+   "document_id": "DOC-EFR-16-V-004086-REC-22-1",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-EFR-16-V-004086-REC-22-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-16-V-004086",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-EFR-16-V-004086-P001"
+  },
+  {
+   "document_id": "DOC-EFR-16-V-004086-EXT-17-1",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-EFR-16-V-004086-EXT-17-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-16-V-004086-EXT-21-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-EFR-16-V-004086-EXT-21-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-16-V-004086-EXT-21-3",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-EFR-16-V-004086-EXT-21-3-P001"
+  },
+  {
+   "document_id": "DOC-EFR-17-003240-REC-24-1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-17-003240-REC-24-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-17-003240",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-17-003240-P001"
+  },
+  {
+   "document_id": "DOC-EFR-17-003243-REC-24-1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-17-003243-REC-24-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-17-003243",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-17-003243-P001"
+  },
+  {
+   "document_id": "DOC-EFR-17-003917-REC-23-1",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-EFR-17-003917-REC-23-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-17-003917",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-EFR-17-003917-P001"
+  },
+  {
+   "document_id": "DOC-EFR-18-002293-REC-23-1",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-EFR-18-002293-REC-23-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-18-002293",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-EFR-18-002293-P001"
+  },
+  {
+   "document_id": "DOC-EFR-18-002293-EXT-23-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-EFR-18-002293-EXT-23-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-18-003683-REC-24-1",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-EFR-18-003683-REC-24-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-18-003683",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-EFR-18-003683-P001"
+  },
+  {
+   "document_id": "DOC-EFR-18-004879-REC-24-1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-18-004879-REC-24-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-18-004879",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-18-004879-P001"
+  },
+  {
+   "document_id": "DOC-EFR-18-004879-EXT-25-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-18-004879-EXT-25-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-001169-REC-25-1",
+   "systeme_id": "SYS-FUEGO-LIGHT-120",
+   "role": "principal",
+   "source_page_id": "SP-EFR-19-001169-REC-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-001169-EXT-21-1",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-EFR-19-001169-EXT-21-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-001242-REC-24-1",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-19-001242-REC-24-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-001242",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-19-001242-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-002101-REC-24-1",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-19-002101-REC-24-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-002101",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-19-002101-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-002101-EXT-19-1",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-19-002101-EXT-19-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-002101-EXT-19-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-19-002101-EXT-19-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-002303-REC-24-1",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-EFR-19-002303-REC-24-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-002303",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-EFR-19-002303-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-002612-REC-24-1",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-EFR-19-002612-REC-24-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-002612",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-EFR-19-002612-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-003008",
+   "systeme_id": "SYS-FUEGO-LIGHT-90",
+   "role": "principal",
+   "source_page_id": "SP-EFR-19-003008-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-004227-REC-24-1",
+   "systeme_id": "SYS-FUEGO-LIGHT-90",
+   "role": "principal",
+   "source_page_id": "SP-EFR-19-004227-REC-24-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-004227",
+   "systeme_id": "SYS-FUEGO-LIGHT-90",
+   "role": "principal",
+   "source_page_id": "SP-EFR-19-004227-P001"
+  },
+  {
+   "document_id": "DOC-EFR-20-000597-REC-25-1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-20-000597-REC-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-20-000597-EXT-25-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-20-000597-EXT-25-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-20-000858-REC-25-1",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-20-000858-REC-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-20-000858-EXT-21-1",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-20-000858-EXT-21-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-20-001190-REC-25-1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-20-001190-REC-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-20-001190-EXT-25-1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-20-001190-EXT-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-21-000287",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-21-000287-P001"
+  },
+  {
+   "document_id": "DOC-EFR-21-001121",
+   "systeme_id": "SYS-FUEGO-LIGHT-120",
+   "role": "principal",
+   "source_page_id": "SP-EFR-21-001121-P001"
+  },
+  {
+   "document_id": "DOC-EFR-21-002688",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-EFR-21-002688-P001"
+  },
+  {
+   "document_id": "DOC-EFR-21-002803-B",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-21-002803-B-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001302",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-22-001302-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001303",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": "SP-EFR-22-001303-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001303-EXT-23-1",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": "SP-EFR-22-001303-EXT-23-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001303-EXT-23-1",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": "SP-EFR-22-001303-EXT-23-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001303-EXT-25-1",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": "SP-EFR-22-001303-EXT-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001303-EXT-25-2",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": "SP-EFR-22-001303-EXT-25-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001304",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-22-001304-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001304-EXT-25-1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-22-001304-EXT-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001304-EXT-25-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-22-001304-EXT-25-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001305",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-22-001305-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001305-EXT-25-1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-22-001305-EXT-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001305-EXT-25-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-22-001305-EXT-25-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001306",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": "SP-EFR-22-001306-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001306-EXT-25-1",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": "SP-EFR-22-001306-EXT-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001306-EXT-25-2",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": "SP-EFR-22-001306-EXT-25-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-002110",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-EFR-22-002110-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-003781",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-EFR-22-003781-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-004035",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-22-004035-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-004035-EXT-23-1",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-22-004035-EXT-23-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-004036",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-22-004036-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-004036-EXT-23-1",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-22-004036-EXT-23-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-004162",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-EFR-22-004162-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-004372",
+   "systeme_id": "SYS-FUEGO-LIGHT-90",
+   "role": "principal",
+   "source_page_id": "SP-EFR-22-004372-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-005108",
+   "systeme_id": "SYS-FUEGO-LIGHT-90",
+   "role": "principal",
+   "source_page_id": "SP-EFR-22-005108-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-000307",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-EFR-23-000307-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-000308",
+   "systeme_id": "SYS-FUEGO-LIGHT-120",
+   "role": "principal",
+   "source_page_id": "SP-EFR-23-000308-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-000844",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-23-000844-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-000844-EXT-23-1",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-23-000844-EXT-23-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-000844-EXT-23-2",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-23-000844-EXT-23-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-000844-EXT-23-3",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-23-000844-EXT-23-3-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-001317",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-EFR-23-001317-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-001318",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-EFR-23-001318-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-001319",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-EFR-23-001319-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-000551",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-EFR-24-000551-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-000552",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-EFR-24-000552-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-000797",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-24-000797-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-000803",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-EFR-24-000803-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-000806",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-EFR-24-000806-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-001040",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-EFR-24-001040-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-002608",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-24-002608-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-002609",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": "SP-EFR-24-002609-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-002618",
+   "systeme_id": "SYS-PRESTO-60",
+   "role": "principal",
+   "source_page_id": "SP-EFR-24-002618-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-002618",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "variante",
+   "source_page_id": "SP-EFR-24-002618-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-002618-EXT-25-1",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-24-002618-EXT-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-002618-EXT-25-1",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": "SP-EFR-24-002618-EXT-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-002619",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-24-002619-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-002619-EXT-25-1",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-24-002619-EXT-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-002619-EXT-25-1-3",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-24-002619-EXT-25-1-3-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-002619-EXT-25-1-3",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": "SP-EFR-24-002619-EXT-25-1-3-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-000242",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-EFR-25-000242-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-000243",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-EFR-25-000243-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-001248",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-EFR-25-001248-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-002146",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-EFR-25-002146-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-002147",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-EFR-25-002147-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-003456",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-EFR-25-003456-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-003458",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-EFR-25-003458-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-003460",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-EFR-25-003460-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-003461",
+   "systeme_id": "SYS-FUEGO-LIGHT-30",
+   "role": "principal",
+   "source_page_id": "SP-EFR-25-003461-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-003729",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-EFR-25-003729-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-005120",
+   "systeme_id": "SYS-PRESTO-XS",
+   "role": "principal",
+   "source_page_id": "SP-EFR-25-005120-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-005120-EXT-26-1",
+   "systeme_id": "SYS-PRESTO-XS",
+   "role": "principal",
+   "source_page_id": "SP-EFR-25-005120-EXT-26-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-005121",
+   "systeme_id": "SYS-PRESTO-XS",
+   "role": "principal",
+   "source_page_id": "SP-EFR-25-005121-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-005121-EXT-26-1",
+   "systeme_id": "SYS-PRESTO-XS",
+   "role": "principal",
+   "source_page_id": "SP-EFR-25-005121-EXT-26-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-005538",
+   "systeme_id": "SYS-PRESTO-XS",
+   "role": "principal",
+   "source_page_id": "SP-EFR-25-005538-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-005538-EXT-26-1",
+   "systeme_id": "SYS-PRESTO-XS",
+   "role": "principal",
+   "source_page_id": "SP-EFR-25-005538-EXT-26-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-005540",
+   "systeme_id": "SYS-PRESTO-XS",
+   "role": "principal",
+   "source_page_id": "SP-EFR-25-005540-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-005540-EXT-26-1",
+   "systeme_id": "SYS-PRESTO-XS",
+   "role": "principal",
+   "source_page_id": "SP-EFR-25-005540-EXT-26-1-P001"
+  },
+  {
+   "document_id": "DOC-SA-04-00-97-H",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-SA-04-00-97-H-P001"
+  },
+  {
+   "document_id": "DOC-SA-05-00-05-D",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-SA-05-00-05-D-P001"
+  },
+  {
+   "document_id": "DOC-SA-05-01-35-F",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-SA-05-01-35-F-P001"
+  },
+  {
+   "document_id": "DOC-SA-11-01-09-B",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-SA-11-01-09-B-P001"
+  },
+  {
+   "document_id": "DOC-SA-11-01-09-B",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "variante",
+   "source_page_id": "SP-SA-11-01-09-B-P001"
+  },
+  {
+   "document_id": "DOC-SA-11-01-10-C",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-SA-11-01-10-C-P001"
+  },
+  {
+   "document_id": "DOC-SA-11-01-10-C",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "variante",
+   "source_page_id": "SP-SA-11-01-10-C-P001"
+  },
+  {
+   "document_id": "DOC-SA-11-01-11",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-SA-11-01-11-P001"
   }
  ]
 }

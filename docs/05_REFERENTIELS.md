@@ -291,6 +291,7 @@ Tables `ref_*` — valeurs initiales dans `db/referentiels.sql`. Toute colonne `
 | non_trouve | Information non trouvée |  |
 | document_absent | Document cité mais non fourni |  |
 | ambiguite_attribution | Attribution de valeur ambiguë |  |
+| extraction_auto | Extraction automatique à relire |  |
 
 ## `ref_type_document`
 
@@ -306,6 +307,7 @@ Tables `ref_*` — valeurs initiales dans `db/referentiels.sql`. Toute colonne `
 | additif | Additif | Additif / modification |
 | avis_chantier | Avis de chantier | Avis ponctuel du laboratoire |
 | document_reference | Document de référence cité | Document cité, non présent dans le corpus |
+| pv_das | Procès-verbal DAS (CNPP) | Procès-verbal d'essais / homologation de dispositif actionné de sécurité (NF S 61-937), CNPP |
 
 ## `ref_type_ferme_porte`
 
@@ -435,6 +437,9 @@ Tables `ref_*` — valeurs initiales dans `db/referentiels.sql`. Toute colonne `
 | cloison_vitree_bord_a_bord | Cloison vitrée à vitrages collés bord à bord |  |
 | facade_vitree | Façade vitrée |  |
 | chassis_fixe | Châssis fixe |  |
+| fenetre | Fenêtre / châssis ouvrant |  |
+| verriere | Verrière |  |
+| plancher_vitre | Plancher vitré |  |
 
 ## `ref_unite`
 

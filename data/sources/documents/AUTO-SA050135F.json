@@ -1,0 +1,368 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-AUTO-SA050135F",
+   "nom_fichier": "FR SA 05 01 35 F - EI30 EI60 - porte 1 et 2 vantaux FUEGO light - DAS CNPP - 11-10-2025.pdf",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": "DAS CNPP",
+   "commentaire": "Extraction automatique (texte natif + OCR tesseract) — relecture requise"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-SA-05-01-35-F",
+   "numero": "SA 05 01 35 F",
+   "numero_normalise": "SA 05 01 35 F",
+   "revision": null,
+   "type_code": "pv_das",
+   "domaine_code": "feu",
+   "objet": "les déclencheurs électromagnétiques de marque DORMA référence EM 500 A (50 daN), pour lesquels le couple a appliquer est supérieur à 120Nm, il convient d'installer :",
+   "laboratoire_id": "ORG-CNPP",
+   "date_emission": "2011-05-12",
+   "date_validite": "2010-10-11",
+   "validite_liee_au_pv": 0,
+   "nb_pages": 45,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-AUTO-SA050135F",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique — relecture requise"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-SA-05-01-35-F-P001",
+   "document_id": "DOC-SA-05-01-35-F",
+   "page_doc": 1,
+   "page_doc_total": 45,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "page_garde",
+   "libelle": "page PDF 1"
+  },
+  {
+   "id": "SP-SA-05-01-35-F-P020",
+   "document_id": "DOC-SA-05-01-35-F",
+   "page_doc": 20,
+   "page_doc_total": 45,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": "page PDF 20"
+  },
+  {
+   "id": "SP-SA-05-01-35-F-P006",
+   "document_id": "DOC-SA-05-01-35-F",
+   "page_doc": 6,
+   "page_doc_total": 45,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": "page PDF 6"
+  },
+  {
+   "id": "SP-SA-05-01-35-F-P007",
+   "document_id": "DOC-SA-05-01-35-F",
+   "page_doc": 7,
+   "page_doc_total": 45,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": "page PDF 7"
+  },
+  {
+   "id": "SP-SA-05-01-35-F-P022",
+   "document_id": "DOC-SA-05-01-35-F",
+   "page_doc": 22,
+   "page_doc_total": 45,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": "page PDF 22"
+  }
+ ],
+ "document_relation": [],
+ "document_organisme": [
+  {
+   "document_id": "DOC-SA-05-01-35-F",
+   "organisme_id": "ORG-CNPP",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-SA-05-01-35-F-P001"
+  },
+  {
+   "document_id": "DOC-SA-05-01-35-F",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-SA-05-01-35-F-P001"
+  }
+ ],
+ "document_signataire": [],
+ "document_norme": [
+  {
+   "document_id": "DOC-SA-05-01-35-F",
+   "norme_id": "NRM-EN-1154",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-05-01-35-F-P001"
+  },
+  {
+   "document_id": "DOC-SA-05-01-35-F",
+   "norme_id": "NRM-EN-1155",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-05-01-35-F-P001"
+  },
+  {
+   "document_id": "DOC-SA-05-01-35-F",
+   "norme_id": "NRM-NF-S-61-937",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-05-01-35-F-P001"
+  },
+  {
+   "document_id": "DOC-SA-05-01-35-F",
+   "norme_id": "NRM-NF-S-61-961",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-05-01-35-F-P001"
+  }
+ ],
+ "document_essai": [],
+ "document_systeme": [
+  {
+   "document_id": "DOC-SA-05-01-35-F",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": "SP-SA-05-01-35-F-P001"
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-SA-05-01-35-F-AUTO",
+   "document_id": "DOC-SA-05-01-35-F",
+   "code": "AUTO",
+   "libelle": "porte 1 et 2 vantaux FUEGO light",
+   "typologie_code": "bloc_porte",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": 1,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [],
+ "perf_feu": [],
+ "document_composant": [
+  {
+   "id": "DC-SA-05-01-35-F-0001",
+   "document_id": "DOC-SA-05-01-35-F",
+   "configuration_id": "CFG-SA-05-01-35-F-AUTO",
+   "reference_id": "REF-INCONNU-PYROSTOP60-201",
+   "reference_brute": "PYROSTOP 60-201",
+   "designation_document": "selon PV+EXT 1244 x 2444 2% 2 rex Epaisseur vitrage 42 mm soit 85 kg/m* RTL en ; rasss Pyrostop 60-201 ep 27 + espace d'air 8 et 33/2 | / | CRESMESS Grand vantail 1400x2600 | | | Poids du cad",
+   "categorie_code": "vitrage",
+   "role_code": "remplissage",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-SA-05-01-35-F-P020",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-SA-05-01-35-F-0002",
+   "document_id": "DOC-SA-05-01-35-F",
+   "configuration_id": "CFG-SA-05-01-35-F-AUTO",
+   "reference_id": "REF-DORMA-TS93",
+   "reference_brute": "TS 93",
+   "designation_document": "uivants. constructeur | Référence Procès verbal de conformité Force du ferme porte DORMA TS 93 MPA NRW EN 1154 2003-04 certificat 0432 BPR 0008 2à5 DORMA TS 93 MPA NRW EN 1154 2003-04",
+   "categorie_code": "ferme_porte",
+   "role_code": "fermeture",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-SA-05-01-35-F-P006",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-SA-05-01-35-F-0003",
+   "document_id": "DOC-SA-05-01-35-F",
+   "configuration_id": "CFG-SA-05-01-35-F-AUTO",
+   "reference_id": "REF-DORMA-TS92",
+   "reference_brute": "TS 92",
+   "designation_document": "0432 BPR 0008 2à5 DORMA TS 93 MPA NRW EN 1154 2003-04 certificat 0432 BPR 0008 Sà7 DORMA TS 92 MPA NRW EN 1154 2003-04 certificat 0432 BPR 0051 2à4 DORMA TS 91 MPA NRW EN 1154 2003-04",
+   "categorie_code": "ferme_porte",
+   "role_code": "fermeture",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-SA-05-01-35-F-P006",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-SA-05-01-35-F-0004",
+   "document_id": "DOC-SA-05-01-35-F",
+   "configuration_id": "CFG-SA-05-01-35-F-AUTO",
+   "reference_id": "REF-DORMA-TS91",
+   "reference_brute": "TS 91",
+   "designation_document": "0432 BPR 0008 Sà7 DORMA TS 92 MPA NRW EN 1154 2003-04 certificat 0432 BPR 0051 2à4 DORMA TS 91 MPA NRW EN 1154 2003-04 certificat 0432 BPR 0051 3 Fixe DORMA TS 90 MPA NRW EN 1154 1996",
+   "categorie_code": "ferme_porte",
+   "role_code": "fermeture",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-SA-05-01-35-F-P006",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-SA-05-01-35-F-0005",
+   "document_id": "DOC-SA-05-01-35-F",
+   "configuration_id": "CFG-SA-05-01-35-F-AUTO",
+   "reference_id": "REF-DORMA-TS90",
+   "reference_brute": "TS 90",
+   "designation_document": "32 BPR 0051 2à4 DORMA TS 91 MPA NRW EN 1154 2003-04 certificat 0432 BPR 0051 3 Fixe DORMA TS 90 MPA NRW EN 1154 1996 + AI :2002 certificat 0432 BPR 0048 3 Fixe DORMA TS 83 MPA NRW EN 11",
+   "categorie_code": "ferme_porte",
+   "role_code": "fermeture",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-SA-05-01-35-F-P006",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-SA-05-01-35-F-0006",
+   "document_id": "DOC-SA-05-01-35-F",
+   "configuration_id": "CFG-SA-05-01-35-F-AUTO",
+   "reference_id": "REF-DORMA-TS83",
+   "reference_brute": "TS 83",
+   "designation_document": "3 Fixe DORMA TS 90 MPA NRW EN 1154 1996 + AI :2002 certificat 0432 BPR 0048 3 Fixe DORMA TS 83 MPA NRW EN 1154 2003-04 certificat 0432 BPR 0007 2à6 DORMA TS 73V MPA NRW EN 1154 2003-04",
+   "categorie_code": "ferme_porte",
+   "role_code": "fermeture",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-SA-05-01-35-F-P006",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-SA-05-01-35-F-0007",
+   "document_id": "DOC-SA-05-01-35-F",
+   "configuration_id": "CFG-SA-05-01-35-F-AUTO",
+   "reference_id": "REF-DORMA-TS72",
+   "reference_brute": "TS 72",
+   "designation_document": "0432 BPR 0007 2à6 DORMA TS 73V MPA NRW EN 1154 2003-04 certificat 0432 BPR 0007 2à4 DORMA TS 72 MPA NRW EN 1154 2003-04 certificat 0432 BPR 0054 2à4 Dispositif de retenue : voir tablea",
+   "categorie_code": "ferme_porte",
+   "role_code": "fermeture",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-SA-05-01-35-F-P006",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-SA-05-01-35-F-0008",
+   "document_id": "DOC-SA-05-01-35-F",
+   "configuration_id": "CFG-SA-05-01-35-F-AUTO",
+   "reference_id": "REF-FORSTER-948011",
+   "reference_brute": "948011",
+   "designation_document": "FF 10 405 Fin de course EFF EFF 10 405 Boîtier anti-réarmement : Marque Référence FORSTER 948011 MECALECTRO BR 02 03",
+   "categorie_code": "joint_intumescent",
+   "role_code": "etancheite",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-SA-05-01-35-F-P007",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-SA-05-01-35-F-0009",
+   "document_id": "DOC-SA-05-01-35-F",
+   "configuration_id": "CFG-SA-05-01-35-F-AUTO",
+   "reference_id": "REF-DORMA-TS73",
+   "reference_brute": "TS 73",
+   "designation_document": "de courant) FERME PORTE TS 72 Bras à compas normal Ventouse EM 500A ou 100A FERME PORTE TS 73 V Bras à compas normal Ventouse EM 500A ou 100A FERME PORTE TS 83 Bras à compas normal Ve",
+   "categorie_code": "ferme_porte",
+   "role_code": "fermeture",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-SA-05-01-35-F-P022",
+   "statut_extraction": "a_verifier"
+  }
+ ],
+ "caracteristique_document": [],
+ "dc_profile": [],
+ "dc_vitrage": [
+  {
+   "document_composant_id": "DC-SA-05-01-35-F-0001",
+   "gamme": "PYROSTOP",
+   "designation": "PYROSTOP 60-201",
+   "type_vitrage_code": "monolithique",
+   "epaisseur_mm": null,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "classe_nominale": null,
+   "intercalaire_min_mm": null,
+   "intercalaire_max_mm": null,
+   "composition_detaillee_disponible": null
+  }
+ ],
+ "dc_serrure": [],
+ "dc_articulation": [],
+ "dc_ferme_porte": [],
+ "dc_joint": [],
+ "dc_fixation": [],
+ "dimension_format": [],
+ "dimension": [],
+ "support_pose": [],
+ "restriction": [],
+ "controle_humain": [
+  {
+   "id": "CTL-SA-05-01-35-F-0001",
+   "document_id": "DOC-SA-05-01-35-F",
+   "table_cible": null,
+   "ligne_id": null,
+   "type_code": "extraction_auto",
+   "description": "Document extrait automatiquement (OCR) : pages PDF 1-45 de « FR SA 05 01 35 F - EI30 EI60 - porte 1 et 2 vantaux FUEGO light - DAS CNPP - 11-10-2025.pdf ». Relire classement, dates, composants et dimensions.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

@@ -1,0 +1,568 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-AUTO-EFR-16-003119",
+   "nom_fichier": "FR EFR-16-003119 - PILK - cloison vitrage bab PRESTO E30 - PROPILK - 02-07-2028.pdf",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": "PILK",
+   "code_marche": "PROPILK",
+   "commentaire": "Extraction automatique (texte natif + OCR tesseract) — relecture requise"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-EFR-16-003119-REC-23-1",
+   "numero": "23/1",
+   "numero_normalise": "EFR-16-003119/REC-23/1",
+   "revision": null,
+   "type_code": "reconduction",
+   "domaine_code": "feu",
+   "objet": "Une cloison à ossature acier ou acier inoxydable non isolée avec vitrages collés bord à bord à joints verticaux",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "date_emission": "2023-08-03",
+   "date_validite": "2028-07-02",
+   "validite_liee_au_pv": 0,
+   "nb_pages": 2,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-AUTO-EFR-16-003119",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique — relecture requise"
+  },
+  {
+   "id": "DOC-EFR-16-003119",
+   "numero": "EFR-16-003119",
+   "numero_normalise": "EFR-16-003119",
+   "revision": null,
+   "type_code": "pv_classement",
+   "domaine_code": "feu",
+   "objet": "Une cloison à ossature acier ou acier inoxydable non isolée avec vitrages collés bord à bord à joints verticaux",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "date_emission": "2018-07-02",
+   "date_validite": "2023-07-02",
+   "validite_liee_au_pv": 0,
+   "nb_pages": 15,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-AUTO-EFR-16-003119",
+   "ordre_dans_fichier": 2,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique — relecture requise"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-EFR-16-003119-REC-23-1-P001",
+   "document_id": "DOC-EFR-16-003119-REC-23-1",
+   "page_doc": 1,
+   "page_doc_total": 2,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "page_garde",
+   "libelle": "page PDF 1"
+  },
+  {
+   "id": "SP-EFR-16-003119-P001",
+   "document_id": "DOC-EFR-16-003119",
+   "page_doc": 1,
+   "page_doc_total": 15,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "page_garde",
+   "libelle": "page PDF 3"
+  },
+  {
+   "id": "SP-EFR-16-003119-P002-PLPLANCHE-5",
+   "document_id": "DOC-EFR-16-003119",
+   "page_doc": 2,
+   "page_doc_total": 15,
+   "section": null,
+   "planche": "Planche 5",
+   "type_zone_code": "planche",
+   "libelle": "page PDF 4"
+  },
+  {
+   "id": "SP-EFR-16-003119-P003-PLPLANCHE-4",
+   "document_id": "DOC-EFR-16-003119",
+   "page_doc": 3,
+   "page_doc_total": 15,
+   "section": null,
+   "planche": "Planche 4",
+   "type_zone_code": "planche",
+   "libelle": "page PDF 5"
+  },
+  {
+   "id": "SP-EFR-16-003119-P006",
+   "document_id": "DOC-EFR-16-003119",
+   "page_doc": 6,
+   "page_doc_total": 15,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": "page PDF 8"
+  }
+ ],
+ "document_relation": [
+  {
+   "id": "REL-EFR-16-003119-REC-23-1-reconduit-EFR-16-003119",
+   "document_source_id": "DOC-EFR-16-003119-REC-23-1",
+   "document_cible_id": "DOC-EFR-16-003119",
+   "type_relation_code": "reconduit",
+   "date_relation": "2023-08-03",
+   "commentaire": null,
+   "source_page_id": "SP-EFR-16-003119-REC-23-1-P001"
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-EFR-16-003119-REC-23-1",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-EFR-16-003119-REC-23-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-16-003119-REC-23-1",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-EFR-16-003119-REC-23-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-16-003119-REC-23-1",
+   "organisme_id": "ORG-PILKINGTON",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-EFR-16-003119-REC-23-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-16-003119",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-EFR-16-003119-P001"
+  },
+  {
+   "document_id": "DOC-EFR-16-003119",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-EFR-16-003119-P001"
+  },
+  {
+   "document_id": "DOC-EFR-16-003119",
+   "organisme_id": "ORG-PILKINGTON",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-EFR-16-003119-P001"
+  }
+ ],
+ "document_signataire": [],
+ "document_norme": [
+  {
+   "document_id": "DOC-EFR-16-003119",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-16-003119-P001"
+  }
+ ],
+ "document_essai": [],
+ "document_systeme": [
+  {
+   "document_id": "DOC-EFR-16-003119-REC-23-1",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-16-003119-REC-23-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-16-003119",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-EFR-16-003119-P001"
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-EFR-16-003119-AUTO",
+   "document_id": "DOC-EFR-16-003119",
+   "code": "AUTO",
+   "libelle": "cloison vitrage bab PRESTO E30",
+   "typologie_code": "cloison_vitree_bord_a_bord",
+   "systeme_id": "SYS-PRESTO-50",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": 1,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PRF-EFR-16-003119-0001",
+   "document_id": "DOC-EFR-16-003119",
+   "configuration_id": "CFG-EFR-16-003119-AUTO",
+   "domaine_code": "feu",
+   "libelle_tel_qu_ecrit": "E 30",
+   "classe_normalisee": "E 30",
+   "nature_code": "classement",
+   "condition_texte": "Lecture automatique (OCR) du tableau de classement",
+   "source_page_id": "SP-EFR-16-003119-P001",
+   "statut_extraction": "a_verifier"
+  }
+ ],
+ "perf_feu": [
+  {
+   "performance_id": "PRF-EFR-16-003119-0001",
+   "critere_r": 0,
+   "critere_e": 1,
+   "critere_i": 0,
+   "variante_i": null,
+   "critere_w": 0,
+   "critere_m": 0,
+   "critere_c": 0,
+   "classe_c": null,
+   "critere_s": 0,
+   "duree_min": 30,
+   "sens_feu": null
+  }
+ ],
+ "document_composant": [
+  {
+   "id": "DC-EFR-16-003119-0001",
+   "document_id": "DOC-EFR-16-003119",
+   "configuration_id": "CFG-EFR-16-003119-AUTO",
+   "reference_id": "REF-FORSTER-32851",
+   "reference_brute": "32.851",
+   "designation_document": "r inoxydable d'épaisseur 15/10 mm non isolés de la série PRESTO 50 (FORSTER) de référence 32.851-Cr\\i et de section hors tout 70 x 50 mm. - Soit en profilés acier d'épaisseur 15/10 mm no",
+   "categorie_code": "profile",
+   "role_code": "ossature_cloison",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-16-003119-P002-PLPLANCHE-5",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-16-003119-0002",
+   "document_id": "DOC-EFR-16-003119",
+   "configuration_id": "CFG-EFR-16-003119-AUTO",
+   "reference_id": "REF-FORSTER-904246",
+   "reference_brute": "904246",
+   "designation_document": "des vitrages est réalisé par un simple parclosage réalisé par profilés acier de référence 904246 (FORSTER) ou acier inoxydable de références 901546 ou 901946 (FORSTER) d'épaisseur 1,25 m",
+   "categorie_code": "profile",
+   "role_code": "ossature_cloison",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-16-003119-P003-PLPLANCHE-4",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-16-003119-0003",
+   "document_id": "DOC-EFR-16-003119",
+   "configuration_id": "CFG-EFR-16-003119-AUTO",
+   "reference_id": "REF-FORSTER-901546",
+   "reference_brute": "901546",
+   "designation_document": "éalisé par profilés acier de référence 904246 (FORSTER) ou acier inoxydable de références 901546 ou 901946 (FORSTER) d'épaisseur 1,25 mm et de section 30 x 20 mm, fixés sur l’ossature pa",
+   "categorie_code": "parclose",
+   "role_code": "maintien_remplissage",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-16-003119-P003-PLPLANCHE-4",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-16-003119-0004",
+   "document_id": "DOC-EFR-16-003119",
+   "configuration_id": "CFG-EFR-16-003119-AUTO",
+   "reference_id": "REF-FORSTER-901946",
+   "reference_brute": "901946",
+   "designation_document": "profilés acier de référence 904246 (FORSTER) ou acier inoxydable de références 901546 ou 901946 (FORSTER) d'épaisseur 1,25 mm et de section 30 x 20 mm, fixés sur l’ossature par boutons",
+   "categorie_code": "parclose",
+   "role_code": "maintien_remplissage",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-16-003119-P003-PLPLANCHE-4",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-16-003119-0005",
+   "document_id": "DOC-EFR-16-003119",
+   "configuration_id": "CFG-EFR-16-003119-AUTO",
+   "reference_id": "REF-FORSTER-906578",
+   "reference_brute": "906578",
+   "designation_document": "tion 30 x 20 mm, fixés sur l’ossature par boutons de parclose acier de références 906577, 906578 ou 906579 (FORSTER) ou acier inoxydable de référence 906574 (FORSTER) placés à 70 mm des",
+   "categorie_code": "vis_bouton",
+   "role_code": "maintien_remplissage",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-16-003119-P003-PLPLANCHE-4",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-16-003119-0006",
+   "document_id": "DOC-EFR-16-003119",
+   "configuration_id": "CFG-EFR-16-003119-AUTO",
+   "reference_id": "REF-FORSTER-906579",
+   "reference_brute": "906579",
+   "designation_document": "20 mm, fixés sur l’ossature par boutons de parclose acier de références 906577, 906578 ou 906579 (FORSTER) ou acier inoxydable de référence 906574 (FORSTER) placés à 70 mm des angles pui",
+   "categorie_code": "vis_bouton",
+   "role_code": "maintien_remplissage",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-16-003119-P003-PLPLANCHE-4",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-16-003119-0007",
+   "document_id": "DOC-EFR-16-003119",
+   "configuration_id": "CFG-EFR-16-003119-AUTO",
+   "reference_id": "REF-FORSTER-906574",
+   "reference_brute": "906574",
+   "designation_document": "e acier de références 906577, 906578 ou 906579 (FORSTER) ou acier inoxydable de référence 906574 (FORSTER) placés à 70 mm des angles puis répartis au pas maximal de 300 mm. Les parclose",
+   "categorie_code": "vis_bouton",
+   "role_code": "maintien_remplissage",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-16-003119-P003-PLPLANCHE-4",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-16-003119-0008",
+   "document_id": "DOC-EFR-16-003119",
+   "configuration_id": "CFG-EFR-16-003119-AUTO",
+   "reference_id": "REF-FORSTER-948004",
+   "reference_brute": "948004",
+   "designation_document": "parcloses peuvent également être associées à des bandes de fibres minérales de référence 948004 (FORSTER) de section 15 x 4 mm; dans ce cas, les ailettes des profilés sont associées à d",
+   "categorie_code": "bande_fibre",
+   "role_code": "maintien_remplissage",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-16-003119-P003-PLPLANCHE-4",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-16-003119-0009",
+   "document_id": "DOC-EFR-16-003119",
+   "configuration_id": "CFG-EFR-16-003119-AUTO",
+   "reference_id": "REF-FORSTER-948003",
+   "reference_brute": "948003",
+   "designation_document": "s, les ailettes des profilés sont associées à des bandes de fibres minérales de référence 948003 (FORSTER) de section 15 x 3 mm. Ces bandes de fibres minérales sont étanchées par silicon",
+   "categorie_code": "bande_fibre",
+   "role_code": "maintien_remplissage",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-16-003119-P003-PLPLANCHE-4",
+   "statut_extraction": "a_verifier"
+  }
+ ],
+ "caracteristique_document": [],
+ "dc_profile": [],
+ "dc_vitrage": [],
+ "dc_serrure": [],
+ "dc_articulation": [],
+ "dc_ferme_porte": [],
+ "dc_joint": [],
+ "dc_fixation": [],
+ "dimension_format": [
+  {
+   "id": "FMT-EFR-16-003119-0001",
+   "document_id": "DOC-EFR-16-003119",
+   "configuration_id": "CFG-EFR-16-003119-AUTO",
+   "document_composant_id": null,
+   "objet_code": "cloison",
+   "libelle": "Hauteur maximale de la cloison vitrée : 3528 mm",
+   "groupe_alternative": null,
+   "orientation": null,
+   "source_page_id": "SP-EFR-16-003119-P006",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "FMT-EFR-16-003119-0002",
+   "document_id": "DOC-EFR-16-003119",
+   "configuration_id": "CFG-EFR-16-003119-AUTO",
+   "document_composant_id": null,
+   "objet_code": "ensemble",
+   "libelle": "Hauteur maximale de l’ensemble (cloison vitrée + cloison légère) : 3400 mm",
+   "groupe_alternative": null,
+   "orientation": null,
+   "source_page_id": "SP-EFR-16-003119-P006",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "FMT-EFR-16-003119-0003",
+   "document_id": "DOC-EFR-16-003119",
+   "configuration_id": "CFG-EFR-16-003119-AUTO",
+   "document_composant_id": null,
+   "objet_code": "imposte",
+   "libelle": "Hauteur maximale de l’imposte en cloison légère : 1000 mm",
+   "groupe_alternative": null,
+   "orientation": null,
+   "source_page_id": "SP-EFR-16-003119-P006",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "FMT-EFR-16-003119-0004",
+   "document_id": "DOC-EFR-16-003119",
+   "configuration_id": "CFG-EFR-16-003119-AUTO",
+   "document_composant_id": null,
+   "objet_code": "allege",
+   "libelle": "Hauteur maximale de l’allège en cloison légère : 1200 mm",
+   "groupe_alternative": null,
+   "orientation": null,
+   "source_page_id": "SP-EFR-16-003119-P006",
+   "statut_extraction": "a_verifier"
+  }
+ ],
+ "dimension": [
+  {
+   "id": "FMT-EFR-16-003119-0001-hauteur-autorise_max",
+   "format_id": "FMT-EFR-16-003119-0001",
+   "grandeur_code": "hauteur",
+   "nature_code": "autorise_max",
+   "operateur_code": "le",
+   "valeur_origine": "3528",
+   "unite_origine": "mm",
+   "valeur_norm": 3528.0,
+   "unite_norm_code": "mm",
+   "sans_limite": 0,
+   "tolerance_plus": null,
+   "tolerance_moins": null,
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "FMT-EFR-16-003119-0002-hauteur-autorise_max",
+   "format_id": "FMT-EFR-16-003119-0002",
+   "grandeur_code": "hauteur",
+   "nature_code": "autorise_max",
+   "operateur_code": "le",
+   "valeur_origine": "3400",
+   "unite_origine": "mm",
+   "valeur_norm": 3400.0,
+   "unite_norm_code": "mm",
+   "sans_limite": 0,
+   "tolerance_plus": null,
+   "tolerance_moins": null,
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "FMT-EFR-16-003119-0003-hauteur-autorise_max",
+   "format_id": "FMT-EFR-16-003119-0003",
+   "grandeur_code": "hauteur",
+   "nature_code": "autorise_max",
+   "operateur_code": "le",
+   "valeur_origine": "1000",
+   "unite_origine": "mm",
+   "valeur_norm": 1000.0,
+   "unite_norm_code": "mm",
+   "sans_limite": 0,
+   "tolerance_plus": null,
+   "tolerance_moins": null,
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "FMT-EFR-16-003119-0004-hauteur-autorise_max",
+   "format_id": "FMT-EFR-16-003119-0004",
+   "grandeur_code": "hauteur",
+   "nature_code": "autorise_max",
+   "operateur_code": "le",
+   "valeur_origine": "1200",
+   "unite_origine": "mm",
+   "valeur_norm": 1200.0,
+   "unite_norm_code": "mm",
+   "sans_limite": 0,
+   "tolerance_plus": null,
+   "tolerance_moins": null,
+   "statut_extraction": "a_verifier"
+  }
+ ],
+ "support_pose": [],
+ "restriction": [
+  {
+   "id": "RST-EFR-16-003119-0001",
+   "document_id": "DOC-EFR-16-003119",
+   "configuration_id": "CFG-EFR-16-003119-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT",
+   "texte_source": "INDIFFERENT",
+   "source_page_id": "SP-EFR-16-003119-P001"
+  },
+  {
+   "id": "RST-EFR-16-003119-0002",
+   "document_id": "DOC-EFR-16-003119",
+   "configuration_id": "CFG-EFR-16-003119-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-16-003119-P001"
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTL-EFR-16-003119-REC-23-1-0001",
+   "document_id": "DOC-EFR-16-003119-REC-23-1",
+   "table_cible": null,
+   "ligne_id": null,
+   "type_code": "extraction_auto",
+   "description": "Document extrait automatiquement (OCR) : pages PDF 1-2 de « FR EFR-16-003119 - PILK - cloison vitrage bab PRESTO E30 - PROPILK - 02-07-2028.pdf ». Relire classement, dates, composants et dimensions.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTL-EFR-16-003119-0001",
+   "document_id": "DOC-EFR-16-003119",
+   "table_cible": null,
+   "ligne_id": null,
+   "type_code": "extraction_auto",
+   "description": "Document extrait automatiquement (OCR) : pages PDF 3-17 de « FR EFR-16-003119 - PILK - cloison vitrage bab PRESTO E30 - PROPILK - 02-07-2028.pdf ». Relire classement, dates, composants et dimensions.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

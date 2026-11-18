@@ -640,6 +640,3836 @@
    "libelle": "Dimensions maximales des vitrages déduites des dimensions hors-tout des vantaux",
    "texte_source": null,
    "source_page_id": "SP-EFR-24-000553-R1-P011-6-3"
+  },
+  {
+   "id": "RST-08-A-287-0001",
+   "document_id": "DOC-08-A-287",
+   "configuration_id": "CFG-08-A-287-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Indifférent. La reproduchion de ce document n'est autorisée que sous sa forme infégrale Procès-verbal de classement n°08 - A - 287",
+   "texte_source": "Indifférent. La reproduchion de ce document n'est autorisée que sous sa forme infégrale Procès-verbal de classement n°08 - A - 287",
+   "source_page_id": "SP-08-A-287-P001"
+  },
+  {
+   "id": "RST-08-A-287-0002",
+   "document_id": "DOC-08-A-287",
+   "configuration_id": "CFG-08-A-287-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-08-A-287-P001"
+  },
+  {
+   "id": "RST-08-A-287-0003",
+   "document_id": "DOC-08-A-287",
+   "configuration_id": "CFG-08-A-287-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Montage sur allège non autorisé (selon texte)",
+   "texte_source": null,
+   "source_page_id": "SP-08-A-287-P001"
+  },
+  {
+   "id": "RST-08-A-287-EXT-11-1-0001",
+   "document_id": "DOC-08-A-287-EXT-11-1",
+   "configuration_id": "CFG-08-A-287-EXT-11-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "indifférent.",
+   "texte_source": "indifférent.",
+   "source_page_id": "SP-08-A-287-EXT-11-1-P001"
+  },
+  {
+   "id": "RST-08-A-287-EXT-11-1-0002",
+   "document_id": "DOC-08-A-287-EXT-11-1",
+   "configuration_id": "CFG-08-A-287-EXT-11-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Elle n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte",
+   "texte_source": null,
+   "source_page_id": "SP-08-A-287-EXT-11-1-P001"
+  },
+  {
+   "id": "RST-08-A-287-EXT-19-3-0001",
+   "document_id": "DOC-08-A-287-EXT-19-3",
+   "configuration_id": "CFG-08-A-287-EXT-19-3-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-08-A-287-EXT-19-3-P001"
+  },
+  {
+   "id": "RST-08-A-287-EXT-23-5-0001",
+   "document_id": "DOC-08-A-287-EXT-23-5",
+   "configuration_id": "CFG-08-A-287-EXT-23-5-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-08-A-287-EXT-23-5-P001"
+  },
+  {
+   "id": "RST-08-A-287-EXT-22-4-0001",
+   "document_id": "DOC-08-A-287-EXT-22-4",
+   "configuration_id": "CFG-08-A-287-EXT-22-4-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-08-A-287-EXT-22-4-P001"
+  },
+  {
+   "id": "RST-08-A-342-0001",
+   "document_id": "DOC-08-A-342",
+   "configuration_id": "CFG-08-A-342-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Indifférent.",
+   "texte_source": "Indifférent.",
+   "source_page_id": "SP-08-A-342-P001"
+  },
+  {
+   "id": "RST-08-A-342-0002",
+   "document_id": "DOC-08-A-342",
+   "configuration_id": "CFG-08-A-342-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-08-A-342-P001"
+  },
+  {
+   "id": "RST-08-A-342-0003",
+   "document_id": "DOC-08-A-342",
+   "configuration_id": "CFG-08-A-342-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Montage sur allège non autorisé (selon texte)",
+   "texte_source": null,
+   "source_page_id": "SP-08-A-342-P001"
+  },
+  {
+   "id": "RST-08-A-342-EXT-12-1-0001",
+   "document_id": "DOC-08-A-342-EXT-12-1",
+   "configuration_id": "CFG-08-A-342-EXT-12-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Elle n’est pas cumulable avec d’autres extensions se rapportant à ces mêmes procès- verbaux, sauf mention explicite dans le texte",
+   "texte_source": null,
+   "source_page_id": "SP-08-A-342-EXT-12-1-P001"
+  },
+  {
+   "id": "RST-08-A-343-0001",
+   "document_id": "DOC-08-A-343",
+   "configuration_id": "CFG-08-A-343-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Indifférent.",
+   "texte_source": "Indifférent.",
+   "source_page_id": "SP-08-A-343-P001"
+  },
+  {
+   "id": "RST-08-A-343-0002",
+   "document_id": "DOC-08-A-343",
+   "configuration_id": "CFG-08-A-343-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-08-A-343-P001"
+  },
+  {
+   "id": "RST-08-A-343-0003",
+   "document_id": "DOC-08-A-343",
+   "configuration_id": "CFG-08-A-343-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Montage sur allège non autorisé (selon texte)",
+   "texte_source": null,
+   "source_page_id": "SP-08-A-343-P001"
+  },
+  {
+   "id": "RST-08-A-343-EXT-11-1-0001",
+   "document_id": "DOC-08-A-343-EXT-11-1",
+   "configuration_id": "CFG-08-A-343-EXT-11-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "indifférent.",
+   "texte_source": "indifférent.",
+   "source_page_id": "SP-08-A-343-EXT-11-1-P001"
+  },
+  {
+   "id": "RST-08-A-343-EXT-11-1-0002",
+   "document_id": "DOC-08-A-343-EXT-11-1",
+   "configuration_id": "CFG-08-A-343-EXT-11-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Elle n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte",
+   "texte_source": null,
+   "source_page_id": "SP-08-A-343-EXT-11-1-P001"
+  },
+  {
+   "id": "RST-08-A-343-EXT-17-2-0001",
+   "document_id": "DOC-08-A-343-EXT-17-2",
+   "configuration_id": "CFG-08-A-343-EXT-17-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de l'extension",
+   "texte_source": null,
+   "source_page_id": "SP-08-A-343-EXT-17-2-P001"
+  },
+  {
+   "id": "RST-08-A-343-EXT-23-5-0001",
+   "document_id": "DOC-08-A-343-EXT-23-5",
+   "configuration_id": "CFG-08-A-343-EXT-23-5-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-08-A-343-EXT-23-5-P001"
+  },
+  {
+   "id": "RST-08-A-343-EXT-22-4-0001",
+   "document_id": "DOC-08-A-343-EXT-22-4",
+   "configuration_id": "CFG-08-A-343-EXT-22-4-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-08-A-343-EXT-22-4-P001"
+  },
+  {
+   "id": "RST-09-A-496-0001",
+   "document_id": "DOC-09-A-496",
+   "configuration_id": "CFG-09-A-496-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Indifférent pour l'ossature Indifférent pour les vitrages PYROCLEAR® 30-001, PYROCLEAR® 30-002, PYROCLEAR® 30-003 (PILKINGTON) Feu côté contreface pour le vitra",
+   "texte_source": "Indifférent pour l'ossature Indifférent pour les vitrages PYROCLEAR® 30-001, PYROCLEAR® 30-002, PYROCLEAR® 30-003 (PILKINGTON) Feu côté contreface pour le vitrage PYROCLEAR® 30-361 {PILKINGTON)",
+   "source_page_id": "SP-09-A-496-P001"
+  },
+  {
+   "id": "RST-09-A-496-0002",
+   "document_id": "DOC-09-A-496",
+   "configuration_id": "CFG-09-A-496-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-09-A-496-P001"
+  },
+  {
+   "id": "RST-09-A-496-EXT-11-1-0001",
+   "document_id": "DOC-09-A-496-EXT-11-1",
+   "configuration_id": "CFG-09-A-496-EXT-11-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "préconisés restent les mêmes. SASU au capital de 1 512 170€ - SIRET 490 550 712 00023 - RCS Evry B 490 550 712 - TVA FR 61490550712 - APE 7120 B Page 2 sur 6",
+   "texte_source": "préconisés restent les mêmes. SASU au capital de 1 512 170€ - SIRET 490 550 712 00023 - RCS Evry B 490 550 712 - TVA FR 61490550712 - APE 7120 B Page 2 sur 6",
+   "source_page_id": "SP-09-A-496-EXT-11-1-P001"
+  },
+  {
+   "id": "RST-09-A-496-EXT-11-1-0002",
+   "document_id": "DOC-09-A-496-EXT-11-1",
+   "configuration_id": "CFG-09-A-496-EXT-11-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Elle n’est pas cumulable avec d’autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans Le texte",
+   "texte_source": null,
+   "source_page_id": "SP-09-A-496-EXT-11-1-P001"
+  },
+  {
+   "id": "RST-09-A-496-EXT-12-2-0001",
+   "document_id": "DOC-09-A-496-EXT-12-2",
+   "configuration_id": "CFG-09-A-496-EXT-12-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": ". Les dimensions des vitrages autorisées en format paysage ainsi qu’en format portrait découlent directement des valeurs testées lors de l'essai, l'expérience d",
+   "texte_source": ". Les dimensions des vitrages autorisées en format paysage ainsi qu’en format portrait découlent directement des valeurs testées lors de l'essai, l'expérience du Laboratoire montrant que le format paysage est plus défavorable que le format portrait. SASU au capital de 1 512 170€ - SIRET 490 550 712 00023 - RCS Evry B 490 550 712 - TVA FR 61490550712 - APE 7120 B Page 2 sur 8",
+   "source_page_id": "SP-09-A-496-EXT-12-2-P001"
+  },
+  {
+   "id": "RST-09-A-496-EXT-12-2-0002",
+   "document_id": "DOC-09-A-496-EXT-12-2",
+   "configuration_id": "CFG-09-A-496-EXT-12-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Elle n’est pas cumulable avec d’autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans Le texte",
+   "texte_source": null,
+   "source_page_id": "SP-09-A-496-EXT-12-2-P001"
+  },
+  {
+   "id": "RST-09-A-496-EXT-15-3-0001",
+   "document_id": "DOC-09-A-496-EXT-15-3",
+   "configuration_id": "CFG-09-A-496-EXT-15-3-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "des vitrages : indifférent Toutes [es conditions du procès-verbal de référence devront être respectées.",
+   "texte_source": "des vitrages : indifférent Toutes [es conditions du procès-verbal de référence devront être respectées.",
+   "source_page_id": "SP-09-A-496-EXT-15-3-P001"
+  },
+  {
+   "id": "RST-09-A-496-EXT-19-5-0001",
+   "document_id": "DOC-09-A-496-EXT-19-5",
+   "configuration_id": "CFG-09-A-496-EXT-19-5-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "indifférent. Toutes les autres conditions énoncées dans les procès-verbaux de référence devront être respectées.",
+   "texte_source": "indifférent. Toutes les autres conditions énoncées dans les procès-verbaux de référence devront être respectées.",
+   "source_page_id": "SP-09-A-496-EXT-19-5-P001"
+  },
+  {
+   "id": "RST-09-A-496-EXT-19-5-0002",
+   "document_id": "DOC-09-A-496-EXT-19-5",
+   "configuration_id": "CFG-09-A-496-EXT-19-5-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-09-A-496-EXT-19-5-P001"
+  },
+  {
+   "id": "RST-09-A-497-0001",
+   "document_id": "DOC-09-A-497",
+   "configuration_id": "CFG-09-A-497-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "utilisé pour le ferme-porte, le montage de celui-ci devra être conforme à l'Annexe, planches 32 à 37.",
+   "texte_source": "utilisé pour le ferme-porte, le montage de celui-ci devra être conforme à l'Annexe, planches 32 à 37.",
+   "source_page_id": "SP-09-A-497-P001"
+  },
+  {
+   "id": "RST-09-A-497-0002",
+   "document_id": "DOC-09-A-497",
+   "configuration_id": "CFG-09-A-497-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-09-A-497-P001"
+  },
+  {
+   "id": "RST-09-A-497-EXT-11-1-0001",
+   "document_id": "DOC-09-A-497-EXT-11-1",
+   "configuration_id": "CFG-09-A-497-EXT-11-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "préconisés restent les mêmes. SASU au capital de 1 512 170€ - SIRET 490 550 712 00023 - RCS Evry B 490 550 712 - TVA FR 61490550712 - APE 7120 B Page 2 sur 6",
+   "texte_source": "préconisés restent les mêmes. SASU au capital de 1 512 170€ - SIRET 490 550 712 00023 - RCS Evry B 490 550 712 - TVA FR 61490550712 - APE 7120 B Page 2 sur 6",
+   "source_page_id": "SP-09-A-497-EXT-11-1-P001"
+  },
+  {
+   "id": "RST-09-A-497-EXT-11-1-0002",
+   "document_id": "DOC-09-A-497-EXT-11-1",
+   "configuration_id": "CFG-09-A-497-EXT-11-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Elle n’est pas cumulable avec d’autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans Le texte",
+   "texte_source": null,
+   "source_page_id": "SP-09-A-497-EXT-11-1-P001"
+  },
+  {
+   "id": "RST-09-A-497-EXT-12-2-0001",
+   "document_id": "DOC-09-A-497-EXT-12-2",
+   "configuration_id": "CFG-09-A-497-EXT-12-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": ". Les dimensions des vitrages autorisées en format paysage ainsi qu’en format portrait découlent directement des valeurs testées lors de l'essai, l'expérience d",
+   "texte_source": ". Les dimensions des vitrages autorisées en format paysage ainsi qu’en format portrait découlent directement des valeurs testées lors de l'essai, l'expérience du Laboratoire montrant que le format paysage est plus défavorable que le format portrait. SASU au capital de 1 512 170€ - SIRET 490 550 712 00023 - RCS Evry B 490 550 712 - TVA FR 61490550712 - APE 7120 B Page 2 sur 8",
+   "source_page_id": "SP-09-A-497-EXT-12-2-P001"
+  },
+  {
+   "id": "RST-09-A-497-EXT-12-2-0002",
+   "document_id": "DOC-09-A-497-EXT-12-2",
+   "configuration_id": "CFG-09-A-497-EXT-12-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Elle n’est pas cumulable avec d’autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans Le texte",
+   "texte_source": null,
+   "source_page_id": "SP-09-A-497-EXT-12-2-P001"
+  },
+  {
+   "id": "RST-09-A-497-EXT-12-3-0001",
+   "document_id": "DOC-09-A-497-EXT-12-3",
+   "configuration_id": "CFG-09-A-497-EXT-12-3-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "côté opposé aux paumelles et côté parcloses. Sur la base de cet essai, ayant montré que les profilés inox de La série PRESTO 50 (FORSTER) présentent des perform",
+   "texte_source": "côté opposé aux paumelles et côté parcloses. Sur la base de cet essai, ayant montré que les profilés inox de La série PRESTO 50 (FORSTER) présentent des performances de résistance au feu au moins équivalentes à celles des profilés acier de la même série, leur mise en œuvre est autorisée.",
+   "source_page_id": "SP-09-A-497-EXT-12-3-P001"
+  },
+  {
+   "id": "RST-09-A-497-EXT-12-3-0002",
+   "document_id": "DOC-09-A-497-EXT-12-3",
+   "configuration_id": "CFG-09-A-497-EXT-12-3-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Elle n’est pas cumulable avec d’autres extensions se rapportant à ces mêmes procès- verbaux, sauf mention explicite dans le texte",
+   "texte_source": null,
+   "source_page_id": "SP-09-A-497-EXT-12-3-P001"
+  },
+  {
+   "id": "RST-09-A-497-EXT-15-3-0001",
+   "document_id": "DOC-09-A-497-EXT-15-3",
+   "configuration_id": "CFG-09-A-497-EXT-15-3-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "des vitrages : indifférent Toutes [es conditions du procès-verbal de référence devront être respectées.",
+   "texte_source": "des vitrages : indifférent Toutes [es conditions du procès-verbal de référence devront être respectées.",
+   "source_page_id": "SP-09-A-497-EXT-15-3-P001"
+  },
+  {
+   "id": "RST-09-A-497-EXT-22-7-0001",
+   "document_id": "DOC-09-A-497-EXT-22-7",
+   "configuration_id": "CFG-09-A-497-EXT-22-7-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-09-A-497-EXT-22-7-P001"
+  },
+  {
+   "id": "RST-09-A-497-EXT-23-8-0001",
+   "document_id": "DOC-09-A-497-EXT-23-8",
+   "configuration_id": "CFG-09-A-497-EXT-23-8-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-09-A-497-EXT-23-8-P001"
+  },
+  {
+   "id": "RST-10-A-631-0001",
+   "document_id": "DOC-10-A-631",
+   "configuration_id": "CFG-10-A-631-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT.",
+   "texte_source": "INDIFFERENT.",
+   "source_page_id": "SP-10-A-631-P001"
+  },
+  {
+   "id": "RST-10-A-631-0002",
+   "document_id": "DOC-10-A-631",
+   "configuration_id": "CFG-10-A-631-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-10-A-631-P001"
+  },
+  {
+   "id": "RST-10-A-631-EXT-14-1-0001",
+   "document_id": "DOC-10-A-631-EXT-14-1",
+   "configuration_id": "CFG-10-A-631-EXT-14-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Elle n’est pas cumulable avec d’autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte",
+   "texte_source": null,
+   "source_page_id": "SP-10-A-631-EXT-14-1-P001"
+  },
+  {
+   "id": "RST-10-A-632-0001",
+   "document_id": "DOC-10-A-632",
+   "configuration_id": "CFG-10-A-632-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "+ Indifférent pour les vitrages et ossature, hormis pour la parclose 901245 et le ressort 906421 qui doivent obligatoirement être montés côté opposé au feu +_ I",
+   "texte_source": "+ Indifférent pour les vitrages et ossature, hormis pour la parclose 901245 et le ressort 906421 qui doivent obligatoirement être montés côté opposé au feu +_ Indifférent pour Les blocs-portes à un vantail. «Feu côté paumelles seulement pour les bloc-portes à deux vantaux.",
+   "source_page_id": "SP-10-A-632-P001"
+  },
+  {
+   "id": "RST-10-A-632-0002",
+   "document_id": "DOC-10-A-632",
+   "configuration_id": "CFG-10-A-632-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-10-A-632-P001"
+  },
+  {
+   "id": "RST-10-A-632-EXT-23-1-0001",
+   "document_id": "DOC-10-A-632-EXT-23-1",
+   "configuration_id": "CFG-10-A-632-EXT-23-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-10-A-632-EXT-23-1-P001"
+  },
+  {
+   "id": "RST-10-A-650-0001",
+   "document_id": "DOC-10-A-650",
+   "configuration_id": "CFG-10-A-650-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "- indifférent pour l'ossature, - feu côté opposé au VETROFLAM (VGSI) pour les vitrages feuilletés et CLIMAPLUS - pour le vitrage VETROFLAM, le tampon de marquag",
+   "texte_source": "- indifférent pour l'ossature, - feu côté opposé au VETROFLAM (VGSI) pour les vitrages feuilletés et CLIMAPLUS - pour le vitrage VETROFLAM, le tampon de marquage doit être lisible à l'endroit dans le bon sens, côté feu uniquement.",
+   "source_page_id": "SP-10-A-650-P001"
+  },
+  {
+   "id": "RST-10-A-650-0002",
+   "document_id": "DOC-10-A-650",
+   "configuration_id": "CFG-10-A-650-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-10-A-650-P001"
+  },
+  {
+   "id": "RST-10-A-650-0003",
+   "document_id": "DOC-10-A-650",
+   "configuration_id": "CFG-10-A-650-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Elle n'est pas cumulable avec d'autres extensions se rapportant à ce même procès-verbal, sauf mention explicite dans le texte",
+   "texte_source": null,
+   "source_page_id": "SP-10-A-650-P001"
+  },
+  {
+   "id": "RST-10-A-650-EXT-17-1-0001",
+   "document_id": "DOC-10-A-650-EXT-17-1",
+   "configuration_id": "CFG-10-A-650-EXT-17-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-10-A-650-EXT-17-1-P001"
+  },
+  {
+   "id": "RST-11-A-091-0001",
+   "document_id": "DOC-11-A-091",
+   "configuration_id": "CFG-11-A-091-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Indifferent.",
+   "texte_source": "Indifferent.",
+   "source_page_id": "SP-11-A-091-P001"
+  },
+  {
+   "id": "RST-11-A-091-0002",
+   "document_id": "DOC-11-A-091",
+   "configuration_id": "CFG-11-A-091-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Montage sur allège non autorisé (selon texte)",
+   "texte_source": null,
+   "source_page_id": "SP-11-A-091-P001"
+  },
+  {
+   "id": "RST-11-A-504-0001",
+   "document_id": "DOC-11-A-504",
+   "configuration_id": "CFG-11-A-504-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Feu indifférent à l'exception de la variante vitrages monolithiques et isolantes, décrite au paragraphe 1.2.2 et des films placés côté feu uniquement.",
+   "texte_source": "Feu indifférent à l'exception de la variante vitrages monolithiques et isolantes, décrite au paragraphe 1.2.2 et des films placés côté feu uniquement.",
+   "source_page_id": "SP-11-A-504-P001"
+  },
+  {
+   "id": "RST-11-A-504-0002",
+   "document_id": "DOC-11-A-504",
+   "configuration_id": "CFG-11-A-504-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-11-A-504-P001"
+  },
+  {
+   "id": "RST-11-A-504-0003",
+   "document_id": "DOC-11-A-504",
+   "configuration_id": "CFG-11-A-504-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Montage sur allège non autorisé (selon texte)",
+   "texte_source": null,
+   "source_page_id": "SP-11-A-504-P001"
+  },
+  {
+   "id": "RST-11-A-505-0001",
+   "document_id": "DOC-11-A-505",
+   "configuration_id": "CFG-11-A-505-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Indifférent hormis conditions spécifiées dans le présent document.",
+   "texte_source": "Indifférent hormis conditions spécifiées dans le présent document.",
+   "source_page_id": "SP-11-A-505-P001"
+  },
+  {
+   "id": "RST-11-A-505-0002",
+   "document_id": "DOC-11-A-505",
+   "configuration_id": "CFG-11-A-505-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-11-A-505-P001"
+  },
+  {
+   "id": "RST-11-A-505-EXT-23-3-0001",
+   "document_id": "DOC-11-A-505-EXT-23-3",
+   "configuration_id": "CFG-11-A-505-EXT-23-3-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-11-A-505-EXT-23-3-P001"
+  },
+  {
+   "id": "RST-11-A-506-0001",
+   "document_id": "DOC-11-A-506",
+   "configuration_id": "CFG-11-A-506-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Indifférent pour l'ossature Feu côté opposé au VETROFLAM pour les vitrages feuilletés ou isolants Pour le VETROFLAM 6 mm, le tampon de marquage doit être lisibl",
+   "texte_source": "Indifférent pour l'ossature Feu côté opposé au VETROFLAM pour les vitrages feuilletés ou isolants Pour le VETROFLAM 6 mm, le tampon de marquage doit être lisible à l'endroit et dans le bon sens côté feu uniquement La reproduction de ce document n'est autorisée que sous sa forme intégrale efectis france Procès-verbal de classement n° 11 — A - 506 Arrêté du 22 mars 2004 Page 11/55",
+   "source_page_id": "SP-11-A-506-P001"
+  },
+  {
+   "id": "RST-11-A-506-0002",
+   "document_id": "DOC-11-A-506",
+   "configuration_id": "CFG-11-A-506-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-11-A-506-P001"
+  },
+  {
+   "id": "RST-EFR-14-000468-0002",
+   "document_id": "DOC-EFR-14-000468",
+   "configuration_id": "CFG-EFR-14-000468-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Elle n’est pas cumulable avec d’autres extensions se rapportant à ces mêmes procès- verbaux, sauf mention explicite dans le texte",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-14-000468-P001"
+  },
+  {
+   "id": "RST-11-A-506-EXT-23-3-0001",
+   "document_id": "DOC-11-A-506-EXT-23-3",
+   "configuration_id": "CFG-11-A-506-EXT-23-3-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-11-A-506-EXT-23-3-P001"
+  },
+  {
+   "id": "RST-11-A-571-0001",
+   "document_id": "DOC-11-A-571",
+   "configuration_id": "CFG-11-A-571-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Indifférent hormis pour : Film EVA clair ou sérigraphié côté feu uniquement Film PET / Vanceva entre films EVA côté feu uniquement La reproduction de ce documen",
+   "texte_source": "Indifférent hormis pour : Film EVA clair ou sérigraphié côté feu uniquement Film PET / Vanceva entre films EVA côté feu uniquement La reproduction de ce document n'est autorisée que sous sa forme intégrale . . a s efectis france Procès-verbal de classement n° 11-A-571 Arrêté 22 mars 2004) Page 6/31",
+   "source_page_id": "SP-11-A-571-P001"
+  },
+  {
+   "id": "RST-11-A-571-0002",
+   "document_id": "DOC-11-A-571",
+   "configuration_id": "CFG-11-A-571-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-11-A-571-P001"
+  },
+  {
+   "id": "RST-11-A-571-EXT-11-6-0001",
+   "document_id": "DOC-11-A-571-EXT-11-6",
+   "configuration_id": "CFG-11-A-571-EXT-11-6-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Elle n'est pas cumulable avec d'autres extensions se rapportant à ce même procès-verbal, sauf mention explicite dans le texte",
+   "texte_source": null,
+   "source_page_id": "SP-11-A-571-EXT-11-6-P001"
+  },
+  {
+   "id": "RST-11-A-571-EXT-12-8-0001",
+   "document_id": "DOC-11-A-571-EXT-12-8",
+   "configuration_id": "CFG-11-A-571-EXT-12-8-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Elle n’est pas cumulable avec d’autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte",
+   "texte_source": null,
+   "source_page_id": "SP-11-A-571-EXT-12-8-P001"
+  },
+  {
+   "id": "RST-11-A-571-EXT-X5-0001",
+   "document_id": "DOC-11-A-571-EXT-X5",
+   "configuration_id": "CFG-11-A-571-EXT-X5-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "indifférent sauf pour Le cas cité ci-dessus (1). Les dimensions des vitrages Pyrobelite 7EG ISO avec contreface feuilletée autorisées sont égales à celles autor",
+   "texte_source": "indifférent sauf pour Le cas cité ci-dessus (1). Les dimensions des vitrages Pyrobelite 7EG ISO avec contreface feuilletée autorisées sont égales à celles autorisées par les vitrages Pyrobelite 7EG ISO de chaque procès-verbal de référence ou extension de classement.",
+   "source_page_id": "SP-11-A-571-EXT-X5-P001"
+  },
+  {
+   "id": "RST-11-A-571-EXT-X5-0002",
+   "document_id": "DOC-11-A-571-EXT-X5",
+   "configuration_id": "CFG-11-A-571-EXT-X5-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Elle n’est pas cumulable avec d’autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte",
+   "texte_source": null,
+   "source_page_id": "SP-11-A-571-EXT-X5-P001"
+  },
+  {
+   "id": "RST-EFR-14-003209-0001",
+   "document_id": "DOC-EFR-14-003209",
+   "configuration_id": "CFG-EFR-14-003209-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Elle n’est pas cumulable avec d’autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-14-003209-P001"
+  },
+  {
+   "id": "RST-11-A-572-0001",
+   "document_id": "DOC-11-A-572",
+   "configuration_id": "CFG-11-A-572-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Uiilisé pour ls ferme-porte, le montage de celui-ci devra être conforme à l'Annexe, planches n°30 à 35.",
+   "texte_source": "Uiilisé pour ls ferme-porte, le montage de celui-ci devra être conforme à l'Annexe, planches n°30 à 35.",
+   "source_page_id": "SP-11-A-572-P001"
+  },
+  {
+   "id": "RST-11-A-572-0002",
+   "document_id": "DOC-11-A-572",
+   "configuration_id": "CFG-11-A-572-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-11-A-572-P001"
+  },
+  {
+   "id": "RST-11-A-572-EXT-12-1-0001",
+   "document_id": "DOC-11-A-572-EXT-12-1",
+   "configuration_id": "CFG-11-A-572-EXT-12-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans Le texte de l'extension",
+   "texte_source": null,
+   "source_page_id": "SP-11-A-572-EXT-12-1-P001"
+  },
+  {
+   "id": "RST-11-A-572-EXT-X4-0001",
+   "document_id": "DOC-11-A-572-EXT-X4",
+   "configuration_id": "CFG-11-A-572-EXT-X4-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "indifférent sauf pour Le cas cité ci-dessus (1). Les dimensions des vitrages Pyrobelite 7EG ISO avec contreface feuilletée autorisées sont égales à celles autor",
+   "texte_source": "indifférent sauf pour Le cas cité ci-dessus (1). Les dimensions des vitrages Pyrobelite 7EG ISO avec contreface feuilletée autorisées sont égales à celles autorisées par les vitrages Pyrobelite 7EG ISO de chaque procès-verbal de référence ou extension de classement.",
+   "source_page_id": "SP-11-A-572-EXT-X4-P001"
+  },
+  {
+   "id": "RST-11-A-572-EXT-X4-0002",
+   "document_id": "DOC-11-A-572-EXT-X4",
+   "configuration_id": "CFG-11-A-572-EXT-X4-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Elle n’est pas cumulable avec d’autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte",
+   "texte_source": null,
+   "source_page_id": "SP-11-A-572-EXT-X4-P001"
+  },
+  {
+   "id": "RST-11-A-572-EXT-22-2-0001",
+   "document_id": "DOC-11-A-572-EXT-22-2",
+   "configuration_id": "CFG-11-A-572-EXT-22-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-11-A-572-EXT-22-2-P001"
+  },
+  {
+   "id": "RST-11-A-572-EXT-23-3-0001",
+   "document_id": "DOC-11-A-572-EXT-23-3",
+   "configuration_id": "CFG-11-A-572-EXT-23-3-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-11-A-572-EXT-23-3-P001"
+  },
+  {
+   "id": "RST-11-A-572-EXT-25-6-0001",
+   "document_id": "DOC-11-A-572-EXT-25-6",
+   "configuration_id": "CFG-11-A-572-EXT-25-6-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-11-A-572-EXT-25-6-P001"
+  },
+  {
+   "id": "RST-12-A-077-0001",
+   "document_id": "DOC-12-A-077",
+   "configuration_id": "CFG-12-A-077-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Indifférent",
+   "texte_source": "Indifférent",
+   "source_page_id": "SP-12-A-077-P001"
+  },
+  {
+   "id": "RST-12-A-077-0002",
+   "document_id": "DOC-12-A-077",
+   "configuration_id": "CFG-12-A-077-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-077-P001"
+  },
+  {
+   "id": "RST-12-A-077-EXT-17-1-0001",
+   "document_id": "DOC-12-A-077-EXT-17-1",
+   "configuration_id": "CFG-12-A-077-EXT-17-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-077-EXT-17-1-P001"
+  },
+  {
+   "id": "RST-12-A-077-EXT-17-2-0001",
+   "document_id": "DOC-12-A-077-EXT-17-2",
+   "configuration_id": "CFG-12-A-077-EXT-17-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-077-EXT-17-2-P001"
+  },
+  {
+   "id": "RST-12-A-077-EXT-17-3-0001",
+   "document_id": "DOC-12-A-077-EXT-17-3",
+   "configuration_id": "CFG-12-A-077-EXT-17-3-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "indifférent. Les modifications autorisées aux § 1.1 et 1.2 peuvent être réalisées simultanément ou indépendamment.",
+   "texte_source": "indifférent. Les modifications autorisées aux § 1.1 et 1.2 peuvent être réalisées simultanément ou indépendamment.",
+   "source_page_id": "SP-12-A-077-EXT-17-3-P001"
+  },
+  {
+   "id": "RST-12-A-077-EXT-17-3-0002",
+   "document_id": "DOC-12-A-077-EXT-17-3",
+   "configuration_id": "CFG-12-A-077-EXT-17-3-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-077-EXT-17-3-P001"
+  },
+  {
+   "id": "RST-12-A-078-0001",
+   "document_id": "DOC-12-A-078",
+   "configuration_id": "CFG-12-A-078-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Indifférent",
+   "texte_source": "Indifférent",
+   "source_page_id": "SP-12-A-078-P001"
+  },
+  {
+   "id": "RST-12-A-078-0002",
+   "document_id": "DOC-12-A-078",
+   "configuration_id": "CFG-12-A-078-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-078-P001"
+  },
+  {
+   "id": "RST-12-A-078-EXT-17-1-0001",
+   "document_id": "DOC-12-A-078-EXT-17-1",
+   "configuration_id": "CFG-12-A-078-EXT-17-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "indifférent.",
+   "texte_source": "indifférent.",
+   "source_page_id": "SP-12-A-078-EXT-17-1-P001"
+  },
+  {
+   "id": "RST-12-A-078-EXT-17-1-0002",
+   "document_id": "DOC-12-A-078-EXT-17-1",
+   "configuration_id": "CFG-12-A-078-EXT-17-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-078-EXT-17-1-P001"
+  },
+  {
+   "id": "RST-12-A-078-EXT-19-2-0001",
+   "document_id": "DOC-12-A-078-EXT-19-2",
+   "configuration_id": "CFG-12-A-078-EXT-19-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "(recto, verso ou recto-verso) 4° / du type d'ouvrage (bloc-porte, châssis fixe, cloison, façade, ouvrant de service.....) 5° / des dimensions des vitrages (il e",
+   "texte_source": "(recto, verso ou recto-verso) 4° / du type d'ouvrage (bloc-porte, châssis fixe, cloison, façade, ouvrant de service.....) 5° / des dimensions des vitrages (il est très important de respecter les dimensions maxi des vitrages ainsi que le sens du vitrage L x H indiqués dans les PV).",
+   "source_page_id": "SP-12-A-078-EXT-19-2-P001"
+  },
+  {
+   "id": "RST-12-A-078-EXT-19-2-0002",
+   "document_id": "DOC-12-A-078-EXT-19-2",
+   "configuration_id": "CFG-12-A-078-EXT-19-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-078-EXT-19-2-P001"
+  },
+  {
+   "id": "RST-12-A-078-EXT-20-3-0001",
+   "document_id": "DOC-12-A-078-EXT-20-3",
+   "configuration_id": "CFG-12-A-078-EXT-20-3-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-078-EXT-20-3-P001"
+  },
+  {
+   "id": "RST-12-A-078-EXT-23-2-0001",
+   "document_id": "DOC-12-A-078-EXT-23-2",
+   "configuration_id": "CFG-12-A-078-EXT-23-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-078-EXT-23-2-P001"
+  },
+  {
+   "id": "RST-12-A-078-EXT-23-3-0001",
+   "document_id": "DOC-12-A-078-EXT-23-3",
+   "configuration_id": "CFG-12-A-078-EXT-23-3-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "côté opposé à l’ouverture et côté parecloses. Sur la base de ces éléments, la mise en œuvre de verrous thermiques tels que décrits au paragraphe 1. du présent d",
+   "texte_source": "côté opposé à l’ouverture et côté parecloses. Sur la base de ces éléments, la mise en œuvre de verrous thermiques tels que décrits au paragraphe 1. du présent document, dans les conditions énoncées au paragraphe 3 ci-dessous, est autorisée.",
+   "source_page_id": "SP-12-A-078-EXT-23-3-P001"
+  },
+  {
+   "id": "RST-12-A-078-EXT-23-3-0002",
+   "document_id": "DOC-12-A-078-EXT-23-3",
+   "configuration_id": "CFG-12-A-078-EXT-23-3-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-078-EXT-23-3-P001"
+  },
+  {
+   "id": "RST-12-A-079-0001",
+   "document_id": "DOC-12-A-079",
+   "configuration_id": "CFG-12-A-079-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Indifférent",
+   "texte_source": "Indifférent",
+   "source_page_id": "SP-12-A-079-P001"
+  },
+  {
+   "id": "RST-12-A-079-0002",
+   "document_id": "DOC-12-A-079",
+   "configuration_id": "CFG-12-A-079-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-079-P001"
+  },
+  {
+   "id": "RST-12-A-080-0001",
+   "document_id": "DOC-12-A-080",
+   "configuration_id": "CFG-12-A-080-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Indifférent.",
+   "texte_source": "Indifférent.",
+   "source_page_id": "SP-12-A-080-P001"
+  },
+  {
+   "id": "RST-12-A-080-0002",
+   "document_id": "DOC-12-A-080",
+   "configuration_id": "CFG-12-A-080-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-080-P001"
+  },
+  {
+   "id": "RST-12-A-080-EXT-23-2-0001",
+   "document_id": "DOC-12-A-080-EXT-23-2",
+   "configuration_id": "CFG-12-A-080-EXT-23-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-080-EXT-23-2-P001"
+  },
+  {
+   "id": "RST-12-A-080-EXT-23-3-0001",
+   "document_id": "DOC-12-A-080-EXT-23-3",
+   "configuration_id": "CFG-12-A-080-EXT-23-3-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "côté opposé à l’ouverture et côté parecloses. Sur la base de ces éléments, la mise en œuvre de verrous thermiques tels que décrits au paragraphe 1. du présent d",
+   "texte_source": "côté opposé à l’ouverture et côté parecloses. Sur la base de ces éléments, la mise en œuvre de verrous thermiques tels que décrits au paragraphe 1. du présent document, dans les conditions énoncées au paragraphe 3 ci-dessous, est autorisée.",
+   "source_page_id": "SP-12-A-080-EXT-23-3-P001"
+  },
+  {
+   "id": "RST-12-A-080-EXT-23-3-0002",
+   "document_id": "DOC-12-A-080-EXT-23-3",
+   "configuration_id": "CFG-12-A-080-EXT-23-3-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-080-EXT-23-3-P001"
+  },
+  {
+   "id": "RST-12-A-086-0001",
+   "document_id": "DOC-12-A-086",
+   "configuration_id": "CFG-12-A-086-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-086-P001"
+  },
+  {
+   "id": "RST-12-A-086-EXT-16-2-0001",
+   "document_id": "DOC-12-A-086-EXT-16-2",
+   "configuration_id": "CFG-12-A-086-EXT-16-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "côté contreface et face [ow-E des ütrages côté tame d'air. Voir ptanche n\"3. Toutes les autres conditions de vatidité des ctassements énoncées dans [e procès-ve",
+   "texte_source": "côté contreface et face [ow-E des ütrages côté tame d'air. Voir ptanche n\"3. Toutes les autres conditions de vatidité des ctassements énoncées dans [e procès-verba[ de référence seront respectées. Page 2 sur 6 Sur Le procès-verbal :",
+   "source_page_id": "SP-12-A-086-EXT-16-2-P001"
+  },
+  {
+   "id": "RST-12-A-086-EXT-16-2-0002",
+   "document_id": "DOC-12-A-086-EXT-16-2",
+   "configuration_id": "CFG-12-A-086-EXT-16-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de ctassement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention expticite dans te t",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-086-EXT-16-2-P001"
+  },
+  {
+   "id": "RST-12-A-087-0001",
+   "document_id": "DOC-12-A-087",
+   "configuration_id": "CFG-12-A-087-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "- Indifférent pour les blocs-portes sauf si le bloc-porte est muni d’une poigné push-bar, dans ce cas Le feu est situé côté poignée push-bar - Côté paumelles po",
+   "texte_source": "- Indifférent pour les blocs-portes sauf si le bloc-porte est muni d’une poigné push-bar, dans ce cas Le feu est situé côté poignée push-bar - Côté paumelles pour La fenêtre à un vantail",
+   "source_page_id": "SP-12-A-087-P001"
+  },
+  {
+   "id": "RST-12-A-087-0002",
+   "document_id": "DOC-12-A-087",
+   "configuration_id": "CFG-12-A-087-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-087-P001"
+  },
+  {
+   "id": "RST-12-A-087-EXT-13-1-0001",
+   "document_id": "DOC-12-A-087-EXT-13-1",
+   "configuration_id": "CFG-12-A-087-EXT-13-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "côté joint de seuil.",
+   "texte_source": "côté joint de seuil.",
+   "source_page_id": "SP-12-A-087-EXT-13-1-P001"
+  },
+  {
+   "id": "RST-12-A-087-EXT-13-1-0002",
+   "document_id": "DOC-12-A-087-EXT-13-1",
+   "configuration_id": "CFG-12-A-087-EXT-13-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Elle n’est pas cumulable avec d’autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-087-EXT-13-1-P001"
+  },
+  {
+   "id": "RST-12-A-090-0001",
+   "document_id": "DOC-12-A-090",
+   "configuration_id": "CFG-12-A-090-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Côté porteurs pour l’ossature. Côté vitrage feuilleté SGG STADIP PROTECT 44.2 pour les vitrages. Côté tôle acier pour le panneau.",
+   "texte_source": "Côté porteurs pour l’ossature. Côté vitrage feuilleté SGG STADIP PROTECT 44.2 pour les vitrages. Côté tôle acier pour le panneau.",
+   "source_page_id": "SP-12-A-090-P001"
+  },
+  {
+   "id": "RST-12-A-090-0002",
+   "document_id": "DOC-12-A-090",
+   "configuration_id": "CFG-12-A-090-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-090-P001"
+  },
+  {
+   "id": "RST-12-A-090-EXT-12-1-0001",
+   "document_id": "DOC-12-A-090-EXT-12-1",
+   "configuration_id": "CFG-12-A-090-EXT-12-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "testé.",
+   "texte_source": "testé.",
+   "source_page_id": "SP-12-A-090-EXT-12-1-P001"
+  },
+  {
+   "id": "RST-12-A-090-EXT-12-1-0002",
+   "document_id": "DOC-12-A-090-EXT-12-1",
+   "configuration_id": "CFG-12-A-090-EXT-12-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-090-EXT-12-1-P001"
+  },
+  {
+   "id": "RST-12-A-090-EXT-22-2-0001",
+   "document_id": "DOC-12-A-090-EXT-22-2",
+   "configuration_id": "CFG-12-A-090-EXT-22-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "(recto, verso ou recto-verso) 4° / du type d'ouvrage (bloc-porte, châssis fixe, cloison, façade, ouvrant de service.....) 5° / des dimensions des vitrages (il e",
+   "texte_source": "(recto, verso ou recto-verso) 4° / du type d'ouvrage (bloc-porte, châssis fixe, cloison, façade, ouvrant de service.....) 5° / des dimensions des vitrages (il est très important de respecter les dimensions maxi des vitrages ainsi que le sens du vitrage L x H indiqués dans les PV).",
+   "source_page_id": "SP-12-A-090-EXT-22-2-P001"
+  },
+  {
+   "id": "RST-12-A-090-EXT-22-2-0002",
+   "document_id": "DOC-12-A-090-EXT-22-2",
+   "configuration_id": "CFG-12-A-090-EXT-22-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-090-EXT-22-2-P001"
+  },
+  {
+   "id": "RST-12-A-090-EXT-24-3-0001",
+   "document_id": "DOC-12-A-090-EXT-24-3",
+   "configuration_id": "CFG-12-A-090-EXT-24-3-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-090-EXT-24-3-P001"
+  },
+  {
+   "id": "RST-12-A-090-EXT-25-5-0001",
+   "document_id": "DOC-12-A-090-EXT-25-5",
+   "configuration_id": "CFG-12-A-090-EXT-25-5-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-090-EXT-25-5-P001"
+  },
+  {
+   "id": "RST-12-A-091-0001",
+   "document_id": "DOC-12-A-091",
+   "configuration_id": "CFG-12-A-091-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Côté porteurs pour l’ossature Côté vitrage feuilleté SGG STADIP PROTECT 44.2 pour les vitrages Côté tôle acier pour le panneau",
+   "texte_source": "Côté porteurs pour l’ossature Côté vitrage feuilleté SGG STADIP PROTECT 44.2 pour les vitrages Côté tôle acier pour le panneau",
+   "source_page_id": "SP-12-A-091-P001"
+  },
+  {
+   "id": "RST-12-A-091-0002",
+   "document_id": "DOC-12-A-091",
+   "configuration_id": "CFG-12-A-091-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-091-P001"
+  },
+  {
+   "id": "RST-12-A-091-EXT-12-1-0001",
+   "document_id": "DOC-12-A-091-EXT-12-1",
+   "configuration_id": "CFG-12-A-091-EXT-12-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "testé.",
+   "texte_source": "testé.",
+   "source_page_id": "SP-12-A-091-EXT-12-1-P001"
+  },
+  {
+   "id": "RST-12-A-091-EXT-12-1-0002",
+   "document_id": "DOC-12-A-091-EXT-12-1",
+   "configuration_id": "CFG-12-A-091-EXT-12-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-091-EXT-12-1-P001"
+  },
+  {
+   "id": "RST-12-A-091-EXT-22-2-0001",
+   "document_id": "DOC-12-A-091-EXT-22-2",
+   "configuration_id": "CFG-12-A-091-EXT-22-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "(recto, verso ou recto-verso) 4° / du type d'ouvrage (bloc-porte, châssis fixe, cloison, façade, ouvrant de service.....) 5° / des dimensions des vitrages (il e",
+   "texte_source": "(recto, verso ou recto-verso) 4° / du type d'ouvrage (bloc-porte, châssis fixe, cloison, façade, ouvrant de service.....) 5° / des dimensions des vitrages (il est très important de respecter les dimensions maxi des vitrages ainsi que le sens du vitrage L x H indiqués dans les PV).",
+   "source_page_id": "SP-12-A-091-EXT-22-2-P001"
+  },
+  {
+   "id": "RST-12-A-091-EXT-22-2-0002",
+   "document_id": "DOC-12-A-091-EXT-22-2",
+   "configuration_id": "CFG-12-A-091-EXT-22-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-091-EXT-22-2-P001"
+  },
+  {
+   "id": "RST-12-A-091-EXT-24-3-0001",
+   "document_id": "DOC-12-A-091-EXT-24-3",
+   "configuration_id": "CFG-12-A-091-EXT-24-3-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-091-EXT-24-3-P001"
+  },
+  {
+   "id": "RST-12-A-091-EXT-25-5-0001",
+   "document_id": "DOC-12-A-091-EXT-25-5",
+   "configuration_id": "CFG-12-A-091-EXT-25-5-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-091-EXT-25-5-P001"
+  },
+  {
+   "id": "RST-12-A-461-REC-17-1-0001",
+   "document_id": "DOC-12-A-461-REC-17-1",
+   "configuration_id": null,
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT",
+   "texte_source": "INDIFFERENT",
+   "source_page_id": "SP-12-A-461-REC-17-1-P001"
+  },
+  {
+   "id": "RST-12-A-461-REC-17-1-0002",
+   "document_id": "DOC-12-A-461-REC-17-1",
+   "configuration_id": null,
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-461-REC-17-1-P001"
+  },
+  {
+   "id": "RST-12-A-462-REC-17-1-0001",
+   "document_id": "DOC-12-A-462-REC-17-1",
+   "configuration_id": null,
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT",
+   "texte_source": "INDIFFERENT",
+   "source_page_id": "SP-12-A-462-REC-17-1-P001"
+  },
+  {
+   "id": "RST-12-A-462-REC-17-1-0002",
+   "document_id": "DOC-12-A-462-REC-17-1",
+   "configuration_id": null,
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-462-REC-17-1-P001"
+  },
+  {
+   "id": "RST-12-A-765-0001",
+   "document_id": "DOC-12-A-765",
+   "configuration_id": "CFG-12-A-765-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT",
+   "texte_source": "INDIFFERENT",
+   "source_page_id": "SP-12-A-765-P001"
+  },
+  {
+   "id": "RST-12-A-765-0002",
+   "document_id": "DOC-12-A-765",
+   "configuration_id": "CFG-12-A-765-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-12-A-765-P001"
+  },
+  {
+   "id": "RST-13-A-1050-0001",
+   "document_id": "DOC-13-A-1050",
+   "configuration_id": "CFG-13-A-1050-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Indifférent",
+   "texte_source": "Indifférent",
+   "source_page_id": "SP-13-A-1050-P001"
+  },
+  {
+   "id": "RST-13-A-1050-0002",
+   "document_id": "DOC-13-A-1050",
+   "configuration_id": "CFG-13-A-1050-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-1050-P001"
+  },
+  {
+   "id": "RST-13-A-1050-EXT-17-1-0001",
+   "document_id": "DOC-13-A-1050-EXT-17-1",
+   "configuration_id": "CFG-13-A-1050-EXT-17-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de l'extension",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-1050-EXT-17-1-P001"
+  },
+  {
+   "id": "RST-13-A-176-0001",
+   "document_id": "DOC-13-A-176",
+   "configuration_id": "CFG-13-A-176-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "utilisé pour le ferme-porte, le montage de celui-ci devra être conforme à l'Annexe, planches 36 à 39. Page 3 sur 53",
+   "texte_source": "utilisé pour le ferme-porte, le montage de celui-ci devra être conforme à l'Annexe, planches 36 à 39. Page 3 sur 53",
+   "source_page_id": "SP-13-A-176-P001"
+  },
+  {
+   "id": "RST-13-A-176-0002",
+   "document_id": "DOC-13-A-176",
+   "configuration_id": "CFG-13-A-176-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-176-P001"
+  },
+  {
+   "id": "RST-13-A-176-0003",
+   "document_id": "DOC-13-A-176",
+   "configuration_id": "CFG-13-A-176-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Montage sur allège non autorisé (selon texte)",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-176-P001"
+  },
+  {
+   "id": "RST-13-A-176-EXT-14-1-0001",
+   "document_id": "DOC-13-A-176-EXT-14-1",
+   "configuration_id": "CFG-13-A-176-EXT-14-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de l'extension",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-176-EXT-14-1-P001"
+  },
+  {
+   "id": "RST-EFR-14-002247-0001",
+   "document_id": "DOC-EFR-14-002247",
+   "configuration_id": "CFG-EFR-14-002247-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de l'extension",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-14-002247-P001"
+  },
+  {
+   "id": "RST-13-A-176-EXT-22-5-0001",
+   "document_id": "DOC-13-A-176-EXT-22-5",
+   "configuration_id": "CFG-13-A-176-EXT-22-5-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-176-EXT-22-5-P001"
+  },
+  {
+   "id": "RST-13-A-176-EXT-23-6-0001",
+   "document_id": "DOC-13-A-176-EXT-23-6",
+   "configuration_id": "CFG-13-A-176-EXT-23-6-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-176-EXT-23-6-P001"
+  },
+  {
+   "id": "RST-13-A-177-0001",
+   "document_id": "DOC-13-A-177",
+   "configuration_id": "CFG-13-A-177-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Indifférent.",
+   "texte_source": "Indifférent.",
+   "source_page_id": "SP-13-A-177-P001"
+  },
+  {
+   "id": "RST-13-A-177-0002",
+   "document_id": "DOC-13-A-177",
+   "configuration_id": "CFG-13-A-177-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-177-P001"
+  },
+  {
+   "id": "RST-13-A-177-0003",
+   "document_id": "DOC-13-A-177",
+   "configuration_id": "CFG-13-A-177-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Montage sur allège non autorisé (selon texte)",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-177-P001"
+  },
+  {
+   "id": "RST-EFR-14-002238-0001",
+   "document_id": "DOC-EFR-14-002238",
+   "configuration_id": "CFG-EFR-14-002238-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "de l’ossature reste celui des procès-verbaux de référence. - Toutes les conditions à respecter sont celles des procès-verbaux de référence.",
+   "texte_source": "de l’ossature reste celui des procès-verbaux de référence. - Toutes les conditions à respecter sont celles des procès-verbaux de référence.",
+   "source_page_id": "SP-EFR-14-002238-P001"
+  },
+  {
+   "id": "RST-EFR-14-002238-0002",
+   "document_id": "DOC-EFR-14-002238",
+   "configuration_id": "CFG-EFR-14-002238-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de l'extension",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-14-002238-P001"
+  },
+  {
+   "id": "RST-EFR-14-002239-0001",
+   "document_id": "DOC-EFR-14-002239",
+   "configuration_id": "CFG-EFR-14-002239-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de l'extension",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-14-002239-P001"
+  },
+  {
+   "id": "RST-13-A-177-EXT-18-4-0001",
+   "document_id": "DOC-13-A-177-EXT-18-4",
+   "configuration_id": "CFG-13-A-177-EXT-18-4-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de l'extension",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-177-EXT-18-4-P001"
+  },
+  {
+   "id": "RST-13-A-177-EXT-18-2-0001",
+   "document_id": "DOC-13-A-177-EXT-18-2",
+   "configuration_id": "CFG-13-A-177-EXT-18-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de l'extension",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-177-EXT-18-2-P001"
+  },
+  {
+   "id": "RST-13-A-177-EXT-18-6-0001",
+   "document_id": "DOC-13-A-177-EXT-18-6",
+   "configuration_id": "CFG-13-A-177-EXT-18-6-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "indifférent. Toutes les autres conditions énoncées dans le procès-verbal de référence devront être respectées. Affaire EFR-17-000062 Page 2 sur 6 E£ectis",
+   "texte_source": "indifférent. Toutes les autres conditions énoncées dans le procès-verbal de référence devront être respectées. Affaire EFR-17-000062 Page 2 sur 6 E£ectis",
+   "source_page_id": "SP-13-A-177-EXT-18-6-P001"
+  },
+  {
+   "id": "RST-13-A-177-EXT-18-6-0002",
+   "document_id": "DOC-13-A-177-EXT-18-6",
+   "configuration_id": "CFG-13-A-177-EXT-18-6-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de l'extension",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-177-EXT-18-6-P001"
+  },
+  {
+   "id": "RST-13-A-178-0001",
+   "document_id": "DOC-13-A-178",
+   "configuration_id": "CFG-13-A-178-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "utilisé pour le ferme-porte, le montage de celui-ci devra être conforme à l’Annexe, planches 35 à 37. Page 3 sur 51",
+   "texte_source": "utilisé pour le ferme-porte, le montage de celui-ci devra être conforme à l’Annexe, planches 35 à 37. Page 3 sur 51",
+   "source_page_id": "SP-13-A-178-P001"
+  },
+  {
+   "id": "RST-13-A-178-0002",
+   "document_id": "DOC-13-A-178",
+   "configuration_id": "CFG-13-A-178-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-178-P001"
+  },
+  {
+   "id": "RST-13-A-178-0003",
+   "document_id": "DOC-13-A-178",
+   "configuration_id": "CFG-13-A-178-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Montage sur allège non autorisé (selon texte)",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-178-P001"
+  },
+  {
+   "id": "RST-13-A-178-EXT-14-1-0001",
+   "document_id": "DOC-13-A-178-EXT-14-1",
+   "configuration_id": "CFG-13-A-178-EXT-14-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de l'extension",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-178-EXT-14-1-P001"
+  },
+  {
+   "id": "RST-EFR-14-001850-0001",
+   "document_id": "DOC-EFR-14-001850",
+   "configuration_id": "CFG-EFR-14-001850-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de l'extension",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-14-001850-P001"
+  },
+  {
+   "id": "RST-13-A-178-EXT-18-4-0001",
+   "document_id": "DOC-13-A-178-EXT-18-4",
+   "configuration_id": "CFG-13-A-178-EXT-18-4-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de l'extension",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-178-EXT-18-4-P001"
+  },
+  {
+   "id": "RST-13-A-178-EXT-23-6-0001",
+   "document_id": "DOC-13-A-178-EXT-23-6",
+   "configuration_id": "CFG-13-A-178-EXT-23-6-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-178-EXT-23-6-P001"
+  },
+  {
+   "id": "RST-13-A-180-0001",
+   "document_id": "DOC-13-A-180",
+   "configuration_id": "CFG-13-A-180-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Côté parcloses",
+   "texte_source": "Côté parcloses",
+   "source_page_id": "SP-13-A-180-P001"
+  },
+  {
+   "id": "RST-13-A-180-0002",
+   "document_id": "DOC-13-A-180",
+   "configuration_id": "CFG-13-A-180-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-180-P001"
+  },
+  {
+   "id": "RST-13-A-180-EXT-60-13-0001",
+   "document_id": "DOC-13-A-180-EXT-60-13",
+   "configuration_id": "CFG-13-A-180-EXT-60-13-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "est indifférent pour les parcloses. Toutes Les autres conditions du procès-verbal de référence sont à respecter.",
+   "texte_source": "est indifférent pour les parcloses. Toutes Les autres conditions du procès-verbal de référence sont à respecter.",
+   "source_page_id": "SP-13-A-180-EXT-60-13-P001"
+  },
+  {
+   "id": "RST-13-A-180-EXT-60-13-0002",
+   "document_id": "DOC-13-A-180-EXT-60-13",
+   "configuration_id": "CFG-13-A-180-EXT-60-13-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-180-EXT-60-13-P001"
+  },
+  {
+   "id": "RST-13-A-180-EXT-60-13-0003",
+   "document_id": "DOC-13-A-180-EXT-60-13",
+   "configuration_id": "CFG-13-A-180-EXT-60-13-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de l'extension",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-180-EXT-60-13-P001"
+  },
+  {
+   "id": "RST-13-A-184-0001",
+   "document_id": "DOC-13-A-184",
+   "configuration_id": "CFG-13-A-184-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "- indifférent pour l’ossature. - indifférent pour les vitrages, à l’exception des vitrages PYROGUARD T EW 60/13-1 VF, pour lesquels la face feuilletée doit être",
+   "texte_source": "- indifférent pour l’ossature. - indifférent pour les vitrages, à l’exception des vitrages PYROGUARD T EW 60/13-1 VF, pour lesquels la face feuilletée doit être côté feu. - indifférent pour les panneaux. SASU au capital de 1 512 170€ - SIRET 490 550 712 00023 - RCS Evry B 490 550 712 - TVA FR 61490550712 - APE 7120 B Page 5 sur 26 di efectis 13- A - 184 rare PROCES-VERBAL",
+   "source_page_id": "SP-13-A-184-P001"
+  },
+  {
+   "id": "RST-13-A-184-0002",
+   "document_id": "DOC-13-A-184",
+   "configuration_id": "CFG-13-A-184-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-184-P001"
+  },
+  {
+   "id": "RST-13-A-184-EXT-15-2-0001",
+   "document_id": "DOC-13-A-184-EXT-15-2",
+   "configuration_id": "CFG-13-A-184-EXT-15-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "délivrée par EFECTIS France Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ce même procès-verbal, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-184-EXT-15-2-P001"
+  },
+  {
+   "id": "RST-13-A-374-0001",
+   "document_id": "DOC-13-A-374",
+   "configuration_id": "CFG-13-A-374-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT.",
+   "texte_source": "INDIFFERENT.",
+   "source_page_id": "SP-13-A-374-P001"
+  },
+  {
+   "id": "RST-13-A-374-0002",
+   "document_id": "DOC-13-A-374",
+   "configuration_id": "CFG-13-A-374-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-374-P001"
+  },
+  {
+   "id": "RST-13-A-374-EXT-18-2-0001",
+   "document_id": "DOC-13-A-374-EXT-18-2",
+   "configuration_id": "CFG-13-A-374-EXT-18-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de l'extension",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-374-EXT-18-2-P001"
+  },
+  {
+   "id": "RST-13-A-374-EXT-60-13-0001",
+   "document_id": "DOC-13-A-374-EXT-60-13",
+   "configuration_id": "CFG-13-A-374-EXT-60-13-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "r une éventuelle reconduction du procès-verbal de référence délivrée par EFECTIS France Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ce même procès-verbal",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-374-EXT-60-13-P001"
+  },
+  {
+   "id": "RST-13-A-417-0001",
+   "document_id": "DOC-13-A-417",
+   "configuration_id": "CFG-13-A-417-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Indifférent.",
+   "texte_source": "Indifférent.",
+   "source_page_id": "SP-13-A-417-P001"
+  },
+  {
+   "id": "RST-13-A-417-0002",
+   "document_id": "DOC-13-A-417",
+   "configuration_id": "CFG-13-A-417-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-417-P001"
+  },
+  {
+   "id": "RST-EFR-14-001441-0001",
+   "document_id": "DOC-EFR-14-001441",
+   "configuration_id": "CFG-EFR-14-001441-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "des parcloses est indifférent.",
+   "texte_source": "des parcloses est indifférent.",
+   "source_page_id": "SP-EFR-14-001441-P001"
+  },
+  {
+   "id": "RST-EFR-14-001441-0002",
+   "document_id": "DOC-EFR-14-001441",
+   "configuration_id": "CFG-EFR-14-001441-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Montage sur allège non autorisé (selon texte)",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-14-001441-P001"
+  },
+  {
+   "id": "RST-EFR-14-001441-0003",
+   "document_id": "DOC-EFR-14-001441",
+   "configuration_id": "CFG-EFR-14-001441-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans Le texte de l'extension",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-14-001441-P001"
+  },
+  {
+   "id": "RST-13-A-417-EXT-15-2-0001",
+   "document_id": "DOC-13-A-417-EXT-15-2",
+   "configuration_id": "CFG-13-A-417-EXT-15-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "des vitrages est indifférent. La composition des vitrages ainsi que [a référence des parcloses permettant leur maintien sont données en annexe, ptanche 2. Les d",
+   "texte_source": "des vitrages est indifférent. La composition des vitrages ainsi que [a référence des parcloses permettant leur maintien sont données en annexe, ptanche 2. Les dimensions sont données dans te paragraphe 3.",
+   "source_page_id": "SP-13-A-417-EXT-15-2-P001"
+  },
+  {
+   "id": "RST-13-A-427-0001",
+   "document_id": "DOC-13-A-427",
+   "configuration_id": "CFG-13-A-427-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Indifférent pour l’ossature Indifférent pour Les panneaux Indifférent pour Les vitrages SAUF pour un classement El 30, dans ce cas, les vitrages sont uniquement",
+   "texte_source": "Indifférent pour l’ossature Indifférent pour Les panneaux Indifférent pour Les vitrages SAUF pour un classement El 30, dans ce cas, les vitrages sont uniquement orientés feu côté opposé à la contreface",
+   "source_page_id": "SP-13-A-427-P001"
+  },
+  {
+   "id": "RST-13-A-427-0002",
+   "document_id": "DOC-13-A-427",
+   "configuration_id": "CFG-13-A-427-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-427-P001"
+  },
+  {
+   "id": "RST-13-A-429-0001",
+   "document_id": "DOC-13-A-429",
+   "configuration_id": "CFG-13-A-429-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Indifférent pour les vitrages Pyroguard T EI60/25-3 (PYROGUARD). Indifférent pour les vitrages Pyroguard T EI60/25-3 VF (PYROGUARD) renforcés. Indifférent pour ",
+   "texte_source": "Indifférent pour les vitrages Pyroguard T EI60/25-3 (PYROGUARD). Indifférent pour les vitrages Pyroguard T EI60/25-3 VF (PYROGUARD) renforcés. Indifférent pour les vitrages Pyroguard T EI60/25-3 VI (PYROGUARD) . Indifférent pour les parcloses hormis pour les parcloses 901245 associées aux ressorts 906421 qui doivent obligatoirement être montées côté opposé au feu.",
+   "source_page_id": "SP-13-A-429-P001"
+  },
+  {
+   "id": "RST-13-A-429-0002",
+   "document_id": "DOC-13-A-429",
+   "configuration_id": "CFG-13-A-429-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-429-P001"
+  },
+  {
+   "id": "RST-13-A-429-0003",
+   "document_id": "DOC-13-A-429",
+   "configuration_id": "CFG-13-A-429-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Montage sur allège non autorisé (selon texte)",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-429-P001"
+  },
+  {
+   "id": "RST-13-A-429-EXT-18-1-0001",
+   "document_id": "DOC-13-A-429-EXT-18-1",
+   "configuration_id": "CFG-13-A-429-EXT-18-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-429-EXT-18-1-P001"
+  },
+  {
+   "id": "RST-13-A-429-EXT-18-2-0001",
+   "document_id": "DOC-13-A-429-EXT-18-2",
+   "configuration_id": "CFG-13-A-429-EXT-18-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-429-EXT-18-2-P001"
+  },
+  {
+   "id": "RST-13-A-433-0001",
+   "document_id": "DOC-13-A-433",
+   "configuration_id": "CFG-13-A-433-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Feu côté INDIFFERENT.",
+   "texte_source": "Feu côté INDIFFERENT.",
+   "source_page_id": "SP-13-A-433-P001"
+  },
+  {
+   "id": "RST-13-A-433-0002",
+   "document_id": "DOC-13-A-433",
+   "configuration_id": "CFG-13-A-433-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-433-P001"
+  },
+  {
+   "id": "RST-13-A-439-0001",
+   "document_id": "DOC-13-A-439",
+   "configuration_id": "CFG-13-A-439-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Feu côté INDIFFERENT.",
+   "texte_source": "Feu côté INDIFFERENT.",
+   "source_page_id": "SP-13-A-439-P001"
+  },
+  {
+   "id": "RST-13-A-439-0002",
+   "document_id": "DOC-13-A-439",
+   "configuration_id": "CFG-13-A-439-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-439-P001"
+  },
+  {
+   "id": "RST-13-A-439-0003",
+   "document_id": "DOC-13-A-439",
+   "configuration_id": "CFG-13-A-439-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de ctassement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention expticite dans [e texte de",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-439-P001"
+  },
+  {
+   "id": "RST-13-A-439-EXT-18-2-0001",
+   "document_id": "DOC-13-A-439-EXT-18-2",
+   "configuration_id": "CFG-13-A-439-EXT-18-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de l'extension",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-439-EXT-18-2-P001"
+  },
+  {
+   "id": "RST-13-A-439-EXT-23-4-0001",
+   "document_id": "DOC-13-A-439-EXT-23-4",
+   "configuration_id": "CFG-13-A-439-EXT-23-4-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "côté opposé à la contreface uniquement) - Augmentation de la hauteur maximale autorisée de la cloison",
+   "texte_source": "côté opposé à la contreface uniquement) - Augmentation de la hauteur maximale autorisée de la cloison",
+   "source_page_id": "SP-13-A-439-EXT-23-4-P001"
+  },
+  {
+   "id": "RST-13-A-439-EXT-23-4-0002",
+   "document_id": "DOC-13-A-439-EXT-23-4",
+   "configuration_id": "CFG-13-A-439-EXT-23-4-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-439-EXT-23-4-P001"
+  },
+  {
+   "id": "RST-13-A-441-0001",
+   "document_id": "DOC-13-A-441",
+   "configuration_id": "CFG-13-A-441-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT.",
+   "texte_source": "INDIFFERENT.",
+   "source_page_id": "SP-13-A-441-P001"
+  },
+  {
+   "id": "RST-13-A-441-0002",
+   "document_id": "DOC-13-A-441",
+   "configuration_id": "CFG-13-A-441-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-441-P001"
+  },
+  {
+   "id": "RST-13-A-441-0003",
+   "document_id": "DOC-13-A-441",
+   "configuration_id": "CFG-13-A-441-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Montage sur allège non autorisé (selon texte)",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-441-P001"
+  },
+  {
+   "id": "RST-13-A-441-0004",
+   "document_id": "DOC-13-A-441",
+   "configuration_id": "CFG-13-A-441-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de ctassement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention expticite dans [e texte de",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-441-P001"
+  },
+  {
+   "id": "RST-13-A-441-EXT-20-2-0001",
+   "document_id": "DOC-13-A-441-EXT-20-2",
+   "configuration_id": "CFG-13-A-441-EXT-20-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le tex",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-441-EXT-20-2-P001"
+  },
+  {
+   "id": "RST-13-A-441-EXT-23-3-0001",
+   "document_id": "DOC-13-A-441-EXT-23-3",
+   "configuration_id": "CFG-13-A-441-EXT-23-3-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-441-EXT-23-3-P001"
+  },
+  {
+   "id": "RST-13-A-441-EXT-23-4-0001",
+   "document_id": "DOC-13-A-441-EXT-23-4",
+   "configuration_id": "CFG-13-A-441-EXT-23-4-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-441-EXT-23-4-P001"
+  },
+  {
+   "id": "RST-13-A-442-0001",
+   "document_id": "DOC-13-A-442",
+   "configuration_id": "CFG-13-A-442-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-442-P001"
+  },
+  {
+   "id": "RST-13-A-443-0001",
+   "document_id": "DOC-13-A-443",
+   "configuration_id": "CFG-13-A-443-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-443-P001"
+  },
+  {
+   "id": "RST-13-A-676-0001",
+   "document_id": "DOC-13-A-676",
+   "configuration_id": "CFG-13-A-676-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Indifférent",
+   "texte_source": "Indifférent",
+   "source_page_id": "SP-13-A-676-P001"
+  },
+  {
+   "id": "RST-13-A-676-0002",
+   "document_id": "DOC-13-A-676",
+   "configuration_id": "CFG-13-A-676-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-676-P001"
+  },
+  {
+   "id": "RST-13-A-677-0001",
+   "document_id": "DOC-13-A-677",
+   "configuration_id": "CFG-13-A-677-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Indifférent sauf si : - le bloc-porte est muni d’une poigné push-bar, dans ce cas le feu est situé côté poignée push-bar. - pour les blocs-portes à deux vantaux",
+   "texte_source": "Indifférent sauf si : - le bloc-porte est muni d’une poigné push-bar, dans ce cas le feu est situé côté poignée push-bar. - pour les blocs-portes à deux vantaux munis d’un ferme-porte alors orientés feu côté ferme-porte. La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 8 sur 63",
+   "source_page_id": "SP-13-A-677-P001"
+  },
+  {
+   "id": "RST-13-A-677-0002",
+   "document_id": "DOC-13-A-677",
+   "configuration_id": "CFG-13-A-677-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-677-P001"
+  },
+  {
+   "id": "RST-13-A-705-0001",
+   "document_id": "DOC-13-A-705",
+   "configuration_id": "CFG-13-A-705-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT, excepté : - Pour les profilés de référence 76859 ou 76869 (FORSTER), dont la mise en œuvre est autorisée uniquement côté opposé au feu (voir planch",
+   "texte_source": "INDIFFERENT, excepté : - Pour les profilés de référence 76859 ou 76869 (FORSTER), dont la mise en œuvre est autorisée uniquement côté opposé au feu (voir planche n°4) - Pour les montages à facettes avec profilés de référence 76859 ou 76869 (FORSTER) illustrés en planche n°23, autorisés uniquement avec un sens de feu côté opposé aux porteurs.",
+   "source_page_id": "SP-13-A-705-P001"
+  },
+  {
+   "id": "RST-13-A-705-0002",
+   "document_id": "DOC-13-A-705",
+   "configuration_id": "CFG-13-A-705-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-705-P001"
+  },
+  {
+   "id": "RST-13-V-582-0001",
+   "document_id": "DOC-13-V-582",
+   "configuration_id": "CFG-13-V-582-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu pour l’ossature : Feu côté parcloses. Sens de feu pour les vitrages : -_ Vitrage A : Feu côté vitrage 44.2 ; -__ Vitrage B : Indifférent ; -__ Vitra",
+   "texte_source": "Sens de feu pour l’ossature : Feu côté parcloses. Sens de feu pour les vitrages : -_ Vitrage A : Feu côté vitrage 44.2 ; -__ Vitrage B : Indifférent ; -__ Vitrage C : Feu côté vitrage trempé d’épaisseur 4 mm ; -__ Vitrage D: Indifférent ; -__ Vitrage E : Feu côté vitrage trempé d'épaisseur 4 mm ; Page 4 sur 10 & efectis france 13-V-582 PROCES-VERBAL",
+   "source_page_id": "SP-13-V-582-P001"
+  },
+  {
+   "id": "RST-13-V-582-EXT-14-1-0001",
+   "document_id": "DOC-13-V-582-EXT-14-1",
+   "configuration_id": "CFG-13-V-582-EXT-14-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "indifférent; - Dimensions autorisées des vitrages PYROGUARD T EW60/6 VI et TVI - Différentes compositions des vitrages PYROGUARD T EW60/6 VI (CGI France) - Diff",
+   "texte_source": "indifférent; - Dimensions autorisées des vitrages PYROGUARD T EW60/6 VI et TVI - Différentes compositions des vitrages PYROGUARD T EW60/6 VI (CGI France) - Différentes compositions des vitrages PYROGUARD T EW60/6 TVI (CGI France): Cette extension de classement n'est valable qu'accompagnée de son procès-verbal de référence.",
+   "source_page_id": "SP-13-V-582-EXT-14-1-P001"
+  },
+  {
+   "id": "RST-13-V-582-EXT-14-1-0002",
+   "document_id": "DOC-13-V-582-EXT-14-1",
+   "configuration_id": "CFG-13-V-582-EXT-14-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "ur une éventuelle reconduction du procès-verbal de référence délivrée par EFECTIS France Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ce même procès-verba",
+   "texte_source": null,
+   "source_page_id": "SP-13-V-582-EXT-14-1-P001"
+  },
+  {
+   "id": "RST-13-V-582-EXT-14-2-0001",
+   "document_id": "DOC-13-V-582-EXT-14-2",
+   "configuration_id": "CFG-13-V-582-EXT-14-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "ur une éventuelle reconduction du procès-verbal de référence délivrée par EFECTIS France Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ce même procès-verba",
+   "texte_source": null,
+   "source_page_id": "SP-13-V-582-EXT-14-2-P001"
+  },
+  {
+   "id": "RST-14-A-001-0001",
+   "document_id": "DOC-14-A-001",
+   "configuration_id": "CFG-14-A-001-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Indifférent",
+   "texte_source": "Indifférent",
+   "source_page_id": "SP-14-A-001-P001"
+  },
+  {
+   "id": "RST-14-A-001-0002",
+   "document_id": "DOC-14-A-001",
+   "configuration_id": "CFG-14-A-001-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-14-A-001-P001"
+  },
+  {
+   "id": "RST-EFR-14-001306-0001",
+   "document_id": "DOC-EFR-14-001306",
+   "configuration_id": "CFG-EFR-14-001306-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT, excepté : - Pour les profilés de référence 76.859 ou 76.869 (FORSTER), dont la mise en œuvre est autorisée uniquement côté opposé au feu (voir plan",
+   "texte_source": "INDIFFERENT, excepté : - Pour les profilés de référence 76.859 ou 76.869 (FORSTER), dont la mise en œuvre est autorisée uniquement côté opposé au feu (voir planche n°4) - Pour les montages à facettes avec profilés de référence 76.859 ou 76.869 (FORSTER) illustrés en planche n°24, autorisés uniquement avec un sens de feu côté opposé aux porteurs.",
+   "source_page_id": "SP-EFR-14-001306-P001"
+  },
+  {
+   "id": "RST-EFR-14-001306-0002",
+   "document_id": "DOC-EFR-14-001306",
+   "configuration_id": "CFG-EFR-14-001306-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-14-001306-P001"
+  },
+  {
+   "id": "RST-EFR-14-001306-EXT-X4-0001",
+   "document_id": "DOC-EFR-14-001306-EXT-X4",
+   "configuration_id": "CFG-EFR-14-001306-EXT-X4-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "des vitrages : indifférent Toutes tes conditions du procès-verbal de référence devront être respectées.",
+   "texte_source": "des vitrages : indifférent Toutes tes conditions du procès-verbal de référence devront être respectées.",
+   "source_page_id": "SP-EFR-14-001306-EXT-X4-P001"
+  },
+  {
+   "id": "RST-EFR-14-001306-EXT-X4-0002",
+   "document_id": "DOC-EFR-14-001306-EXT-X4",
+   "configuration_id": "CFG-EFR-14-001306-EXT-X4-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Elle n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans [e texte",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-14-001306-EXT-X4-P001"
+  },
+  {
+   "id": "RST-EFR-14-001850-0002",
+   "document_id": "DOC-EFR-14-001850",
+   "configuration_id": "CFG-EFR-14-001850-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-14-001850-P001"
+  },
+  {
+   "id": "RST-EFR-14-001850-0003",
+   "document_id": "DOC-EFR-14-001850",
+   "configuration_id": "CFG-EFR-14-001850-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Montage sur allège non autorisé (selon texte)",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-14-001850-P001"
+  },
+  {
+   "id": "RST-EFR-14-001852-0001",
+   "document_id": "DOC-EFR-14-001852",
+   "configuration_id": "CFG-EFR-14-001852-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de l'extension",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-14-001852-P001"
+  },
+  {
+   "id": "RST-EFR-14-001852-0002",
+   "document_id": "DOC-EFR-14-001852",
+   "configuration_id": "CFG-EFR-14-001852-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-14-001852-P001"
+  },
+  {
+   "id": "RST-EFR-14-001852-0003",
+   "document_id": "DOC-EFR-14-001852",
+   "configuration_id": "CFG-EFR-14-001852-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Montage sur allège non autorisé (selon texte)",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-14-001852-P001"
+  },
+  {
+   "id": "RST-EFR-15-002586-0001",
+   "document_id": "DOC-EFR-15-002586",
+   "configuration_id": "CFG-EFR-15-002586-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-15-002586-P001"
+  },
+  {
+   "id": "RST-EFR-15-002586-0002",
+   "document_id": "DOC-EFR-15-002586",
+   "configuration_id": "CFG-EFR-15-002586-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "A noter : la réalisation d’une jonction à 90° n’est pas cumulable avec le montage de la cloison vitrée sous imposte ou en allège d'une cloison légère décrit au paragraphe 5",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-15-002586-P001"
+  },
+  {
+   "id": "RST-EFR-15-002589-0001",
+   "document_id": "DOC-EFR-15-002589",
+   "configuration_id": "CFG-EFR-15-002589-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-15-002589-P001"
+  },
+  {
+   "id": "RST-EFR-15-002589-0002",
+   "document_id": "DOC-EFR-15-002589",
+   "configuration_id": "CFG-EFR-15-002589-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "A noter : la réalisation d’une jonction à 90° n’est pas cumulable avec le montage de la cloison vitrée sous imposte ou en allège d'une cloison légère décrit au paragraphe 5",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-15-002589-P001"
+  },
+  {
+   "id": "RST-EFR-16-003119-0001",
+   "document_id": "DOC-EFR-16-003119",
+   "configuration_id": "CFG-EFR-16-003119-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT",
+   "texte_source": "INDIFFERENT",
+   "source_page_id": "SP-EFR-16-003119-P001"
+  },
+  {
+   "id": "RST-EFR-16-003119-0002",
+   "document_id": "DOC-EFR-16-003119",
+   "configuration_id": "CFG-EFR-16-003119-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-16-003119-P001"
+  },
+  {
+   "id": "RST-EFR-16-V-004086-0001",
+   "document_id": "DOC-EFR-16-V-004086",
+   "configuration_id": "CFG-EFR-16-V-004086-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "“\" Pour l'ossature : Feu côté parcloses \" Pourles vitrages : Feu côté PYROGUARD T-EI 120 47-3 d'épaisseur 47 mm.",
+   "texte_source": "“\" Pour l'ossature : Feu côté parcloses \" Pourles vitrages : Feu côté PYROGUARD T-EI 120 47-3 d'épaisseur 47 mm.",
+   "source_page_id": "SP-EFR-16-V-004086-P001"
+  },
+  {
+   "id": "RST-EFR-16-V-004086-0002",
+   "document_id": "DOC-EFR-16-V-004086",
+   "configuration_id": "CFG-EFR-16-V-004086-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-16-V-004086-P001"
+  },
+  {
+   "id": "RST-EFR-16-V-004086-EXT-17-1-0001",
+   "document_id": "DOC-EFR-16-V-004086-EXT-17-1",
+   "configuration_id": "CFG-EFR-16-V-004086-EXT-17-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "indifférent pour les vitrages Pyroguard T-E1120/47-3 VI (PYROGUARD UK LTD) -__ Mise en œuvre de vitrages Pyroguard T-E1120/47-3 et Pyroguard T- E1120/47-3 VF (P",
+   "texte_source": "indifférent pour les vitrages Pyroguard T-E1120/47-3 VI (PYROGUARD UK LTD) -__ Mise en œuvre de vitrages Pyroguard T-E1120/47-3 et Pyroguard T- E1120/47-3 VF (PYROGUARD UK LTD) Cette extension de classement n'est valable qu'accompagnée de son procès-verbal de référence (ainsi que toutes ses éventuelles révisions). Sa",
+   "source_page_id": "SP-EFR-16-V-004086-EXT-17-1-P001"
+  },
+  {
+   "id": "RST-EFR-16-V-004086-EXT-17-1-0002",
+   "document_id": "DOC-EFR-16-V-004086-EXT-17-1",
+   "configuration_id": "CFG-EFR-16-V-004086-EXT-17-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de l'extension",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-16-V-004086-EXT-17-1-P001"
+  },
+  {
+   "id": "RST-EFR-16-V-004086-EXT-21-2-0001",
+   "document_id": "DOC-EFR-16-V-004086-EXT-21-2",
+   "configuration_id": "CFG-EFR-16-V-004086-EXT-21-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-16-V-004086-EXT-21-2-P001"
+  },
+  {
+   "id": "RST-EFR-16-V-004086-EXT-21-3-0001",
+   "document_id": "DOC-EFR-16-V-004086-EXT-21-3",
+   "configuration_id": "CFG-EFR-16-V-004086-EXT-21-3-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-16-V-004086-EXT-21-3-P001"
+  },
+  {
+   "id": "RST-EFR-17-003240-0001",
+   "document_id": "DOC-EFR-17-003240",
+   "configuration_id": "CFG-EFR-17-003240-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT",
+   "texte_source": "INDIFFERENT",
+   "source_page_id": "SP-EFR-17-003240-P001"
+  },
+  {
+   "id": "RST-EFR-17-003240-0002",
+   "document_id": "DOC-EFR-17-003240",
+   "configuration_id": "CFG-EFR-17-003240-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-17-003240-P001"
+  },
+  {
+   "id": "RST-EFR-17-003243-0001",
+   "document_id": "DOC-EFR-17-003243",
+   "configuration_id": "CFG-EFR-17-003243-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT POUR L’OSSATURE INDIFFERENT POUR LES VITRAGES",
+   "texte_source": "INDIFFERENT POUR L’OSSATURE INDIFFERENT POUR LES VITRAGES",
+   "source_page_id": "SP-EFR-17-003243-P001"
+  },
+  {
+   "id": "RST-EFR-17-003243-0002",
+   "document_id": "DOC-EFR-17-003243",
+   "configuration_id": "CFG-EFR-17-003243-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-17-003243-P001"
+  },
+  {
+   "id": "RST-EFR-17-003917-0001",
+   "document_id": "DOC-EFR-17-003917",
+   "configuration_id": "CFG-EFR-17-003917-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT. Page 8 sur 19 E£ectis EFR-17-003917 PROCES-VERBAL",
+   "texte_source": "INDIFFERENT. Page 8 sur 19 E£ectis EFR-17-003917 PROCES-VERBAL",
+   "source_page_id": "SP-EFR-17-003917-P001"
+  },
+  {
+   "id": "RST-EFR-17-003917-0002",
+   "document_id": "DOC-EFR-17-003917",
+   "configuration_id": "CFG-EFR-17-003917-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-17-003917-P001"
+  },
+  {
+   "id": "RST-EFR-18-002293-0001",
+   "document_id": "DOC-EFR-18-002293",
+   "configuration_id": "CFG-EFR-18-002293-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT",
+   "texte_source": "INDIFFERENT",
+   "source_page_id": "SP-EFR-18-002293-P001"
+  },
+  {
+   "id": "RST-EFR-18-002293-0002",
+   "document_id": "DOC-EFR-18-002293",
+   "configuration_id": "CFG-EFR-18-002293-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-18-002293-P001"
+  },
+  {
+   "id": "RST-EFR-18-002293-EXT-23-2-0001",
+   "document_id": "DOC-EFR-18-002293-EXT-23-2",
+   "configuration_id": "CFG-EFR-18-002293-EXT-23-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-18-002293-EXT-23-2-P001"
+  },
+  {
+   "id": "RST-EFR-18-003683-0001",
+   "document_id": "DOC-EFR-18-003683",
+   "configuration_id": "CFG-EFR-18-003683-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "- sous le plancher ; - pour l’ossature : côté ailettes des profilés de la gamme FUEGO LIGHT 60 (FORSTER) ; - pour les vitrages : o côté 44.2 pour les vitrages C",
+   "texte_source": "- sous le plancher ; - pour l’ossature : côté ailettes des profilés de la gamme FUEGO LIGHT 60 (FORSTER) ; - pour les vitrages : o côté 44.2 pour les vitrages CONTRAFLAM 60 (V.S.G.I.) ; o côté opposé au vitrage trempé d’épaisseur 8 mm pour les vitrages LITE FLOOR 49 mm (V.S.G.I.)",
+   "source_page_id": "SP-EFR-18-003683-P001"
+  },
+  {
+   "id": "RST-EFR-18-004879-0001",
+   "document_id": "DOC-EFR-18-004879",
+   "configuration_id": "CFG-EFR-18-004879-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "- côté parcloses - côté opposé à la contreface Page 4 sur 16 EFR-18-004879 PROCES-VERBAL",
+   "texte_source": "- côté parcloses - côté opposé à la contreface Page 4 sur 16 EFR-18-004879 PROCES-VERBAL",
+   "source_page_id": "SP-EFR-18-004879-P001"
+  },
+  {
+   "id": "RST-EFR-18-004879-0002",
+   "document_id": "DOC-EFR-18-004879",
+   "configuration_id": "CFG-EFR-18-004879-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-18-004879-P001"
+  },
+  {
+   "id": "RST-EFR-18-004879-EXT-25-2-0001",
+   "document_id": "DOC-EFR-18-004879-EXT-25-2",
+   "configuration_id": "CFG-EFR-18-004879-EXT-25-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-18-004879-EXT-25-2-P001"
+  },
+  {
+   "id": "RST-EFR-19-001169-REC-25-1-0001",
+   "document_id": "DOC-EFR-19-001169-REC-25-1",
+   "configuration_id": null,
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Indifférent pour le système de maintien. Indifférent pour les vitrages Pyrobel 54 et Pyrobel 54 EG (AGC). Côté opposé à la contreface pour les vitrages Pyrobel ",
+   "texte_source": "Indifférent pour le système de maintien. Indifférent pour les vitrages Pyrobel 54 et Pyrobel 54 EG (AGC). Côté opposé à la contreface pour les vitrages Pyrobel 54 ISO (AGC).",
+   "source_page_id": "SP-EFR-19-001169-REC-25-1-P001"
+  },
+  {
+   "id": "RST-EFR-19-001169-REC-25-1-0002",
+   "document_id": "DOC-EFR-19-001169-REC-25-1",
+   "configuration_id": null,
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-19-001169-REC-25-1-P001"
+  },
+  {
+   "id": "RST-EFR-19-001169-EXT-21-1-0001",
+   "document_id": "DOC-EFR-19-001169-EXT-21-1",
+   "configuration_id": "CFG-EFR-19-001169-EXT-21-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-19-001169-EXT-21-1-P001"
+  },
+  {
+   "id": "RST-EFR-19-001242-0001",
+   "document_id": "DOC-EFR-19-001242",
+   "configuration_id": "CFG-EFR-19-001242-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT",
+   "texte_source": "INDIFFERENT",
+   "source_page_id": "SP-EFR-19-001242-P001"
+  },
+  {
+   "id": "RST-EFR-19-001242-0002",
+   "document_id": "DOC-EFR-19-001242",
+   "configuration_id": "CFG-EFR-19-001242-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-19-001242-P001"
+  },
+  {
+   "id": "RST-EFR-19-002101-0001",
+   "document_id": "DOC-EFR-19-002101",
+   "configuration_id": "CFG-EFR-19-002101-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-19-002101-P001"
+  },
+  {
+   "id": "RST-EFR-19-002101-EXT-19-1-0001",
+   "document_id": "DOC-EFR-19-002101-EXT-19-1",
+   "configuration_id": "CFG-EFR-19-002101-EXT-19-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-19-002101-EXT-19-1-P001"
+  },
+  {
+   "id": "RST-EFR-19-002101-EXT-19-2-0001",
+   "document_id": "DOC-EFR-19-002101-EXT-19-2",
+   "configuration_id": "CFG-EFR-19-002101-EXT-19-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-19-002101-EXT-19-2-P001"
+  },
+  {
+   "id": "RST-EFR-19-002303-0001",
+   "document_id": "DOC-EFR-19-002303",
+   "configuration_id": "CFG-EFR-19-002303-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT",
+   "texte_source": "INDIFFERENT",
+   "source_page_id": "SP-EFR-19-002303-P001"
+  },
+  {
+   "id": "RST-EFR-19-002303-0002",
+   "document_id": "DOC-EFR-19-002303",
+   "configuration_id": "CFG-EFR-19-002303-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-19-002303-P001"
+  },
+  {
+   "id": "RST-EFR-19-002612-0001",
+   "document_id": "DOC-EFR-19-002612",
+   "configuration_id": "CFG-EFR-19-002612-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu indifférent.",
+   "texte_source": "Sens de feu indifférent.",
+   "source_page_id": "SP-EFR-19-002612-P001"
+  },
+  {
+   "id": "RST-EFR-19-002612-0002",
+   "document_id": "DOC-EFR-19-002612",
+   "configuration_id": "CFG-EFR-19-002612-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-19-002612-P001"
+  },
+  {
+   "id": "RST-EFR-19-003008-0001",
+   "document_id": "DOC-EFR-19-003008",
+   "configuration_id": "CFG-EFR-19-003008-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT",
+   "texte_source": "INDIFFERENT",
+   "source_page_id": "SP-EFR-19-003008-P001"
+  },
+  {
+   "id": "RST-EFR-19-003008-0002",
+   "document_id": "DOC-EFR-19-003008",
+   "configuration_id": "CFG-EFR-19-003008-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-19-003008-P001"
+  },
+  {
+   "id": "RST-EFR-19-004227-0001",
+   "document_id": "DOC-EFR-19-004227",
+   "configuration_id": "CFG-EFR-19-004227-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Indifférent",
+   "texte_source": "Indifférent",
+   "source_page_id": "SP-EFR-19-004227-P001"
+  },
+  {
+   "id": "RST-EFR-19-004227-0002",
+   "document_id": "DOC-EFR-19-004227",
+   "configuration_id": "CFG-EFR-19-004227-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-19-004227-P001"
+  },
+  {
+   "id": "RST-EFR-20-000597-REC-25-1-0001",
+   "document_id": "DOC-EFR-20-000597-REC-25-1",
+   "configuration_id": null,
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT",
+   "texte_source": "INDIFFERENT",
+   "source_page_id": "SP-EFR-20-000597-REC-25-1-P001"
+  },
+  {
+   "id": "RST-EFR-20-000597-REC-25-1-0002",
+   "document_id": "DOC-EFR-20-000597-REC-25-1",
+   "configuration_id": null,
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-20-000597-REC-25-1-P001"
+  },
+  {
+   "id": "RST-EFR-20-000597-EXT-25-2-0001",
+   "document_id": "DOC-EFR-20-000597-EXT-25-2",
+   "configuration_id": "CFG-EFR-20-000597-EXT-25-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-20-000597-EXT-25-2-P001"
+  },
+  {
+   "id": "RST-EFR-20-000858-REC-25-1-0001",
+   "document_id": "DOC-EFR-20-000858-REC-25-1",
+   "configuration_id": null,
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT",
+   "texte_source": "INDIFFERENT",
+   "source_page_id": "SP-EFR-20-000858-REC-25-1-P001"
+  },
+  {
+   "id": "RST-EFR-20-000858-REC-25-1-0002",
+   "document_id": "DOC-EFR-20-000858-REC-25-1",
+   "configuration_id": null,
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-20-000858-REC-25-1-P001"
+  },
+  {
+   "id": "RST-EFR-20-000858-EXT-21-1-0001",
+   "document_id": "DOC-EFR-20-000858-EXT-21-1",
+   "configuration_id": "CFG-EFR-20-000858-EXT-21-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-20-000858-EXT-21-1-P001"
+  },
+  {
+   "id": "RST-EFR-20-001190-REC-25-1-0001",
+   "document_id": "DOC-EFR-20-001190-REC-25-1",
+   "configuration_id": null,
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT",
+   "texte_source": "INDIFFERENT",
+   "source_page_id": "SP-EFR-20-001190-REC-25-1-P001"
+  },
+  {
+   "id": "RST-EFR-20-001190-REC-25-1-0002",
+   "document_id": "DOC-EFR-20-001190-REC-25-1",
+   "configuration_id": null,
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-20-001190-REC-25-1-P001"
+  },
+  {
+   "id": "RST-EFR-20-001190-EXT-25-1-0001",
+   "document_id": "DOC-EFR-20-001190-EXT-25-1",
+   "configuration_id": "CFG-EFR-20-001190-EXT-25-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-20-001190-EXT-25-1-P001"
+  },
+  {
+   "id": "RST-EFR-21-000287-0001",
+   "document_id": "DOC-EFR-21-000287",
+   "configuration_id": "CFG-EFR-21-000287-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-21-000287-P001"
+  },
+  {
+   "id": "RST-EFR-21-001121-0001",
+   "document_id": "DOC-EFR-21-001121",
+   "configuration_id": "CFG-EFR-21-001121-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT DOMAINE DE VALIDITE DU PROCES-VERBAL",
+   "texte_source": "INDIFFERENT DOMAINE DE VALIDITE DU PROCES-VERBAL",
+   "source_page_id": "SP-EFR-21-001121-P001"
+  },
+  {
+   "id": "RST-EFR-21-001121-0002",
+   "document_id": "DOC-EFR-21-001121",
+   "configuration_id": "CFG-EFR-21-001121-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-21-001121-P001"
+  },
+  {
+   "id": "RST-EFR-21-002688-0001",
+   "document_id": "DOC-EFR-21-002688",
+   "configuration_id": "CFG-EFR-21-002688-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 6 sur 35 EFR-21-002688 PROCES-VERBAL DOMAINE DE VALIDITE DU PROCES-V",
+   "texte_source": "INDIFFERENT La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 6 sur 35 EFR-21-002688 PROCES-VERBAL DOMAINE DE VALIDITE DU PROCES-VERBAL",
+   "source_page_id": "SP-EFR-21-002688-P001"
+  },
+  {
+   "id": "RST-EFR-21-002688-0002",
+   "document_id": "DOC-EFR-21-002688",
+   "configuration_id": "CFG-EFR-21-002688-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-21-002688-P001"
+  },
+  {
+   "id": "RST-EFR-21-002803-B-0001",
+   "document_id": "DOC-EFR-21-002803-B",
+   "configuration_id": "CFG-EFR-21-002803-B-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu : indifférent. DOMAINE DE VALIDITE",
+   "texte_source": "Sens de feu : indifférent. DOMAINE DE VALIDITE",
+   "source_page_id": "SP-EFR-21-002803-B-P001"
+  },
+  {
+   "id": "RST-EFR-21-002803-B-0002",
+   "document_id": "DOC-EFR-21-002803-B",
+   "configuration_id": "CFG-EFR-21-002803-B-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-21-002803-B-P001"
+  },
+  {
+   "id": "RST-EFR-22-001302-0001",
+   "document_id": "DOC-EFR-22-001302",
+   "configuration_id": "CFG-EFR-22-001302-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "des / 12/05/2025 Rédacteur A. Viard vitrages au §3. Vérificateur R. Koryluk Approbateur R. Koryluk Affaire EFR-22-001299 Page 2 sur 13",
+   "texte_source": "des / 12/05/2025 Rédacteur A. Viard vitrages au §3. Vérificateur R. Koryluk Approbateur R. Koryluk Affaire EFR-22-001299 Page 2 sur 13",
+   "source_page_id": "SP-EFR-22-001302-P001"
+  },
+  {
+   "id": "RST-EFR-22-001302-0002",
+   "document_id": "DOC-EFR-22-001302",
+   "configuration_id": "CFG-EFR-22-001302-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-22-001302-P001"
+  },
+  {
+   "id": "RST-EFR-22-001302-0003",
+   "document_id": "DOC-EFR-22-001302",
+   "configuration_id": "CFG-EFR-22-001302-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-22-001302-P001"
+  },
+  {
+   "id": "RST-EFR-22-001303-0001",
+   "document_id": "DOC-EFR-22-001303",
+   "configuration_id": "CFG-EFR-22-001303-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-22-001303-P001"
+  },
+  {
+   "id": "RST-EFR-22-001303-EXT-23-1-0001",
+   "document_id": "DOC-EFR-22-001303-EXT-23-1",
+   "configuration_id": "CFG-EFR-22-001303-EXT-23-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-22-001303-EXT-23-1-P001"
+  },
+  {
+   "id": "RST-EFR-22-001303-EXT-25-1-0001",
+   "document_id": "DOC-EFR-22-001303-EXT-25-1",
+   "configuration_id": "CFG-EFR-22-001303-EXT-25-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-22-001303-EXT-25-1-P001"
+  },
+  {
+   "id": "RST-EFR-22-001304-0001",
+   "document_id": "DOC-EFR-22-001304",
+   "configuration_id": "CFG-EFR-22-001304-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-22-001304-P001"
+  },
+  {
+   "id": "RST-EFR-22-001304-EXT-25-1-0001",
+   "document_id": "DOC-EFR-22-001304-EXT-25-1",
+   "configuration_id": "CFG-EFR-22-001304-EXT-25-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-22-001304-EXT-25-1-P001"
+  },
+  {
+   "id": "RST-EFR-22-001305-0001",
+   "document_id": "DOC-EFR-22-001305",
+   "configuration_id": "CFG-EFR-22-001305-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-22-001305-P001"
+  },
+  {
+   "id": "RST-EFR-22-001305-EXT-25-1-0001",
+   "document_id": "DOC-EFR-22-001305-EXT-25-1",
+   "configuration_id": "CFG-EFR-22-001305-EXT-25-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-22-001305-EXT-25-1-P001"
+  },
+  {
+   "id": "RST-EFR-22-001306-0001",
+   "document_id": "DOC-EFR-22-001306",
+   "configuration_id": "CFG-EFR-22-001306-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-22-001306-P001"
+  },
+  {
+   "id": "RST-EFR-22-001306-EXT-25-1-0001",
+   "document_id": "DOC-EFR-22-001306-EXT-25-1",
+   "configuration_id": "CFG-EFR-22-001306-EXT-25-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-22-001306-EXT-25-1-P001"
+  },
+  {
+   "id": "RST-EFR-22-002110-0001",
+   "document_id": "DOC-EFR-22-002110",
+   "configuration_id": "CFG-EFR-22-002110-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-22-002110-P001"
+  },
+  {
+   "id": "RST-EFR-22-003781-0001",
+   "document_id": "DOC-EFR-22-003781",
+   "configuration_id": "CFG-EFR-22-003781-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT.",
+   "texte_source": "INDIFFERENT.",
+   "source_page_id": "SP-EFR-22-003781-P001"
+  },
+  {
+   "id": "RST-EFR-22-003781-0002",
+   "document_id": "DOC-EFR-22-003781",
+   "configuration_id": "CFG-EFR-22-003781-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-22-003781-P001"
+  },
+  {
+   "id": "RST-EFR-22-004035-0001",
+   "document_id": "DOC-EFR-22-004035",
+   "configuration_id": "CFG-EFR-22-004035-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-22-004035-P001"
+  },
+  {
+   "id": "RST-EFR-22-004035-EXT-23-1-0001",
+   "document_id": "DOC-EFR-22-004035-EXT-23-1",
+   "configuration_id": "CFG-EFR-22-004035-EXT-23-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-22-004035-EXT-23-1-P001"
+  },
+  {
+   "id": "RST-EFR-22-004036-0001",
+   "document_id": "DOC-EFR-22-004036",
+   "configuration_id": "CFG-EFR-22-004036-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-22-004036-P001"
+  },
+  {
+   "id": "RST-EFR-22-004036-EXT-23-1-0001",
+   "document_id": "DOC-EFR-22-004036-EXT-23-1",
+   "configuration_id": "CFG-EFR-22-004036-EXT-23-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "côté i -> o. Dans ces cas, -6 : 2014 des vitrages Contraflam Lite 60 et Contraflam 30-2 (VSGI) tels que décrits au paragraphe 1. du présent document, dans les c",
+   "texte_source": "côté i -> o. Dans ces cas, -6 : 2014 des vitrages Contraflam Lite 60 et Contraflam 30-2 (VSGI) tels que décrits au paragraphe 1. du présent document, dans les conditions énoncées au paragraphe 3 ci-dessous, est autorisée.",
+   "source_page_id": "SP-EFR-22-004036-EXT-23-1-P001"
+  },
+  {
+   "id": "RST-EFR-22-004036-EXT-23-1-0002",
+   "document_id": "DOC-EFR-22-004036-EXT-23-1",
+   "configuration_id": "CFG-EFR-22-004036-EXT-23-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le texte de",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-22-004036-EXT-23-1-P001"
+  },
+  {
+   "id": "RST-EFR-22-004162-0001",
+   "document_id": "DOC-EFR-22-004162",
+   "configuration_id": "CFG-EFR-22-004162-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu : indifférent La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 7 sur 23 EFR-22-004162 PROCES-VERBAL",
+   "texte_source": "Sens de feu : indifférent La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 7 sur 23 EFR-22-004162 PROCES-VERBAL",
+   "source_page_id": "SP-EFR-22-004162-P001"
+  },
+  {
+   "id": "RST-EFR-22-004162-0002",
+   "document_id": "DOC-EFR-22-004162",
+   "configuration_id": "CFG-EFR-22-004162-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-22-004162-P001"
+  },
+  {
+   "id": "RST-EFR-22-004162-0003",
+   "document_id": "DOC-EFR-22-004162",
+   "configuration_id": "CFG-EFR-22-004162-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Jeu entre vitrages : 4 ± 2 mm A noter : la réalisation d’une cloison à facettes n’est pas cumulable avec le paragraphe 3",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-22-004162-P001"
+  },
+  {
+   "id": "RST-EFR-22-004372-0001",
+   "document_id": "DOC-EFR-22-004372",
+   "configuration_id": "CFG-EFR-22-004372-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT",
+   "texte_source": "INDIFFERENT",
+   "source_page_id": "SP-EFR-22-004372-P001"
+  },
+  {
+   "id": "RST-EFR-22-004372-0002",
+   "document_id": "DOC-EFR-22-004372",
+   "configuration_id": "CFG-EFR-22-004372-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-22-004372-P001"
+  },
+  {
+   "id": "RST-EFR-22-004372-0003",
+   "document_id": "DOC-EFR-22-004372",
+   "configuration_id": "CFG-EFR-22-004372-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Montage sur allège non autorisé (selon texte)",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-22-004372-P001"
+  },
+  {
+   "id": "RST-EFR-22-005108-0001",
+   "document_id": "DOC-EFR-22-005108",
+   "configuration_id": "CFG-EFR-22-005108-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT",
+   "texte_source": "INDIFFERENT",
+   "source_page_id": "SP-EFR-22-005108-P001"
+  },
+  {
+   "id": "RST-EFR-22-005108-0002",
+   "document_id": "DOC-EFR-22-005108",
+   "configuration_id": "CFG-EFR-22-005108-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-22-005108-P001"
+  },
+  {
+   "id": "RST-EFR-22-005108-0003",
+   "document_id": "DOC-EFR-22-005108",
+   "configuration_id": "CFG-EFR-22-005108-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Montage sur allège non autorisé (selon texte)",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-22-005108-P001"
+  },
+  {
+   "id": "RST-EFR-23-000307-0001",
+   "document_id": "DOC-EFR-23-000307",
+   "configuration_id": "CFG-EFR-23-000307-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu : indifférent",
+   "texte_source": "Sens de feu : indifférent",
+   "source_page_id": "SP-EFR-23-000307-P001"
+  },
+  {
+   "id": "RST-EFR-23-000307-0002",
+   "document_id": "DOC-EFR-23-000307",
+   "configuration_id": "CFG-EFR-23-000307-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-23-000307-P001"
+  },
+  {
+   "id": "RST-EFR-23-000308-0001",
+   "document_id": "DOC-EFR-23-000308",
+   "configuration_id": "CFG-EFR-23-000308-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-23-000308-P001"
+  },
+  {
+   "id": "RST-EFR-23-000844-0001",
+   "document_id": "DOC-EFR-23-000844",
+   "configuration_id": "CFG-EFR-23-000844-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu : indifférent",
+   "texte_source": "Sens de feu : indifférent",
+   "source_page_id": "SP-EFR-23-000844-P001"
+  },
+  {
+   "id": "RST-EFR-23-000844-0002",
+   "document_id": "DOC-EFR-23-000844",
+   "configuration_id": "CFG-EFR-23-000844-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-23-000844-P001"
+  },
+  {
+   "id": "RST-EFR-23-000844-EXT-23-2-0001",
+   "document_id": "DOC-EFR-23-000844-EXT-23-2",
+   "configuration_id": "CFG-EFR-23-000844-EXT-23-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "indifférent : Largeur (mm) Hauteur (mm) Minimum illimitée Illimitée Maximum 2000 4000",
+   "texte_source": "indifférent : Largeur (mm) Hauteur (mm) Minimum illimitée Illimitée Maximum 2000 4000",
+   "source_page_id": "SP-EFR-23-000844-EXT-23-2-P001"
+  },
+  {
+   "id": "RST-EFR-23-000844-EXT-23-2-0002",
+   "document_id": "DOC-EFR-23-000844-EXT-23-2",
+   "configuration_id": "CFG-EFR-23-000844-EXT-23-2-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "60 (i <-> o) W 60 (i <-> o) Cette extension de classement n’est pas cumulable avec les extensions de classement précédemment émises sur le procès-verbal de référence",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-23-000844-EXT-23-2-P001"
+  },
+  {
+   "id": "RST-EFR-23-001317-0001",
+   "document_id": "DOC-EFR-23-001317",
+   "configuration_id": "CFG-EFR-23-001317-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu : indifférent",
+   "texte_source": "Sens de feu : indifférent",
+   "source_page_id": "SP-EFR-23-001317-P001"
+  },
+  {
+   "id": "RST-EFR-23-001317-0002",
+   "document_id": "DOC-EFR-23-001317",
+   "configuration_id": "CFG-EFR-23-001317-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-23-001317-P001"
+  },
+  {
+   "id": "RST-EFR-23-001318-0001",
+   "document_id": "DOC-EFR-23-001318",
+   "configuration_id": "CFG-EFR-23-001318-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu : indifférent. La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 7 sur 34 EFR-23-001318 PROCES-VERBAL",
+   "texte_source": "Sens de feu : indifférent. La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 7 sur 34 EFR-23-001318 PROCES-VERBAL",
+   "source_page_id": "SP-EFR-23-001318-P001"
+  },
+  {
+   "id": "RST-EFR-23-001318-0002",
+   "document_id": "DOC-EFR-23-001318",
+   "configuration_id": "CFG-EFR-23-001318-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-23-001318-P001"
+  },
+  {
+   "id": "RST-EFR-23-001319-0001",
+   "document_id": "DOC-EFR-23-001319",
+   "configuration_id": "CFG-EFR-23-001319-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "de ces derniers est indiqué en planches n°23 et 24. Chaque vantail peut être équipé du ferme porte encastré de référence DC 860 (ASSA ABLOY). Le bras à glissièr",
+   "texte_source": "de ces derniers est indiqué en planches n°23 et 24. Chaque vantail peut être équipé du ferme porte encastré de référence DC 860 (ASSA ABLOY). Le bras à glissière se trouve dans le dormant et le corps se trouve uniquement dans le vantail. Chaque vantail peut être équipé du ferme-porte invisible de référence ITS96 (DORMA) ou DC850 (ASSA ABLOY) ou BOXER (GEZE). Voir planche n°25.",
+   "source_page_id": "SP-EFR-23-001319-P001"
+  },
+  {
+   "id": "RST-EFR-23-001319-0002",
+   "document_id": "DOC-EFR-23-001319",
+   "configuration_id": "CFG-EFR-23-001319-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-23-001319-P001"
+  },
+  {
+   "id": "RST-EFR-23-001319-0003",
+   "document_id": "DOC-EFR-23-001319",
+   "configuration_id": "CFG-EFR-23-001319-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Montage sur allège non autorisé (selon texte)",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-23-001319-P001"
+  },
+  {
+   "id": "RST-EFR-24-000551-0001",
+   "document_id": "DOC-EFR-24-000551",
+   "configuration_id": "CFG-EFR-24-000551-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu : indifférent",
+   "texte_source": "Sens de feu : indifférent",
+   "source_page_id": "SP-EFR-24-000551-P001"
+  },
+  {
+   "id": "RST-EFR-24-000551-0002",
+   "document_id": "DOC-EFR-24-000551",
+   "configuration_id": "CFG-EFR-24-000551-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-24-000551-P001"
+  },
+  {
+   "id": "RST-EFR-24-000552-0001",
+   "document_id": "DOC-EFR-24-000552",
+   "configuration_id": "CFG-EFR-24-000552-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu : indifférent La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 6 sur 33 EFR-24-000552 PROCES-VERBAL",
+   "texte_source": "Sens de feu : indifférent La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 6 sur 33 EFR-24-000552 PROCES-VERBAL",
+   "source_page_id": "SP-EFR-24-000552-P001"
+  },
+  {
+   "id": "RST-EFR-24-000552-0002",
+   "document_id": "DOC-EFR-24-000552",
+   "configuration_id": "CFG-EFR-24-000552-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-24-000552-P001"
+  },
+  {
+   "id": "RST-EFR-24-000797-0001",
+   "document_id": "DOC-EFR-24-000797",
+   "configuration_id": "CFG-EFR-24-000797-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Indifférent pour le bloc-porte. Indifférent pour les vitrages PYROGUARD T-EW 90/13-1 (PYROGUARD). Côté feuilleté pour les vitrages PYROGUARD T-EW 90/13-1 VF (PY",
+   "texte_source": "Indifférent pour le bloc-porte. Indifférent pour les vitrages PYROGUARD T-EW 90/13-1 (PYROGUARD). Côté feuilleté pour les vitrages PYROGUARD T-EW 90/13-1 VF (PYROGUARD). Côté contreface pour les vitrages PYROGUARD T-EW 90/13-1 VI (PYROGUARD).",
+   "source_page_id": "SP-EFR-24-000797-P001"
+  },
+  {
+   "id": "RST-EFR-24-000797-0002",
+   "document_id": "DOC-EFR-24-000797",
+   "configuration_id": "CFG-EFR-24-000797-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-24-000797-P001"
+  },
+  {
+   "id": "RST-EFR-24-000797-0003",
+   "document_id": "DOC-EFR-24-000797",
+   "configuration_id": "CFG-EFR-24-000797-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Montage sur allège non autorisé (selon texte)",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-24-000797-P001"
+  },
+  {
+   "id": "RST-EFR-24-000803-0001",
+   "document_id": "DOC-EFR-24-000803",
+   "configuration_id": "CFG-EFR-24-000803-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT hormis pour les parcloses 901245 (FORSTER) associées aux ressorts 906421 (FORSTER) qui doivent obligatoirement être montés côté opposé au feu",
+   "texte_source": "INDIFFERENT hormis pour les parcloses 901245 (FORSTER) associées aux ressorts 906421 (FORSTER) qui doivent obligatoirement être montés côté opposé au feu",
+   "source_page_id": "SP-EFR-24-000803-P001"
+  },
+  {
+   "id": "RST-EFR-24-000803-0002",
+   "document_id": "DOC-EFR-24-000803",
+   "configuration_id": "CFG-EFR-24-000803-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-24-000803-P001"
+  },
+  {
+   "id": "RST-EFR-24-000803-0003",
+   "document_id": "DOC-EFR-24-000803",
+   "configuration_id": "CFG-EFR-24-000803-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Montage sur allège non autorisé (selon texte)",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-24-000803-P001"
+  },
+  {
+   "id": "RST-EFR-24-000806-0001",
+   "document_id": "DOC-EFR-24-000806",
+   "configuration_id": "CFG-EFR-24-000806-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT",
+   "texte_source": "INDIFFERENT",
+   "source_page_id": "SP-EFR-24-000806-P001"
+  },
+  {
+   "id": "RST-EFR-24-000806-0002",
+   "document_id": "DOC-EFR-24-000806",
+   "configuration_id": "CFG-EFR-24-000806-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-24-000806-P001"
+  },
+  {
+   "id": "RST-EFR-24-000806-0003",
+   "document_id": "DOC-EFR-24-000806",
+   "configuration_id": "CFG-EFR-24-000806-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "EFR-24-000806 PROCES-VERBAL A noter : la réalisation d’une jonction à 90° n’est pas cumulable avec le montage de la cloison vitrée sur allège et/ou sous imposte en cloison légère décrit au paragraphe ",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-24-000806-P001"
+  },
+  {
+   "id": "RST-EFR-24-001040-0001",
+   "document_id": "DOC-EFR-24-001040",
+   "configuration_id": "CFG-EFR-24-001040-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu : indifférent La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 6 sur 20 EFR-24-001040 PROCES-VERBAL",
+   "texte_source": "Sens de feu : indifférent La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 6 sur 20 EFR-24-001040 PROCES-VERBAL",
+   "source_page_id": "SP-EFR-24-001040-P001"
+  },
+  {
+   "id": "RST-EFR-24-001040-0002",
+   "document_id": "DOC-EFR-24-001040",
+   "configuration_id": "CFG-EFR-24-001040-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-24-001040-P001"
+  },
+  {
+   "id": "RST-EFR-24-002608-0001",
+   "document_id": "DOC-EFR-24-002608",
+   "configuration_id": "CFG-EFR-24-002608-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu : indifférent.",
+   "texte_source": "Sens de feu : indifférent.",
+   "source_page_id": "SP-EFR-24-002608-P001"
+  },
+  {
+   "id": "RST-EFR-24-002608-0002",
+   "document_id": "DOC-EFR-24-002608",
+   "configuration_id": "CFG-EFR-24-002608-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-24-002608-P001"
+  },
+  {
+   "id": "RST-EFR-24-002609-0001",
+   "document_id": "DOC-EFR-24-002609",
+   "configuration_id": "CFG-EFR-24-002609-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-24-002609-P001"
+  },
+  {
+   "id": "RST-EFR-24-002618-0001",
+   "document_id": "DOC-EFR-24-002618",
+   "configuration_id": "CFG-EFR-24-002618-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu : indifférent.",
+   "texte_source": "Sens de feu : indifférent.",
+   "source_page_id": "SP-EFR-24-002618-P001"
+  },
+  {
+   "id": "RST-EFR-24-002618-0002",
+   "document_id": "DOC-EFR-24-002618",
+   "configuration_id": "CFG-EFR-24-002618-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-24-002618-P001"
+  },
+  {
+   "id": "RST-EFR-24-002618-EXT-25-1-0001",
+   "document_id": "DOC-EFR-24-002618-EXT-25-1",
+   "configuration_id": "CFG-EFR-24-002618-EXT-25-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-24-002618-EXT-25-1-P001"
+  },
+  {
+   "id": "RST-EFR-24-002619-0001",
+   "document_id": "DOC-EFR-24-002619",
+   "configuration_id": "CFG-EFR-24-002619-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "est limité à un feu côté opposé à ces renforts uniquement.",
+   "texte_source": "est limité à un feu côté opposé à ces renforts uniquement.",
+   "source_page_id": "SP-EFR-24-002619-P001"
+  },
+  {
+   "id": "RST-EFR-24-002619-0002",
+   "document_id": "DOC-EFR-24-002619",
+   "configuration_id": "CFG-EFR-24-002619-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-24-002619-P001"
+  },
+  {
+   "id": "RST-EFR-24-002619-0003",
+   "document_id": "DOC-EFR-24-002619",
+   "configuration_id": "CFG-EFR-24-002619-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Montage sur allège non autorisé (selon texte)",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-24-002619-P001"
+  },
+  {
+   "id": "RST-EFR-24-002619-EXT-25-1-0001",
+   "document_id": "DOC-EFR-24-002619-EXT-25-1",
+   "configuration_id": "CFG-EFR-24-002619-EXT-25-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-24-002619-EXT-25-1-P001"
+  },
+  {
+   "id": "RST-EFR-24-002619-EXT-25-1-3-0001",
+   "document_id": "DOC-EFR-24-002619-EXT-25-1-3",
+   "configuration_id": "CFG-EFR-24-002619-EXT-25-1-3-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-24-002619-EXT-25-1-3-P001"
+  },
+  {
+   "id": "RST-EFR-25-000242-0001",
+   "document_id": "DOC-EFR-25-000242",
+   "configuration_id": "CFG-EFR-25-000242-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu indifférent.",
+   "texte_source": "Sens de feu indifférent.",
+   "source_page_id": "SP-EFR-25-000242-P001"
+  },
+  {
+   "id": "RST-EFR-25-000242-0002",
+   "document_id": "DOC-EFR-25-000242",
+   "configuration_id": "CFG-EFR-25-000242-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-25-000242-P001"
+  },
+  {
+   "id": "RST-EFR-25-000243-0001",
+   "document_id": "DOC-EFR-25-000243",
+   "configuration_id": "CFG-EFR-25-000243-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu indifférent.",
+   "texte_source": "Sens de feu indifférent.",
+   "source_page_id": "SP-EFR-25-000243-P001"
+  },
+  {
+   "id": "RST-EFR-25-000243-0002",
+   "document_id": "DOC-EFR-25-000243",
+   "configuration_id": "CFG-EFR-25-000243-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-25-000243-P001"
+  },
+  {
+   "id": "RST-EFR-25-001248-0001",
+   "document_id": "DOC-EFR-25-001248",
+   "configuration_id": "CFG-EFR-25-001248-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": ", de référence TS 93 EN 5-7 (DORMA) ; - d’un ferme porte en applique, pouvant être mis en œuvre dans les deux sens de feu, de référence TS 98 XEA (DORMA) ; - d’",
+   "texte_source": ", de référence TS 93 EN 5-7 (DORMA) ; - d’un ferme porte en applique, pouvant être mis en œuvre dans les deux sens de feu, de référence TS 98 XEA (DORMA) ; - d’un ferme porte en applique sur le vantail côté ouverture, pouvant être mis en œuvre dans les deux sens de feu, de référence TS 61 EN 5-6, ou TS 61 EN 2-5 ou TS 61 EN 3-6 (ECO SCHULTE).",
+   "source_page_id": "SP-EFR-25-001248-P001"
+  },
+  {
+   "id": "RST-EFR-25-001248-0002",
+   "document_id": "DOC-EFR-25-001248",
+   "configuration_id": "CFG-EFR-25-001248-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-25-001248-P001"
+  },
+  {
+   "id": "RST-EFR-25-001248-0003",
+   "document_id": "DOC-EFR-25-001248",
+   "configuration_id": "CFG-EFR-25-001248-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Montage sur allège non autorisé (selon texte)",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-25-001248-P001"
+  },
+  {
+   "id": "RST-EFR-25-002146-0001",
+   "document_id": "DOC-EFR-25-002146",
+   "configuration_id": "CFG-EFR-25-002146-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT La reproduction de ce document n’est autorisée que sous sa forme intégrale. Page 5 sur 18 EFR-25-002146 PROCES-VERBAL",
+   "texte_source": "INDIFFERENT La reproduction de ce document n’est autorisée que sous sa forme intégrale. Page 5 sur 18 EFR-25-002146 PROCES-VERBAL",
+   "source_page_id": "SP-EFR-25-002146-P001"
+  },
+  {
+   "id": "RST-EFR-25-002146-0002",
+   "document_id": "DOC-EFR-25-002146",
+   "configuration_id": "CFG-EFR-25-002146-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-25-002146-P001"
+  },
+  {
+   "id": "RST-EFR-25-002146-0003",
+   "document_id": "DOC-EFR-25-002146",
+   "configuration_id": "CFG-EFR-25-002146-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Montage sur allège non autorisé (selon texte)",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-25-002146-P001"
+  },
+  {
+   "id": "RST-EFR-25-002147-0001",
+   "document_id": "DOC-EFR-25-002147",
+   "configuration_id": "CFG-EFR-25-002147-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "INDIFFERENT",
+   "texte_source": "INDIFFERENT",
+   "source_page_id": "SP-EFR-25-002147-P001"
+  },
+  {
+   "id": "RST-EFR-25-002147-0002",
+   "document_id": "DOC-EFR-25-002147",
+   "configuration_id": "CFG-EFR-25-002147-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-25-002147-P001"
+  },
+  {
+   "id": "RST-EFR-25-003456-0001",
+   "document_id": "DOC-EFR-25-003456",
+   "configuration_id": "CFG-EFR-25-003456-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu : indifférent sauf conditions énoncées au §3.3.5.3. et 3.3.7.3. La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 11 s",
+   "texte_source": "Sens de feu : indifférent sauf conditions énoncées au §3.3.5.3. et 3.3.7.3. La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 11 sur 78 EFR-25-003456 PROCES-VERBAL",
+   "source_page_id": "SP-EFR-25-003456-P001"
+  },
+  {
+   "id": "RST-EFR-25-003456-0002",
+   "document_id": "DOC-EFR-25-003456",
+   "configuration_id": "CFG-EFR-25-003456-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-25-003456-P001"
+  },
+  {
+   "id": "RST-EFR-25-003456-0003",
+   "document_id": "DOC-EFR-25-003456",
+   "configuration_id": "CFG-EFR-25-003456-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Montage sur allège non autorisé (selon texte)",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-25-003456-P001"
+  },
+  {
+   "id": "RST-EFR-25-003458-0001",
+   "document_id": "DOC-EFR-25-003458",
+   "configuration_id": "CFG-EFR-25-003458-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu indifférent. La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 8 sur 44 EFR-25-003458 PROCES-VERBAL",
+   "texte_source": "Sens de feu indifférent. La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 8 sur 44 EFR-25-003458 PROCES-VERBAL",
+   "source_page_id": "SP-EFR-25-003458-P001"
+  },
+  {
+   "id": "RST-EFR-25-003458-0002",
+   "document_id": "DOC-EFR-25-003458",
+   "configuration_id": "CFG-EFR-25-003458-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-25-003458-P001"
+  },
+  {
+   "id": "RST-EFR-25-003460-0001",
+   "document_id": "DOC-EFR-25-003460",
+   "configuration_id": "CFG-EFR-25-003460-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu indifférent. La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 8 sur 44 EFR-25-003460 PROCES-VERBAL",
+   "texte_source": "Sens de feu indifférent. La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 8 sur 44 EFR-25-003460 PROCES-VERBAL",
+   "source_page_id": "SP-EFR-25-003460-P001"
+  },
+  {
+   "id": "RST-EFR-25-003460-0002",
+   "document_id": "DOC-EFR-25-003460",
+   "configuration_id": "CFG-EFR-25-003460-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-25-003460-P001"
+  },
+  {
+   "id": "RST-EFR-25-003461-0001",
+   "document_id": "DOC-EFR-25-003461",
+   "configuration_id": "CFG-EFR-25-003461-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu : indifférent sauf conditions énoncées au §3.3.5.3. et 3.2.7.3 La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 11 su",
+   "texte_source": "Sens de feu : indifférent sauf conditions énoncées au §3.3.5.3. et 3.2.7.3 La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 11 sur 92 EFR-25-003461 PROCES-VERBAL",
+   "source_page_id": "SP-EFR-25-003461-P001"
+  },
+  {
+   "id": "RST-EFR-25-003461-0002",
+   "document_id": "DOC-EFR-25-003461",
+   "configuration_id": "CFG-EFR-25-003461-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-25-003461-P001"
+  },
+  {
+   "id": "RST-EFR-25-003461-0003",
+   "document_id": "DOC-EFR-25-003461",
+   "configuration_id": "CFG-EFR-25-003461-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Montage sur allège non autorisé (selon texte)",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-25-003461-P001"
+  },
+  {
+   "id": "RST-EFR-25-003729-0001",
+   "document_id": "DOC-EFR-25-003729",
+   "configuration_id": "CFG-EFR-25-003729-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu : indifférent sauf conditions énoncées au paragraphe suivant pour le vitrage.",
+   "texte_source": "Sens de feu : indifférent sauf conditions énoncées au paragraphe suivant pour le vitrage.",
+   "source_page_id": "SP-EFR-25-003729-P001"
+  },
+  {
+   "id": "RST-EFR-25-003729-0002",
+   "document_id": "DOC-EFR-25-003729",
+   "configuration_id": "CFG-EFR-25-003729-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-25-003729-P001"
+  },
+  {
+   "id": "RST-EFR-25-005120-0001",
+   "document_id": "DOC-EFR-25-005120",
+   "configuration_id": "CFG-EFR-25-005120-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu indifférent. La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 5 sur 16 EFR-25-005120 PROCES-VERBAL",
+   "texte_source": "Sens de feu indifférent. La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 5 sur 16 EFR-25-005120 PROCES-VERBAL",
+   "source_page_id": "SP-EFR-25-005120-P001"
+  },
+  {
+   "id": "RST-EFR-25-005120-0002",
+   "document_id": "DOC-EFR-25-005120",
+   "configuration_id": "CFG-EFR-25-005120-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-25-005120-P001"
+  },
+  {
+   "id": "RST-EFR-25-005120-EXT-26-1-0001",
+   "document_id": "DOC-EFR-25-005120-EXT-26-1",
+   "configuration_id": "CFG-EFR-25-005120-EXT-26-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "ainsi que les dimensions hors tout maximales autorisées pour les vitrages PYROBEL-T EW30-16 (AGC) sont identiques à ceux des vitrages des procès-verbaux de réfé",
+   "texte_source": "ainsi que les dimensions hors tout maximales autorisées pour les vitrages PYROBEL-T EW30-16 (AGC) sont identiques à ceux des vitrages des procès-verbaux de référence qu’ils remplacent. Toutes les autres conditions des procès-verbaux de référence devront être respectées.",
+   "source_page_id": "SP-EFR-25-005120-EXT-26-1-P001"
+  },
+  {
+   "id": "RST-EFR-25-005120-EXT-26-1-0002",
+   "document_id": "DOC-EFR-25-005120-EXT-26-1",
+   "configuration_id": "CFG-EFR-25-005120-EXT-26-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-25-005120-EXT-26-1-P001"
+  },
+  {
+   "id": "RST-EFR-25-005121-0001",
+   "document_id": "DOC-EFR-25-005121",
+   "configuration_id": "CFG-EFR-25-005121-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu indifférent.",
+   "texte_source": "Sens de feu indifférent.",
+   "source_page_id": "SP-EFR-25-005121-P001"
+  },
+  {
+   "id": "RST-EFR-25-005121-0002",
+   "document_id": "DOC-EFR-25-005121",
+   "configuration_id": "CFG-EFR-25-005121-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-25-005121-P001"
+  },
+  {
+   "id": "RST-EFR-25-005121-EXT-26-1-0001",
+   "document_id": "DOC-EFR-25-005121-EXT-26-1",
+   "configuration_id": "CFG-EFR-25-005121-EXT-26-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-25-005121-EXT-26-1-P001"
+  },
+  {
+   "id": "RST-EFR-25-005538-0001",
+   "document_id": "DOC-EFR-25-005538",
+   "configuration_id": "CFG-EFR-25-005538-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu : indifférent sauf conditions énoncées au §3.3.5.3.2 et 3.3.7.3.3.",
+   "texte_source": "Sens de feu : indifférent sauf conditions énoncées au §3.3.5.3.2 et 3.3.7.3.3.",
+   "source_page_id": "SP-EFR-25-005538-P001"
+  },
+  {
+   "id": "RST-EFR-25-005538-0002",
+   "document_id": "DOC-EFR-25-005538",
+   "configuration_id": "CFG-EFR-25-005538-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-25-005538-P001"
+  },
+  {
+   "id": "RST-EFR-25-005538-EXT-26-1-0001",
+   "document_id": "DOC-EFR-25-005538-EXT-26-1",
+   "configuration_id": "CFG-EFR-25-005538-EXT-26-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-25-005538-EXT-26-1-P001"
+  },
+  {
+   "id": "RST-EFR-25-005540-0001",
+   "document_id": "DOC-EFR-25-005540",
+   "configuration_id": "CFG-EFR-25-005540-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu : indifférent sauf conditions énoncées au §3.3.5.3.2 et 3.3.7.3.3. La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 7",
+   "texte_source": "Sens de feu : indifférent sauf conditions énoncées au §3.3.5.3.2 et 3.3.7.3.3. La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 7 sur 33 EFR-25-005540 PROCES-VERBAL",
+   "source_page_id": "SP-EFR-25-005540-P001"
+  },
+  {
+   "id": "RST-EFR-25-005540-0002",
+   "document_id": "DOC-EFR-25-005540",
+   "configuration_id": "CFG-EFR-25-005540-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-25-005540-P001"
+  },
+  {
+   "id": "RST-EFR-25-005540-EXT-26-1-0001",
+   "document_id": "DOC-EFR-25-005540-EXT-26-1",
+   "configuration_id": "CFG-EFR-25-005540-EXT-26-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "ainsi que les dimensions hors tout maximales autorisées pour les vitrages PYROBEL-T EW30-16 (AGC) sont identiques à ceux des vitrages des procès-verbaux de réfé",
+   "texte_source": "ainsi que les dimensions hors tout maximales autorisées pour les vitrages PYROBEL-T EW30-16 (AGC) sont identiques à ceux des vitrages des procès-verbaux de référence qu’ils remplacent. Toutes les autres conditions des procès-verbaux de référence devront être respectées.",
+   "source_page_id": "SP-EFR-25-005540-EXT-26-1-P001"
+  },
+  {
+   "id": "RST-EFR-25-005540-EXT-26-1-0002",
+   "document_id": "DOC-EFR-25-005540-EXT-26-1",
+   "configuration_id": "CFG-EFR-25-005540-EXT-26-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-25-005540-EXT-26-1-P001"
   }
  ]
 }

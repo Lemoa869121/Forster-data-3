@@ -3,3 +3,4 @@ __pycache__/
 raw/
 *.pdf
 .DS_Store
+ocr_txt/

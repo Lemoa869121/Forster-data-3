@@ -27,4 +27,4 @@
 | 9 | Clôture des `controle_humain` | Q15 |
 
 ## État actuel
-32 points ouverts sur les 6 fichiers : liste générée dans [`13b_CONTROLES_OUVERTS.md`](13b_CONTROLES_OUVERTS.md).
+450 points ouverts sur les 126 fichiers (dont un contrôle `extraction_auto` par document extrait automatiquement) : liste générée dans [`13b_CONTROLES_OUVERTS.md`](13b_CONTROLES_OUVERTS.md).

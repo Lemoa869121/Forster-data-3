@@ -8,7 +8,7 @@ Toutes les occurrences d'une référence (exacte ou partielle, normalisée ou al
 
 - **Paramètres (interface)** : `{":ref": "907724"}`
 - **Tables / vues** : `configuration`, `document`, `document_composant`, `organisme`, `q`, `reference_alias`, `reference_composant`, `source_page`, `v_document_rattachement`, `v_validite_effective`
-- **Résultat sur le corpus** : 2 ligne(s)
+- **Résultat sur le corpus** : 25 ligne(s)
 
 ```sql
 WITH q AS (SELECT upper(replace(replace(:ref,' ',''),'.','')) AS r)
@@ -36,42 +36,42 @@ Exemple de résultat :
 ```json
 [
  {
-  "document": "11-A-507",
-  "type_code": "pv_classement",
-  "pv_principal": "11-A-507",
-  "date_validite_effective": "2027-04-12",
+  "document": "11-A-572/EXT-23/3",
+  "type_code": "extension",
+  "pv_principal": "08-A-381",
+  "date_validite_effective": null,
   "reference_brute": "907724",
   "reference_normalisee": "907724",
   "fabricant": "FORSTER PROFILSYSTEME AG",
-  "categorie_code": "kit_serrure",
+  "categorie_code": "cremone",
   "role_code": "condamnation",
-  "localisation_code": "vantail",
+  "localisation_code": null,
   "statut_autorisation_code": "autorise",
-  "designation_document": "Serrure 1 point classique (béquille et/ou push-bar) — fonction E avec AP, DIN G",
-  "configuration": "Bloc-porte 1 vantail",
-  "page_doc": 42,
+  "designation_document": "(907720-907721) crémone à E 907 522 907 570-207 574 Standard - Support gâche _ | 907752 (907724-907725) levier D 907 524 électrique B 907 520 907 728 - 907 729 2vtxavec AP | _W - sur SF",
+  "configuration": "Mise en œuvre d’accessoires.",
+  "page_doc": 7,
   "section": null,
-  "planche": "Planche 30",
-  "statut_extraction": "extrait"
+  "planche": "Planche 1",
+  "statut_extraction": "a_verifier"
  },
  {
-  "document": "11-A-507",
+  "document": "09-A-497",
   "type_code": "pv_classement",
-  "pv_principal": "11-A-507",
-  "date_validite_effective": "2027-04-12",
+  "pv_principal": "09-A-497",
+  "date_validite_effective": "2025-06-08",
   "reference_brute": "907724",
   "reference_normalisee": "907724",
   "fabricant": "FORSTER PROFILSYSTEME AG",
-  "categorie_code": "kit_serrure",
+  "categorie_code": "gache",
   "role_code": "condamnation",
-  "localisation_code": "vantail_principal",
+  "localisation_code": null,
   "statut_autorisation_code": "autorise",
-  "designation_document": "Serrure 1 point classique (béquille et/ou push-bar) — fonction E avec AP, DIN G",
-  "configuration": "Bloc-porte 2 vantaux égaux ou inégaux",
-  "page_doc": 45,
+  "designation_document": "nt du VANTAIL DE SERVICE KIT COFFRE GACHE FONCTION DIN 907720 907220 907001 W s AP G na 907724 907224 907001 E à AP G L 907728 907228 207001 B a AP G ne 907403 907001 D a AP G 907721 9",
+  "configuration": "porte + fenetre PRESTO E30",
+  "page_doc": 36,
   "section": null,
-  "planche": "Planche 33",
-  "statut_extraction": "extrait"
+  "planche": "Planche 26",
+  "statut_extraction": "a_verifier"
  }
 ]
 ```
@@ -153,7 +153,7 @@ Documents (PV + extensions) concernant un système Forster, avec classements et 
 
 - **Paramètres (interface)** : `{":systeme": "FUEGO LIGHT 30"}`
 - **Tables / vues** : `document`, `document_systeme`, `performance`, `systeme`, `v_validite_effective`
-- **Résultat sur le corpus** : 3 ligne(s)
+- **Résultat sur le corpus** : 41 ligne(s)
 
 ```sql
 SELECT s.nom AS systeme, ds.role, d.numero_normalise, d.type_code, d.objet,
@@ -173,23 +173,23 @@ Exemple de résultat :
 [
  {
   "systeme": "Fuego Light 30",
-  "role": "integration",
-  "numero_normalise": "11-A-507",
+  "role": "principal",
+  "numero_normalise": "12-A-080",
   "type_code": "pv_classement",
-  "objet": "Bloc-porte à un ou deux vantaux, égaux ou inégaux, à ossature métallique — profils acier Presto 50 ; vitrages PYROSWISS, PYROSWISS STADIP, PYROSWISS CLIMAPLUS",
-  "classements": "E 30",
-  "date_validite_effective": "2027-04-12",
-  "derniere_reconduction": "11-A-507/REC-22/2"
+  "objet": "Une gamme de blocs-portes à un ou deux vantaux à ossature métallique",
+  "classements": "EW 30,E 30,EI 30",
+  "date_validite_effective": "2027-07-10",
+  "derniere_reconduction": "12-A-080/REC-22/2"
  },
  {
   "systeme": "Fuego Light 30",
   "role": "principal",
-  "numero_normalise": "EFR-21-002687",
+  "numero_normalise": "08-A-342",
   "type_code": "pv_classement",
-  "objet": "Cloison à ossature thermiquement isolée avec vitrages collés bord à bord à joints verticaux — Fuego Light 30 ; vitrages CONTRAFLAM STRUCTURE 30",
-  "classements": "EI 30,EW 30,E 30",
-  "date_validite_effective": "2027-07-07",
-  "derniere_reconduction": null
+  "objet": "Une cloison vitrée à ossature métallique thermiquement isolée.",
+  "classements": "EW 30,E 30,EI 30",
+  "date_validite_effective": "2029-02-16",
+  "derniere_reconduction": "08-A-342/REC-24/3"
  }
 ]
 ```
@@ -200,7 +200,7 @@ Configurations classées au moins à une durée donnée pour une combinaison de 
 
 - **Paramètres (interface)** : `{":duree_min": 60, ":exige_i": 1, ":exige_w": 0, ":typologie": null}`
 - **Tables / vues** : `v_classement_feu`, `v_document_rattachement`, `v_validite_effective`
-- **Résultat sur le corpus** : 2 ligne(s)
+- **Résultat sur le corpus** : 41 ligne(s)
 
 ```sql
 SELECT v.numero_normalise AS document, v.configuration, v.typologie_code, v.systeme, v.classe_normalisee,
@@ -220,28 +220,28 @@ Exemple de résultat :
 ```json
 [
  {
-  "document": "08-A-275",
-  "configuration": "Cloison vitrée Fuego Light 60",
+  "document": "13-A-1050",
+  "configuration": "cloison FUEGO light EI120",
   "typologie_code": "cloison_vitree",
-  "systeme": "Fuego Light 60",
-  "classe_normalisee": "EI 60",
-  "duree_min": 60,
-  "condition_texte": null,
-  "page_doc": 7,
-  "section": "§3.2",
-  "date_validite_effective": "2029-02-16"
+  "systeme": "Fuego Light (série non précisée)",
+  "classe_normalisee": "EI 120",
+  "duree_min": 120,
+  "condition_texte": "Classe annoncée par le nom de fichier, non lue dans le tableau OCR",
+  "page_doc": 1,
+  "section": null,
+  "date_validite_effective": "2029-01-22"
  },
  {
-  "document": "13-A-704",
-  "configuration": "Façade vitrée Thermfix Vario (séries 45 et 60)",
-  "typologie_code": "facade_vitree",
-  "systeme": "Thermfix Vario",
-  "classe_normalisee": "EI 60",
-  "duree_min": 60,
-  "condition_texte": null,
-  "page_doc": 6,
-  "section": "§4.2",
-  "date_validite_effective": "2028-12-03"
+  "document": "EFR-16-V-004086",
+  "configuration": "cloison FUEGO light EI120",
+  "typologie_code": "cloison_vitree",
+  "systeme": "Fuego Light (série non précisée)",
+  "classe_normalisee": "EI 120",
+  "duree_min": 120,
+  "condition_texte": "Classe annoncée par le nom de fichier, non lue dans le tableau OCR",
+  "page_doc": 1,
+  "section": null,
+  "date_validite_effective": "2027-01-30"
  }
 ]
 ```
@@ -418,7 +418,7 @@ Extensions, reconductions, remplacements et règles de cumul autour d'un PV prin
 
 - **Paramètres (interface)** : `{":pv": "11-A-507"}`
 - **Tables / vues** : `document`, `document_relation`
-- **Résultat sur le corpus** : 17 ligne(s)
+- **Résultat sur le corpus** : 29 ligne(s)
 
 ```sql
 SELECT pv.numero_normalise AS pv, dr.type_relation_code, src.numero_normalise AS document_source, src.type_code AS type_source,
@@ -615,7 +615,7 @@ PV principaux valides à une date (dernière reconduction présente dans le corp
 
 - **Paramètres (interface)** : `{":date": "2026-11-10"}`
 - **Tables / vues** : `document`, `v_validite_effective`
-- **Résultat sur le corpus** : 6 ligne(s)
+- **Résultat sur le corpus** : 107 ligne(s)
 
 ```sql
 SELECT ve.numero_normalise, ve.date_validite_initiale, ve.date_validite_effective, ve.derniere_reconduction, d.objet
@@ -629,18 +629,18 @@ Exemple de résultat :
 ```json
 [
  {
-  "numero_normalise": "11-A-507",
-  "date_validite_initiale": "2017-04-12",
-  "date_validite_effective": "2027-04-12",
-  "derniere_reconduction": "11-A-507/REC-22/2",
-  "objet": "Bloc-porte à un ou deux vantaux, égaux ou inégaux, à ossature métallique — profils acier Presto 50 ; vitrages PYROSWISS, PYROSWISS STADIP, PYROSWISS CLIMAPLUS"
+  "numero_normalise": "11-A-505",
+  "date_validite_initiale": "2017-01-12",
+  "date_validite_effective": "2027-01-12",
+  "derniere_reconduction": "11-A-505/REC-22/2",
+  "objet": "Un bloc-porte à deux vantaux, égaux ou inégaux, à ossature métallique."
  },
  {
-  "numero_normalise": "EFR-21-002687",
-  "date_validite_initiale": "2027-07-07",
-  "date_validite_effective": "2027-07-07",
-  "derniere_reconduction": null,
-  "objet": "Cloison à ossature thermiquement isolée avec vitrages collés bord à bord à joints verticaux — Fuego Light 30 ; vitrages CONTRAFLAM STRUCTURE 30"
+  "numero_normalise": "11-A-504",
+  "date_validite_initiale": "2017-01-16",
+  "date_validite_effective": "2027-01-16",
+  "derniere_reconduction": "11-A-504/REC-22/2",
+  "objet": "Une cloison vitrée ou un châssis vitré à ossature métallique"
  }
 ]
 ```
@@ -651,7 +651,7 @@ Recherche libre insensible à la casse/aux accents (mots normalisés côté appl
 
 - **Paramètres (interface)** : `{":texte": "antipanique"}`
 - **Tables / vues** : `document`, `recherche_index`
-- **Résultat sur le corpus** : 21 ligne(s)
+- **Résultat sur le corpus** : 174 ligne(s)
 
 ```sql
 SELECT ri.objet_type, ri.objet_id, d.numero_normalise, substr(ri.texte, 1, 160) AS extrait
@@ -666,15 +666,15 @@ Exemple de résultat :
 [
  {
   "objet_type": "document_composant",
-  "objet_id": "DC-11-A-507-0103",
-  "numero_normalise": "11-A-507",
-  "extrait": "  cremone encastree a levier avec tetiere 1 point (haut), sans antipanique serrure  (pl. 34, 36)"
+  "objet_id": "DC-08-A-287-EXT-23-5-0042",
+  "numero_normalise": "08-A-287/EXT-23/5",
+  "extrait": "907 566 907566 plet a anti-pani 7 cremone sf nti-panique 207 565 point haut + point bas controle d'acces 907 566 anti-panique 947 713 kit complet la reproductio"
  },
  {
   "objet_type": "document_composant",
-  "objet_id": "DC-11-A-507-0104",
-  "numero_normalise": "11-A-507",
-  "extrait": "  cremone encastree a levier avec tetiere 2 points (haut et bas), sans antipanique serrure  (pl. 34, 37)"
+  "objet_id": "DC-08-A-287-EXT-23-5-0043",
+  "numero_normalise": "08-A-287/EXT-23/5",
+  "extrait": "947 713 947713 emone sf nti-panique 207 565 point haut + point bas controle d'acces 907 566 anti-panique 947 713 kit complet la reproduction de ce document n'es"
  }
 ]
 ```
@@ -685,7 +685,7 @@ Fiche d'une référence : données document et données d'enrichissement, jamais
 
 - **Paramètres (interface)** : `{":ref": "HZ43F"}`
 - **Tables / vues** : `document`, `document_composant`, `reference_composant`, `v_reference_fiche`
-- **Résultat sur le corpus** : 5 ligne(s)
+- **Résultat sur le corpus** : 7 ligne(s)
 
 ```sql
 SELECT * FROM v_reference_fiche WHERE reference_normalisee = upper(replace(replace(:ref,' ',''),'.',''))
@@ -726,7 +726,7 @@ Points de contrôle humain ouverts par document
 
 - **Paramètres (interface)** : `{":type": null}`
 - **Tables / vues** : `controle_humain`, `document`, `source_page`
-- **Résultat sur le corpus** : 32 ligne(s)
+- **Résultat sur le corpus** : 450 ligne(s)
 
 ```sql
 SELECT d.numero_normalise, ch.type_code, ch.description, sp.page_doc, sp.section, sp.planche
@@ -764,7 +764,7 @@ Essais cités et VALEURS TESTÉES (minutes) — distinctes des classements
 
 - **Paramètres (interface)** : `{":pv": "11-A-507"}`
 - **Tables / vues** : `document`, `document_essai`, `essai`, `essai_resultat`, `norme`, `organisme`, `v_document_rattachement`
-- **Résultat sur le corpus** : 12 ligne(s)
+- **Résultat sur le corpus** : 14 ligne(s)
 
 ```sql
 SELECT d.numero_normalise AS document, e.reference AS essai, o.nom AS laboratoire, n.code || coalesce(':' || n.annee, '') || coalesce(n.amendement, '') AS norme,
@@ -786,23 +786,23 @@ Exemple de résultat :
 ```json
 [
  {
-  "document": "11-A-507/EXT-22/2",
-  "essai": "EFR-21-002096-B",
+  "document": "10-A-650/EXT-23/4",
+  "essai": "EFR-19-003584",
   "laboratoire": "Efectis France",
-  "norme": "EN 1634-1+A1:2018",
-  "critere_code": "E",
-  "operateur_code": "eq",
-  "duree_min": 31.0,
+  "norme": null,
+  "critere_code": null,
+  "operateur_code": null,
+  "duree_min": null,
   "condition_essai": null
  },
  {
-  "document": "11-A-507/EXT-22/2",
-  "essai": "EFR-21-002096-B",
+  "document": "11-A-506/EXT-23/4",
+  "essai": "EFR-19-003584",
   "laboratoire": "Efectis France",
-  "norme": "EN 1634-1+A1:2018",
-  "critere_code": "W",
-  "operateur_code": "eq",
-  "duree_min": 14.0,
+  "norme": null,
+  "critere_code": null,
+  "operateur_code": null,
+  "duree_min": null,
   "condition_essai": null
  }
 ]
@@ -910,7 +910,7 @@ Filtre combiné : typologie + classe minimale + présence d'un composant (réfé
 
 - **Paramètres (interface)** : `{":typologie": "bloc_porte", ":duree_min": 30, ":ref": "TS93"}`
 - **Tables / vues** : `document`, `document_composant`, `reference_composant`, `v_classement_feu`, `v_document_rattachement`, `v_validite_effective`
-- **Résultat sur le corpus** : 5 ligne(s)
+- **Résultat sur le corpus** : 142 ligne(s)
 
 ```sql
 SELECT DISTINCT pv.numero_normalise AS pv, v.classe_normalisee, v.configuration, ve.date_validite_effective,
@@ -933,20 +933,20 @@ Exemple de résultat :
 ```json
 [
  {
-  "pv": "11-A-507",
+  "pv": "04-V-251",
   "classe_normalisee": "E 30",
-  "configuration": "Bloc-porte 1 ou 2 vantaux Presto 50",
-  "date_validite_effective": "2027-04-12",
-  "reference_brute": "TS93",
-  "document_composant": "11-A-507"
+  "configuration": "Durée de validité",
+  "date_validite_effective": null,
+  "reference_brute": "TS 93",
+  "document_composant": "EFR-14-001850"
  },
  {
-  "pv": "11-A-507",
+  "pv": "04-V-251",
   "classe_normalisee": "E 30",
-  "configuration": "Bloc-porte 11-A-507 muni de vitrages CONTRAFLAM LITE 30 (mono ou CLIMAPLUS/CLIMALIT)",
-  "date_validite_effective": "2027-04-12",
-  "reference_brute": "TS93",
-  "document_composant": "11-A-507"
+  "configuration": "Durée de validité",
+  "date_validite_effective": null,
+  "reference_brute": "TS 93",
+  "document_composant": "EFR-14-001852"
  }
 ]
 ```

@@ -2,11 +2,16 @@
 
 Base de données de référence des procès-verbaux de classement, reconductions et extensions (marché français) des systèmes acier **Forster**, conçue pour une application de recherche/filtrage hébergée sur **GitHub Pages** : la base est un fichier SQLite versionné, interrogé dans le navigateur par **sql.js** (WebAssembly), sans aucun serveur.
 
-État : **6 PDF analysés** (17 documents logiques + 21 documents cités), 630 occurrences de composants atomisées, 359 références, 327 limites dimensionnelles, 17 classements, 32 points de contrôle humain ouverts.
+État : **126 PDF** du dossier « PV FEU Forster France E-EI / PV » (112 PV de classement, 126 extensions, 102 reconductions, 6 PV DAS CNPP = 346 documents fournis, + 119 documents cités), 9 914 occurrences de composants, 1 773 références, 211 classements, 450 points de contrôle humain.
+
+- **6 PV saisis et atomisés à la main** (11-A-507, 13-A-175, 08-A-275, 13-A-704, EFR-21-002687, EFR-24-000553).
+- **120 PDF extraits automatiquement** (texte natif + OCR) : tout est marqué `a_verifier` — voir [extraction automatique](docs/14_EXTRACTION_AUTOMATIQUE.md). La validité effective calculée concorde avec la date du nom de fichier pour les 112 PV.
 
 ## Démarrage
 
 ```bash
+# (optionnel) OCR + extraction automatique d'un dossier de PDF :
+#   ls PV/*.pdf | xargs -d '\n' -I{} -P 2 scripts/ocr_pdf.sh "{}" ocr_txt && python3 scripts/auto_extract.py ocr_txt
 python3 scripts/build_db.py      # régénère db/forster_pv.sqlite depuis data/sources/ (Python 3 standard, aucune dépendance)
 python3 scripts/test_queries.py  # exécute les 20 requêtes de référence
 python3 scripts/export_json.py   # exports JSON (un fichier par table + global)
@@ -22,7 +27,7 @@ GitHub Pages : Settings → Pages → *Deploy from branch* `main` / racine. L'ap
 | `db/schema.sql` | Schéma SQLite complet (tables, contraintes, 59 index, 6 vues) |
 | `db/referentiels.sql` | Listes de valeurs contrôlées (31 tables `ref_*`) |
 | `db/forster_pv.sqlite` | Base générée, servie à l'application |
-| `data/sources/` | **Source de vérité** : JSON par PDF + catalogue partagé |
+| `data/sources/` | **Source de vérité** : JSON par PDF (`AUTO-*` = extraction automatique) + catalogues `catalogue.json` (manuel) et `catalogue_auto.json` |
 | `data/export/` | Export JSON (format d'échange / secours) + exemples |
 | `queries/filtres.sql` | Requêtes de filtre testées (paramètres nommés sql.js) |
 | `app/` | Démonstrateur statique (filtres → SQL paramétré, fiche PV) |
@@ -44,6 +49,7 @@ GitHub Pages : Settings → Pages → *Deploy from branch* `main` / racine. L'ap
 13. [Exemple d'extraction atomisée](docs/11_EXEMPLE_EXTRACTION.md)
 14. [Plan d'import des ~100 documents](docs/12_PLAN_IMPORT.md)
 15. [Points de contrôle humain](docs/13_CONTROLES_HUMAINS.md) · [liste des contrôles ouverts](docs/13b_CONTROLES_OUVERTS.md)
+16. [Extraction automatique du corpus complet](docs/14_EXTRACTION_AUTOMATIQUE.md)
 
 ## Règles de données (appliquées par le schéma)
 - Valeur testée ≠ limite autorisée (`nature_code` obligatoire ; `essai_resultat` = testé uniquement).

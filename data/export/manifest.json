@@ -1,9 +1,9 @@
 {
  "meta": {
-  "schema_version": "1.0.0",
-  "data_sha256": "17bf30ba1bfc55adeb80d49fcbd6dd90e4c1f580c184798001ae121ebe5f6cd4",
-  "genere_le": "2026-11-10T11:16:31+00:00",
-  "nb_fichiers_sources": "6"
+  "schema_version": "1.1.0",
+  "data_sha256": "67b7d2b54b1395af5b36bc009223b0740b8d7a0b183add50ee9b89ebbc2e5847",
+  "genere_le": "2026-11-18T06:50:00+00:00",
+  "nb_fichiers_sources": "127"
  },
  "tables": [
   {
@@ -13,12 +13,12 @@
   },
   {
    "table": "configuration",
-   "nb_lignes": 18,
+   "nb_lignes": 252,
    "fichier": "tables/configuration.json"
   },
   {
    "table": "controle_humain",
-   "nb_lignes": 32,
+   "nb_lignes": 450,
    "fichier": "tables/controle_humain.json"
   },
   {
@@ -53,47 +53,47 @@
   },
   {
    "table": "dc_vitrage",
-   "nb_lignes": 43,
+   "nb_lignes": 1274,
    "fichier": "tables/dc_vitrage.json"
   },
   {
    "table": "dimension",
-   "nb_lignes": 327,
+   "nb_lignes": 669,
    "fichier": "tables/dimension.json"
   },
   {
    "table": "dimension_format",
-   "nb_lignes": 174,
+   "nb_lignes": 516,
    "fichier": "tables/dimension_format.json"
   },
   {
    "table": "document",
-   "nb_lignes": 38,
+   "nb_lignes": 465,
    "fichier": "tables/document.json"
   },
   {
    "table": "document_composant",
-   "nb_lignes": 630,
+   "nb_lignes": 9914,
    "fichier": "tables/document_composant.json"
   },
   {
    "table": "document_essai",
-   "nb_lignes": 11,
+   "nb_lignes": 83,
    "fichier": "tables/document_essai.json"
   },
   {
    "table": "document_norme",
-   "nb_lignes": 23,
+   "nb_lignes": 345,
    "fichier": "tables/document_norme.json"
   },
   {
    "table": "document_organisme",
-   "nb_lignes": 61,
+   "nb_lignes": 1018,
    "fichier": "tables/document_organisme.json"
   },
   {
    "table": "document_relation",
-   "nb_lignes": 45,
+   "nb_lignes": 717,
    "fichier": "tables/document_relation.json"
   },
   {
@@ -103,7 +103,7 @@
   },
   {
    "table": "document_systeme",
-   "nb_lignes": 11,
+   "nb_lignes": 370,
    "fichier": "tables/document_systeme.json"
   },
   {
@@ -113,7 +113,7 @@
   },
   {
    "table": "essai",
-   "nb_lignes": 10,
+   "nb_lignes": 40,
    "fichier": "tables/essai.json"
   },
   {
@@ -123,7 +123,7 @@
   },
   {
    "table": "fichier_source",
-   "nb_lignes": 6,
+   "nb_lignes": 126,
    "fichier": "tables/fichier_source.json"
   },
   {
@@ -138,12 +138,12 @@
   },
   {
    "table": "norme",
-   "nb_lignes": 20,
+   "nb_lignes": 33,
    "fichier": "tables/norme.json"
   },
   {
    "table": "organisme",
-   "nb_lignes": 38,
+   "nb_lignes": 41,
    "fichier": "tables/organisme.json"
   },
   {
@@ -173,17 +173,17 @@
   },
   {
    "table": "perf_feu",
-   "nb_lignes": 17,
+   "nb_lignes": 211,
    "fichier": "tables/perf_feu.json"
   },
   {
    "table": "performance",
-   "nb_lignes": 17,
+   "nb_lignes": 211,
    "fichier": "tables/performance.json"
   },
   {
    "table": "recherche_index",
-   "nb_lignes": 749,
+   "nb_lignes": 11077,
    "fichier": "tables/recherche_index.json"
   },
   {
@@ -268,12 +268,12 @@
   },
   {
    "table": "ref_type_controle",
-   "nb_lignes": 6,
+   "nb_lignes": 7,
    "fichier": "tables/ref_type_controle.json"
   },
   {
    "table": "ref_type_document",
-   "nb_lignes": 10,
+   "nb_lignes": 11,
    "fichier": "tables/ref_type_document.json"
   },
   {
@@ -323,7 +323,7 @@
   },
   {
    "table": "ref_typologie",
-   "nb_lignes": 5,
+   "nb_lignes": 8,
    "fichier": "tables/ref_typologie.json"
   },
   {
@@ -333,32 +333,32 @@
   },
   {
    "table": "reference_alias",
-   "nb_lignes": 6,
+   "nb_lignes": 117,
    "fichier": "tables/reference_alias.json"
   },
   {
    "table": "reference_composant",
-   "nb_lignes": 359,
+   "nb_lignes": 1773,
    "fichier": "tables/reference_composant.json"
   },
   {
    "table": "restriction",
-   "nb_lignes": 63,
+   "nb_lignes": 446,
    "fichier": "tables/restriction.json"
   },
   {
    "table": "source_page",
-   "nb_lignes": 167,
+   "nb_lignes": 2101,
    "fichier": "tables/source_page.json"
   },
   {
    "table": "support_pose",
-   "nb_lignes": 32,
+   "nb_lignes": 373,
    "fichier": "tables/support_pose.json"
   },
   {
    "table": "systeme",
-   "nb_lignes": 5,
+   "nb_lignes": 12,
    "fichier": "tables/systeme.json"
   }
  ]

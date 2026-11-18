@@ -8,7 +8,7 @@ Usage : python3 scripts/build_db.py [--out db/forster_pv.sqlite]
 import argparse, glob, json, os, sqlite3, sys, unicodedata, datetime, hashlib
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SCHEMA_VERSION = '1.0.0'
+SCHEMA_VERSION = '1.1.0'
 
 # Ordre de chargement (respecte les clés étrangères)
 ORDER_CATALOGUE = ['organisme', 'organisme_alias', 'intervenant', 'norme', 'systeme', 'reference_composant']
@@ -23,6 +23,56 @@ ORDER_AFTER = ['essai', 'essai_resultat', 'document_essai', 'reference_alias', '
 
 def strip_accents(s):
     return ''.join(c for c in unicodedata.normalize('NFKD', s) if not unicodedata.combining(c)).lower()
+
+
+def load_catalogues():
+    """catalogue.json (manuel) puis catalogue_auto.json : une clé primaire déjà vue est ignorée (le manuel prime)."""
+    out = {}
+    for name in ['catalogue.json', 'catalogue_auto.json']:
+        p = os.path.join(ROOT, 'data', 'sources', name)
+        if not os.path.exists(p):
+            continue
+        for t, rows in json.load(open(p, encoding='utf-8')).items():
+            out.setdefault(t, []).extend(rows)
+    return out
+
+
+def merge_documents(docs):
+    """Un même document peut être « cité » (present_dans_corpus=0) dans un fichier et fourni dans un autre :
+    la version fournie remplace la ligne citée. Deux versions fournies : la première (manuelle) prime."""
+    best = {}
+    for d in docs:
+        for r in d.get('document', []):
+            cur = best.get(r['id'])
+            if cur is None or (cur['present_dans_corpus'] == 0 and r['present_dans_corpus'] == 1):
+                best[r['id']] = r
+    for d in docs:
+        d['document'] = [r for r in d.get('document', []) if best.get(r['id']) is r]
+
+
+def dedupe(con, docs):
+    """Supprime les doublons de clé primaire entre fichiers (première occurrence conservée)."""
+    seen = {}
+    n = 0
+    for d in docs:
+        for t, rows in d.items():
+            if t == 'document':
+                continue
+            pk = [c[1] for c in con.execute(f'PRAGMA table_info({t})') if c[5]]
+            if not pk:
+                continue
+            s = seen.setdefault(t, set())
+            keep = []
+            for r in rows:
+                k = tuple(r.get(c) for c in pk)
+                if k in s:
+                    n += 1
+                    continue
+                s.add(k)
+                keep.append(r)
+            d[t] = keep
+    if n:
+        print(f'(doublons de clé ignorés : {n})')
 
 
 def insert_rows(con, table, rows):
@@ -73,12 +123,22 @@ def main():
     con.executescript(open(os.path.join(ROOT, 'db', 'schema.sql'), encoding='utf-8').read())
     con.executescript(open(os.path.join(ROOT, 'db', 'referentiels.sql'), encoding='utf-8').read())
 
-    cat = json.load(open(os.path.join(ROOT, 'data', 'sources', 'catalogue.json'), encoding='utf-8'))
-    docs = [json.load(open(p, encoding='utf-8')) for p in sorted(glob.glob(os.path.join(ROOT, 'data', 'sources', 'documents', '*.json')))]
+    cat = load_catalogues()
+    # fichiers manuels d'abord (ils priment), puis fichiers AUTO-*
+    paths = sorted(glob.glob(os.path.join(ROOT, 'data', 'sources', 'documents', '*.json')), key=lambda p: (os.path.basename(p).startswith('AUTO-'), p))
+    docs = [json.load(open(p, encoding='utf-8')) for p in paths]
+    merge_documents(docs)
+    dedupe(con, docs)
     counts = {}
     con.execute('BEGIN')
     for t in ORDER_CATALOGUE:
-        counts[t] = insert_rows(con, t, cat.get(t, []))
+        pk = [c[1] for c in con.execute(f'PRAGMA table_info({t})') if c[5]]
+        seen_k, uniq = set(), []
+        for r in cat.get(t, []):
+            k = tuple(r.get(c) for c in pk)
+            if k not in seen_k:
+                seen_k.add(k); uniq.append(r)
+        counts[t] = insert_rows(con, t, uniq)
     for t in ORDER_DOCS_1:
         counts[t] = sum(insert_rows(con, t, d.get(t, [])) for d in docs)
     for t in ORDER_DOCS_2:
@@ -91,10 +151,17 @@ def main():
             counts[t] = sum(insert_rows(con, t, d.get(t, [])) for d in docs)
     for t in ORDER_AFTER:
         src = cat.get(t, []) + [r for d in docs for r in d.get(t, [])]
+        pk = [c[1] for c in con.execute(f'PRAGMA table_info({t})') if c[5]]
+        seen_k, uniq = set(), []
+        for r in src:
+            k = tuple(r.get(c) for c in pk)
+            if k not in seen_k:
+                seen_k.add(k); uniq.append(r)
+        src = uniq
         counts[t] = insert_rows(con, t, src)
     counts['recherche_index'] = build_search_index(con)
     h = hashlib.sha256()
-    for p in [os.path.join(ROOT, 'data', 'sources', 'catalogue.json')] + sorted(glob.glob(os.path.join(ROOT, 'data', 'sources', 'documents', '*.json'))):
+    for p in sorted(glob.glob(os.path.join(ROOT, 'data', 'sources', '*.json'))) + sorted(glob.glob(os.path.join(ROOT, 'data', 'sources', 'documents', '*.json'))):
         h.update(open(p, 'rb').read())
     for k, v in [('schema_version', SCHEMA_VERSION), ('data_sha256', h.hexdigest()),
                  ('genere_le', datetime.datetime.now(datetime.timezone.utc).replace(microsecond=0).isoformat()),

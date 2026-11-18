@@ -390,6 +390,36 @@
    "adresse": null,
    "est_fabricant": 1,
    "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-AGC",
+   "nom": "AGC GLASS EUROPE",
+   "nom_normalise": "AGC GLASS EUROPE",
+   "pays_code": "BE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-GLAS-TROESCH",
+   "nom": "GLAS TRÖSCH",
+   "nom_normalise": "GLAS TROSCH",
+   "pays_code": "CH",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 1,
+   "est_laboratoire": 0
+  },
+  {
+   "id": "ORG-CNPP",
+   "nom": "CNPP",
+   "nom_normalise": "CNPP",
+   "pays_code": "FR",
+   "ville": "Vernon",
+   "adresse": null,
+   "est_fabricant": 0,
+   "est_laboratoire": 1
   }
  ]
 }

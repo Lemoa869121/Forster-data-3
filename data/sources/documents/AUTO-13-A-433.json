@@ -1,0 +1,697 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-AUTO-13-A-433",
+   "nom_fichier": "FR 13-A-433 - PYRO - cloison PRESTO E30 - PROPYRO - 31-10-2029.pdf",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": "PYRO",
+   "code_marche": "PROPYRO",
+   "commentaire": "Extraction automatique (texte natif + OCR tesseract) — relecture requise"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-13-A-433-REC-24-2",
+   "numero": "24/2",
+   "numero_normalise": "13-A-433/REC-24/2",
+   "revision": null,
+   "type_code": "reconduction",
+   "domaine_code": "feu",
+   "objet": "Un châssis vitré à ossature métallique",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "date_emission": "2024-10-28",
+   "date_validite": "2029-10-31",
+   "validite_liee_au_pv": 0,
+   "nb_pages": 4,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-AUTO-13-A-433",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique — relecture requise"
+  },
+  {
+   "id": "DOC-13-A-433-REC-20-1",
+   "numero": "20/1",
+   "numero_normalise": "13-A-433/REC-20/1",
+   "revision": null,
+   "type_code": "reconduction",
+   "domaine_code": "feu",
+   "objet": "Un châssis vitré à ossature métallique",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "date_emission": "2020-01-21",
+   "date_validite": "2024-10-31",
+   "validite_liee_au_pv": 0,
+   "nb_pages": 2,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-AUTO-13-A-433",
+   "ordre_dans_fichier": 2,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique — relecture requise"
+  },
+  {
+   "id": "DOC-13-A-433",
+   "numero": "13-A-433",
+   "numero_normalise": "13-A-433",
+   "revision": null,
+   "type_code": "pv_classement",
+   "domaine_code": "feu",
+   "objet": "Demandeur Ce procès-verbal de classement et ses éventuelles extensions sont valables jusqu'au : 31 octobre 2019.",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "date_emission": "2014-10-31",
+   "date_validite": "2019-10-31",
+   "validite_liee_au_pv": 0,
+   "nb_pages": 7,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-AUTO-13-A-433",
+   "ordre_dans_fichier": 3,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique — relecture requise"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-13-A-433-REC-24-2-P001",
+   "document_id": "DOC-13-A-433-REC-24-2",
+   "page_doc": 1,
+   "page_doc_total": 4,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "page_garde",
+   "libelle": "page PDF 1"
+  },
+  {
+   "id": "SP-13-A-433-REC-20-1-P001",
+   "document_id": "DOC-13-A-433-REC-20-1",
+   "page_doc": 1,
+   "page_doc_total": 2,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "page_garde",
+   "libelle": "page PDF 5"
+  },
+  {
+   "id": "SP-13-A-433-P001",
+   "document_id": "DOC-13-A-433",
+   "page_doc": 1,
+   "page_doc_total": 7,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "page_garde",
+   "libelle": "page PDF 7"
+  },
+  {
+   "id": "SP-13-A-433-P002",
+   "document_id": "DOC-13-A-433",
+   "page_doc": 2,
+   "page_doc_total": 7,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": "page PDF 8"
+  }
+ ],
+ "document_relation": [
+  {
+   "id": "REL-13-A-433-REC-24-2-reconduit-13-A-433",
+   "document_source_id": "DOC-13-A-433-REC-24-2",
+   "document_cible_id": "DOC-13-A-433",
+   "type_relation_code": "reconduit",
+   "date_relation": "2024-10-28",
+   "commentaire": null,
+   "source_page_id": "SP-13-A-433-REC-24-2-P001"
+  },
+  {
+   "id": "REL-13-A-433-REC-24-2-reconduit_extension-13-A-433-EXT-18-1",
+   "document_source_id": "DOC-13-A-433-REC-24-2",
+   "document_cible_id": "DOC-13-A-433-EXT-18-1",
+   "type_relation_code": "reconduit_extension",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": "SP-13-A-433-REC-24-2-P001"
+  },
+  {
+   "id": "REL-13-A-433-REC-20-1-reconduit-13-A-433",
+   "document_source_id": "DOC-13-A-433-REC-20-1",
+   "document_cible_id": "DOC-13-A-433",
+   "type_relation_code": "reconduit",
+   "date_relation": "2020-01-21",
+   "commentaire": null,
+   "source_page_id": "SP-13-A-433-REC-20-1-P001"
+  },
+  {
+   "id": "REL-13-A-433-REC-20-1-reconduit_extension-13-A-433-EXT-18-1",
+   "document_source_id": "DOC-13-A-433-REC-20-1",
+   "document_cible_id": "DOC-13-A-433-EXT-18-1",
+   "type_relation_code": "reconduit_extension",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": "SP-13-A-433-REC-20-1-P001"
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-13-A-433-REC-24-2",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-13-A-433-REC-24-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-433-REC-24-2",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-13-A-433-REC-24-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-433-REC-24-2",
+   "organisme_id": "ORG-PYROGUARD",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-13-A-433-REC-24-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-433-REC-20-1",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-13-A-433-REC-20-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-433-REC-20-1",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-13-A-433-REC-20-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-433-REC-20-1",
+   "organisme_id": "ORG-PYROGUARD",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-13-A-433-REC-20-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-433",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-13-A-433-P001"
+  },
+  {
+   "document_id": "DOC-13-A-433",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-13-A-433-P001"
+  },
+  {
+   "document_id": "DOC-13-A-433",
+   "organisme_id": "ORG-PYROGUARD",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-13-A-433-P001"
+  }
+ ],
+ "document_signataire": [],
+ "document_norme": [
+  {
+   "document_id": "DOC-13-A-433-REC-24-2",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-433-REC-24-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-433-REC-24-2",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-433-REC-24-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-433",
+   "norme_id": "NRM-EN-13501-2-2007",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-433-P001"
+  },
+  {
+   "document_id": "DOC-13-A-433",
+   "norme_id": "NRM-EN-1364-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-433-P001"
+  }
+ ],
+ "document_essai": [],
+ "document_systeme": [
+  {
+   "document_id": "DOC-13-A-433-REC-24-2",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-433-REC-24-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-433-REC-20-1",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-433-REC-20-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-433",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-13-A-433-P001"
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-13-A-433-AUTO",
+   "document_id": "DOC-13-A-433",
+   "code": "AUTO",
+   "libelle": "cloison PRESTO E30",
+   "typologie_code": "cloison_vitree",
+   "systeme_id": "SYS-PRESTO-50",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": 1,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PRF-13-A-433-0001",
+   "document_id": "DOC-13-A-433",
+   "configuration_id": "CFG-13-A-433-AUTO",
+   "domaine_code": "feu",
+   "libelle_tel_qu_ecrit": "E 30 (nom de fichier)",
+   "classe_normalisee": "E 30",
+   "nature_code": "classement",
+   "condition_texte": "Classe annoncée par le nom de fichier, non lue dans le tableau OCR",
+   "source_page_id": "SP-13-A-433-P001",
+   "statut_extraction": "non_trouve"
+  }
+ ],
+ "perf_feu": [
+  {
+   "performance_id": "PRF-13-A-433-0001",
+   "critere_r": 0,
+   "critere_e": 1,
+   "critere_i": 0,
+   "variante_i": null,
+   "critere_w": 0,
+   "critere_m": 0,
+   "critere_c": 0,
+   "classe_c": null,
+   "critere_s": 0,
+   "duree_min": 30,
+   "sens_feu": null
+  }
+ ],
+ "document_composant": [
+  {
+   "id": "DC-13-A-433-REC-24-2-0001",
+   "document_id": "DOC-13-A-433-REC-24-2",
+   "configuration_id": null,
+   "reference_id": "REF-PYROGUARD-PYROGUARDT",
+   "reference_brute": "PYROGUARD T",
+   "designation_document": "s acier serie Presto 50 (FORSTER) • Vitrage : Pyroguard T E30/8, Pyroguard T E30/10, Pyroguard T E30/12",
+   "categorie_code": "vitrage",
+   "role_code": "remplissage",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-13-A-433-REC-24-2-P001",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-13-A-433-REC-24-2-0002",
+   "document_id": "DOC-13-A-433-REC-24-2",
+   "configuration_id": null,
+   "reference_id": "REF-PYROGUARD-PYROGUARD",
+   "reference_brute": "PYROGUARD",
+   "designation_document": "ard T E30/10, Pyroguard T E30/12 (PYROGUARD) Demandeur PYROGUARD UK LTD",
+   "categorie_code": "vitrage",
+   "role_code": "remplissage",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-13-A-433-REC-24-2-P001",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-13-A-433-REC-24-2-0003",
+   "document_id": "DOC-13-A-433-REC-24-2",
+   "configuration_id": null,
+   "reference_id": "REF-PYROGUARD-PYROGUARDUK",
+   "reference_brute": "PYROGUARD UK",
+   "designation_document": "(PYROGUARD) Demandeur PYROGUARD UK LTD Milfield Lane",
+   "categorie_code": "vitrage",
+   "role_code": "remplissage",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-13-A-433-REC-24-2-P001",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-13-A-433-REC-20-1-0001",
+   "document_id": "DOC-13-A-433-REC-20-1",
+   "configuration_id": null,
+   "reference_id": "REF-PYROGUARD-PYROGUARDT",
+   "reference_brute": "PYROGUARD T",
+   "designation_document": "ils acier serie Presto 50 (FORSTER) • Vitrage : Pyroguard T E30/8, Pyroguard T E30/10, Pyroguard T E30/12 (C",
+   "categorie_code": "vitrage",
+   "role_code": "remplissage",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-13-A-433-REC-20-1-P001",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-13-A-433-REC-20-1-0002",
+   "document_id": "DOC-13-A-433-REC-20-1",
+   "configuration_id": null,
+   "reference_id": "REF-PYROGUARD-PYROGUARDUK",
+   "reference_brute": "PYROGUARD UK",
+   "designation_document": "(CGI FRANCE) Demandeur PYROGUARD UK LTD International House (ex. CGI INTERNATIONAL LTD",
+   "categorie_code": "vitrage",
+   "role_code": "remplissage",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-13-A-433-REC-20-1-P001",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-13-A-433-0001",
+   "document_id": "DOC-13-A-433",
+   "configuration_id": "CFG-13-A-433-AUTO",
+   "reference_id": "REF-PYROGUARD-PYROGUARDT",
+   "reference_brute": "PYROGUARD T",
+   "designation_document": "a ossature metallique + Ossature : profils acier serie Presto 50 (FORSTER) e Vitrage : Pyroguard T E30/8, Pyroguard T E30/10, Pyroguard T E30/12 (CGI FRANCE) CGI INTERNATIONAL LTD - INTERN",
+   "categorie_code": "vitrage",
+   "role_code": "remplissage",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-13-A-433-P001",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-13-A-433-0002",
+   "document_id": "DOC-13-A-433",
+   "configuration_id": "CFG-13-A-433-AUTO",
+   "reference_id": "REF-FORSTER-901226",
+   "reference_brute": "901.226",
+   "designation_document": "Le maintien du vitrage d'épaisseur 10 mm se fait par double parclosage acier de référence 901.226 (FORSTER)} et de section 15 x 20 mm clipé sur des vis acier référence 906.577 (FORSTER) r",
+   "categorie_code": "profile",
+   "role_code": "ossature_cloison",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-13-A-433-P002",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-13-A-433-0003",
+   "document_id": "DOC-13-A-433",
+   "configuration_id": "CFG-13-A-433-AUTO",
+   "reference_id": "REF-FORSTER-906577",
+   "reference_brute": "906.577",
+   "designation_document": "e référence 901.226 (FORSTER)} et de section 15 x 20 mm clipé sur des vis acier référence 906.577 (FORSTER) réparties dans les profils support au pas de 180 mm environ. Ces parcloses sont",
+   "categorie_code": "profile",
+   "role_code": "ossature_cloison",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-13-A-433-P002",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-13-A-433-0004",
+   "document_id": "DOC-13-A-433",
+   "configuration_id": "CFG-13-A-433-AUTO",
+   "reference_id": "REF-FORSTER-901227",
+   "reference_brute": "901.227",
+   "designation_document": "Le maintien du vitrage d'épaisseur 8 mm se fait par double parclosage acier de référence 901.227 (FORSTER) et de section 20 x 20 mm clipé sur des vis acier référence 906.577 (FORSTER) ré",
+   "categorie_code": "profile",
+   "role_code": "ossature_cloison",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-13-A-433-P002",
+   "statut_extraction": "a_verifier"
+  }
+ ],
+ "caracteristique_document": [],
+ "dc_profile": [],
+ "dc_vitrage": [
+  {
+   "document_composant_id": "DC-13-A-433-REC-24-2-0001",
+   "gamme": "PYROGUARD",
+   "designation": "PYROGUARD T",
+   "type_vitrage_code": "monolithique",
+   "epaisseur_mm": null,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "classe_nominale": null,
+   "intercalaire_min_mm": null,
+   "intercalaire_max_mm": null,
+   "composition_detaillee_disponible": null
+  },
+  {
+   "document_composant_id": "DC-13-A-433-REC-24-2-0002",
+   "gamme": "PYROGUARD",
+   "designation": "PYROGUARD",
+   "type_vitrage_code": "monolithique",
+   "epaisseur_mm": null,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "classe_nominale": null,
+   "intercalaire_min_mm": null,
+   "intercalaire_max_mm": null,
+   "composition_detaillee_disponible": null
+  },
+  {
+   "document_composant_id": "DC-13-A-433-REC-24-2-0003",
+   "gamme": "PYROGUARD",
+   "designation": "PYROGUARD UK",
+   "type_vitrage_code": "monolithique",
+   "epaisseur_mm": null,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "classe_nominale": null,
+   "intercalaire_min_mm": null,
+   "intercalaire_max_mm": null,
+   "composition_detaillee_disponible": null
+  },
+  {
+   "document_composant_id": "DC-13-A-433-REC-20-1-0001",
+   "gamme": "PYROGUARD",
+   "designation": "PYROGUARD T",
+   "type_vitrage_code": "monolithique",
+   "epaisseur_mm": null,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "classe_nominale": null,
+   "intercalaire_min_mm": null,
+   "intercalaire_max_mm": null,
+   "composition_detaillee_disponible": null
+  },
+  {
+   "document_composant_id": "DC-13-A-433-REC-20-1-0002",
+   "gamme": "PYROGUARD",
+   "designation": "PYROGUARD UK",
+   "type_vitrage_code": "monolithique",
+   "epaisseur_mm": null,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "classe_nominale": null,
+   "intercalaire_min_mm": null,
+   "intercalaire_max_mm": null,
+   "composition_detaillee_disponible": null
+  },
+  {
+   "document_composant_id": "DC-13-A-433-0001",
+   "gamme": "PYROGUARD",
+   "designation": "PYROGUARD T",
+   "type_vitrage_code": "monolithique",
+   "epaisseur_mm": null,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "classe_nominale": null,
+   "intercalaire_min_mm": null,
+   "intercalaire_max_mm": null,
+   "composition_detaillee_disponible": null
+  }
+ ],
+ "dc_serrure": [],
+ "dc_articulation": [],
+ "dc_ferme_porte": [],
+ "dc_joint": [],
+ "dc_fixation": [],
+ "dimension_format": [],
+ "dimension": [],
+ "support_pose": [
+  {
+   "id": "SUP-13-A-433-0001",
+   "document_id": "DOC-13-A-433",
+   "configuration_id": "CFG-13-A-433-AUTO",
+   "type_support_code": "beton_arme",
+   "masse_vol_min_kg_m3": 2200.0,
+   "masse_vol_operateur_code": "ge",
+   "epaisseur_min_mm": null,
+   "epaisseur_operateur_code": null,
+   "classement_pv_exige": null,
+   "prolongation_laterale": null,
+   "imposte_autorisee": null,
+   "allege_autorisee": null,
+   "pas_fixation_max_mm": null,
+   "condition_texte": "Mention détectée automatiquement : cès-verbal de classement sont également valables pour des châssis installés sur : +__ du béton armé de masse volumique minimale 2200 kg/m° et d'épaisseur minimale à 200 mm, +__des paroïs en",
+   "source_page_id": "SP-13-A-433-P001"
+  },
+  {
+   "id": "SUP-13-A-433-0002",
+   "document_id": "DOC-13-A-433",
+   "configuration_id": "CFG-13-A-433-AUTO",
+   "type_support_code": "beton_cellulaire",
+   "masse_vol_min_kg_m3": 400.0,
+   "masse_vol_operateur_code": "ge",
+   "epaisseur_min_mm": null,
+   "epaisseur_operateur_code": null,
+   "classement_pv_exige": null,
+   "prolongation_laterale": null,
+   "imposte_autorisee": null,
+   "allege_autorisee": null,
+   "pas_fixation_max_mm": null,
+   "condition_texte": "Mention détectée automatiquement : ù parpaings de masse volumique minimale 1600 kg/m? et d'épaisseur minimale 200 mm, +__ du béton cellulaire de masse volumique minimale 400 kg/m° et d'épaisseur minimale 200 mm. Les fixations sont",
+   "source_page_id": "SP-13-A-433-P001"
+  },
+  {
+   "id": "SUP-13-A-433-0003",
+   "document_id": "DOC-13-A-433",
+   "configuration_id": "CFG-13-A-433-AUTO",
+   "type_support_code": "beton_plein_parpaing",
+   "masse_vol_min_kg_m3": 1600.0,
+   "masse_vol_operateur_code": "ge",
+   "epaisseur_min_mm": null,
+   "epaisseur_operateur_code": null,
+   "classement_pv_exige": null,
+   "prolongation_laterale": null,
+   "imposte_autorisee": null,
+   "allege_autorisee": null,
+   "pas_fixation_max_mm": null,
+   "condition_texte": "Mention détectée automatiquement : de masse volumique minimale 2200 kg/m° et d'épaisseur minimale à 200 mm, +__des paroïs en béton plein où parpaings de masse volumique minimale 1600 kg/m? et d'épaisseur minimale 200 mm, +__ d",
+   "source_page_id": "SP-13-A-433-P001"
+  }
+ ],
+ "restriction": [
+  {
+   "id": "RST-13-A-433-0001",
+   "document_id": "DOC-13-A-433",
+   "configuration_id": "CFG-13-A-433-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Feu côté INDIFFERENT.",
+   "texte_source": "Feu côté INDIFFERENT.",
+   "source_page_id": "SP-13-A-433-P001"
+  },
+  {
+   "id": "RST-13-A-433-0002",
+   "document_id": "DOC-13-A-433",
+   "configuration_id": "CFG-13-A-433-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-13-A-433-P001"
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTL-13-A-433-REC-24-2-0001",
+   "document_id": "DOC-13-A-433-REC-24-2",
+   "table_cible": null,
+   "ligne_id": null,
+   "type_code": "extraction_auto",
+   "description": "Document extrait automatiquement (OCR) : pages PDF 1-4 de « FR 13-A-433 - PYRO - cloison PRESTO E30 - PROPYRO - 31-10-2029.pdf ». Relire classement, dates, composants et dimensions.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTL-13-A-433-REC-20-1-0001",
+   "document_id": "DOC-13-A-433-REC-20-1",
+   "table_cible": null,
+   "ligne_id": null,
+   "type_code": "extraction_auto",
+   "description": "Document extrait automatiquement (OCR) : pages PDF 5-6 de « FR 13-A-433 - PYRO - cloison PRESTO E30 - PROPYRO - 31-10-2029.pdf ». Relire classement, dates, composants et dimensions.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTL-13-A-433-0001",
+   "document_id": "DOC-13-A-433",
+   "table_cible": null,
+   "ligne_id": null,
+   "type_code": "extraction_auto",
+   "description": "Document extrait automatiquement (OCR) : pages PDF 7-13 de « FR 13-A-433 - PYRO - cloison PRESTO E30 - PROPYRO - 31-10-2029.pdf ». Relire classement, dates, composants et dimensions.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTL-13-A-433-0002",
+   "document_id": "DOC-13-A-433",
+   "table_cible": null,
+   "ligne_id": null,
+   "type_code": "non_trouve",
+   "description": "Classe(s) E 30 du nom de fichier non retrouvée(s) dans le tableau de classement OCR : vérifier sur l'original.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

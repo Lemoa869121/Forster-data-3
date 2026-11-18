@@ -55,6 +55,11 @@
    "code": "document_reference",
    "libelle": "Document de référence cité",
    "description": "Document cité, non présent dans le corpus"
+  },
+  {
+   "code": "pv_das",
+   "libelle": "Procès-verbal DAS (CNPP)",
+   "description": "Procès-verbal d'essais / homologation de dispositif actionné de sécurité (NF S 61-937), CNPP"
   }
  ]
 }

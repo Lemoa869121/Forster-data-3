@@ -1,0 +1,548 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-AUTO-EFR-19-002612",
+   "nom_fichier": "FR EFR-19-002612 - AGC - cloison vitrage bab FUEGO light EI60 - PROAGC - 11-10-2029.pdf",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": "AGC",
+   "code_marche": "PROAGC",
+   "commentaire": "Extraction automatique (texte natif + OCR tesseract) — relecture requise"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-EFR-19-002612-REC-24-1",
+   "numero": "24/1",
+   "numero_normalise": "EFR-19-002612/REC-24/1",
+   "revision": null,
+   "type_code": "reconduction",
+   "domaine_code": "feu",
+   "objet": "Une cloison à ossature acier thermiquement isolée avec vitrages collés bord à bord à joints verticaux.",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "date_emission": "2024-07-22",
+   "date_validite": "2029-10-11",
+   "validite_liee_au_pv": 0,
+   "nb_pages": 2,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-AUTO-EFR-19-002612",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique — relecture requise"
+  },
+  {
+   "id": "DOC-EFR-19-002612",
+   "numero": "EFR-19-002612",
+   "numero_normalise": "EFR-19-002612",
+   "revision": null,
+   "type_code": "pv_classement",
+   "domaine_code": "feu",
+   "objet": "Une cloison à ossature acier thermiquement isolée avec vitrages collés bord à bord à joints verticaux.",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "date_emission": "2019-10-11",
+   "date_validite": "2024-10-11",
+   "validite_liee_au_pv": 0,
+   "nb_pages": 17,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-AUTO-EFR-19-002612",
+   "ordre_dans_fichier": 2,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique — relecture requise"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-EFR-19-002612-REC-24-1-P001",
+   "document_id": "DOC-EFR-19-002612-REC-24-1",
+   "page_doc": 1,
+   "page_doc_total": 2,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "page_garde",
+   "libelle": "page PDF 1"
+  },
+  {
+   "id": "SP-EFR-19-002612-P001",
+   "document_id": "DOC-EFR-19-002612",
+   "page_doc": 1,
+   "page_doc_total": 17,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "page_garde",
+   "libelle": "page PDF 3"
+  },
+  {
+   "id": "SP-EFR-19-002612-P013",
+   "document_id": "DOC-EFR-19-002612",
+   "page_doc": 13,
+   "page_doc_total": 17,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": "page PDF 15"
+  },
+  {
+   "id": "SP-EFR-19-002612-P005",
+   "document_id": "DOC-EFR-19-002612",
+   "page_doc": 5,
+   "page_doc_total": 17,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": "page PDF 7"
+  },
+  {
+   "id": "SP-EFR-19-002612-P013-PLPLANCHE-1",
+   "document_id": "DOC-EFR-19-002612",
+   "page_doc": 13,
+   "page_doc_total": 17,
+   "section": null,
+   "planche": "Planche 1",
+   "type_zone_code": "planche",
+   "libelle": "page PDF 15"
+  },
+  {
+   "id": "SP-EFR-19-002612-P009",
+   "document_id": "DOC-EFR-19-002612",
+   "page_doc": 9,
+   "page_doc_total": 17,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": "page PDF 11"
+  }
+ ],
+ "document_relation": [
+  {
+   "id": "REL-EFR-19-002612-REC-24-1-reconduit-EFR-19-002612",
+   "document_source_id": "DOC-EFR-19-002612-REC-24-1",
+   "document_cible_id": "DOC-EFR-19-002612",
+   "type_relation_code": "reconduit",
+   "date_relation": "2024-07-22",
+   "commentaire": null,
+   "source_page_id": "SP-EFR-19-002612-REC-24-1-P001"
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-EFR-19-002612-REC-24-1",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-EFR-19-002612-REC-24-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-002612-REC-24-1",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-EFR-19-002612-REC-24-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-002612-REC-24-1",
+   "organisme_id": "ORG-AGC",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-EFR-19-002612-REC-24-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-002612",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-EFR-19-002612-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-002612",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-EFR-19-002612-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-002612",
+   "organisme_id": "ORG-AGC",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-EFR-19-002612-P001"
+  }
+ ],
+ "document_signataire": [],
+ "document_norme": [
+  {
+   "document_id": "DOC-EFR-19-002612",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-19-002612-P001"
+  }
+ ],
+ "document_essai": [],
+ "document_systeme": [
+  {
+   "document_id": "DOC-EFR-19-002612-REC-24-1",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-EFR-19-002612-REC-24-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-002612",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "role": "principal",
+   "source_page_id": "SP-EFR-19-002612-P001"
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-EFR-19-002612-AUTO",
+   "document_id": "DOC-EFR-19-002612",
+   "code": "AUTO",
+   "libelle": "cloison vitrage bab FUEGO light EI60",
+   "typologie_code": "cloison_vitree_bord_a_bord",
+   "systeme_id": "SYS-FUEGO-LIGHT-60",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": 1,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PRF-EFR-19-002612-0001",
+   "document_id": "DOC-EFR-19-002612",
+   "configuration_id": "CFG-EFR-19-002612-AUTO",
+   "domaine_code": "feu",
+   "libelle_tel_qu_ecrit": "EI 60 (nom de fichier)",
+   "classe_normalisee": "EI 60",
+   "nature_code": "classement",
+   "condition_texte": "Classe annoncée par le nom de fichier, non lue dans le tableau OCR",
+   "source_page_id": "SP-EFR-19-002612-P001",
+   "statut_extraction": "non_trouve"
+  }
+ ],
+ "perf_feu": [
+  {
+   "performance_id": "PRF-EFR-19-002612-0001",
+   "critere_r": 0,
+   "critere_e": 1,
+   "critere_i": 1,
+   "variante_i": "I",
+   "critere_w": 0,
+   "critere_m": 0,
+   "critere_c": 0,
+   "classe_c": null,
+   "critere_s": 0,
+   "duree_min": 60,
+   "sens_feu": null
+  }
+ ],
+ "document_composant": [
+  {
+   "id": "DC-EFR-19-002612-REC-24-1-0001",
+   "document_id": "DOC-EFR-19-002612-REC-24-1",
+   "configuration_id": null,
+   "reference_id": "REF-AGC-PYROBEL",
+   "reference_brute": "PYROBEL",
+   "designation_document": ": FUEGO LIGHT 60 (FORSTER) Vitrages : PYROBEL-T EI60-34 VISION LINE (AGC) Demandeur AGC GLASS EUROPE",
+   "categorie_code": "vitrage",
+   "role_code": "remplissage",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-19-002612-REC-24-1-P001",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-19-002612-0001",
+   "document_id": "DOC-EFR-19-002612",
+   "configuration_id": "CFG-EFR-19-002612-AUTO",
+   "reference_id": "REF-AGC-PYROBEL",
+   "reference_brute": "PYROBEL",
+   "designation_document": "FUEGO LIGHT 60 (FORSTER) Vitrages : PYROBEL-T EI60-34 VISION LINE (AGC) Demandeur AGC GLASS EU",
+   "categorie_code": "vitrage",
+   "role_code": "remplissage",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-19-002612-P001",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-19-002612-0002",
+   "document_id": "DOC-EFR-19-002612",
+   "configuration_id": "CFG-EFR-19-002612-AUTO",
+   "reference_id": "REF-AGC-PYROBELT",
+   "reference_brute": "PYROBEL T",
+   "designation_document": "LE : 34.0 +/- 2.0 mm Efectis FR : ouverture cadre = 4000 mm (|) x 4000 mm (h) ELEMENT : PyrobelT El60-34 Vision Line en chassis Forster Fuego Light DATE : 01/08/19 AGC DETAIL: ELEVATIO",
+   "categorie_code": "vitrage",
+   "role_code": "remplissage",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-19-002612-P013",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-19-002612-0003",
+   "document_id": "DOC-EFR-19-002612",
+   "configuration_id": "CFG-EFR-19-002612-AUTO",
+   "reference_id": "REF-FORSTER-948000",
+   "reference_brute": "948.000",
+   "designation_document": "s par soudure continue. Une bande intumescente autoadhésive à base graphite de référence 948.000 (FORSTER) de section 25 x 2 mm est collée en périphérie de la baie sur les profilés. La b",
+   "categorie_code": "profile",
+   "role_code": "ossature_cloison",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-19-002612-P005",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-19-002612-0004",
+   "document_id": "DOC-EFR-19-002612",
+   "configuration_id": "CFG-EFR-19-002612-AUTO",
+   "reference_id": "REF-FORSTER-901227",
+   "reference_brute": "901.227",
+   "designation_document": "par des profilés acier de la série FUEGO LIGHT 60 (FORSTER). Les parcloses de référence 901.227 (FORSTER) et de section 20 x 20 mm sont fixées par boutons de parclose de référence 906.5",
+   "categorie_code": "profile",
+   "role_code": "ossature_cloison",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-19-002612-P005",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-19-002612-0005",
+   "document_id": "DOC-EFR-19-002612",
+   "configuration_id": "CFG-EFR-19-002612-AUTO",
+   "reference_id": "REF-FORSTER-906577",
+   "reference_brute": "906.577",
+   "designation_document": "1.227 (FORSTER) et de section 20 x 20 mm sont fixées par boutons de parclose de référence 906.577 (FORSTER), placés à 150 mm des extrémités puis répartis au pas maximal de 300 mm. Les pa",
+   "categorie_code": "profile",
+   "role_code": "ossature_cloison",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-19-002612-P005",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-19-002612-0006",
+   "document_id": "DOC-EFR-19-002612",
+   "configuration_id": "CFG-EFR-19-002612-AUTO",
+   "reference_id": "REF-FORSTER-736851_T",
+   "reference_brute": "736.851/T",
+   "designation_document": "des profilés acier thermiquement isolés de la série FUEGO LIGHT 60 (FORSTER) de référence 736.851/T (FORSTER) de section minimale 70 x 65 mm. Les profilés sont coupés d’onglet et assemblés",
+   "categorie_code": "profile",
+   "role_code": "ossature_cloison",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-19-002612-P005",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-19-002612-0007",
+   "document_id": "DOC-EFR-19-002612",
+   "configuration_id": "CFG-EFR-19-002612-AUTO",
+   "reference_id": "REF-FORSTER-910910",
+   "reference_brute": "910 910",
+   "designation_document": "he n°1 : Vue en élévation de l’élément testé EFR-19-002612 PROCES-VERBAL 150 910 3940 910 910 910 150 AUC vitrage [e] NININOOOoOoIIIIIKKKKKK AR AORD LIBRE, KR RRRRRRe vitrage 8",
+   "categorie_code": "accessoire",
+   "role_code": "accessoire",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-19-002612-P013-PLPLANCHE-1",
+   "statut_extraction": "a_verifier"
+  }
+ ],
+ "caracteristique_document": [],
+ "dc_profile": [],
+ "dc_vitrage": [
+  {
+   "document_composant_id": "DC-EFR-19-002612-REC-24-1-0001",
+   "gamme": "PYROBEL",
+   "designation": "PYROBEL",
+   "type_vitrage_code": "monolithique",
+   "epaisseur_mm": null,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "classe_nominale": null,
+   "intercalaire_min_mm": null,
+   "intercalaire_max_mm": null,
+   "composition_detaillee_disponible": null
+  },
+  {
+   "document_composant_id": "DC-EFR-19-002612-0001",
+   "gamme": "PYROBEL",
+   "designation": "PYROBEL",
+   "type_vitrage_code": "monolithique",
+   "epaisseur_mm": null,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "classe_nominale": null,
+   "intercalaire_min_mm": null,
+   "intercalaire_max_mm": null,
+   "composition_detaillee_disponible": null
+  },
+  {
+   "document_composant_id": "DC-EFR-19-002612-0002",
+   "gamme": "PYROBEL",
+   "designation": "PYROBEL T",
+   "type_vitrage_code": "monolithique",
+   "epaisseur_mm": null,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "classe_nominale": null,
+   "intercalaire_min_mm": null,
+   "intercalaire_max_mm": null,
+   "composition_detaillee_disponible": null
+  }
+ ],
+ "dc_serrure": [],
+ "dc_articulation": [],
+ "dc_ferme_porte": [],
+ "dc_joint": [],
+ "dc_fixation": [],
+ "dimension_format": [
+  {
+   "id": "FMT-EFR-19-002612-0001",
+   "document_id": "DOC-EFR-19-002612",
+   "configuration_id": "CFG-EFR-19-002612-AUTO",
+   "document_composant_id": null,
+   "objet_code": "cloison",
+   "libelle": "Hauteur maximale de la cloison vitrée : 4610 mm",
+   "groupe_alternative": null,
+   "orientation": null,
+   "source_page_id": "SP-EFR-19-002612-P009",
+   "statut_extraction": "a_verifier"
+  }
+ ],
+ "dimension": [
+  {
+   "id": "FMT-EFR-19-002612-0001-hauteur-autorise_max",
+   "format_id": "FMT-EFR-19-002612-0001",
+   "grandeur_code": "hauteur",
+   "nature_code": "autorise_max",
+   "operateur_code": "le",
+   "valeur_origine": "4610",
+   "unite_origine": "mm",
+   "valeur_norm": 4610.0,
+   "unite_norm_code": "mm",
+   "sans_limite": 0,
+   "tolerance_plus": null,
+   "tolerance_moins": null,
+   "statut_extraction": "a_verifier"
+  }
+ ],
+ "support_pose": [
+  {
+   "id": "SUP-EFR-19-002612-0001",
+   "document_id": "DOC-EFR-19-002612",
+   "configuration_id": "CFG-EFR-19-002612-AUTO",
+   "type_support_code": "beton_arme",
+   "masse_vol_min_kg_m3": 2200.0,
+   "masse_vol_operateur_code": "ge",
+   "epaisseur_min_mm": null,
+   "epaisseur_operateur_code": null,
+   "classement_pv_exige": null,
+   "prolongation_laterale": null,
+   "imposte_autorisee": null,
+   "allege_autorisee": null,
+   "pas_fixation_max_mm": null,
+   "condition_texte": "Mention détectée automatiquement : 3 La cloison vitrée est fixée sur du béton armé ayant une masse volumique d’au moins 2200 kg/m et une épaisseur d’au moins 200 mm. La fi",
+   "source_page_id": "SP-EFR-19-002612-P001"
+  }
+ ],
+ "restriction": [
+  {
+   "id": "RST-EFR-19-002612-0001",
+   "document_id": "DOC-EFR-19-002612",
+   "configuration_id": "CFG-EFR-19-002612-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu indifférent.",
+   "texte_source": "Sens de feu indifférent.",
+   "source_page_id": "SP-EFR-19-002612-P001"
+  },
+  {
+   "id": "RST-EFR-19-002612-0002",
+   "document_id": "DOC-EFR-19-002612",
+   "configuration_id": "CFG-EFR-19-002612-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-19-002612-P001"
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTL-EFR-19-002612-REC-24-1-0001",
+   "document_id": "DOC-EFR-19-002612-REC-24-1",
+   "table_cible": null,
+   "ligne_id": null,
+   "type_code": "extraction_auto",
+   "description": "Document extrait automatiquement (OCR) : pages PDF 1-2 de « FR EFR-19-002612 - AGC - cloison vitrage bab FUEGO light EI60 - PROAGC - 11-10-2029.pdf ». Relire classement, dates, composants et dimensions.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTL-EFR-19-002612-0001",
+   "document_id": "DOC-EFR-19-002612",
+   "table_cible": null,
+   "ligne_id": null,
+   "type_code": "extraction_auto",
+   "description": "Document extrait automatiquement (OCR) : pages PDF 3-19 de « FR EFR-19-002612 - AGC - cloison vitrage bab FUEGO light EI60 - PROAGC - 11-10-2029.pdf ». Relire classement, dates, composants et dimensions.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTL-EFR-19-002612-0002",
+   "document_id": "DOC-EFR-19-002612",
+   "table_cible": null,
+   "ligne_id": null,
+   "type_code": "non_trouve",
+   "description": "Classe(s) EI 60 du nom de fichier non retrouvée(s) dans le tableau de classement OCR : vérifier sur l'original.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

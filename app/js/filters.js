@@ -27,6 +27,7 @@ const FILTRES = {
                    AND dm.grandeur_code = 'hauteur' AND dm.nature_code = 'autorise_max' AND (dm.sans_limite = 1 OR dm.valeur_norm >= :hauteur))`, param: Number },
   texte: { sql: `EXISTS (SELECT 1 FROM v_document_rattachement r2 JOIN recherche_index ri ON ri.document_id = r2.document_id WHERE r2.pv_principal_id = pv.id AND ri.texte LIKE '%' || :texte || '%')`, param: normTxt },
   valide: { sql: `ve.date_validite_effective >= :valide` },
+  verifie: { sql: `pv.fichier_source_id NOT LIKE 'FIC-AUTO%' AND :verifie = '1'` },
 };
 
 export function buildQuery(state) {
@@ -39,7 +40,7 @@ export function buildQuery(state) {
     params[':' + k] = def.param ? def.param(v) : v;
     if (def.extra) for (const [ek, ev] of Object.entries(def.extra)) params[':' + ek] = state[ek] ?? ev;
   }
-  const sql = `SELECT pv.id, pv.numero_normalise, pv.objet, ve.date_validite_effective, ve.derniere_reconduction,
+  const sql = `SELECT pv.id, pv.numero_normalise, pv.objet, pv.statut_extraction, (pv.fichier_source_id LIKE 'FIC-AUTO%') AS auto, ve.date_validite_effective, ve.derniere_reconduction,
       (SELECT group_concat(DISTINCT s.nom) FROM document_systeme ds JOIN systeme s ON s.id = ds.systeme_id WHERE ds.document_id = pv.id AND ds.role = 'principal') AS systemes,
       (SELECT group_concat(DISTINCT f.classe_normalisee) FROM v_document_rattachement r2 JOIN performance f ON f.document_id = r2.document_id WHERE r2.pv_principal_id = pv.id) AS classements,
       (SELECT count(*) FROM document_relation dr WHERE dr.document_cible_id = pv.id AND dr.type_relation_code = 'etend') AS nb_extensions,

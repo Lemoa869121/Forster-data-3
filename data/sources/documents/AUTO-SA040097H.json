@@ -1,0 +1,382 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-AUTO-SA040097H",
+   "nom_fichier": "FR SA 04 00 97 H - E30 E60 - Porte 1 et 2 vantaux PRESTO - DAS CNPP - 13-10-2029.pdf",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": "DAS CNPP",
+   "commentaire": "Extraction automatique (texte natif + OCR tesseract) — relecture requise"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-SA-04-00-97-H",
+   "numero": "SA 04 00 97 H",
+   "numero_normalise": "SA 04 00 97 H",
+   "revision": null,
+   "type_code": "pv_das",
+   "domaine_code": "feu",
+   "objet": "les déclencheurs électromagnétiques de marque DORMA référence EM 500 A (50 daN) il conviendra d’installer un organe de déclenchement clairement identifié, facilement accessible et",
+   "laboratoire_id": "ORG-CNPP",
+   "date_emission": "2008-06-17",
+   "date_validite": "2019-10-13",
+   "validite_liee_au_pv": 0,
+   "nb_pages": 51,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-AUTO-SA040097H",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique — relecture requise"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-SA-04-00-97-H-P001",
+   "document_id": "DOC-SA-04-00-97-H",
+   "page_doc": 1,
+   "page_doc_total": 51,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "page_garde",
+   "libelle": "page PDF 1"
+  },
+  {
+   "id": "SP-SA-04-00-97-H-P007",
+   "document_id": "DOC-SA-04-00-97-H",
+   "page_doc": 7,
+   "page_doc_total": 51,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": "page PDF 7"
+  },
+  {
+   "id": "SP-SA-04-00-97-H-P010",
+   "document_id": "DOC-SA-04-00-97-H",
+   "page_doc": 10,
+   "page_doc_total": 51,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": "page PDF 10"
+  },
+  {
+   "id": "SP-SA-04-00-97-H-P011",
+   "document_id": "DOC-SA-04-00-97-H",
+   "page_doc": 11,
+   "page_doc_total": 51,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": "page PDF 11"
+  },
+  {
+   "id": "SP-SA-04-00-97-H-P027",
+   "document_id": "DOC-SA-04-00-97-H",
+   "page_doc": 27,
+   "page_doc_total": 51,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": "page PDF 27"
+  },
+  {
+   "id": "SP-SA-04-00-97-H-P028",
+   "document_id": "DOC-SA-04-00-97-H",
+   "page_doc": 28,
+   "page_doc_total": 51,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": "page PDF 28"
+  }
+ ],
+ "document_relation": [],
+ "document_organisme": [
+  {
+   "document_id": "DOC-SA-04-00-97-H",
+   "organisme_id": "ORG-CNPP",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-SA-04-00-97-H-P001"
+  },
+  {
+   "document_id": "DOC-SA-04-00-97-H",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-SA-04-00-97-H-P001"
+  }
+ ],
+ "document_signataire": [],
+ "document_norme": [
+  {
+   "document_id": "DOC-SA-04-00-97-H",
+   "norme_id": "NRM-EN-1154",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-04-00-97-H-P001"
+  },
+  {
+   "document_id": "DOC-SA-04-00-97-H",
+   "norme_id": "NRM-EN-1155",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-04-00-97-H-P001"
+  },
+  {
+   "document_id": "DOC-SA-04-00-97-H",
+   "norme_id": "NRM-NF-S-61-937",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-04-00-97-H-P001"
+  },
+  {
+   "document_id": "DOC-SA-04-00-97-H",
+   "norme_id": "NRM-NF-S-61-961",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-04-00-97-H-P001"
+  }
+ ],
+ "document_essai": [],
+ "document_systeme": [
+  {
+   "document_id": "DOC-SA-04-00-97-H",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-SA-04-00-97-H-P001"
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-SA-04-00-97-H-AUTO",
+   "document_id": "DOC-SA-04-00-97-H",
+   "code": "AUTO",
+   "libelle": "Porte 1 et 2 vantaux PRESTO",
+   "typologie_code": "bloc_porte",
+   "systeme_id": "SYS-PRESTO-50",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": 1,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [],
+ "perf_feu": [],
+ "document_composant": [
+  {
+   "id": "DC-SA-04-00-97-H-0001",
+   "document_id": "DOC-SA-04-00-97-H",
+   "configuration_id": "CFG-SA-04-00-97-H-AUTO",
+   "reference_id": "REF-FORSTER-901253",
+   "reference_brute": "901 253",
+   "designation_document": "u d'intérêt général, les travaux envisagés pouvant être és par ses soins. or SIRET 342 901 253 00050 - N° TVA intracommunautaire FR 50 342 901 253 - Code NAF 804 C - RC Evreux 87 B 299",
+   "categorie_code": "parclose",
+   "role_code": "maintien_remplissage",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-SA-04-00-97-H-P007",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-SA-04-00-97-H-0002",
+   "document_id": "DOC-SA-04-00-97-H",
+   "configuration_id": "CFG-SA-04-00-97-H-AUTO",
+   "reference_id": "REF-DORMA-TS93",
+   "reference_brute": "TS 93",
+   "designation_document": "al de conformité Force du ferme MPA NRW EN 1154 2003-04 certificat 0432 BPR 0008 DORMA TS 93 MPA NRW EN 1154 2003-04 certificat 0432 BPR 0008 DORMA TS 92 MPA NRW EN 1154 2003-04 cert",
+   "categorie_code": "ferme_porte",
+   "role_code": "fermeture",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-SA-04-00-97-H-P010",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-SA-04-00-97-H-0003",
+   "document_id": "DOC-SA-04-00-97-H",
+   "configuration_id": "CFG-SA-04-00-97-H-AUTO",
+   "reference_id": "REF-DORMA-TS92",
+   "reference_brute": "TS 92",
+   "designation_document": "tificat 0432 BPR 0008 DORMA TS 93 MPA NRW EN 1154 2003-04 certificat 0432 BPR 0008 DORMA TS 92 MPA NRW EN 1154 2003-04 certificat 0432 BPR 0051 DORMA TS 91 MPA NRVW EN 1154 2003-04 cer",
+   "categorie_code": "ferme_porte",
+   "role_code": "fermeture",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-SA-04-00-97-H-P010",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-SA-04-00-97-H-0004",
+   "document_id": "DOC-SA-04-00-97-H",
+   "configuration_id": "CFG-SA-04-00-97-H-AUTO",
+   "reference_id": "REF-DORMA-TS91",
+   "reference_brute": "TS 91",
+   "designation_document": "rtificat 0432 BPR 0008 DORMA TS 92 MPA NRW EN 1154 2003-04 certificat 0432 BPR 0051 DORMA TS 91 MPA NRVW EN 1154 2003-04 certificat 0432 BPR 0051 DORMA TS 90 MPA NRW EN 1154 1996 + A1 :",
+   "categorie_code": "ferme_porte",
+   "role_code": "fermeture",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-SA-04-00-97-H-P010",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-SA-04-00-97-H-0005",
+   "document_id": "DOC-SA-04-00-97-H",
+   "configuration_id": "CFG-SA-04-00-97-H-AUTO",
+   "reference_id": "REF-DORMA-TS90",
+   "reference_brute": "TS 90",
+   "designation_document": "tificat 0432 BPR 0051 DORMA TS 91 MPA NRVW EN 1154 2003-04 certificat 0432 BPR 0051 DORMA TS 90 MPA NRW EN 1154 1996 + A1 :2002 certificat 0432 BPR 0048 DORMA TS 83 MPA NRW EN 1154 20",
+   "categorie_code": "ferme_porte",
+   "role_code": "fermeture",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-SA-04-00-97-H-P010",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-SA-04-00-97-H-0006",
+   "document_id": "DOC-SA-04-00-97-H",
+   "configuration_id": "CFG-SA-04-00-97-H-AUTO",
+   "reference_id": "REF-DORMA-TS83",
+   "reference_brute": "TS 83",
+   "designation_document": "432 BPR 0051 DORMA TS 90 MPA NRW EN 1154 1996 + A1 :2002 certificat 0432 BPR 0048 DORMA TS 83 MPA NRW EN 1154 2003-04 certificat 0432 BPR 0007 2à6 DORMA TS 73V MPA NRVW EN 1154 2003-0",
+   "categorie_code": "ferme_porte",
+   "role_code": "fermeture",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-SA-04-00-97-H-P010",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-SA-04-00-97-H-0007",
+   "document_id": "DOC-SA-04-00-97-H",
+   "configuration_id": "CFG-SA-04-00-97-H-AUTO",
+   "reference_id": "REF-DORMA-TS72",
+   "reference_brute": "TS 72",
+   "designation_document": "432 BPR 0007 2à6 DORMA TS 73V MPA NRVW EN 1154 2003-04 certificat 0432 BPR 0007 2à4 DORMA TS 72 MPA NRW EN 1154 2003-04 certificat 0432 BPR 0054 2à4 Dispositif de retenue : voir tablea",
+   "categorie_code": "ferme_porte",
+   "role_code": "fermeture",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-SA-04-00-97-H-P010",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-SA-04-00-97-H-0008",
+   "document_id": "DOC-SA-04-00-97-H",
+   "configuration_id": "CFG-SA-04-00-97-H-AUTO",
+   "reference_id": "REF-FORSTER-948011",
+   "reference_brute": "948011",
+   "designation_document": "10 405 Fin de course EFF EFF 10 405 Boîtier anti-réarmement : Marque Référence FORSTER . 948011 BR 02 03 MECALECTRO",
+   "categorie_code": "joint_intumescent",
+   "role_code": "etancheite",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-SA-04-00-97-H-P011",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-SA-04-00-97-H-0009",
+   "document_id": "DOC-SA-04-00-97-H",
+   "configuration_id": "CFG-SA-04-00-97-H-AUTO",
+   "reference_id": "REF-DORMA-TS73",
+   "reference_brute": "TS 73",
+   "designation_document": "GEUR DE CHAQUE VANTAIL Configuration 1 : TS 90/TS 91/TS 92/TS 93 Configuration 2 : TS 72/TS 73 V/TS 83 Configuration 1 Configuration 2 Largeur du vantail validé 1400 mm 1300 mm 1200",
+   "categorie_code": "ferme_porte",
+   "role_code": "fermeture",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-SA-04-00-97-H-P027",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-SA-04-00-97-H-0010",
+   "document_id": "DOC-SA-04-00-97-H",
+   "configuration_id": "CFG-SA-04-00-97-H-AUTO",
+   "reference_id": "REF-FORSTER-900900",
+   "reference_brute": "900 900",
+   "designation_document": "du | 1400 | 1300 | 1200 | 1100 | 1000 vantail en mm Implantation des ventouses / Axes 900 900 900 900 700 des paumelles ( en mm) Ces valeurs de poses des déclencheurs électromagnéti",
+   "categorie_code": "ventouse",
+   "role_code": "controle_acces",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-SA-04-00-97-H-P028",
+   "statut_extraction": "a_verifier"
+  }
+ ],
+ "caracteristique_document": [],
+ "dc_profile": [],
+ "dc_vitrage": [],
+ "dc_serrure": [],
+ "dc_articulation": [],
+ "dc_ferme_porte": [],
+ "dc_joint": [],
+ "dc_fixation": [],
+ "dimension_format": [],
+ "dimension": [],
+ "support_pose": [],
+ "restriction": [],
+ "controle_humain": [
+  {
+   "id": "CTL-SA-04-00-97-H-0001",
+   "document_id": "DOC-SA-04-00-97-H",
+   "table_cible": null,
+   "ligne_id": null,
+   "type_code": "extraction_auto",
+   "description": "Document extrait automatiquement (OCR) : pages PDF 1-51 de « FR SA 04 00 97 H - E30 E60 - Porte 1 et 2 vantaux PRESTO - DAS CNPP - 13-10-2029.pdf ». Relire classement, dates, composants et dimensions.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

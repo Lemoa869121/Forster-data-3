@@ -20,7 +20,8 @@ INSERT INTO ref_type_document (code, libelle, description) VALUES
  ('rapport_classement','Rapport de classement','Rapport de classement (EN 13501-2)'),
  ('additif','Additif','Additif / modification'),
  ('avis_chantier','Avis de chantier','Avis ponctuel du laboratoire'),
- ('document_reference','Document de référence cité','Document cité, non présent dans le corpus');
+ ('document_reference','Document de référence cité','Document cité, non présent dans le corpus'),
+ ('pv_das','Procès-verbal DAS (CNPP)','Procès-verbal d''essais / homologation de dispositif actionné de sécurité (NF S 61-937), CNPP');
 
 INSERT INTO ref_type_relation (code, libelle, description) VALUES
  ('reconduit','reconduit','Source = reconduction ; cible = PV reconduit'),
@@ -47,7 +48,7 @@ INSERT INTO ref_domaine_performance (code, libelle) VALUES
 
 INSERT INTO ref_typologie (code, libelle) VALUES
  ('bloc_porte','Bloc-porte'),('cloison_vitree','Cloison vitrée'),('cloison_vitree_bord_a_bord','Cloison vitrée à vitrages collés bord à bord'),
- ('facade_vitree','Façade vitrée'),('chassis_fixe','Châssis fixe');
+ ('facade_vitree','Façade vitrée'),('chassis_fixe','Châssis fixe'),('fenetre','Fenêtre / châssis ouvrant'),('verriere','Verrière'),('plancher_vitre','Plancher vitré');
 
 INSERT INTO ref_categorie_composant (code, libelle, famille) VALUES
  ('profile','Profilé','profiles'),('tube_acier','Tube / plat acier','profiles'),('manchon','Manchon d''assemblage','profiles'),
@@ -153,7 +154,8 @@ INSERT INTO ref_type_zone_source (code, libelle) VALUES
 
 INSERT INTO ref_type_controle (code, libelle) VALUES
  ('ocr_degrade','Texte OCR dégradé'),('planche_image','Planche image sans couche texte'),('incoherence','Incohérence interne ou inter-documents'),
- ('non_trouve','Information non trouvée'),('document_absent','Document cité mais non fourni'),('ambiguite_attribution','Attribution de valeur ambiguë');
+ ('non_trouve','Information non trouvée'),('document_absent','Document cité mais non fourni'),('ambiguite_attribution','Attribution de valeur ambiguë'),
+ ('extraction_auto','Extraction automatique à relire');
 
 INSERT INTO ref_critere_feu (code, libelle) VALUES
  ('R','Capacité portante'),('E','Étanchéité au feu'),('I','Isolation thermique'),('I1','Isolation thermique I1'),

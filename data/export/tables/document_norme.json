@@ -168,6 +168,2260 @@
    "role": "exclusion",
    "paragraphe": "§8",
    "source_page_id": "SP-EFR-24-000553-R1-P012-8-EXCLUSIONS"
+  },
+  {
+   "document_id": "DOC-08-A-287",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-08-A-287-P001"
+  },
+  {
+   "document_id": "DOC-08-A-287-EXT-19-3",
+   "norme_id": "NRM-EN-1364-3",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-08-A-287-EXT-19-3-P001"
+  },
+  {
+   "document_id": "DOC-08-A-287-EXT-23-5",
+   "norme_id": "NRM-EN-179",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-08-A-287-EXT-23-5-P001"
+  },
+  {
+   "document_id": "DOC-08-A-287-EXT-22-4",
+   "norme_id": "NRM-EN-1634-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-08-A-287-EXT-22-4-P001"
+  },
+  {
+   "document_id": "DOC-08-A-342-REC-19-2",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-08-A-342-REC-19-2-P001"
+  },
+  {
+   "document_id": "DOC-08-A-342-REC-19-2",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-08-A-342-REC-19-2-P001"
+  },
+  {
+   "document_id": "DOC-08-A-342",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-08-A-342-P001"
+  },
+  {
+   "document_id": "DOC-08-A-342-EXT-12-1",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-08-A-342-EXT-12-1-P001"
+  },
+  {
+   "document_id": "DOC-08-A-343",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-08-A-343-P001"
+  },
+  {
+   "document_id": "DOC-08-A-343-EXT-23-5",
+   "norme_id": "NRM-EN-179",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-08-A-343-EXT-23-5-P001"
+  },
+  {
+   "document_id": "DOC-08-A-343-EXT-22-4",
+   "norme_id": "NRM-EN-1634-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-08-A-343-EXT-22-4-P001"
+  },
+  {
+   "document_id": "DOC-09-A-496",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-09-A-496-P001"
+  },
+  {
+   "document_id": "DOC-09-A-496-EXT-11-1",
+   "norme_id": "NRM-EN-1364-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-09-A-496-EXT-11-1-P001"
+  },
+  {
+   "document_id": "DOC-09-A-496-EXT-12-2",
+   "norme_id": "NRM-EN-1634-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-09-A-496-EXT-12-2-P001"
+  },
+  {
+   "document_id": "DOC-09-A-496-EXT-12-2",
+   "norme_id": "NRM-EN-1364-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-09-A-496-EXT-12-2-P001"
+  },
+  {
+   "document_id": "DOC-09-A-496-EXT-12-2",
+   "norme_id": "NRM-EN-1634-1-2000",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-09-A-496-EXT-12-2-P001"
+  },
+  {
+   "document_id": "DOC-09-A-496-EXT-15-3",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-09-A-496-EXT-15-3-P001"
+  },
+  {
+   "document_id": "DOC-09-A-497",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-09-A-497-P001"
+  },
+  {
+   "document_id": "DOC-09-A-497-EXT-11-1",
+   "norme_id": "NRM-EN-1364-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-09-A-497-EXT-11-1-P001"
+  },
+  {
+   "document_id": "DOC-09-A-497-EXT-12-2",
+   "norme_id": "NRM-EN-1634-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-09-A-497-EXT-12-2-P001"
+  },
+  {
+   "document_id": "DOC-09-A-497-EXT-12-2",
+   "norme_id": "NRM-EN-1364-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-09-A-497-EXT-12-2-P001"
+  },
+  {
+   "document_id": "DOC-09-A-497-EXT-12-2",
+   "norme_id": "NRM-EN-1634-1-2000",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-09-A-497-EXT-12-2-P001"
+  },
+  {
+   "document_id": "DOC-09-A-497-EXT-12-3",
+   "norme_id": "NRM-EN-1634-1-2008",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-09-A-497-EXT-12-3-P001"
+  },
+  {
+   "document_id": "DOC-09-A-497-EXT-15-3",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-09-A-497-EXT-15-3-P001"
+  },
+  {
+   "document_id": "DOC-09-A-497-EXT-22-7",
+   "norme_id": "NRM-EN-1634-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-09-A-497-EXT-22-7-P001"
+  },
+  {
+   "document_id": "DOC-10-A-631",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-10-A-631-P001"
+  },
+  {
+   "document_id": "DOC-10-A-632",
+   "norme_id": "NRM-EN-13501-2-2003",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-10-A-632-P001"
+  },
+  {
+   "document_id": "DOC-10-A-632-EXT-23-1",
+   "norme_id": "NRM-EN-179",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-10-A-632-EXT-23-1-P001"
+  },
+  {
+   "document_id": "DOC-10-A-650",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-10-A-650-P001"
+  },
+  {
+   "document_id": "DOC-10-A-650",
+   "norme_id": "NRM-EN-1364-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-10-A-650-P001"
+  },
+  {
+   "document_id": "DOC-10-A-650-EXT-23-4",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-10-A-650-EXT-23-4-P001"
+  },
+  {
+   "document_id": "DOC-11-A-091",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-11-A-091-P001"
+  },
+  {
+   "document_id": "DOC-11-A-091",
+   "norme_id": "NRM-EN-1364-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-11-A-091-P001"
+  },
+  {
+   "document_id": "DOC-11-A-504",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-11-A-504-P001"
+  },
+  {
+   "document_id": "DOC-11-A-504",
+   "norme_id": "NRM-EN-1364-1-2000",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-11-A-504-P001"
+  },
+  {
+   "document_id": "DOC-11-A-505",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-11-A-505-P001"
+  },
+  {
+   "document_id": "DOC-11-A-505",
+   "norme_id": "NRM-NF-S61-937",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-11-A-505-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-000468",
+   "norme_id": "NRM-EN-1634-1-2008",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-14-000468-P001"
+  },
+  {
+   "document_id": "DOC-11-A-506-EXT-23-4",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-11-A-506-EXT-23-4-P001"
+  },
+  {
+   "document_id": "DOC-11-A-571",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-11-A-571-P001"
+  },
+  {
+   "document_id": "DOC-11-A-571-EXT-X5",
+   "norme_id": "NRM-EN-1364-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-11-A-571-EXT-X5-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-003209",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-14-003209-P001"
+  },
+  {
+   "document_id": "DOC-11-A-572",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-11-A-572-P001"
+  },
+  {
+   "document_id": "DOC-11-A-572-EXT-X4",
+   "norme_id": "NRM-EN-1364-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-11-A-572-EXT-X4-P001"
+  },
+  {
+   "document_id": "DOC-11-A-572-EXT-22-2",
+   "norme_id": "NRM-EN-1634-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-11-A-572-EXT-22-2-P001"
+  },
+  {
+   "document_id": "DOC-11-A-572-EXT-25-6",
+   "norme_id": "NRM-EN-1634-1-2014",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-11-A-572-EXT-25-6-P001"
+  },
+  {
+   "document_id": "DOC-12-A-077-REC-17-1",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-077-REC-17-1-P001"
+  },
+  {
+   "document_id": "DOC-12-A-077-REC-17-1",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-077-REC-17-1-P001"
+  },
+  {
+   "document_id": "DOC-12-A-077",
+   "norme_id": "NRM-EN-13501-2-2004",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-077-P001"
+  },
+  {
+   "document_id": "DOC-12-A-077-EXT-17-2",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-077-EXT-17-2-P001"
+  },
+  {
+   "document_id": "DOC-12-A-077-EXT-17-3",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-077-EXT-17-3-P001"
+  },
+  {
+   "document_id": "DOC-12-A-077-EXT-17-3",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-077-EXT-17-3-P001"
+  },
+  {
+   "document_id": "DOC-12-A-078",
+   "norme_id": "NRM-EN-13501-2-2004",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-078-P001"
+  },
+  {
+   "document_id": "DOC-12-A-078-EXT-19-2",
+   "norme_id": "NRM-EN-1364-3",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-078-EXT-19-2-P001"
+  },
+  {
+   "document_id": "DOC-12-A-078-EXT-23-2",
+   "norme_id": "NRM-EN-179",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-078-EXT-23-2-P001"
+  },
+  {
+   "document_id": "DOC-12-A-078-EXT-23-3",
+   "norme_id": "NRM-EN-1634-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-078-EXT-23-3-P001"
+  },
+  {
+   "document_id": "DOC-12-A-079",
+   "norme_id": "NRM-EN-13501-2-2004",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-079-P001"
+  },
+  {
+   "document_id": "DOC-12-A-080",
+   "norme_id": "NRM-NF-S61-937",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-080-P001"
+  },
+  {
+   "document_id": "DOC-12-A-080",
+   "norme_id": "NRM-EN-13501-2-2004",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-080-P001"
+  },
+  {
+   "document_id": "DOC-12-A-080-EXT-23-2",
+   "norme_id": "NRM-EN-179",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-080-EXT-23-2-P001"
+  },
+  {
+   "document_id": "DOC-12-A-080-EXT-23-3",
+   "norme_id": "NRM-EN-1634-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-080-EXT-23-3-P001"
+  },
+  {
+   "document_id": "DOC-12-A-086",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-086-P001"
+  },
+  {
+   "document_id": "DOC-12-A-086",
+   "norme_id": "NRM-EN-1364-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-086-P001"
+  },
+  {
+   "document_id": "DOC-12-A-086",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-086-P001"
+  },
+  {
+   "document_id": "DOC-12-A-086-EXT-16-2",
+   "norme_id": "NRM-EN-1364-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-086-EXT-16-2-P001"
+  },
+  {
+   "document_id": "DOC-12-A-087",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-087-P001"
+  },
+  {
+   "document_id": "DOC-12-A-087-EXT-13-1",
+   "norme_id": "NRM-EN-1634-1-2008",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-087-EXT-13-1-P001"
+  },
+  {
+   "document_id": "DOC-12-A-087-EXT-13-1",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-087-EXT-13-1-P001"
+  },
+  {
+   "document_id": "DOC-12-A-090",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-090-P001"
+  },
+  {
+   "document_id": "DOC-12-A-090-EXT-25-5",
+   "norme_id": "NRM-EN-1364-3",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-090-EXT-25-5-P001"
+  },
+  {
+   "document_id": "DOC-12-A-091",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-091-P001"
+  },
+  {
+   "document_id": "DOC-12-A-091-EXT-25-5",
+   "norme_id": "NRM-EN-1364-3",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-091-EXT-25-5-P001"
+  },
+  {
+   "document_id": "DOC-12-A-461-REC-17-1",
+   "norme_id": "NRM-EN-13501-2-2003",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-461-REC-17-1-P001"
+  },
+  {
+   "document_id": "DOC-12-A-461-REC-17-1",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-461-REC-17-1-P001"
+  },
+  {
+   "document_id": "DOC-12-A-462-REC-17-1",
+   "norme_id": "NRM-EN-13501-2-2003",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-462-REC-17-1-P001"
+  },
+  {
+   "document_id": "DOC-12-A-462-REC-17-1",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-462-REC-17-1-P001"
+  },
+  {
+   "document_id": "DOC-12-A-765-REC-18-1",
+   "norme_id": "NRM-EN-1364-3-2006",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-765-REC-18-1-P001"
+  },
+  {
+   "document_id": "DOC-12-A-765",
+   "norme_id": "NRM-EN-13501-2-2007",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-12-A-765-P001"
+  },
+  {
+   "document_id": "DOC-13-A-1050-REC-19-1",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-1050-REC-19-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-1050-REC-19-1",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-1050-REC-19-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-1050",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-1050-P001"
+  },
+  {
+   "document_id": "DOC-13-A-1050",
+   "norme_id": "NRM-EN-1364-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-1050-P001"
+  },
+  {
+   "document_id": "DOC-13-A-1050-EXT-17-1",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-1050-EXT-17-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-176",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-176-P001"
+  },
+  {
+   "document_id": "DOC-13-A-176-EXT-14-1",
+   "norme_id": "NRM-EN-1364-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-176-EXT-14-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-176-EXT-22-5",
+   "norme_id": "NRM-EN-1634-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-176-EXT-22-5-P001"
+  },
+  {
+   "document_id": "DOC-13-A-177",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-177-P001"
+  },
+  {
+   "document_id": "DOC-13-A-177",
+   "norme_id": "NRM-EN-1364-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-177-P001"
+  },
+  {
+   "document_id": "DOC-13-A-177-EXT-18-4",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-177-EXT-18-4-P001"
+  },
+  {
+   "document_id": "DOC-13-A-177-EXT-18-6",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-177-EXT-18-6-P001"
+  },
+  {
+   "document_id": "DOC-13-A-178",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-178-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-001850",
+   "norme_id": "NRM-EN-1364-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-14-001850-P001"
+  },
+  {
+   "document_id": "DOC-13-A-178-EXT-18-4",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-178-EXT-18-4-P001"
+  },
+  {
+   "document_id": "DOC-13-A-180",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-180-P001"
+  },
+  {
+   "document_id": "DOC-13-A-180",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-180-P001"
+  },
+  {
+   "document_id": "DOC-13-A-184",
+   "norme_id": "NRM-EN-13501-2-2007",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-184-P001"
+  },
+  {
+   "document_id": "DOC-13-A-374",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-374-P001"
+  },
+  {
+   "document_id": "DOC-13-A-374",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-374-P001"
+  },
+  {
+   "document_id": "DOC-13-A-417",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-417-P001"
+  },
+  {
+   "document_id": "DOC-13-A-427-REC-19-1",
+   "norme_id": "NRM-EN-1364-3-2006",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-427-REC-19-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-427-REC-19-1",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-427-REC-19-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-427",
+   "norme_id": "NRM-EN-13501-2-2007",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-427-P001"
+  },
+  {
+   "document_id": "DOC-13-A-429",
+   "norme_id": "NRM-EN-1364-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-429-P001"
+  },
+  {
+   "document_id": "DOC-13-A-429-EXT-18-1",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-429-EXT-18-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-429-EXT-18-1",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-429-EXT-18-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-433-REC-24-2",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-433-REC-24-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-433-REC-24-2",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-433-REC-24-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-433",
+   "norme_id": "NRM-EN-13501-2-2007",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-433-P001"
+  },
+  {
+   "document_id": "DOC-13-A-433",
+   "norme_id": "NRM-EN-1364-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-433-P001"
+  },
+  {
+   "document_id": "DOC-13-A-439-REC-20-1",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-439-REC-20-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-439-REC-20-1",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-439-REC-20-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-439",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-439-P001"
+  },
+  {
+   "document_id": "DOC-13-A-439",
+   "norme_id": "NRM-EN-1634-1-2014",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-439-P001"
+  },
+  {
+   "document_id": "DOC-13-A-439",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-439-P001"
+  },
+  {
+   "document_id": "DOC-13-A-439-EXT-23-4",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-439-EXT-23-4-P001"
+  },
+  {
+   "document_id": "DOC-13-A-441",
+   "norme_id": "NRM-EN-13501-2-2007",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-441-P001"
+  },
+  {
+   "document_id": "DOC-13-A-441",
+   "norme_id": "NRM-EN-1634-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-441-P001"
+  },
+  {
+   "document_id": "DOC-13-A-441",
+   "norme_id": "NRM-EN-1634-1-2014",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-441-P001"
+  },
+  {
+   "document_id": "DOC-13-A-441",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-441-P001"
+  },
+  {
+   "document_id": "DOC-13-A-441-EXT-20-2",
+   "norme_id": "NRM-EN-1634-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-441-EXT-20-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-441-EXT-20-2",
+   "norme_id": "NRM-EN-179",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-441-EXT-20-2-P001"
+  },
+  {
+   "document_id": "DOC-13-A-441-EXT-23-3",
+   "norme_id": "NRM-EN-179",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-441-EXT-23-3-P001"
+  },
+  {
+   "document_id": "DOC-13-A-441-EXT-23-4",
+   "norme_id": "NRM-EN-1634-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-441-EXT-23-4-P001"
+  },
+  {
+   "document_id": "DOC-13-A-442",
+   "norme_id": "NRM-EN-13501-2-2007",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-442-P001"
+  },
+  {
+   "document_id": "DOC-13-A-442",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-442-P001"
+  },
+  {
+   "document_id": "DOC-13-A-443",
+   "norme_id": "NRM-EN-13501-2-2007",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-443-P001"
+  },
+  {
+   "document_id": "DOC-13-A-443",
+   "norme_id": "NRM-EN-1634-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-443-P001"
+  },
+  {
+   "document_id": "DOC-13-A-676",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-676-P001"
+  },
+  {
+   "document_id": "DOC-13-A-676",
+   "norme_id": "NRM-EN-1364-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-676-P001"
+  },
+  {
+   "document_id": "DOC-13-A-676-EXT-X4",
+   "norme_id": "NRM-EN-1364-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-676-EXT-X4-P001"
+  },
+  {
+   "document_id": "DOC-13-A-677",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-677-P001"
+  },
+  {
+   "document_id": "DOC-13-A-705-REC-19-1",
+   "norme_id": "NRM-EN-1364-3-2006",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-705-REC-19-1-P001"
+  },
+  {
+   "document_id": "DOC-13-A-705",
+   "norme_id": "NRM-EN-13501-2-2007",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-705-P001"
+  },
+  {
+   "document_id": "DOC-13-V-582",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-13-V-582-P001"
+  },
+  {
+   "document_id": "DOC-13-V-582",
+   "norme_id": "NRM-EN-13501-2-2007",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-13-V-582-P001"
+  },
+  {
+   "document_id": "DOC-13-V-582",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-V-582-P001"
+  },
+  {
+   "document_id": "DOC-13-V-582-EXT-14-1",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-V-582-EXT-14-1-P001"
+  },
+  {
+   "document_id": "DOC-14-A-001-REC-19-1",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-14-A-001-REC-19-1-P001"
+  },
+  {
+   "document_id": "DOC-14-A-001-REC-19-1",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-14-A-001-REC-19-1-P001"
+  },
+  {
+   "document_id": "DOC-14-A-001",
+   "norme_id": "NRM-EN-13501-2-2007",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-14-A-001-P001"
+  },
+  {
+   "document_id": "DOC-14-A-001",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-14-A-001-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-001306",
+   "norme_id": "NRM-EN-13501-2-2007",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-14-001306-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-001306-EXT-X4",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-14-001306-EXT-X4-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-001850",
+   "norme_id": "NRM-EN-13501-2-2007",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-14-001850-P001"
+  },
+  {
+   "document_id": "DOC-EFR-14-001852",
+   "norme_id": "NRM-EN-13501-2-2007",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-14-001852-P001"
+  },
+  {
+   "document_id": "DOC-EFR-15-002586",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-15-002586-P001"
+  },
+  {
+   "document_id": "DOC-EFR-15-002586",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-15-002586-P001"
+  },
+  {
+   "document_id": "DOC-EFR-15-002589",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-15-002589-P001"
+  },
+  {
+   "document_id": "DOC-EFR-15-002589",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-15-002589-P001"
+  },
+  {
+   "document_id": "DOC-EFR-16-003119",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-16-003119-P001"
+  },
+  {
+   "document_id": "DOC-EFR-16-V-004086",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-16-V-004086-P001"
+  },
+  {
+   "document_id": "DOC-EFR-16-V-004086-EXT-21-3",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-16-V-004086-EXT-21-3-P001"
+  },
+  {
+   "document_id": "DOC-EFR-17-003240",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-17-003240-P001"
+  },
+  {
+   "document_id": "DOC-EFR-17-003243",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-17-003243-P001"
+  },
+  {
+   "document_id": "DOC-EFR-17-003243",
+   "norme_id": "NRM-EN-179",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-17-003243-P001"
+  },
+  {
+   "document_id": "DOC-EFR-17-003917",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-17-003917-P001"
+  },
+  {
+   "document_id": "DOC-EFR-17-003917",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-17-003917-P001"
+  },
+  {
+   "document_id": "DOC-EFR-18-002293",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-18-002293-P001"
+  },
+  {
+   "document_id": "DOC-EFR-18-002293-EXT-23-2",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-18-002293-EXT-23-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-18-003683",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-18-003683-P001"
+  },
+  {
+   "document_id": "DOC-EFR-18-004879",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-18-004879-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-001169-REC-25-1",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-19-001169-REC-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-001242",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-19-001242-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-002101",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-19-002101-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-002303",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-19-002303-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-002612",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-19-002612-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-003008",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-19-003008-P001"
+  },
+  {
+   "document_id": "DOC-EFR-19-004227",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-19-004227-P001"
+  },
+  {
+   "document_id": "DOC-EFR-20-000597-REC-25-1",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-20-000597-REC-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-20-000858-REC-25-1",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-20-000858-REC-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-20-000858-REC-25-1",
+   "norme_id": "NRM-EN-1364-3",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-20-000858-REC-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-20-000858-EXT-21-1",
+   "norme_id": "NRM-EN-1364-3-2014",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-20-000858-EXT-21-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-20-001190-REC-25-1",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-20-001190-REC-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-21-000287",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-21-000287-P001"
+  },
+  {
+   "document_id": "DOC-EFR-21-001121",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-21-001121-P001"
+  },
+  {
+   "document_id": "DOC-EFR-21-002688",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-21-002688-P001"
+  },
+  {
+   "document_id": "DOC-EFR-21-002803-B",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-21-002803-B-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001302",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001302-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001302",
+   "norme_id": "NRM-EN-1634-1-2014",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001302-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001302",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001302-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001302",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001302-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001303",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001303-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001303-EXT-23-1",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001303-EXT-23-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001303-EXT-25-1",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001303-EXT-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001303-EXT-25-1",
+   "norme_id": "NRM-EN-1634-1-2014",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001303-EXT-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001303-EXT-25-1",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001303-EXT-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001303-EXT-25-2",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001303-EXT-25-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001303-EXT-25-2",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001303-EXT-25-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001303-EXT-25-2",
+   "norme_id": "NRM-EN-1634-1-2014",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001303-EXT-25-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001304",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001304-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001304-EXT-25-1",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001304-EXT-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001304-EXT-25-1",
+   "norme_id": "NRM-EN-1634-1-2014",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001304-EXT-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001304-EXT-25-1",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001304-EXT-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001304-EXT-25-2",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001304-EXT-25-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001304-EXT-25-2",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001304-EXT-25-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001304-EXT-25-2",
+   "norme_id": "NRM-EN-1634-1-2014",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001304-EXT-25-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001305",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001305-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001305-EXT-25-1",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001305-EXT-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001305-EXT-25-1",
+   "norme_id": "NRM-EN-1634-1-2014",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001305-EXT-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001305-EXT-25-1",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001305-EXT-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001305-EXT-25-2",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001305-EXT-25-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001305-EXT-25-2",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001305-EXT-25-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001305-EXT-25-2",
+   "norme_id": "NRM-EN-1634-1-2014",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001305-EXT-25-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001306",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001306-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001306-EXT-25-1",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001306-EXT-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001306-EXT-25-1",
+   "norme_id": "NRM-EN-1634-1-2014",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001306-EXT-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001306-EXT-25-1",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001306-EXT-25-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001306-EXT-25-2",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001306-EXT-25-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001306-EXT-25-2",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001306-EXT-25-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-001306-EXT-25-2",
+   "norme_id": "NRM-EN-1634-1-2014",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-001306-EXT-25-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-002110",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-002110-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-002110",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-002110-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-003781",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-003781-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-004035",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-004035-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-004035",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-004035-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-004035-EXT-23-1",
+   "norme_id": "NRM-EN-1364-3-2014",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-004035-EXT-23-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-004035-EXT-23-1",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-004035-EXT-23-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-004036",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-004036-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-004036",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-004036-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-004036-EXT-23-1",
+   "norme_id": "NRM-EN-1364-3-2014",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-004036-EXT-23-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-004036-EXT-23-1",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-004036-EXT-23-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-004036-EXT-23-1",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-004036-EXT-23-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-004162",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-004162-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-004162",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-004162-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-004372",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-004372-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-005108",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-005108-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-000307",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-23-000307-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-000307",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-23-000307-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-000308",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-23-000308-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-000308",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-23-000308-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-000844",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-23-000844-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-000844",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-23-000844-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-000844-EXT-23-1",
+   "norme_id": "NRM-EN-1364-3-2014",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-23-000844-EXT-23-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-000844-EXT-23-2",
+   "norme_id": "NRM-EN-1364-3-2014",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-23-000844-EXT-23-2-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-000844-EXT-23-3",
+   "norme_id": "NRM-EN-1364-3-2014",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-23-000844-EXT-23-3-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-001317",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-23-001317-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-001317",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-23-001317-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-001318",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-23-001318-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-001318",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-23-001318-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-001319",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-23-001319-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-001319",
+   "norme_id": "NRM-EN-179",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-23-001319-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-001319",
+   "norme_id": "NRM-EN-1125",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-23-001319-P001"
+  },
+  {
+   "document_id": "DOC-EFR-23-001319",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-23-001319-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-000551",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-000551-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-000551",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-000551-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-000552",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-000552-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-000552",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-000552-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-000797",
+   "norme_id": "NRM-EN-179",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-000797-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-000797",
+   "norme_id": "NRM-EN-1125",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-000797-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-000797",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-000797-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-000803",
+   "norme_id": "NRM-EN-179",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-000803-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-000803",
+   "norme_id": "NRM-EN-1125",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-000803-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-000803",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-000803-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-000806",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-000806-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-001040",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-001040-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-001040",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-001040-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-002608",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-002608-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-002608",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-002608-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-002609",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-002609-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-002609",
+   "norme_id": "NRM-EN-179",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-002609-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-002609",
+   "norme_id": "NRM-EN-1125",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-002609-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-002609",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-002609-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-002618",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-002618-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-002618",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-002618-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-002619",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-002619-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-002619",
+   "norme_id": "NRM-EN-179",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-002619-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-002619",
+   "norme_id": "NRM-EN-1125",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-002619-P001"
+  },
+  {
+   "document_id": "DOC-EFR-24-002619",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-24-002619-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-000242",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-000242-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-000243",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-000243-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-001248",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-001248-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-001248",
+   "norme_id": "NRM-EN-179",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-001248-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-001248",
+   "norme_id": "NRM-EN-1125",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-001248-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-001248",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-001248-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-002146",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-002146-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-002147",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-002147-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-002147",
+   "norme_id": "NRM-EN-179",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-002147-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-002147",
+   "norme_id": "NRM-EN-1125",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-002147-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-002147",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-002147-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-003456",
+   "norme_id": "NRM-EN-179",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-003456-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-003456",
+   "norme_id": "NRM-EN-1125",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-003456-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-003456",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-003456-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-003458",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-003458-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-003460",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-003460-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-003461",
+   "norme_id": "NRM-EN-179",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-003461-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-003461",
+   "norme_id": "NRM-EN-1125",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-003461-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-003461",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-003461-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-003729",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-003729-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-005120",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-005120-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-005121",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-005121-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-005538",
+   "norme_id": "NRM-EN-179",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-005538-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-005538",
+   "norme_id": "NRM-EN-1125",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-005538-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-005538",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-005538-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-005540",
+   "norme_id": "NRM-EN-179",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-005540-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-005540",
+   "norme_id": "NRM-EN-1125",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-005540-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-005540",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-005540-P001"
+  },
+  {
+   "document_id": "DOC-SA-04-00-97-H",
+   "norme_id": "NRM-EN-1154",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-04-00-97-H-P001"
+  },
+  {
+   "document_id": "DOC-SA-04-00-97-H",
+   "norme_id": "NRM-EN-1155",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-04-00-97-H-P001"
+  },
+  {
+   "document_id": "DOC-SA-04-00-97-H",
+   "norme_id": "NRM-NF-S-61-937",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-04-00-97-H-P001"
+  },
+  {
+   "document_id": "DOC-SA-04-00-97-H",
+   "norme_id": "NRM-NF-S-61-961",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-04-00-97-H-P001"
+  },
+  {
+   "document_id": "DOC-SA-05-00-05-D",
+   "norme_id": "NRM-EN-1154",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-05-00-05-D-P001"
+  },
+  {
+   "document_id": "DOC-SA-05-00-05-D",
+   "norme_id": "NRM-EN-1155",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-05-00-05-D-P001"
+  },
+  {
+   "document_id": "DOC-SA-05-00-05-D",
+   "norme_id": "NRM-NF-S-61-937",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-05-00-05-D-P001"
+  },
+  {
+   "document_id": "DOC-SA-05-00-05-D",
+   "norme_id": "NRM-NF-S-61-961",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-05-00-05-D-P001"
+  },
+  {
+   "document_id": "DOC-SA-05-01-35-F",
+   "norme_id": "NRM-EN-1154",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-05-01-35-F-P001"
+  },
+  {
+   "document_id": "DOC-SA-05-01-35-F",
+   "norme_id": "NRM-EN-1155",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-05-01-35-F-P001"
+  },
+  {
+   "document_id": "DOC-SA-05-01-35-F",
+   "norme_id": "NRM-NF-S-61-937",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-05-01-35-F-P001"
+  },
+  {
+   "document_id": "DOC-SA-05-01-35-F",
+   "norme_id": "NRM-NF-S-61-961",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-05-01-35-F-P001"
+  },
+  {
+   "document_id": "DOC-SA-11-01-09-B",
+   "norme_id": "NRM-NF-S61-937",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-11-01-09-B-P001"
+  },
+  {
+   "document_id": "DOC-SA-11-01-09-B",
+   "norme_id": "NRM-EN-1155",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-11-01-09-B-P001"
+  },
+  {
+   "document_id": "DOC-SA-11-01-09-B",
+   "norme_id": "NRM-NF-S-61-937",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-11-01-09-B-P001"
+  },
+  {
+   "document_id": "DOC-SA-11-01-09-B",
+   "norme_id": "NRM-EN-1154",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-11-01-09-B-P001"
+  },
+  {
+   "document_id": "DOC-SA-11-01-09-B",
+   "norme_id": "NRM-NF-S-61-961",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-11-01-09-B-P001"
+  },
+  {
+   "document_id": "DOC-SA-11-01-10-C",
+   "norme_id": "NRM-EN-1155",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-11-01-10-C-P001"
+  },
+  {
+   "document_id": "DOC-SA-11-01-10-C",
+   "norme_id": "NRM-NF-S-61-937",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-11-01-10-C-P001"
+  },
+  {
+   "document_id": "DOC-SA-11-01-10-C",
+   "norme_id": "NRM-EN-1154",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-11-01-10-C-P001"
+  },
+  {
+   "document_id": "DOC-SA-11-01-10-C",
+   "norme_id": "NRM-NF-S-61-961",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-11-01-10-C-P001"
+  },
+  {
+   "document_id": "DOC-SA-11-01-11",
+   "norme_id": "NRM-NF-S61-937",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-11-01-11-P001"
+  },
+  {
+   "document_id": "DOC-SA-11-01-11",
+   "norme_id": "NRM-EN-1155",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-11-01-11-P001"
+  },
+  {
+   "document_id": "DOC-SA-11-01-11",
+   "norme_id": "NRM-NF-S-61-937",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-11-01-11-P001"
+  },
+  {
+   "document_id": "DOC-SA-11-01-11",
+   "norme_id": "NRM-EN-1154",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-11-01-11-P001"
+  },
+  {
+   "document_id": "DOC-SA-11-01-11",
+   "norme_id": "NRM-NF-S-61-961",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-11-01-11-P001"
   }
  ]
 }

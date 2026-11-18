@@ -35,6 +35,11 @@
    "code": "ambiguite_attribution",
    "libelle": "Attribution de valeur ambiguë",
    "description": null
+  },
+  {
+   "code": "extraction_auto",
+   "libelle": "Extraction automatique à relire",
+   "description": null
   }
  ]
 }

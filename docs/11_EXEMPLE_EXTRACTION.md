@@ -9,7 +9,7 @@ Toute la base est un exemple réel : les 6 PDF ont été extraits dans `data/sou
 | [`data/export/exemples/extension_22-2_PV_11-A-507.json`](../data/export/exemples/extension_22-2_PV_11-A-507.json) | **Un document complet, toutes tables** (extension 22/2 : verrous thermiques, serrure à rouleau, 3 essais avec valeurs testées) |
 | [`data/export/exemples/PV_11-A-507_extrait.json`](../data/export/exemples/PV_11-A-507_extrait.json) | Classement + passage libre 1 vantail + kit serrure 907724 et sa composition |
 
-## Volume extrait
+## Volume extrait (6 PV saisis à la main — le corpus complet, extraction automatique comprise, est décrit dans [14_EXTRACTION_AUTOMATIQUE.md](14_EXTRACTION_AUTOMATIQUE.md))
 
 | Table | Lignes | | Table | Lignes |
 |---|---|---|---|---|

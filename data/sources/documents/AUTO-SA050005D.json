@@ -1,0 +1,208 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-AUTO-SA050005D",
+   "nom_fichier": "FR SA 05 00 05 D - E30 E60 - porte va et vient PRESTO - DAS CNPP - 21-02-2030.pdf",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": "DAS CNPP",
+   "commentaire": "Extraction automatique (texte natif + OCR tesseract) — relecture requise"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-SA-05-00-05-D",
+   "numero": "SA 05 00 05 D",
+   "numero_normalise": "SA 05 00 05 D",
+   "revision": null,
+   "type_code": "pv_das",
+   "domaine_code": "feu",
+   "objet": "les ventouses OPERA la gamme se distingue comme suit :",
+   "laboratoire_id": "ORG-CNPP",
+   "date_emission": "2005-02-21",
+   "date_validite": "2015-02-21",
+   "validite_liee_au_pv": 0,
+   "nb_pages": 35,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-AUTO-SA050005D",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique — relecture requise"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-SA-05-00-05-D-P001",
+   "document_id": "DOC-SA-05-00-05-D",
+   "page_doc": 1,
+   "page_doc_total": 35,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "page_garde",
+   "libelle": "page PDF 1"
+  },
+  {
+   "id": "SP-SA-05-00-05-D-P007",
+   "document_id": "DOC-SA-05-00-05-D",
+   "page_doc": 7,
+   "page_doc_total": 35,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": "page PDF 7"
+  },
+  {
+   "id": "SP-SA-05-00-05-D-P010",
+   "document_id": "DOC-SA-05-00-05-D",
+   "page_doc": 10,
+   "page_doc_total": 35,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": "page PDF 10"
+  }
+ ],
+ "document_relation": [],
+ "document_organisme": [
+  {
+   "document_id": "DOC-SA-05-00-05-D",
+   "organisme_id": "ORG-CNPP",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-SA-05-00-05-D-P001"
+  },
+  {
+   "document_id": "DOC-SA-05-00-05-D",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-SA-05-00-05-D-P001"
+  }
+ ],
+ "document_signataire": [],
+ "document_norme": [
+  {
+   "document_id": "DOC-SA-05-00-05-D",
+   "norme_id": "NRM-EN-1154",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-05-00-05-D-P001"
+  },
+  {
+   "document_id": "DOC-SA-05-00-05-D",
+   "norme_id": "NRM-EN-1155",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-05-00-05-D-P001"
+  },
+  {
+   "document_id": "DOC-SA-05-00-05-D",
+   "norme_id": "NRM-NF-S-61-937",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-05-00-05-D-P001"
+  },
+  {
+   "document_id": "DOC-SA-05-00-05-D",
+   "norme_id": "NRM-NF-S-61-961",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-05-00-05-D-P001"
+  }
+ ],
+ "document_essai": [],
+ "document_systeme": [
+  {
+   "document_id": "DOC-SA-05-00-05-D",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": "SP-SA-05-00-05-D-P001"
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-SA-05-00-05-D-AUTO",
+   "document_id": "DOC-SA-05-00-05-D",
+   "code": "AUTO",
+   "libelle": "porte va et vient PRESTO",
+   "typologie_code": "bloc_porte",
+   "systeme_id": "SYS-PRESTO-50",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": 1,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [],
+ "perf_feu": [],
+ "document_composant": [
+  {
+   "id": "DC-SA-05-00-05-D-0001",
+   "document_id": "DOC-SA-05-00-05-D",
+   "configuration_id": "CFG-SA-05-00-05-D-AUTO",
+   "reference_id": "REF-FORSTER-901253",
+   "reference_brute": "901 253",
+   "designation_document": "d'intérêt général, les travaux envisagés pouvant être pul iés par ses soins. SIRET 342 901 253 00050 - N° TVA intracommunautaire FR 50 342 901 253 + Code NAF 804 C - RC Evreux 87 B 299",
+   "categorie_code": "parclose",
+   "role_code": "maintien_remplissage",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-SA-05-00-05-D-P007",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-SA-05-00-05-D-0002",
+   "document_id": "DOC-SA-05-00-05-D",
+   "configuration_id": "CFG-SA-05-00-05-D-AUTO",
+   "reference_id": "REF-DORMA-TS550",
+   "reference_brute": "TS 550",
+   "designation_document": "avec les pivots de sol suivants voir tableau des réglages en annexe 7. Le pivot de sol « TS 550 » est destiné aux portes à double action. Il s’agit d’un pivot de sol comportant un à-cou",
+   "categorie_code": "ferme_porte",
+   "role_code": "fermeture",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-SA-05-00-05-D-P010",
+   "statut_extraction": "a_verifier"
+  }
+ ],
+ "caracteristique_document": [],
+ "dc_profile": [],
+ "dc_vitrage": [],
+ "dc_serrure": [],
+ "dc_articulation": [],
+ "dc_ferme_porte": [],
+ "dc_joint": [],
+ "dc_fixation": [],
+ "dimension_format": [],
+ "dimension": [],
+ "support_pose": [],
+ "restriction": [],
+ "controle_humain": [
+  {
+   "id": "CTL-SA-05-00-05-D-0001",
+   "document_id": "DOC-SA-05-00-05-D",
+   "table_cible": null,
+   "ligne_id": null,
+   "type_code": "extraction_auto",
+   "description": "Document extrait automatiquement (OCR) : pages PDF 1-35 de « FR SA 05 00 05 D - E30 E60 - porte va et vient PRESTO - DAS CNPP - 21-02-2030.pdf ». Relire classement, dates, composants et dimensions.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

@@ -23,6 +23,7 @@
   #detail h3 { margin:18px 0 6px; font-size:14px; } table { border-collapse:collapse; width:100%; font-size:12px; }
   th, td { border-bottom:1px solid var(--bd); padding:4px 6px; text-align:left; vertical-align:top; } th { background:var(--bg); position:sticky; top:0; }
   #fermer { float:right; } .vide { color:var(--mut); }
+  .badge { font-size:11px; font-weight:500; padding:1px 6px; border-radius:10px; background:#fff4d6; color:#7a5300; margin-left:6px; } .badge.ok { background:#e3f4e6; color:#1d5e2a; }
   @media (max-width: 760px) { main { grid-template-columns: 1fr; } }
 </style>
 </head>
@@ -45,6 +46,7 @@
       <label>Hauteur ≥ (mm)<input name="hauteur" type="number" min="0" step="10"></label>
     </div>
     <label>Valide au<input name="valide" type="date"></label>
+    <label style="display:flex;gap:6px;align-items:center;color:var(--fg)"><input type="checkbox" name="verifie" value="1"> Uniquement les PV saisis et relus</label>
     <details><summary>SQL généré</summary><pre id="sql"></pre></details>
   </form>
   <section><p id="compte"></p><div id="resultats"></div></section>

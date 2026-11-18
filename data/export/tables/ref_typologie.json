@@ -30,6 +30,21 @@
    "code": "chassis_fixe",
    "libelle": "Châssis fixe",
    "description": null
+  },
+  {
+   "code": "fenetre",
+   "libelle": "Fenêtre / châssis ouvrant",
+   "description": null
+  },
+  {
+   "code": "verriere",
+   "libelle": "Verrière",
+   "description": null
+  },
+  {
+   "code": "plancher_vitre",
+   "libelle": "Plancher vitré",
+   "description": null
   }
  ]
 }

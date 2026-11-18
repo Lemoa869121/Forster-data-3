@@ -1,0 +1,672 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-AUTO-EFR-25-005120",
+   "nom_fichier": "FR EFR-25-005120 - AGC - cloison PRESTO XS E30 E60 - COPRO - 23-04-2031.pdf",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": "AGC",
+   "code_marche": "COPRO",
+   "commentaire": "Extraction automatique (texte natif + OCR tesseract) — relecture requise"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-EFR-25-005120",
+   "numero": "EFR-25-005120",
+   "numero_normalise": "EFR-25-005120",
+   "revision": null,
+   "type_code": "pv_classement",
+   "domaine_code": "feu",
+   "objet": "Une cloison vitrée à ossature métallique acier.",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "date_emission": "2026-04-23",
+   "date_validite": "2031-04-23",
+   "validite_liee_au_pv": 0,
+   "nb_pages": 23,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-AUTO-EFR-25-005120",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique — relecture requise"
+  },
+  {
+   "id": "DOC-EFR-25-005120-EXT-26-1",
+   "numero": "26/1",
+   "numero_normalise": "EFR-25-005120/EXT-26/1",
+   "revision": null,
+   "type_code": "extension",
+   "domaine_code": "feu",
+   "objet": "Mise en œuvre de vitrages PYROBEL-T EW30-16 (AGC).",
+   "laboratoire_id": "ORG-EFECTIS-FRANCE",
+   "date_emission": "2026-04-23",
+   "date_validite": null,
+   "validite_liee_au_pv": 1,
+   "nb_pages": 4,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-AUTO-EFR-25-005120",
+   "ordre_dans_fichier": 2,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique — relecture requise"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-EFR-25-005120-P001",
+   "document_id": "DOC-EFR-25-005120",
+   "page_doc": 1,
+   "page_doc_total": 23,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "page_garde",
+   "libelle": "page PDF 1"
+  },
+  {
+   "id": "SP-EFR-25-005120-P005-PLPLANCHE-4",
+   "document_id": "DOC-EFR-25-005120",
+   "page_doc": 5,
+   "page_doc_total": 23,
+   "section": null,
+   "planche": "Planche 4",
+   "type_zone_code": "planche",
+   "libelle": "page PDF 5"
+  },
+  {
+   "id": "SP-EFR-25-005120-P011",
+   "document_id": "DOC-EFR-25-005120",
+   "page_doc": 11,
+   "page_doc_total": 23,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": "page PDF 11"
+  },
+  {
+   "id": "SP-EFR-25-005120-EXT-26-1-P001",
+   "document_id": "DOC-EFR-25-005120-EXT-26-1",
+   "page_doc": 1,
+   "page_doc_total": 4,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "page_garde",
+   "libelle": "page PDF 24"
+  }
+ ],
+ "document_relation": [
+  {
+   "id": "REL-EFR-25-005120-EXT-26-1-etend-EFR-25-005540",
+   "document_source_id": "DOC-EFR-25-005120-EXT-26-1",
+   "document_cible_id": "DOC-EFR-25-005540",
+   "type_relation_code": "etend",
+   "date_relation": "2026-04-23",
+   "commentaire": null,
+   "source_page_id": "SP-EFR-25-005120-EXT-26-1-P001"
+  },
+  {
+   "id": "REL-EFR-25-005120-EXT-26-1-etend-EFR-25-005120",
+   "document_source_id": "DOC-EFR-25-005120-EXT-26-1",
+   "document_cible_id": "DOC-EFR-25-005120",
+   "type_relation_code": "etend",
+   "date_relation": "2026-04-23",
+   "commentaire": null,
+   "source_page_id": "SP-EFR-25-005120-EXT-26-1-P001"
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-EFR-25-005120",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-EFR-25-005120-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-005120",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-EFR-25-005120-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-005120",
+   "organisme_id": "ORG-AGC",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-EFR-25-005120-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-005120-EXT-26-1",
+   "organisme_id": "ORG-EFECTIS-FRANCE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-EFR-25-005120-EXT-26-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-005120-EXT-26-1",
+   "organisme_id": "ORG-FORSTER",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-EFR-25-005120-EXT-26-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-005120-EXT-26-1",
+   "organisme_id": "ORG-AGC",
+   "role_code": "demandeur",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": "SP-EFR-25-005120-EXT-26-1-P001"
+  }
+ ],
+ "document_signataire": [],
+ "document_norme": [
+  {
+   "document_id": "DOC-EFR-25-005120",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-25-005120-P001"
+  }
+ ],
+ "document_essai": [],
+ "document_systeme": [
+  {
+   "document_id": "DOC-EFR-25-005120",
+   "systeme_id": "SYS-PRESTO-XS",
+   "role": "principal",
+   "source_page_id": "SP-EFR-25-005120-P001"
+  },
+  {
+   "document_id": "DOC-EFR-25-005120-EXT-26-1",
+   "systeme_id": "SYS-PRESTO-XS",
+   "role": "principal",
+   "source_page_id": "SP-EFR-25-005120-EXT-26-1-P001"
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-EFR-25-005120-AUTO",
+   "document_id": "DOC-EFR-25-005120",
+   "code": "AUTO",
+   "libelle": "cloison PRESTO XS E30 E60",
+   "typologie_code": "cloison_vitree",
+   "systeme_id": "SYS-PRESTO-XS",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": 1,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CFG-EFR-25-005120-EXT-26-1-AUTO",
+   "document_id": "DOC-EFR-25-005120-EXT-26-1",
+   "code": "AUTO",
+   "libelle": "Mise en œuvre de vitrages PYROBEL-T EW30-16 (AGC).",
+   "typologie_code": "cloison_vitree",
+   "systeme_id": "SYS-PRESTO-XS",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": 1,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PRF-EFR-25-005120-0001",
+   "document_id": "DOC-EFR-25-005120",
+   "configuration_id": "CFG-EFR-25-005120-AUTO",
+   "domaine_code": "feu",
+   "libelle_tel_qu_ecrit": "E 30 (nom de fichier)",
+   "classe_normalisee": "E 30",
+   "nature_code": "classement",
+   "condition_texte": "Classe annoncée par le nom de fichier, non lue dans le tableau OCR",
+   "source_page_id": "SP-EFR-25-005120-P001",
+   "statut_extraction": "non_trouve"
+  },
+  {
+   "id": "PRF-EFR-25-005120-0002",
+   "document_id": "DOC-EFR-25-005120",
+   "configuration_id": "CFG-EFR-25-005120-AUTO",
+   "domaine_code": "feu",
+   "libelle_tel_qu_ecrit": "E 60 (nom de fichier)",
+   "classe_normalisee": "E 60",
+   "nature_code": "classement",
+   "condition_texte": "Classe annoncée par le nom de fichier, non lue dans le tableau OCR",
+   "source_page_id": "SP-EFR-25-005120-P001",
+   "statut_extraction": "non_trouve"
+  }
+ ],
+ "perf_feu": [
+  {
+   "performance_id": "PRF-EFR-25-005120-0001",
+   "critere_r": 0,
+   "critere_e": 1,
+   "critere_i": 0,
+   "variante_i": null,
+   "critere_w": 0,
+   "critere_m": 0,
+   "critere_c": 0,
+   "classe_c": null,
+   "critere_s": 0,
+   "duree_min": 30,
+   "sens_feu": null
+  },
+  {
+   "performance_id": "PRF-EFR-25-005120-0002",
+   "critere_r": 0,
+   "critere_e": 1,
+   "critere_i": 0,
+   "variante_i": null,
+   "critere_w": 0,
+   "critere_m": 0,
+   "critere_c": 0,
+   "classe_c": null,
+   "critere_s": 0,
+   "duree_min": 60,
+   "sens_feu": null
+  }
+ ],
+ "document_composant": [
+  {
+   "id": "DC-EFR-25-005120-0001",
+   "document_id": "DOC-EFR-25-005120",
+   "configuration_id": "CFG-EFR-25-005120-AUTO",
+   "reference_id": "REF-AGC-PYROBEL",
+   "reference_brute": "PYROBEL",
+   "designation_document": "sature : PRESTO XS (FORSTER) Vitrages : PYROBEL-T EW60-16 (AGC) Demandeurs FORSTER",
+   "categorie_code": "vitrage",
+   "role_code": "remplissage",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-25-005120-P001",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-25-005120-0002",
+   "document_id": "DOC-EFR-25-005120",
+   "configuration_id": "CFG-EFR-25-005120-AUTO",
+   "reference_id": "REF-FORSTER-901202",
+   "reference_brute": "901.202",
+   "designation_document": "ntenus par un simple parclosage, réalisé soit : - par des profilés acier de référence 901.202 ou 901.203 (FORSTER) fixés sur l’ossature par boutons de parclose de référence 9",
+   "categorie_code": "profile",
+   "role_code": "ossature_cloison",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-25-005120-P005-PLPLANCHE-4",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-25-005120-0003",
+   "document_id": "DOC-EFR-25-005120",
+   "configuration_id": "CFG-EFR-25-005120-AUTO",
+   "reference_id": "REF-FORSTER-901203",
+   "reference_brute": "901.203",
+   "designation_document": "un simple parclosage, réalisé soit : - par des profilés acier de référence 901.202 ou 901.203 (FORSTER) fixés sur l’ossature par boutons de parclose de référence 906.580 (FOR",
+   "categorie_code": "profile",
+   "role_code": "ossature_cloison",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-25-005120-P005-PLPLANCHE-4",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-25-005120-0004",
+   "document_id": "DOC-EFR-25-005120",
+   "configuration_id": "CFG-EFR-25-005120-AUTO",
+   "reference_id": "REF-FORSTER-906580",
+   "reference_brute": "906.580",
+   "designation_document": "2 ou 901.203 (FORSTER) fixés sur l’ossature par boutons de parclose de référence 906.580 (FORSTER) placés à 70 mm des angles puis répartis au pas maximal de 300 mm ;",
+   "categorie_code": "profile",
+   "role_code": "ossature_cloison",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-25-005120-P005-PLPLANCHE-4",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-25-005120-0005",
+   "document_id": "DOC-EFR-25-005120",
+   "configuration_id": "CFG-EFR-25-005120-AUTO",
+   "reference_id": "REF-FORSTER-948004",
+   "reference_brute": "948.004",
+   "designation_document": "les ailettes sont respectivement associées à des bandes de fibres minérales de référence 948.004 et de section 15 x 4 mm pouvant être étanchées par silicone neutre. Un joint intumescent",
+   "categorie_code": "profile",
+   "role_code": "ossature_cloison",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-25-005120-P005-PLPLANCHE-4",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-25-005120-0006",
+   "document_id": "DOC-EFR-25-005120",
+   "configuration_id": "CFG-EFR-25-005120-AUTO",
+   "reference_id": "REF-FORSTER-978050",
+   "reference_brute": "978.050",
+   "designation_document": "15 x 4 mm pouvant être étanchées par silicone neutre. Un joint intumescent de référence 978.050 (FORSTER) et de section 10 x 1,5 mm est installé en fond de feuillure des profilés interr",
+   "categorie_code": "profile",
+   "role_code": "ossature_cloison",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-25-005120-P005-PLPLANCHE-4",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-25-005120-0007",
+   "document_id": "DOC-EFR-25-005120",
+   "configuration_id": "CFG-EFR-25-005120-AUTO",
+   "reference_id": "REF-FORSTER-970400",
+   "reference_brute": "970.400",
+   "designation_document": "ales. Le calage de chacun des vitrages est réalisé par deux cales d’assises de référence 970.400 (FORSTER) de dimensions 80 x 16 x 3 ou 5 mm. Elles sont placées dans les angles à 50 mm d",
+   "categorie_code": "profile",
+   "role_code": "ossature_cloison",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-25-005120-P005-PLPLANCHE-4",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-25-005120-0008",
+   "document_id": "DOC-EFR-25-005120",
+   "configuration_id": "CFG-EFR-25-005120-AUTO",
+   "reference_id": "REF-FORSTER-36511",
+   "reference_brute": "36.511",
+   "designation_document": ". L’ossature est constituée de montants et traverses : - périphériques, de référence 36.511 (FORSTER) et de section hors tout 23 mm / 8 mm x 50 mm, pouvant ou non être assoc",
+   "categorie_code": "profile",
+   "role_code": "ossature_cloison",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-25-005120-P005-PLPLANCHE-4",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-25-005120-0009",
+   "document_id": "DOC-EFR-25-005120",
+   "configuration_id": "CFG-EFR-25-005120-AUTO",
+   "reference_id": "REF-FORSTER-36502",
+   "reference_brute": "36.502",
+   "designation_document": "inoxydable M5 x 10 mm au pas de 200 mm. - intermédiaires de référence : o 36.502 (FORSTER) et de section hors tout 33 mm / 3 mm x 50 mm ; o 36.512 (FORSTER) e",
+   "categorie_code": "profile",
+   "role_code": "ossature_cloison",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-25-005120-P005-PLPLANCHE-4",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-25-005120-0010",
+   "document_id": "DOC-EFR-25-005120",
+   "configuration_id": "CFG-EFR-25-005120-AUTO",
+   "reference_id": "REF-FORSTER-36512",
+   "reference_brute": "36.512",
+   "designation_document": "o 36.502 (FORSTER) et de section hors tout 33 mm / 3 mm x 50 mm ; o 36.512 (FORSTER) et de section hors tout 38 mm / 8 mm x 50 mm ; Voir planche n°4. Les profilés",
+   "categorie_code": "profile",
+   "role_code": "ossature_cloison",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-25-005120-P005-PLPLANCHE-4",
+   "statut_extraction": "a_verifier"
+  },
+  {
+   "id": "DC-EFR-25-005120-EXT-26-1-0001",
+   "document_id": "DOC-EFR-25-005120-EXT-26-1",
+   "configuration_id": "CFG-EFR-25-005120-EXT-26-1-AUTO",
+   "reference_id": "REF-AGC-PYROBEL",
+   "reference_brute": "PYROBEL",
+   "designation_document": "CHE-105.772.961 Objet de l'extension Mise en œuvre de vitrages PYROBEL-T EW30-16 (AGC). Duree de validite Cette extension de classement n'est",
+   "categorie_code": "vitrage",
+   "role_code": "remplissage",
+   "localisation_code": null,
+   "statut_autorisation_code": "autorise",
+   "quantite_min": null,
+   "condition_texte": null,
+   "parent_id": null,
+   "role_dans_parent": null,
+   "source_page_id": "SP-EFR-25-005120-EXT-26-1-P001",
+   "statut_extraction": "a_verifier"
+  }
+ ],
+ "caracteristique_document": [],
+ "dc_profile": [],
+ "dc_vitrage": [
+  {
+   "document_composant_id": "DC-EFR-25-005120-0001",
+   "gamme": "PYROBEL",
+   "designation": "PYROBEL",
+   "type_vitrage_code": "monolithique",
+   "epaisseur_mm": null,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "classe_nominale": null,
+   "intercalaire_min_mm": null,
+   "intercalaire_max_mm": null,
+   "composition_detaillee_disponible": null
+  },
+  {
+   "document_composant_id": "DC-EFR-25-005120-EXT-26-1-0001",
+   "gamme": "PYROBEL",
+   "designation": "PYROBEL",
+   "type_vitrage_code": "monolithique",
+   "epaisseur_mm": null,
+   "epaisseur_min_mm": null,
+   "epaisseur_max_mm": null,
+   "classe_nominale": null,
+   "intercalaire_min_mm": null,
+   "intercalaire_max_mm": null,
+   "composition_detaillee_disponible": null
+  }
+ ],
+ "dc_serrure": [],
+ "dc_articulation": [],
+ "dc_ferme_porte": [],
+ "dc_joint": [],
+ "dc_fixation": [],
+ "dimension_format": [
+  {
+   "id": "FMT-EFR-25-005120-0001",
+   "document_id": "DOC-EFR-25-005120",
+   "configuration_id": "CFG-EFR-25-005120-AUTO",
+   "document_composant_id": null,
+   "objet_code": "cloison",
+   "libelle": "Hauteur maximale de la cloison vitrée : 3600 mm",
+   "groupe_alternative": null,
+   "orientation": null,
+   "source_page_id": "SP-EFR-25-005120-P011",
+   "statut_extraction": "a_verifier"
+  }
+ ],
+ "dimension": [
+  {
+   "id": "FMT-EFR-25-005120-0001-hauteur-autorise_max",
+   "format_id": "FMT-EFR-25-005120-0001",
+   "grandeur_code": "hauteur",
+   "nature_code": "autorise_max",
+   "operateur_code": "le",
+   "valeur_origine": "3600",
+   "unite_origine": "mm",
+   "valeur_norm": 3600.0,
+   "unite_norm_code": "mm",
+   "sans_limite": 0,
+   "tolerance_plus": null,
+   "tolerance_moins": null,
+   "statut_extraction": "a_verifier"
+  }
+ ],
+ "support_pose": [
+  {
+   "id": "SUP-EFR-25-005120-0001",
+   "document_id": "DOC-EFR-25-005120",
+   "configuration_id": "CFG-EFR-25-005120-AUTO",
+   "type_support_code": "beton_arme",
+   "masse_vol_min_kg_m3": 1600.0,
+   "masse_vol_operateur_code": "ge",
+   "epaisseur_min_mm": null,
+   "epaisseur_operateur_code": null,
+   "classement_pv_exige": null,
+   "prolongation_laterale": null,
+   "imposte_autorisee": null,
+   "allege_autorisee": null,
+   "pas_fixation_max_mm": null,
+   "condition_texte": "Mention détectée automatiquement : rt 3.3.5.1. Parois rigides La cloison vitrée peut être fixée sur : - du béton armé d’épaisseur supérieure à 150 mm - des parois en béton plein ou parpaings ayant une ma",
+   "source_page_id": "SP-EFR-25-005120-P001"
+  },
+  {
+   "id": "SUP-EFR-25-005120-0002",
+   "document_id": "DOC-EFR-25-005120",
+   "configuration_id": "CFG-EFR-25-005120-AUTO",
+   "type_support_code": "beton_cellulaire",
+   "masse_vol_min_kg_m3": 550.0,
+   "masse_vol_operateur_code": "ge",
+   "epaisseur_min_mm": null,
+   "epaisseur_operateur_code": null,
+   "classement_pv_exige": null,
+   "prolongation_laterale": null,
+   "imposte_autorisee": null,
+   "allege_autorisee": null,
+   "pas_fixation_max_mm": null,
+   "condition_texte": "Mention détectée automatiquement : masse volumique d’au moins 1600 kg/m³ et d’épaisseur supérieure à 150 mm - du béton cellulaire d’une densité supérieure à 550 kg/m3 et d’épaisseur supérieure à 150 mm La fixation est",
+   "source_page_id": "SP-EFR-25-005120-P001"
+  },
+  {
+   "id": "SUP-EFR-25-005120-0003",
+   "document_id": "DOC-EFR-25-005120",
+   "configuration_id": "CFG-EFR-25-005120-AUTO",
+   "type_support_code": "beton_plein_parpaing",
+   "masse_vol_min_kg_m3": 1600.0,
+   "masse_vol_operateur_code": "ge",
+   "epaisseur_min_mm": null,
+   "epaisseur_operateur_code": null,
+   "classement_pv_exige": null,
+   "prolongation_laterale": null,
+   "imposte_autorisee": null,
+   "allege_autorisee": null,
+   "pas_fixation_max_mm": null,
+   "condition_texte": "Mention détectée automatiquement : être fixée sur : - du béton armé d’épaisseur supérieure à 150 mm - des parois en béton plein ou parpaings ayant une masse volumique d’au moins 1600 kg/m³ et d’épaisseur supér",
+   "source_page_id": "SP-EFR-25-005120-P001"
+  }
+ ],
+ "restriction": [
+  {
+   "id": "RST-EFR-25-005120-0001",
+   "document_id": "DOC-EFR-25-005120",
+   "configuration_id": "CFG-EFR-25-005120-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "Sens de feu indifférent. La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 5 sur 16 EFR-25-005120 PROCES-VERBAL",
+   "texte_source": "Sens de feu indifférent. La reproduction de ce document n’est autorisée que sous sa forme intégrale Page 5 sur 16 EFR-25-005120 PROCES-VERBAL",
+   "source_page_id": "SP-EFR-25-005120-P001"
+  },
+  {
+   "id": "RST-EFR-25-005120-0002",
+   "document_id": "DOC-EFR-25-005120",
+   "configuration_id": "CFG-EFR-25-005120-AUTO",
+   "document_composant_id": null,
+   "type_code": "interdiction",
+   "libelle": "Aucun autre classement n'est autorisé",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-25-005120-P001"
+  },
+  {
+   "id": "RST-EFR-25-005120-EXT-26-1-0001",
+   "document_id": "DOC-EFR-25-005120-EXT-26-1",
+   "configuration_id": "CFG-EFR-25-005120-EXT-26-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "sens_feu",
+   "libelle": "ainsi que les dimensions hors tout maximales autorisées pour les vitrages PYROBEL-T EW30-16 (AGC) sont identiques à ceux des vitrages des procès-verbaux de réfé",
+   "texte_source": "ainsi que les dimensions hors tout maximales autorisées pour les vitrages PYROBEL-T EW30-16 (AGC) sont identiques à ceux des vitrages des procès-verbaux de référence qu’ils remplacent. Toutes les autres conditions des procès-verbaux de référence devront être respectées.",
+   "source_page_id": "SP-EFR-25-005120-EXT-26-1-P001"
+  },
+  {
+   "id": "RST-EFR-25-005120-EXT-26-1-0002",
+   "document_id": "DOC-EFR-25-005120-EXT-26-1",
+   "configuration_id": "CFG-EFR-25-005120-EXT-26-1-AUTO",
+   "document_composant_id": null,
+   "type_code": "cumul_extensions",
+   "libelle": "Cette extension de classement n'est pas cumulable avec d'autres extensions se rapportant à ces mêmes procès-verbaux, sauf mention explicite dans le",
+   "texte_source": null,
+   "source_page_id": "SP-EFR-25-005120-EXT-26-1-P001"
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTL-EFR-25-005120-0001",
+   "document_id": "DOC-EFR-25-005120",
+   "table_cible": null,
+   "ligne_id": null,
+   "type_code": "extraction_auto",
+   "description": "Document extrait automatiquement (OCR) : pages PDF 1-23 de « FR EFR-25-005120 - AGC - cloison PRESTO XS E30 E60 - COPRO - 23-04-2031.pdf ». Relire classement, dates, composants et dimensions.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTL-EFR-25-005120-0002",
+   "document_id": "DOC-EFR-25-005120",
+   "table_cible": null,
+   "ligne_id": null,
+   "type_code": "non_trouve",
+   "description": "Classe(s) E 30, E 60 du nom de fichier non retrouvée(s) dans le tableau de classement OCR : vérifier sur l'original.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTL-EFR-25-005120-EXT-26-1-0001",
+   "document_id": "DOC-EFR-25-005120-EXT-26-1",
+   "table_cible": null,
+   "ligne_id": null,
+   "type_code": "extraction_auto",
+   "description": "Document extrait automatiquement (OCR) : pages PDF 24-27 de « FR EFR-25-005120 - AGC - cloison PRESTO XS E30 E60 - COPRO - 23-04-2031.pdf ». Relire classement, dates, composants et dimensions.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}
