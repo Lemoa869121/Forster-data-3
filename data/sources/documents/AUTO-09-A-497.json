@@ -960,6 +960,13 @@
   },
   {
    "document_id": "DOC-09-A-497-EXT-12-2",
+   "norme_id": "NRM-EN-1634-1-2000",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-09-A-497-EXT-12-2-P001"
+  },
+  {
+   "document_id": "DOC-09-A-497-EXT-12-2",
    "norme_id": "NRM-EN-1634-1",
    "role": "reference",
    "paragraphe": null,
@@ -968,13 +975,6 @@
   {
    "document_id": "DOC-09-A-497-EXT-12-2",
    "norme_id": "NRM-EN-1364-1",
-   "role": "reference",
-   "paragraphe": null,
-   "source_page_id": "SP-09-A-497-EXT-12-2-P001"
-  },
-  {
-   "document_id": "DOC-09-A-497-EXT-12-2",
-   "norme_id": "NRM-EN-1634-1-2000",
    "role": "reference",
    "paragraphe": null,
    "source_page_id": "SP-09-A-497-EXT-12-2-P001"

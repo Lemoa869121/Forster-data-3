@@ -3258,17 +3258,6 @@
    "source_page_id": null
   },
   {
-   "id": "CTL-EFR-18-002293-0002",
-   "document_id": "DOC-EFR-18-002293",
-   "table_cible": null,
-   "ligne_id": null,
-   "type_code": "non_trouve",
-   "description": "Classe(s) EI 120 du nom de fichier non retrouvée(s) dans le tableau de classement OCR : vérifier sur l'original.",
-   "statut": "ouvert",
-   "resolution": null,
-   "source_page_id": null
-  },
-  {
    "id": "CTL-EFR-18-002293-EXT-23-2-0001",
    "document_id": "DOC-EFR-18-002293-EXT-23-2",
    "table_cible": null,

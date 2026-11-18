@@ -551,6 +551,15 @@
    "source_page_id": "SP-10-A-650-EXT-17-1-P001"
   },
   {
+   "id": "REL-10-A-650-EXT-17-1-etend-10-A-650",
+   "document_source_id": "DOC-10-A-650-EXT-17-1",
+   "document_cible_id": "DOC-10-A-650",
+   "type_relation_code": "etend",
+   "date_relation": "2017-04-20",
+   "commentaire": null,
+   "source_page_id": "SP-10-A-650-EXT-17-1-P001"
+  },
+  {
    "id": "REL-10-A-650-EXT-17-1-etend-08-A-308",
    "document_source_id": "DOC-10-A-650-EXT-17-1",
    "document_cible_id": "DOC-08-A-308",
@@ -569,15 +578,6 @@
    "source_page_id": "SP-10-A-650-EXT-17-1-P001"
   },
   {
-   "id": "REL-10-A-650-EXT-17-1-etend-10-A-650",
-   "document_source_id": "DOC-10-A-650-EXT-17-1",
-   "document_cible_id": "DOC-10-A-650",
-   "type_relation_code": "etend",
-   "date_relation": "2017-04-20",
-   "commentaire": null,
-   "source_page_id": "SP-10-A-650-EXT-17-1-P001"
-  },
-  {
    "id": "REL-10-A-650-EXT-23-4-etend-11-A-507",
    "document_source_id": "DOC-10-A-650-EXT-23-4",
    "document_cible_id": "DOC-11-A-507",
@@ -587,18 +587,18 @@
    "source_page_id": "SP-10-A-650-EXT-23-4-P001"
   },
   {
-   "id": "REL-10-A-650-EXT-23-4-etend-11-A-506",
+   "id": "REL-10-A-650-EXT-23-4-etend-10-A-650",
    "document_source_id": "DOC-10-A-650-EXT-23-4",
-   "document_cible_id": "DOC-11-A-506",
+   "document_cible_id": "DOC-10-A-650",
    "type_relation_code": "etend",
    "date_relation": "2023-04-14",
    "commentaire": null,
    "source_page_id": "SP-10-A-650-EXT-23-4-P001"
   },
   {
-   "id": "REL-10-A-650-EXT-23-4-etend-10-A-650",
+   "id": "REL-10-A-650-EXT-23-4-etend-11-A-506",
    "document_source_id": "DOC-10-A-650-EXT-23-4",
-   "document_cible_id": "DOC-10-A-650",
+   "document_cible_id": "DOC-11-A-506",
    "type_relation_code": "etend",
    "date_relation": "2023-04-14",
    "commentaire": null,
@@ -730,15 +730,15 @@
  "document_norme": [
   {
    "document_id": "DOC-10-A-650",
-   "norme_id": "NRM-EN-13501-2",
-   "role": "classement",
+   "norme_id": "NRM-EN-1364-1",
+   "role": "reference",
    "paragraphe": null,
    "source_page_id": "SP-10-A-650-P001"
   },
   {
    "document_id": "DOC-10-A-650",
-   "norme_id": "NRM-EN-1364-1",
-   "role": "reference",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
    "paragraphe": null,
    "source_page_id": "SP-10-A-650-P001"
   },

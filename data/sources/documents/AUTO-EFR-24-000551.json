@@ -155,14 +155,14 @@
  "document_norme": [
   {
    "document_id": "DOC-EFR-24-000551",
-   "norme_id": "NRM-EN-13501-2",
+   "norme_id": "NRM-EN-13501-2-2023",
    "role": "classement",
    "paragraphe": null,
    "source_page_id": "SP-EFR-24-000551-P001"
   },
   {
    "document_id": "DOC-EFR-24-000551",
-   "norme_id": "NRM-EN-13501-2-2023",
+   "norme_id": "NRM-EN-13501-2",
    "role": "classement",
    "paragraphe": null,
    "source_page_id": "SP-EFR-24-000551-P001"

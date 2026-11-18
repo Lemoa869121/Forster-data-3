@@ -668,7 +668,7 @@ CREATE VIEW v_classement_feu AS
 SELECT p.id AS performance_id, p.document_id, d.numero_normalise, d.type_code,
        p.configuration_id, c.libelle AS configuration, c.typologie_code, s.nom AS systeme,
        p.classe_normalisee, f.duree_min, f.critere_e, f.critere_i, f.variante_i, f.critere_w,
-       f.sens_feu, p.condition_texte, sp.page_doc, sp.section
+       f.sens_feu, p.condition_texte, sp.page_doc, sp.section, p.statut_extraction
   FROM performance p
   JOIN perf_feu f      ON f.performance_id = p.id
   JOIN document d      ON d.id = p.document_id

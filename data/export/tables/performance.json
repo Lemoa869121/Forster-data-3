@@ -1639,7 +1639,7 @@
    "configuration_id": "CFG-EFR-18-002293-AUTO",
    "domaine_code": "feu",
    "libelle_tel_qu_ecrit": "E I 120",
-   "classe_normalisee": "EI1 20",
+   "classe_normalisee": "EI 120",
    "nature_code": "classement",
    "condition_texte": "Lecture automatique (OCR) du tableau de classement",
    "source_page_id": "SP-EFR-18-002293-P001",
@@ -1668,18 +1668,6 @@
    "condition_texte": "Lecture automatique (OCR) du tableau de classement",
    "source_page_id": "SP-EFR-18-002293-P001",
    "statut_extraction": "a_verifier"
-  },
-  {
-   "id": "PRF-EFR-18-002293-0004",
-   "document_id": "DOC-EFR-18-002293",
-   "configuration_id": "CFG-EFR-18-002293-AUTO",
-   "domaine_code": "feu",
-   "libelle_tel_qu_ecrit": "EI 120 (nom de fichier)",
-   "classe_normalisee": "EI 120",
-   "nature_code": "classement",
-   "condition_texte": "Classe annoncée par le nom de fichier, non lue dans le tableau OCR",
-   "source_page_id": "SP-EFR-18-002293-P001",
-   "statut_extraction": "non_trouve"
   },
   {
    "id": "PRF-EFR-18-003683-0001",

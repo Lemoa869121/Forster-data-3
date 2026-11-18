@@ -145,14 +145,14 @@
  "document_norme": [
   {
    "document_id": "DOC-EFR-22-002110",
-   "norme_id": "NRM-EN-13501-2",
+   "norme_id": "NRM-EN-13501-2-2016",
    "role": "classement",
    "paragraphe": null,
    "source_page_id": "SP-EFR-22-002110-P001"
   },
   {
    "document_id": "DOC-EFR-22-002110",
-   "norme_id": "NRM-EN-13501-2-2016",
+   "norme_id": "NRM-EN-13501-2",
    "role": "classement",
    "paragraphe": null,
    "source_page_id": "SP-EFR-22-002110-P001"

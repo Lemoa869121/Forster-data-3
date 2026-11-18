@@ -376,8 +376,8 @@
  "document_norme": [
   {
    "document_id": "DOC-13-V-582",
-   "norme_id": "NRM-EN-13501-2",
-   "role": "classement",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
    "paragraphe": null,
    "source_page_id": "SP-13-V-582-P001"
   },
@@ -390,8 +390,8 @@
   },
   {
    "document_id": "DOC-13-V-582",
-   "norme_id": "NRM-EN-1364-1-1999",
-   "role": "reference",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
    "paragraphe": null,
    "source_page_id": "SP-13-V-582-P001"
   },

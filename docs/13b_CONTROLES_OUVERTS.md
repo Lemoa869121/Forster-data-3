@@ -1,6 +1,6 @@
 # Annexe — points de contrôle humain ouverts (table `controle_humain`)
 
-450 points générés pendant l'extraction des 6 fichiers.
+449 points générés pendant l'extraction des 6 fichiers.
 
 | Document | Type | Description | Page | Section / planche |
 |---|---|---|---|---|
@@ -285,7 +285,6 @@
 | EFR-17-003917 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 3-21 de « FR EFR-17-003917 - PILK - cloison vitrage bab FUEGO light EI60 - PROPILK - 23-08-2028.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | EFR-17-003917/REC-23/1 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 1-2 de « FR EFR-17-003917 - PILK - cloison vitrage bab FUEGO light EI60 - PROPILK - 23-08-2028.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | EFR-18-002293 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 3-11 de « FR EFR-18-002293 - PILK - cloison vitrage bab FUEGO light EI120 - PROPILK - 27-08-2028.pdf ». Relire classement, dates, composants et dimensions. |  |  |
-| EFR-18-002293 | non_trouve | Classe(s) EI 120 du nom de fichier non retrouvée(s) dans le tableau de classement OCR : vérifier sur l'original. |  |  |
 | EFR-18-002293/EXT-23/2 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 12-22 de « FR EFR-18-002293 - PILK - cloison vitrage bab FUEGO light EI120 - PROPILK - 27-08-2028.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | EFR-18-002293/REC-23/1 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 1-2 de « FR EFR-18-002293 - PILK - cloison vitrage bab FUEGO light EI120 - PROPILK - 27-08-2028.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | EFR-18-003683 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 3-25 de « FR EFR-18-003683 - VETR - plancher vitre FUEGO Light EI60 - PROVETR - 30-07-2029.pdf ». Relire classement, dates, composants et dimensions. |  |  |

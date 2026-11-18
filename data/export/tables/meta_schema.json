@@ -7,15 +7,15 @@
  "lignes": [
   {
    "cle": "schema_version",
-   "valeur": "1.1.0"
+   "valeur": "1.2.0"
   },
   {
    "cle": "data_sha256",
-   "valeur": "67b7d2b54b1395af5b36bc009223b0740b8d7a0b183add50ee9b89ebbc2e5847"
+   "valeur": "2ec2392da84a2871be47e742336b596684fdce8272fe27033ab287654a0dee38"
   },
   {
    "cle": "genere_le",
-   "valeur": "2026-11-18T06:50:00+00:00"
+   "valeur": "2026-11-18T14:08:30+00:00"
   },
   {
    "cle": "nb_fichiers_sources",

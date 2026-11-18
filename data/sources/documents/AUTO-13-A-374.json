@@ -306,9 +306,18 @@
    "source_page_id": "SP-13-A-374-EXT-18-2-P001"
   },
   {
-   "id": "REL-13-A-374-EXT-18-2-etend-13-A-177",
+   "id": "REL-13-A-374-EXT-18-2-etend-13-A-429",
    "document_source_id": "DOC-13-A-374-EXT-18-2",
-   "document_cible_id": "DOC-13-A-177",
+   "document_cible_id": "DOC-13-A-429",
+   "type_relation_code": "etend",
+   "date_relation": "2018-07-11",
+   "commentaire": null,
+   "source_page_id": "SP-13-A-374-EXT-18-2-P001"
+  },
+  {
+   "id": "REL-13-A-374-EXT-18-2-etend-EFR-14-001235",
+   "document_source_id": "DOC-13-A-374-EXT-18-2",
+   "document_cible_id": "DOC-EFR-14-001235",
    "type_relation_code": "etend",
    "date_relation": "2018-07-11",
    "commentaire": null,
@@ -324,18 +333,9 @@
    "source_page_id": "SP-13-A-374-EXT-18-2-P001"
   },
   {
-   "id": "REL-13-A-374-EXT-18-2-etend-13-A-429",
+   "id": "REL-13-A-374-EXT-18-2-etend-13-A-177",
    "document_source_id": "DOC-13-A-374-EXT-18-2",
-   "document_cible_id": "DOC-13-A-429",
-   "type_relation_code": "etend",
-   "date_relation": "2018-07-11",
-   "commentaire": null,
-   "source_page_id": "SP-13-A-374-EXT-18-2-P001"
-  },
-  {
-   "id": "REL-13-A-374-EXT-18-2-etend-EFR-14-001235",
-   "document_source_id": "DOC-13-A-374-EXT-18-2",
-   "document_cible_id": "DOC-EFR-14-001235",
+   "document_cible_id": "DOC-13-A-177",
    "type_relation_code": "etend",
    "date_relation": "2018-07-11",
    "commentaire": null,
@@ -360,15 +360,6 @@
    "source_page_id": "SP-13-A-374-EXT-18-2-P001"
   },
   {
-   "id": "REL-13-A-374-EXT-18-2-etend-01-V-330",
-   "document_source_id": "DOC-13-A-374-EXT-18-2",
-   "document_cible_id": "DOC-01-V-330",
-   "type_relation_code": "etend",
-   "date_relation": "2018-07-11",
-   "commentaire": null,
-   "source_page_id": "SP-13-A-374-EXT-18-2-P001"
-  },
-  {
    "id": "REL-13-A-374-EXT-18-2-etend-13-A-374",
    "document_source_id": "DOC-13-A-374-EXT-18-2",
    "document_cible_id": "DOC-13-A-374",
@@ -378,18 +369,27 @@
    "source_page_id": "SP-13-A-374-EXT-18-2-P001"
   },
   {
-   "id": "REL-13-A-374-EXT-60-13-etend-06-V-037",
+   "id": "REL-13-A-374-EXT-18-2-etend-01-V-330",
+   "document_source_id": "DOC-13-A-374-EXT-18-2",
+   "document_cible_id": "DOC-01-V-330",
+   "type_relation_code": "etend",
+   "date_relation": "2018-07-11",
+   "commentaire": null,
+   "source_page_id": "SP-13-A-374-EXT-18-2-P001"
+  },
+  {
+   "id": "REL-13-A-374-EXT-60-13-etend-EFR-14-001235",
    "document_source_id": "DOC-13-A-374-EXT-60-13",
-   "document_cible_id": "DOC-06-V-037",
+   "document_cible_id": "DOC-EFR-14-001235",
    "type_relation_code": "etend",
    "date_relation": "2014-10-01",
    "commentaire": null,
    "source_page_id": "SP-13-A-374-EXT-60-13-P001"
   },
   {
-   "id": "REL-13-A-374-EXT-60-13-etend-EFR-14-001235",
+   "id": "REL-13-A-374-EXT-60-13-etend-06-V-037",
    "document_source_id": "DOC-13-A-374-EXT-60-13",
-   "document_cible_id": "DOC-EFR-14-001235",
+   "document_cible_id": "DOC-06-V-037",
    "type_relation_code": "etend",
    "date_relation": "2014-10-01",
    "commentaire": null,
@@ -516,15 +516,15 @@
  "document_norme": [
   {
    "document_id": "DOC-13-A-374",
-   "norme_id": "NRM-EN-13501-2",
-   "role": "classement",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
    "paragraphe": null,
    "source_page_id": "SP-13-A-374-P001"
   },
   {
    "document_id": "DOC-13-A-374",
-   "norme_id": "NRM-EN-1364-1-1999",
-   "role": "reference",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
    "paragraphe": null,
    "source_page_id": "SP-13-A-374-P001"
   }

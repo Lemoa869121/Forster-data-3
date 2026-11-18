@@ -138,7 +138,7 @@
  "document_norme": [
   {
    "document_id": "DOC-SA-11-01-11",
-   "norme_id": "NRM-NF-S61-937",
+   "norme_id": "NRM-EN-1154",
    "role": "reference",
    "paragraphe": null,
    "source_page_id": "SP-SA-11-01-11-P001"
@@ -152,21 +152,21 @@
   },
   {
    "document_id": "DOC-SA-11-01-11",
-   "norme_id": "NRM-NF-S-61-937",
-   "role": "reference",
-   "paragraphe": null,
-   "source_page_id": "SP-SA-11-01-11-P001"
-  },
-  {
-   "document_id": "DOC-SA-11-01-11",
-   "norme_id": "NRM-EN-1154",
-   "role": "reference",
-   "paragraphe": null,
-   "source_page_id": "SP-SA-11-01-11-P001"
-  },
-  {
-   "document_id": "DOC-SA-11-01-11",
    "norme_id": "NRM-NF-S-61-961",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-11-01-11-P001"
+  },
+  {
+   "document_id": "DOC-SA-11-01-11",
+   "norme_id": "NRM-NF-S61-937",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-SA-11-01-11-P001"
+  },
+  {
+   "document_id": "DOC-SA-11-01-11",
+   "norme_id": "NRM-NF-S-61-937",
    "role": "reference",
    "paragraphe": null,
    "source_page_id": "SP-SA-11-01-11-P001"

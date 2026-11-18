@@ -228,18 +228,18 @@
    "source_page_id": "SP-13-A-417-REC-24-2-P001"
   },
   {
-   "id": "REL-EFR-14-001441-etend-13-A-417",
+   "id": "REL-EFR-14-001441-etend-04-V-234",
    "document_source_id": "DOC-EFR-14-001441",
-   "document_cible_id": "DOC-13-A-417",
+   "document_cible_id": "DOC-04-V-234",
    "type_relation_code": "etend",
    "date_relation": null,
    "commentaire": null,
    "source_page_id": "SP-EFR-14-001441-P001"
   },
   {
-   "id": "REL-EFR-14-001441-etend-04-V-234",
+   "id": "REL-EFR-14-001441-etend-13-A-417",
    "document_source_id": "DOC-EFR-14-001441",
-   "document_cible_id": "DOC-04-V-234",
+   "document_cible_id": "DOC-13-A-417",
    "type_relation_code": "etend",
    "date_relation": null,
    "commentaire": null,

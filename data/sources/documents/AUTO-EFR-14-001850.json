@@ -296,27 +296,18 @@
    "source_page_id": "SP-EFR-14-001850-REC-20-1-P001"
   },
   {
+   "id": "REL-EFR-14-001852-etend-07-A-215",
+   "document_source_id": "DOC-EFR-14-001852",
+   "document_cible_id": "DOC-07-A-215",
+   "type_relation_code": "etend",
+   "date_relation": "2018-10-04",
+   "commentaire": null,
+   "source_page_id": "SP-EFR-14-001852-P001"
+  },
+  {
    "id": "REL-EFR-14-001852-etend-04-V-251",
    "document_source_id": "DOC-EFR-14-001852",
    "document_cible_id": "DOC-04-V-251",
-   "type_relation_code": "etend",
-   "date_relation": "2018-10-04",
-   "commentaire": null,
-   "source_page_id": "SP-EFR-14-001852-P001"
-  },
-  {
-   "id": "REL-EFR-14-001852-etend-13-A-176",
-   "document_source_id": "DOC-EFR-14-001852",
-   "document_cible_id": "DOC-13-A-176",
-   "type_relation_code": "etend",
-   "date_relation": "2018-10-04",
-   "commentaire": null,
-   "source_page_id": "SP-EFR-14-001852-P001"
-  },
-  {
-   "id": "REL-EFR-14-001852-etend-13-A-178",
-   "document_source_id": "DOC-EFR-14-001852",
-   "document_cible_id": "DOC-13-A-178",
    "type_relation_code": "etend",
    "date_relation": "2018-10-04",
    "commentaire": null,
@@ -332,27 +323,18 @@
    "source_page_id": "SP-EFR-14-001852-P001"
   },
   {
-   "id": "REL-EFR-14-001852-etend-13-A-182",
-   "document_source_id": "DOC-EFR-14-001852",
-   "document_cible_id": "DOC-13-A-182",
-   "type_relation_code": "etend",
-   "date_relation": "2018-10-04",
-   "commentaire": null,
-   "source_page_id": "SP-EFR-14-001852-P001"
-  },
-  {
-   "id": "REL-EFR-14-001852-etend-EFR-14-001850",
-   "document_source_id": "DOC-EFR-14-001852",
-   "document_cible_id": "DOC-EFR-14-001850",
-   "type_relation_code": "etend",
-   "date_relation": "2018-10-04",
-   "commentaire": null,
-   "source_page_id": "SP-EFR-14-001852-P001"
-  },
-  {
    "id": "REL-EFR-14-001852-etend-07-A-212",
    "document_source_id": "DOC-EFR-14-001852",
    "document_cible_id": "DOC-07-A-212",
+   "type_relation_code": "etend",
+   "date_relation": "2018-10-04",
+   "commentaire": null,
+   "source_page_id": "SP-EFR-14-001852-P001"
+  },
+  {
+   "id": "REL-EFR-14-001852-etend-13-A-176",
+   "document_source_id": "DOC-EFR-14-001852",
+   "document_cible_id": "DOC-13-A-176",
    "type_relation_code": "etend",
    "date_relation": "2018-10-04",
    "commentaire": null,
@@ -368,9 +350,27 @@
    "source_page_id": "SP-EFR-14-001852-P001"
   },
   {
-   "id": "REL-EFR-14-001852-etend-07-A-215",
+   "id": "REL-EFR-14-001852-etend-13-A-182",
    "document_source_id": "DOC-EFR-14-001852",
-   "document_cible_id": "DOC-07-A-215",
+   "document_cible_id": "DOC-13-A-182",
+   "type_relation_code": "etend",
+   "date_relation": "2018-10-04",
+   "commentaire": null,
+   "source_page_id": "SP-EFR-14-001852-P001"
+  },
+  {
+   "id": "REL-EFR-14-001852-etend-13-A-178",
+   "document_source_id": "DOC-EFR-14-001852",
+   "document_cible_id": "DOC-13-A-178",
+   "type_relation_code": "etend",
+   "date_relation": "2018-10-04",
+   "commentaire": null,
+   "source_page_id": "SP-EFR-14-001852-P001"
+  },
+  {
+   "id": "REL-EFR-14-001852-etend-EFR-14-001850",
+   "document_source_id": "DOC-EFR-14-001852",
+   "document_cible_id": "DOC-EFR-14-001850",
    "type_relation_code": "etend",
    "date_relation": "2018-10-04",
    "commentaire": null,

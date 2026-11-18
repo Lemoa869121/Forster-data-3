@@ -226,29 +226,29 @@
  "document_norme": [
   {
    "document_id": "DOC-13-A-433-REC-24-2",
-   "norme_id": "NRM-EN-1364-1-2015",
-   "role": "reference",
-   "paragraphe": null,
-   "source_page_id": "SP-13-A-433-REC-24-2-P001"
-  },
-  {
-   "document_id": "DOC-13-A-433-REC-24-2",
    "norme_id": "NRM-EN-1364-1-1999",
    "role": "reference",
    "paragraphe": null,
    "source_page_id": "SP-13-A-433-REC-24-2-P001"
   },
   {
-   "document_id": "DOC-13-A-433",
-   "norme_id": "NRM-EN-13501-2-2007",
-   "role": "classement",
+   "document_id": "DOC-13-A-433-REC-24-2",
+   "norme_id": "NRM-EN-1364-1-2015",
+   "role": "reference",
    "paragraphe": null,
-   "source_page_id": "SP-13-A-433-P001"
+   "source_page_id": "SP-13-A-433-REC-24-2-P001"
   },
   {
    "document_id": "DOC-13-A-433",
    "norme_id": "NRM-EN-1364-1",
    "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-13-A-433-P001"
+  },
+  {
+   "document_id": "DOC-13-A-433",
+   "norme_id": "NRM-EN-13501-2-2007",
+   "role": "classement",
    "paragraphe": null,
    "source_page_id": "SP-13-A-433-P001"
   }

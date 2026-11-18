@@ -34,7 +34,7 @@ Généré automatiquement par `scripts/gen_docs.py` depuis `db/schema.sql` et la
 | parent_configuration_id | TEXT | FK → configuration.id |  | CFG-11-A-507-BP |
 | source_page_id | TEXT | FK → source_page.id |  | SP-08-A-275-P001 |
 
-## `controle_humain` (450 lignes)
+## `controle_humain` (449 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
@@ -353,7 +353,7 @@ Généré automatiquement par `scripts/gen_docs.py` depuis `db/schema.sql` et la
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
 | cle | TEXT | PK |  | data_sha256 |
-| valeur | TEXT | NOT NULL |  | 1.1.0 |
+| valeur | TEXT | NOT NULL |  | 1.2.0 |
 
 ## `norme` (33 lignes)
 
@@ -427,24 +427,24 @@ Généré automatiquement par `scripts/gen_docs.py` depuis `db/schema.sql` et la
 | norme_id | TEXT | FK → norme.id |  |  |
 | duree_resistance_min | REAL |  |  |  |
 
-## `perf_feu` (211 lignes)
+## `perf_feu` (210 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
 | performance_id | TEXT | PK; FK → performance.id |  | PRF-08-A-275-0001 |
 | critere_r | INTEGER | NOT NULL; défaut 0; CHECK critere_r IN (0,1) |  | 0 |
 | critere_e | INTEGER | NOT NULL; défaut 0; CHECK critere_e IN (0,1) |  | 1 |
-| critere_i | INTEGER | NOT NULL; défaut 0; CHECK critere_i IN (0,1) |  | 1 |
+| critere_i | INTEGER | NOT NULL; défaut 0; CHECK critere_i IN (0,1) |  | 0 |
 | variante_i | TEXT | CHECK variante_i IS NULL OR variante_i IN ('I','I1','I2') |  | I |
 | critere_w | INTEGER | NOT NULL; défaut 0; CHECK critere_w IN (0,1) |  | 0 |
 | critere_m | INTEGER | NOT NULL; défaut 0; CHECK critere_m IN (0,1) |  | 0 |
 | critere_c | INTEGER | NOT NULL; défaut 0; CHECK critere_c IN (0,1) |  | 0 |
 | classe_c | TEXT |  | C0..C5 si applicable |  |
 | critere_s | INTEGER | NOT NULL; défaut 0; CHECK critere_s IN (0,1) |  | 0 |
-| duree_min | INTEGER | NOT NULL; CHECK duree_min IN (15,20,30,45,60,90,120,180,240) |  | 20 |
+| duree_min | INTEGER | NOT NULL; CHECK duree_min IN (15,20,30,45,60,90,120,180,240) |  | 30 |
 | sens_feu | TEXT |  | résumé ; le détail est dans restriction(type 'sens_feu') | Indifférent |
 
-## `performance` (211 lignes)
+## `performance` (210 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|

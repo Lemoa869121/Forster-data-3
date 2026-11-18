@@ -359,6 +359,15 @@
    "source_page_id": "SP-EFR-22-001305-EXT-25-1-P001"
   },
   {
+   "id": "REL-EFR-22-001305-EXT-25-1-etend-EFR-22-001302",
+   "document_source_id": "DOC-EFR-22-001305-EXT-25-1",
+   "document_cible_id": "DOC-EFR-22-001302",
+   "type_relation_code": "etend",
+   "date_relation": "2025-05-12",
+   "commentaire": null,
+   "source_page_id": "SP-EFR-22-001305-EXT-25-1-P001"
+  },
+  {
    "id": "REL-EFR-22-001305-EXT-25-1-etend-EFR-22-001306",
    "document_source_id": "DOC-EFR-22-001305-EXT-25-1",
    "document_cible_id": "DOC-EFR-22-001306",
@@ -371,15 +380,6 @@
    "id": "REL-EFR-22-001305-EXT-25-1-etend-EFR-22-001304",
    "document_source_id": "DOC-EFR-22-001305-EXT-25-1",
    "document_cible_id": "DOC-EFR-22-001304",
-   "type_relation_code": "etend",
-   "date_relation": "2025-05-12",
-   "commentaire": null,
-   "source_page_id": "SP-EFR-22-001305-EXT-25-1-P001"
-  },
-  {
-   "id": "REL-EFR-22-001305-EXT-25-1-etend-EFR-22-001302",
-   "document_source_id": "DOC-EFR-22-001305-EXT-25-1",
-   "document_cible_id": "DOC-EFR-22-001302",
    "type_relation_code": "etend",
    "date_relation": "2025-05-12",
    "commentaire": null,
@@ -404,6 +404,15 @@
    "source_page_id": "SP-EFR-22-001305-EXT-25-2-P001"
   },
   {
+   "id": "REL-EFR-22-001305-EXT-25-2-etend-EFR-22-001302",
+   "document_source_id": "DOC-EFR-22-001305-EXT-25-2",
+   "document_cible_id": "DOC-EFR-22-001302",
+   "type_relation_code": "etend",
+   "date_relation": "2020-12-02",
+   "commentaire": null,
+   "source_page_id": "SP-EFR-22-001305-EXT-25-2-P001"
+  },
+  {
    "id": "REL-EFR-22-001305-EXT-25-2-etend-EFR-22-001306",
    "document_source_id": "DOC-EFR-22-001305-EXT-25-2",
    "document_cible_id": "DOC-EFR-22-001306",
@@ -416,15 +425,6 @@
    "id": "REL-EFR-22-001305-EXT-25-2-etend-EFR-22-001304",
    "document_source_id": "DOC-EFR-22-001305-EXT-25-2",
    "document_cible_id": "DOC-EFR-22-001304",
-   "type_relation_code": "etend",
-   "date_relation": "2020-12-02",
-   "commentaire": null,
-   "source_page_id": "SP-EFR-22-001305-EXT-25-2-P001"
-  },
-  {
-   "id": "REL-EFR-22-001305-EXT-25-2-etend-EFR-22-001302",
-   "document_source_id": "DOC-EFR-22-001305-EXT-25-2",
-   "document_cible_id": "DOC-EFR-22-001302",
    "type_relation_code": "etend",
    "date_relation": "2020-12-02",
    "commentaire": null,
@@ -514,14 +514,14 @@
   },
   {
    "document_id": "DOC-EFR-22-001305-EXT-25-1",
-   "norme_id": "NRM-EN-1634-1-2014",
+   "norme_id": "NRM-EN-1364-1-2015",
    "role": "reference",
    "paragraphe": null,
    "source_page_id": "SP-EFR-22-001305-EXT-25-1-P001"
   },
   {
    "document_id": "DOC-EFR-22-001305-EXT-25-1",
-   "norme_id": "NRM-EN-1364-1-2015",
+   "norme_id": "NRM-EN-1634-1-2014",
    "role": "reference",
    "paragraphe": null,
    "source_page_id": "SP-EFR-22-001305-EXT-25-1-P001"

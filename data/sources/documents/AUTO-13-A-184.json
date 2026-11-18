@@ -307,6 +307,33 @@
    "source_page_id": "SP-13-A-184-REC-19-1-P001"
   },
   {
+   "id": "REL-EFR-14-002239-etend-07-A-215",
+   "document_source_id": "DOC-EFR-14-002239",
+   "document_cible_id": "DOC-07-A-215",
+   "type_relation_code": "etend",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": "SP-EFR-14-002239-P001"
+  },
+  {
+   "id": "REL-EFR-14-002239-etend-13-A-184",
+   "document_source_id": "DOC-EFR-14-002239",
+   "document_cible_id": "DOC-13-A-184",
+   "type_relation_code": "etend",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": "SP-EFR-14-002239-P001"
+  },
+  {
+   "id": "REL-EFR-14-002239-etend-07-A-214",
+   "document_source_id": "DOC-EFR-14-002239",
+   "document_cible_id": "DOC-07-A-214",
+   "type_relation_code": "etend",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": "SP-EFR-14-002239-P001"
+  },
+  {
    "id": "REL-EFR-14-002239-etend-09-A-392",
    "document_source_id": "DOC-EFR-14-002239",
    "document_cible_id": "DOC-09-A-392",
@@ -328,33 +355,6 @@
    "id": "REL-EFR-14-002239-etend-13-A-178",
    "document_source_id": "DOC-EFR-14-002239",
    "document_cible_id": "DOC-13-A-178",
-   "type_relation_code": "etend",
-   "date_relation": null,
-   "commentaire": null,
-   "source_page_id": "SP-EFR-14-002239-P001"
-  },
-  {
-   "id": "REL-EFR-14-002239-etend-07-A-214",
-   "document_source_id": "DOC-EFR-14-002239",
-   "document_cible_id": "DOC-07-A-214",
-   "type_relation_code": "etend",
-   "date_relation": null,
-   "commentaire": null,
-   "source_page_id": "SP-EFR-14-002239-P001"
-  },
-  {
-   "id": "REL-EFR-14-002239-etend-13-A-184",
-   "document_source_id": "DOC-EFR-14-002239",
-   "document_cible_id": "DOC-13-A-184",
-   "type_relation_code": "etend",
-   "date_relation": null,
-   "commentaire": null,
-   "source_page_id": "SP-EFR-14-002239-P001"
-  },
-  {
-   "id": "REL-EFR-14-002239-etend-07-A-215",
-   "document_source_id": "DOC-EFR-14-002239",
-   "document_cible_id": "DOC-07-A-215",
    "type_relation_code": "etend",
    "date_relation": null,
    "commentaire": null,

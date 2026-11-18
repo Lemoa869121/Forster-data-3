@@ -278,15 +278,15 @@
  "document_norme": [
   {
    "document_id": "DOC-EFR-20-000858-REC-25-1",
-   "norme_id": "NRM-EN-13501-2-2016",
-   "role": "classement",
+   "norme_id": "NRM-EN-1364-3",
+   "role": "reference",
    "paragraphe": null,
    "source_page_id": "SP-EFR-20-000858-REC-25-1-P001"
   },
   {
    "document_id": "DOC-EFR-20-000858-REC-25-1",
-   "norme_id": "NRM-EN-1364-3",
-   "role": "reference",
+   "norme_id": "NRM-EN-13501-2-2016",
+   "role": "classement",
    "paragraphe": null,
    "source_page_id": "SP-EFR-20-000858-REC-25-1-P001"
   },

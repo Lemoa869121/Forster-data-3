@@ -20,6 +20,8 @@ python3 -m http.server 8000      # puis http://localhost:8000/app/
 ```
 GitHub Pages : Settings → Pages → *Deploy from branch* `main` / racine. L'application est servie sous `/app/`.
 
+Police Faktum : non versionnée (licence commerciale, dépôt public) — déposer les `.otf` dans `app/fonts/` pour l'affichage aux couleurs Forster ; sinon police système.
+
 ## Contenu
 
 | Dossier | Rôle |
@@ -50,6 +52,7 @@ GitHub Pages : Settings → Pages → *Deploy from branch* `main` / racine. L'ap
 14. [Plan d'import des ~100 documents](docs/12_PLAN_IMPORT.md)
 15. [Points de contrôle humain](docs/13_CONTROLES_HUMAINS.md) · [liste des contrôles ouverts](docs/13b_CONTROLES_OUVERTS.md)
 16. [Extraction automatique du corpus complet](docs/14_EXTRACTION_AUTOMATIQUE.md)
+17. [Interface, charte Forster et filtres](docs/15_FILTRES_ET_INTERFACE.md)
 
 ## Règles de données (appliquées par le schéma)
 - Valeur testée ≠ limite autorisée (`nature_code` obligatoire ; `essai_resultat` = testé uniquement).

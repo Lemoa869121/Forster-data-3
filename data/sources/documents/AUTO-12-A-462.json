@@ -206,15 +206,15 @@
  "document_norme": [
   {
    "document_id": "DOC-12-A-462-REC-17-1",
-   "norme_id": "NRM-EN-13501-2-2003",
-   "role": "classement",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
    "paragraphe": null,
    "source_page_id": "SP-12-A-462-REC-17-1-P001"
   },
   {
    "document_id": "DOC-12-A-462-REC-17-1",
-   "norme_id": "NRM-EN-1364-1-1999",
-   "role": "reference",
+   "norme_id": "NRM-EN-13501-2-2003",
+   "role": "classement",
    "paragraphe": null,
    "source_page_id": "SP-12-A-462-REC-17-1-P001"
   }

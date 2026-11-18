@@ -291,6 +291,13 @@
   },
   {
    "document_id": "DOC-EFR-22-004036-EXT-23-1",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": "SP-EFR-22-004036-EXT-23-1-P001"
+  },
+  {
+   "document_id": "DOC-EFR-22-004036-EXT-23-1",
    "norme_id": "NRM-EN-1364-3-2014",
    "role": "reference",
    "paragraphe": null,
@@ -299,13 +306,6 @@
   {
    "document_id": "DOC-EFR-22-004036-EXT-23-1",
    "norme_id": "NRM-EN-1364-1-2015",
-   "role": "reference",
-   "paragraphe": null,
-   "source_page_id": "SP-EFR-22-004036-EXT-23-1-P001"
-  },
-  {
-   "document_id": "DOC-EFR-22-004036-EXT-23-1",
-   "norme_id": "NRM-EN-1364-1-1999",
    "role": "reference",
    "paragraphe": null,
    "source_page_id": "SP-EFR-22-004036-EXT-23-1-P001"

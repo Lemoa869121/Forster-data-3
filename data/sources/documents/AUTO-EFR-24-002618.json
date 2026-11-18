@@ -230,15 +230,6 @@
  ],
  "document_relation": [
   {
-   "id": "REL-EFR-24-002618-EXT-25-1-etend-EFR-24-002619",
-   "document_source_id": "DOC-EFR-24-002618-EXT-25-1",
-   "document_cible_id": "DOC-EFR-24-002619",
-   "type_relation_code": "etend",
-   "date_relation": null,
-   "commentaire": null,
-   "source_page_id": "SP-EFR-24-002618-EXT-25-1-P001"
-  },
-  {
    "id": "REL-EFR-24-002618-EXT-25-1-etend-EFR-24-002609",
    "document_source_id": "DOC-EFR-24-002618-EXT-25-1",
    "document_cible_id": "DOC-EFR-24-002609",
@@ -251,6 +242,15 @@
    "id": "REL-EFR-24-002618-EXT-25-1-etend-EFR-24-002608",
    "document_source_id": "DOC-EFR-24-002618-EXT-25-1",
    "document_cible_id": "DOC-EFR-24-002608",
+   "type_relation_code": "etend",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": "SP-EFR-24-002618-EXT-25-1-P001"
+  },
+  {
+   "id": "REL-EFR-24-002618-EXT-25-1-etend-EFR-24-002619",
+   "document_source_id": "DOC-EFR-24-002618-EXT-25-1",
+   "document_cible_id": "DOC-EFR-24-002619",
    "type_relation_code": "etend",
    "date_relation": null,
    "commentaire": null,
@@ -314,14 +314,14 @@
  "document_norme": [
   {
    "document_id": "DOC-EFR-24-002618",
-   "norme_id": "NRM-EN-13501-2",
+   "norme_id": "NRM-EN-13501-2-2023",
    "role": "classement",
    "paragraphe": null,
    "source_page_id": "SP-EFR-24-002618-P001"
   },
   {
    "document_id": "DOC-EFR-24-002618",
-   "norme_id": "NRM-EN-13501-2-2023",
+   "norme_id": "NRM-EN-13501-2",
    "role": "classement",
    "paragraphe": null,
    "source_page_id": "SP-EFR-24-002618-P001"

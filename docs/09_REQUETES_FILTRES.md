@@ -726,7 +726,7 @@ Points de contrôle humain ouverts par document
 
 - **Paramètres (interface)** : `{":type": null}`
 - **Tables / vues** : `controle_humain`, `document`, `source_page`
-- **Résultat sur le corpus** : 450 ligne(s)
+- **Résultat sur le corpus** : 449 ligne(s)
 
 ```sql
 SELECT d.numero_normalise, ch.type_code, ch.description, sp.page_doc, sp.section, sp.planche

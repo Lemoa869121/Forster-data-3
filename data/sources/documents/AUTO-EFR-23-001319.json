@@ -345,8 +345,8 @@
  "document_norme": [
   {
    "document_id": "DOC-EFR-23-001319",
-   "norme_id": "NRM-EN-13501-2",
-   "role": "classement",
+   "norme_id": "NRM-EN-1125",
+   "role": "reference",
    "paragraphe": null,
    "source_page_id": "SP-EFR-23-001319-P001"
   },
@@ -359,14 +359,14 @@
   },
   {
    "document_id": "DOC-EFR-23-001319",
-   "norme_id": "NRM-EN-1125",
-   "role": "reference",
+   "norme_id": "NRM-EN-13501-2-2023",
+   "role": "classement",
    "paragraphe": null,
    "source_page_id": "SP-EFR-23-001319-P001"
   },
   {
    "document_id": "DOC-EFR-23-001319",
-   "norme_id": "NRM-EN-13501-2-2023",
+   "norme_id": "NRM-EN-13501-2",
    "role": "classement",
    "paragraphe": null,
    "source_page_id": "SP-EFR-23-001319-P001"

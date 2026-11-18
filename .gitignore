@@ -4,3 +4,7 @@ raw/
 *.pdf
 .DS_Store
 ocr_txt/
+
+# Police Faktum (licence commerciale René Bieder) : ne pas publier dans un dépôt public
+app/fonts/*.otf
+app/fonts/*.woff*

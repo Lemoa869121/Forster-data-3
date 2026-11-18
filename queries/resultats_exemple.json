@@ -215,7 +215,7 @@
     "systeme": "Fuego Light (série non précisée)",
     "classe_normalisee": "EI 120",
     "duree_min": 120,
-    "condition_texte": "Classe annoncée par le nom de fichier, non lue dans le tableau OCR",
+    "condition_texte": "Lecture automatique (OCR) du tableau de classement",
     "page_doc": 1,
     "section": null,
     "date_validite_effective": "2028-08-27"
@@ -629,7 +629,7 @@
   "parametres": {
    ":type": null
   },
-  "nb_lignes": 450,
+  "nb_lignes": 449,
   "extrait": [
    {
     "numero_normalise": "08-A-275",

@@ -252,6 +252,15 @@
    "source_page_id": "SP-13-A-180-REC-19-1-P001"
   },
   {
+   "id": "REL-13-A-180-EXT-60-13-etend-13-A-180",
+   "document_source_id": "DOC-13-A-180-EXT-60-13",
+   "document_cible_id": "DOC-13-A-180",
+   "type_relation_code": "etend",
+   "date_relation": null,
+   "commentaire": null,
+   "source_page_id": "SP-13-A-180-EXT-60-13-P001"
+  },
+  {
    "id": "REL-13-A-180-EXT-60-13-etend-EFR-14-002251",
    "document_source_id": "DOC-13-A-180-EXT-60-13",
    "document_cible_id": "DOC-EFR-14-002251",
@@ -264,15 +273,6 @@
    "id": "REL-13-A-180-EXT-60-13-etend-08-V-101",
    "document_source_id": "DOC-13-A-180-EXT-60-13",
    "document_cible_id": "DOC-08-V-101",
-   "type_relation_code": "etend",
-   "date_relation": null,
-   "commentaire": null,
-   "source_page_id": "SP-13-A-180-EXT-60-13-P001"
-  },
-  {
-   "id": "REL-13-A-180-EXT-60-13-etend-13-A-180",
-   "document_source_id": "DOC-13-A-180-EXT-60-13",
-   "document_cible_id": "DOC-13-A-180",
    "type_relation_code": "etend",
    "date_relation": null,
    "commentaire": null,
@@ -362,15 +362,15 @@
  "document_norme": [
   {
    "document_id": "DOC-13-A-180",
-   "norme_id": "NRM-EN-13501-2",
-   "role": "classement",
+   "norme_id": "NRM-EN-1364-1-1999",
+   "role": "reference",
    "paragraphe": null,
    "source_page_id": "SP-13-A-180-P001"
   },
   {
    "document_id": "DOC-13-A-180",
-   "norme_id": "NRM-EN-1364-1-1999",
-   "role": "reference",
+   "norme_id": "NRM-EN-13501-2",
+   "role": "classement",
    "paragraphe": null,
    "source_page_id": "SP-13-A-180-P001"
   }

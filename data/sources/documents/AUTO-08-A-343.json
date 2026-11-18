@@ -785,27 +785,9 @@
    "source_page_id": "SP-08-A-343-REC-19-2-P001"
   },
   {
-   "id": "REL-08-A-343-EXT-11-1-etend-10-A-534",
-   "document_source_id": "DOC-08-A-343-EXT-11-1",
-   "document_cible_id": "DOC-10-A-534",
-   "type_relation_code": "etend",
-   "date_relation": "2011-03-17",
-   "commentaire": null,
-   "source_page_id": "SP-08-A-343-EXT-11-1-P001"
-  },
-  {
    "id": "REL-08-A-343-EXT-11-1-etend-06-A-106",
    "document_source_id": "DOC-08-A-343-EXT-11-1",
    "document_cible_id": "DOC-06-A-106",
-   "type_relation_code": "etend",
-   "date_relation": "2011-03-17",
-   "commentaire": null,
-   "source_page_id": "SP-08-A-343-EXT-11-1-P001"
-  },
-  {
-   "id": "REL-08-A-343-EXT-11-1-etend-08-A-287",
-   "document_source_id": "DOC-08-A-343-EXT-11-1",
-   "document_cible_id": "DOC-08-A-287",
    "type_relation_code": "etend",
    "date_relation": "2011-03-17",
    "commentaire": null,
@@ -821,9 +803,27 @@
    "source_page_id": "SP-08-A-343-EXT-11-1-P001"
   },
   {
-   "id": "REL-08-A-343-EXT-17-2-etend-EFR-15-003850",
+   "id": "REL-08-A-343-EXT-11-1-etend-08-A-287",
+   "document_source_id": "DOC-08-A-343-EXT-11-1",
+   "document_cible_id": "DOC-08-A-287",
+   "type_relation_code": "etend",
+   "date_relation": "2011-03-17",
+   "commentaire": null,
+   "source_page_id": "SP-08-A-343-EXT-11-1-P001"
+  },
+  {
+   "id": "REL-08-A-343-EXT-11-1-etend-10-A-534",
+   "document_source_id": "DOC-08-A-343-EXT-11-1",
+   "document_cible_id": "DOC-10-A-534",
+   "type_relation_code": "etend",
+   "date_relation": "2011-03-17",
+   "commentaire": null,
+   "source_page_id": "SP-08-A-343-EXT-11-1-P001"
+  },
+  {
+   "id": "REL-08-A-343-EXT-17-2-etend-08-A-342",
    "document_source_id": "DOC-08-A-343-EXT-17-2",
-   "document_cible_id": "DOC-EFR-15-003850",
+   "document_cible_id": "DOC-08-A-342",
    "type_relation_code": "etend",
    "date_relation": "2017-06-09",
    "commentaire": null,
@@ -839,9 +839,9 @@
    "source_page_id": "SP-08-A-343-EXT-17-2-P001"
   },
   {
-   "id": "REL-08-A-343-EXT-17-2-etend-08-A-342",
+   "id": "REL-08-A-343-EXT-17-2-etend-EFR-15-003850",
    "document_source_id": "DOC-08-A-343-EXT-17-2",
-   "document_cible_id": "DOC-08-A-342",
+   "document_cible_id": "DOC-EFR-15-003850",
    "type_relation_code": "etend",
    "date_relation": "2017-06-09",
    "commentaire": null,

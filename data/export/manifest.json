@@ -1,8 +1,8 @@
 {
  "meta": {
-  "schema_version": "1.1.0",
-  "data_sha256": "67b7d2b54b1395af5b36bc009223b0740b8d7a0b183add50ee9b89ebbc2e5847",
-  "genere_le": "2026-11-18T06:50:00+00:00",
+  "schema_version": "1.2.0",
+  "data_sha256": "2ec2392da84a2871be47e742336b596684fdce8272fe27033ab287654a0dee38",
+  "genere_le": "2026-11-18T14:08:30+00:00",
   "nb_fichiers_sources": "127"
  },
  "tables": [
@@ -18,7 +18,7 @@
   },
   {
    "table": "controle_humain",
-   "nb_lignes": 450,
+   "nb_lignes": 449,
    "fichier": "tables/controle_humain.json"
   },
   {
@@ -173,12 +173,12 @@
   },
   {
    "table": "perf_feu",
-   "nb_lignes": 211,
+   "nb_lignes": 210,
    "fichier": "tables/perf_feu.json"
   },
   {
    "table": "performance",
-   "nb_lignes": 211,
+   "nb_lignes": 210,
    "fichier": "tables/performance.json"
   },
   {

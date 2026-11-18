@@ -218,18 +218,18 @@
    "source_page_id": "SP-EFR-20-000597-REC-25-1-P001"
   },
   {
-   "id": "REL-EFR-20-000597-EXT-25-2-etend-EFR-18-004879",
+   "id": "REL-EFR-20-000597-EXT-25-2-etend-EFR-20-000597",
    "document_source_id": "DOC-EFR-20-000597-EXT-25-2",
-   "document_cible_id": "DOC-EFR-18-004879",
+   "document_cible_id": "DOC-EFR-20-000597",
    "type_relation_code": "etend",
    "date_relation": "2025-04-17",
    "commentaire": null,
    "source_page_id": "SP-EFR-20-000597-EXT-25-2-P001"
   },
   {
-   "id": "REL-EFR-20-000597-EXT-25-2-etend-EFR-20-000597",
+   "id": "REL-EFR-20-000597-EXT-25-2-etend-EFR-18-004879",
    "document_source_id": "DOC-EFR-20-000597-EXT-25-2",
-   "document_cible_id": "DOC-EFR-20-000597",
+   "document_cible_id": "DOC-EFR-18-004879",
    "type_relation_code": "etend",
    "date_relation": "2025-04-17",
    "commentaire": null,

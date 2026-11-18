@@ -59,7 +59,7 @@ TIERS = [(r'\b(TS\s?\d{2,4}(?:\s?FL|\s?WOOD)?)\b', 'ORG-DORMA', 'ferme_porte'), 
 RE_FORSTER = re.compile(r'(?<![\d.,])(9[0-9]{2}[ .]?[0-9]{3})(?![\d.,]|\s?mm)')
 RE_PROFIL = re.compile(r'(?<![\d.,])((?:0[12]|3[0-9]|7[0-9]|7[0-9]{2})\.\d{3}(?:/T)?)(?![\d.,]|\s?(?:mm|m²|kg))')
 RE_DATE = re.compile(r'\b(\d{1,2})(?:er)?\s+(janvier|f[ée]vrier|mars|avril|mai|juin|juillet|ao[uû]t|septembre|octobre|novembre|d[ée]cembre)\s+(\d{4})', re.I)
-RE_CLASSE = re.compile(r'\b(E\s?[Il|]\s?[12]?|E\s?W|E)\s{0,3}(15|20|30|45|60|90|120|180|240)\b')
+RE_CLASSE = re.compile(r'\b(E\s?[Il|][12]?|E\s?W|E)\s{0,3}(15|20|30|45|60|90|120|180|240)\b')  # I1/I2 collés : « EI 120 » ne doit pas devenir « EI1 20 »
 
 
 def strip(s):

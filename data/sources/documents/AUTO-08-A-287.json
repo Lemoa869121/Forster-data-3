@@ -716,18 +716,18 @@
    "source_page_id": "SP-08-A-287-REC-19-2-P001"
   },
   {
-   "id": "REL-08-A-287-EXT-11-1-etend-10-A-534",
+   "id": "REL-08-A-287-EXT-11-1-etend-06-A-106",
    "document_source_id": "DOC-08-A-287-EXT-11-1",
-   "document_cible_id": "DOC-10-A-534",
+   "document_cible_id": "DOC-06-A-106",
    "type_relation_code": "etend",
    "date_relation": "2012-08-01",
    "commentaire": null,
    "source_page_id": "SP-08-A-287-EXT-11-1-P001"
   },
   {
-   "id": "REL-08-A-287-EXT-11-1-etend-06-A-106",
+   "id": "REL-08-A-287-EXT-11-1-etend-08-A-343",
    "document_source_id": "DOC-08-A-287-EXT-11-1",
-   "document_cible_id": "DOC-06-A-106",
+   "document_cible_id": "DOC-08-A-343",
    "type_relation_code": "etend",
    "date_relation": "2012-08-01",
    "commentaire": null,
@@ -743,9 +743,9 @@
    "source_page_id": "SP-08-A-287-EXT-11-1-P001"
   },
   {
-   "id": "REL-08-A-287-EXT-11-1-etend-08-A-343",
+   "id": "REL-08-A-287-EXT-11-1-etend-10-A-534",
    "document_source_id": "DOC-08-A-287-EXT-11-1",
-   "document_cible_id": "DOC-08-A-343",
+   "document_cible_id": "DOC-10-A-534",
    "type_relation_code": "etend",
    "date_relation": "2012-08-01",
    "commentaire": null,

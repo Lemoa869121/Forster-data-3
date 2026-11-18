@@ -8,7 +8,7 @@ Usage : python3 scripts/build_db.py [--out db/forster_pv.sqlite]
 import argparse, glob, json, os, sqlite3, sys, unicodedata, datetime, hashlib
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SCHEMA_VERSION = '1.1.0'
+SCHEMA_VERSION = '1.2.0'
 
 # Ordre de chargement (respecte les clés étrangères)
 ORDER_CATALOGUE = ['organisme', 'organisme_alias', 'intervenant', 'norme', 'systeme', 'reference_composant']

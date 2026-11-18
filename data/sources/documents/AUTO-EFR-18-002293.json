@@ -341,7 +341,7 @@
    "configuration_id": "CFG-EFR-18-002293-AUTO",
    "domaine_code": "feu",
    "libelle_tel_qu_ecrit": "E I 120",
-   "classe_normalisee": "EI1 20",
+   "classe_normalisee": "EI 120",
    "nature_code": "classement",
    "condition_texte": "Lecture automatique (OCR) du tableau de classement",
    "source_page_id": "SP-EFR-18-002293-P001",
@@ -370,18 +370,6 @@
    "condition_texte": "Lecture automatique (OCR) du tableau de classement",
    "source_page_id": "SP-EFR-18-002293-P001",
    "statut_extraction": "a_verifier"
-  },
-  {
-   "id": "PRF-EFR-18-002293-0004",
-   "document_id": "DOC-EFR-18-002293",
-   "configuration_id": "CFG-EFR-18-002293-AUTO",
-   "domaine_code": "feu",
-   "libelle_tel_qu_ecrit": "EI 120 (nom de fichier)",
-   "classe_normalisee": "EI 120",
-   "nature_code": "classement",
-   "condition_texte": "Classe annoncée par le nom de fichier, non lue dans le tableau OCR",
-   "source_page_id": "SP-EFR-18-002293-P001",
-   "statut_extraction": "non_trouve"
   }
  ],
  "perf_feu": [
@@ -390,13 +378,13 @@
    "critere_r": 0,
    "critere_e": 1,
    "critere_i": 1,
-   "variante_i": "I1",
+   "variante_i": "I",
    "critere_w": 0,
    "critere_m": 0,
    "critere_c": 0,
    "classe_c": null,
    "critere_s": 0,
-   "duree_min": 20,
+   "duree_min": 120,
    "sens_feu": null
   },
   {
@@ -419,20 +407,6 @@
    "critere_e": 1,
    "critere_i": 0,
    "variante_i": null,
-   "critere_w": 0,
-   "critere_m": 0,
-   "critere_c": 0,
-   "classe_c": null,
-   "critere_s": 0,
-   "duree_min": 120,
-   "sens_feu": null
-  },
-  {
-   "performance_id": "PRF-EFR-18-002293-0004",
-   "critere_r": 0,
-   "critere_e": 1,
-   "critere_i": 1,
-   "variante_i": "I",
    "critere_w": 0,
    "critere_m": 0,
    "critere_c": 0,
@@ -1013,17 +987,6 @@
    "ligne_id": null,
    "type_code": "extraction_auto",
    "description": "Document extrait automatiquement (OCR) : pages PDF 3-11 de « FR EFR-18-002293 - PILK - cloison vitrage bab FUEGO light EI120 - PROPILK - 27-08-2028.pdf ». Relire classement, dates, composants et dimensions.",
-   "statut": "ouvert",
-   "resolution": null,
-   "source_page_id": null
-  },
-  {
-   "id": "CTL-EFR-18-002293-0002",
-   "document_id": "DOC-EFR-18-002293",
-   "table_cible": null,
-   "ligne_id": null,
-   "type_code": "non_trouve",
-   "description": "Classe(s) EI 120 du nom de fichier non retrouvée(s) dans le tableau de classement OCR : vérifier sur l'original.",
    "statut": "ouvert",
    "resolution": null,
    "source_page_id": null

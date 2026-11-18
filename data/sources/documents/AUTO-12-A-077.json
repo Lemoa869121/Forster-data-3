@@ -418,18 +418,18 @@
    "source_page_id": "SP-12-A-077-REC-17-1-P001"
   },
   {
-   "id": "REL-12-A-077-EXT-17-1-etend-12-A-077",
+   "id": "REL-12-A-077-EXT-17-1-etend-12-A-079",
    "document_source_id": "DOC-12-A-077-EXT-17-1",
-   "document_cible_id": "DOC-12-A-077",
+   "document_cible_id": "DOC-12-A-079",
    "type_relation_code": "etend",
    "date_relation": "2017-04-20",
    "commentaire": null,
    "source_page_id": "SP-12-A-077-EXT-17-1-P001"
   },
   {
-   "id": "REL-12-A-077-EXT-17-1-etend-12-A-079",
+   "id": "REL-12-A-077-EXT-17-1-etend-12-A-077",
    "document_source_id": "DOC-12-A-077-EXT-17-1",
-   "document_cible_id": "DOC-12-A-079",
+   "document_cible_id": "DOC-12-A-077",
    "type_relation_code": "etend",
    "date_relation": "2017-04-20",
    "commentaire": null,
@@ -586,14 +586,14 @@
  "document_norme": [
   {
    "document_id": "DOC-12-A-077-REC-17-1",
-   "norme_id": "NRM-EN-1364-1-2015",
+   "norme_id": "NRM-EN-1364-1-1999",
    "role": "reference",
    "paragraphe": null,
    "source_page_id": "SP-12-A-077-REC-17-1-P001"
   },
   {
    "document_id": "DOC-12-A-077-REC-17-1",
-   "norme_id": "NRM-EN-1364-1-1999",
+   "norme_id": "NRM-EN-1364-1-2015",
    "role": "reference",
    "paragraphe": null,
    "source_page_id": "SP-12-A-077-REC-17-1-P001"
@@ -614,14 +614,14 @@
   },
   {
    "document_id": "DOC-12-A-077-EXT-17-3",
-   "norme_id": "NRM-EN-1364-1-2015",
+   "norme_id": "NRM-EN-1364-1-1999",
    "role": "reference",
    "paragraphe": null,
    "source_page_id": "SP-12-A-077-EXT-17-3-P001"
   },
   {
    "document_id": "DOC-12-A-077-EXT-17-3",
-   "norme_id": "NRM-EN-1364-1-1999",
+   "norme_id": "NRM-EN-1364-1-2015",
    "role": "reference",
    "paragraphe": null,
    "source_page_id": "SP-12-A-077-EXT-17-3-P001"

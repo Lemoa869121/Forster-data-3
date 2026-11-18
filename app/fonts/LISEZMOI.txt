@@ -1,0 +1,3 @@
+Déposer ici les fichiers de la police Faktum (non versionnés, licence commerciale) :
+Faktum-Regular.otf, Faktum-Medium.otf, Faktum-SemiBold.otf, Faktum-RegularItalic.otf
+Sans eux, l'application utilise la police système de repli.

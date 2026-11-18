@@ -358,15 +358,15 @@
  "document_norme": [
   {
    "document_id": "DOC-13-A-443",
-   "norme_id": "NRM-EN-13501-2-2007",
-   "role": "classement",
+   "norme_id": "NRM-EN-1634-1",
+   "role": "reference",
    "paragraphe": null,
    "source_page_id": "SP-13-A-443-P001"
   },
   {
    "document_id": "DOC-13-A-443",
-   "norme_id": "NRM-EN-1634-1",
-   "role": "reference",
+   "norme_id": "NRM-EN-13501-2-2007",
+   "role": "classement",
    "paragraphe": null,
    "source_page_id": "SP-13-A-443-P001"
   }
