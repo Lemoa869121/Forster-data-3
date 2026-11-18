@@ -1,6 +1,6 @@
 # Annexe — points de contrôle humain ouverts (table `controle_humain`)
 
-782 points générés pendant l'extraction des 6 fichiers.
+799 points générés pendant l'extraction des 6 fichiers.
 
 | Document | Type | Description | Page | Section / planche |
 |---|---|---|---|---|
@@ -660,6 +660,23 @@
 | EXT-MULT-EFR-22-002556 | non_trouve | Texte de l'extension lu jusqu'à la page 7/15 : planches 3 à 15 (références de parcloses, joints CR/EPDM, pl. 6-10) non extraites. | 7 | Planche 2 |
 | FORSTER UNICO+UNICO XS (2025) | extraction_auto | Rapport FORSTER UNICO+UNICO XS (2025) (thermique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
 | FORSTER UNICO+UNICO XS (2025) | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| FORSTERDATA | incoherence | ForsterData FD-FEU-058 (thermfix vario Mur Rideau) : classe « E30 » ; document DOC-13-A-427 : EI 30. |  |  |
+| FORSTERDATA | incoherence | ForsterData FD-FEU-075 (presto Porte va-et-vient) : classe « E30 » ; document DOC-EFR-14-001850 : E 60, EW 60. |  |  |
+| FORSTERDATA | incoherence | ForsterData FD-FEU-076 (presto Porte va-et-vient) : classe « E60 » ; document DOC-EFR-14-001852 : E 30, EW 30. |  |  |
+| FORSTERDATA | incoherence | ForsterData FD-FEU-153 (thermfix light Verrière) : classe « E60 » ; document DOC-12-A-091 : E 30, EI 30. |  |  |
+| FORSTERDATA | incoherence | ForsterData FD-FEU-170 (unico XS Cloison) : classe « E30 » ; document DOC-EFR-22-001303 : E 60, EI 30. |  |  |
+| FORSTERDATA | incoherence | ForsterData FD-RC-019 (unico Porte) : classe « RC3 » ; document DOC-RAP-08-10-A287-B1 : RC2. |  |  |
+| FORSTERDATA | incoherence | ForsterData FD-RC-025 (unico Cloison) : classe « RC3 » ; document DOC-RAP-08-10-A287-B1 : RC2. |  |  |
+| FORSTERDATA | incoherence | ForsterData FD-RC-034 (unico Porte) : classe « RC3 » ; document DOC-RAP-GSFM-22-011-01 : RC4. |  |  |
+| FORSTERDATA | incoherence | ForsterData FD-RC-035 (unico Porte anti-panique) : classe « RC3 » ; document DOC-RAP-GSFM-22-011-01 : RC4. |  |  |
+| FORSTERDATA | incoherence | ForsterData FD-AEV-007 (presto Porte 1 vantail ouverture exterieur) : classe « A*3 E*4A V*C2 » ; document DOC-RAP-201-36285 : A*3 E*4A V*C3. |  |  |
+| FORSTERDATA | incoherence | ForsterData FD-AEV-056 (unico Projection extérieure) : classe « A*4 E*9A V*B4 » ; document DOC-RAP-17-000054-PR02 : A*4 E*9A V*C4. |  |  |
+| FORSTERDATA | incoherence | ForsterData FD-AEV-066 (unico Porte 1 vantail ouverture exterieur) : classe « A*3 E*3A V*C3 » ; document DOC-RAP-11-002983-PR01 : A*4 E*5A V*C3. |  |  |
+| FORSTERDATA | incoherence | ForsterData FD-AEV-068 (unico Porte 2 vantaux ouverture exterieur) : classe « A*2 E*3A V*B2 » ; document DOC-RAP-11-002983-PR06 : A*2 E*3A V*C1. |  |  |
+| FORSTERDATA | incoherence | ForsterData FD-ACOUSTIQUE-039 (fuego light 30 Châssis fixe) : classe « Rw 43 dB » ; document DOC-RAP-19-000121-PR03-2 : Rw 42 dB. |  |  |
+| FORSTERDATA | incoherence | ForsterData FD-ACOUSTIQUE-040 (fuego light 30 Châssis fixe) : classe « Rw 47 dB » ; document DOC-RAP-19-000121-PR03-2 : Rw 42 dB. |  |  |
+| FORSTERDATA | incoherence | ForsterData FD-ACOUSTIQUE-128 (Unico / Unico XS Porte 1 vantail) : classe « Rw 40 dB » ; document DOC-RAP-161-30936-Z27 : Rw 45 dB. |  |  |
+| FORSTERDATA | incoherence | ForsterData FD-ACOUSTIQUE-131 (Unico / Unico XS Porte 1 vantail) : classe « Rw 33 dB » ; document DOC-RAP-161-30936-Z10F : Rw 47 dB. |  |  |
 | Forster Unico fenêtre 2 vantaux Rw 43 (-1;-4) CEBTP 09 2021 | extraction_auto | Rapport Forster Unico fenêtre 2 vantaux Rw 43 (-1;-4) CEBTP 09 2021 (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
 | Forster Unico fenêtre 2 vantaux Rw 44 (-1;-4) CEBTP 09 2021 | extraction_auto | Rapport Forster Unico fenêtre 2 vantaux Rw 44 (-1;-4) CEBTP 09 2021 (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
 | GSFM 22-174-01 | extraction_auto | Rapport GSFM 22-174-01 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |

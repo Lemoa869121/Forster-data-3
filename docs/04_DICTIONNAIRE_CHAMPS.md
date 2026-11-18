@@ -34,7 +34,7 @@ Généré automatiquement par `scripts/gen_docs.py` depuis `db/schema.sql` et la
 | parent_configuration_id | TEXT | FK → configuration.id |  | CFG-11-A-507-BP |
 | source_page_id | TEXT | FK → source_page.id |  | SP-08-A-275-P001 |
 
-## `controle_humain` (782 lignes)
+## `controle_humain` (799 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
@@ -48,23 +48,23 @@ Généré automatiquement par `scripts/gen_docs.py` depuis `db/schema.sql` et la
 | resolution | TEXT |  |  |  |
 | source_page_id | TEXT | FK → source_page.id |  | SP-08-A-275-P008-4-3-2 |
 
-## `cumul_performance` (59 lignes)
+## `cumul_performance` (116 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
-| id | TEXT | PK |  | CUM-RAP-04-08-1318-1 |
-| document_id | TEXT | NOT NULL; FK → document.id | document qui énonce le cumul | DOC-RAP-04-08-1318 |
+| id | TEXT | PK |  | CUM-FD-0001 |
+| document_id | TEXT | NOT NULL; FK → document.id | document qui énonce le cumul | DOC-FORSTERDATA |
 | systeme_id | TEXT | FK → systeme.id |  | SYS-FUEGO-LIGHT |
 | typologie_code | TEXT | FK → ref_typologie.code |  | bloc_porte |
 | domaine_a | TEXT | NOT NULL; FK → ref_domaine_performance.code |  | effraction |
-| classe_a | TEXT | NOT NULL |  | EI30 |
+| classe_a | TEXT | NOT NULL |  | E30 |
 | domaine_b | TEXT | NOT NULL; FK → ref_domaine_performance.code |  | balistique |
-| classe_b | TEXT | NOT NULL |  | WK3 |
-| statut_cumul | TEXT | NOT NULL; CHECK statut_cumul IN ('declare_fabricant','constate_rapport','sous_reserve') |  | constate_rapport |
-| condition_texte | TEXT |  | « sous PV », « sur avis de chantier », serrures… | Éprouvette décrite comme coupe-feu (EI30) dans le nom du rapport ; cla |
-| justificatifs | TEXT |  | références citées (rapports, PV) séparées par ';' | 08/03-A062-K2 ; 08/10-A287-K2 ; 16-002974-PR02 |
+| classe_b | TEXT | NOT NULL |  | RC3 |
+| statut_cumul | TEXT | NOT NULL; CHECK statut_cumul IN ('declare_fabricant','constate_rapport','sous_reserve') |  | declare_fabricant |
+| condition_texte | TEXT |  | « sous PV », « sur avis de chantier », serrures… | ForsterData — presto / cloison ; FD-FEU-008 déclare RC2, RC3 |
+| justificatifs | TEXT |  | références citées (rapports, PV) séparées par ';' | 09-A-496 ; 05/10-A-116-K1 |
 | source_page_id | TEXT | FK → source_page.id |  | SP-RAP-13-08-A288-G2-P1 |
-| statut_extraction | TEXT | NOT NULL; FK → ref_statut_extraction.code; défaut 'a_verifier' |  | a_verifier |
+| statut_extraction | TEXT | NOT NULL; FK → ref_statut_extraction.code; défaut 'a_verifier' |  | extrait |
 
 ## `dc_articulation` (39 lignes)
 
@@ -199,7 +199,7 @@ Généré automatiquement par `scripts/gen_docs.py` depuis `db/schema.sql` et la
 | source_page_id | TEXT | FK → source_page.id |  | SP-08-A-275-P008-4-3-1 |
 | statut_extraction | TEXT | NOT NULL; FK → ref_statut_extraction.code; défaut 'extrait' |  | extrait |
 
-## `document` (737 lignes)
+## `document` (738 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
@@ -345,6 +345,43 @@ Généré automatiquement par `scripts/gen_docs.py` depuis `db/schema.sql` et la
 | nature_code | TEXT | NOT NULL; FK → ref_nature_valeur.code; défaut 'teste'; CHECK nature_code = 'teste') REFERENCES ref_nature_valeur(code |  | teste |
 | source_page_id | TEXT | FK → source_page.id |  | SP-EFR-14-000468-P002-1-4 |
 
+## `fiche_forsterdata` (464 lignes)
+
+| Colonne | Type | Règle | Commentaire | Exemple |
+|---|---|---|---|---|
+| id | TEXT | PK | 'FD-RC-012' | FD-ACOUSTIQUE-001 |
+| document_id | TEXT | NOT NULL; FK → document.id | 'DOC-FORSTERDATA' | DOC-FORSTERDATA |
+| categorie | TEXT | NOT NULL; CHECK categorie IN ('feu','rc','fb','aev','acoustique') |  | acoustique |
+| domaine_code | TEXT | NOT NULL; FK → ref_domaine_performance.code |  | feu |
+| type_chassis | TEXT | NOT NULL | tel que saisi : 'Porte anti-panique' | Cloison |
+| famille_ouvrage | TEXT | NOT NULL | regroupement pour les liens : porte, ouvrant, cloison… | chassis fixe |
+| typologie_code | TEXT | FK → ref_typologie.code |  | cloison_vitree |
+| serie | TEXT |  | tel que saisi : 'fuego light 30' | presto |
+| systeme_id | TEXT | FK → systeme.id |  | SYS-FUEGO-LIGHT-30 |
+| verrier | TEXT |  |  | VETROTECH |
+| numero_pv | TEXT |  | tel que saisi (peut lister plusieurs rapports) | 10-A-650 |
+| document_pv_id | TEXT | FK → document.id | rapprochement par numéro (NULL si non trouvé) | DOC-08-A-275 |
+| rapprochement | TEXT | NOT NULL; CHECK rapprochement IN ('exact','partiel','non_trouve') |  | exact |
+| classe | TEXT |  | 'EI 60', 'RC3', 'FB4-NS', 'A*4 E*9A V*C4', 'Rw 43 dB' | E30 |
+| critere_feu | TEXT |  | 'E' / 'EI' / 'EW' | E |
+| duree_min | INTEGER |  |  | 30 |
+| classe_air | TEXT |  |  | A2 |
+| classe_eau | TEXT |  |  | E2A |
+| classe_vent | TEXT |  |  | C2 |
+| rw_db | REAL |  |  | 38.0 |
+| c_db | REAL |  |  | -1.0 |
+| ctr_db | REAL |  |  | -2.0 |
+| largeur_verre_mm | REAL |  |  | 2055.0 |
+| hauteur_verre_mm | REAL |  |  | 3800.0 |
+| largeur_1v_mm | REAL |  |  | 1288.0 |
+| largeur_2v_mm | REAL |  |  | 2886.0 |
+| hauteur_bp1v_mm | REAL |  |  | 2938.0 |
+| hauteur_bp2v_mm | REAL |  |  | 2700.0 |
+| hauteur_cloison_mm | REAL |  |  | 3400.0 |
+| validite | TEXT | CHECK validite IS NULL OR validite GLOB '[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]' |  | 2031-01-20 |
+| cumul_perf | TEXT |  | colonne « Cumul de perf » telle que saisie | RC2 sur porte 1 vantail |
+| details_json | TEXT | NOT NULL | toutes les colonnes publiées de la ligne d'origine | {"Type de châssis": "Cloison", "Série": "presto", "Verrier": "VETROTEC |
+
 ## `fichier_source` (398 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
@@ -366,12 +403,20 @@ Généré automatiquement par `scripts/gen_docs.py` depuis `db/schema.sql` et la
 | id | TEXT | PK |  | PER-ANDREA-VIARD |
 | nom | TEXT | NOT NULL; UNIQUE |  | Andréa VIARD |
 
+## `lien_forsterdata` (471 lignes)
+
+| Colonne | Type | Règle | Commentaire | Exemple |
+|---|---|---|---|---|
+| fiche_a | TEXT | NOT NULL; FK → fiche_forsterdata.id |  | FD-FB-003 |
+| fiche_b | TEXT | NOT NULL; FK → fiche_forsterdata.id |  | FD-RC-019 |
+| motif | TEXT | NOT NULL | déclaration ayant produit le lien | FD-FEU-008 déclare RC2, RC3 |
+
 ## `meta_schema` (4 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
 | cle | TEXT | PK |  | data_sha256 |
-| valeur | TEXT | NOT NULL |  | 1.3.0 |
+| valeur | TEXT | NOT NULL |  | 1.4.0 |
 
 ## `norme` (40 lignes)
 
@@ -497,7 +542,7 @@ Généré automatiquement par `scripts/gen_docs.py` depuis `db/schema.sql` et la
 | source_page_id | TEXT | FK → source_page.id |  | SP-08-A-275-P007-3-2 |
 | statut_extraction | TEXT | NOT NULL; FK → ref_statut_extraction.code; défaut 'extrait' |  | extrait |
 
-## `recherche_index` (11566 lignes)
+## `recherche_index` (11567 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|

@@ -1,0 +1,2365 @@
+{
+ "table": "lien_forsterdata",
+ "colonnes": [
+  "fiche_a",
+  "fiche_b",
+  "motif"
+ ],
+ "lignes": [
+  {
+   "fiche_a": "FD-FEU-008",
+   "fiche_b": "FD-RC-023",
+   "motif": "FD-FEU-008 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-008",
+   "fiche_b": "FD-RC-024",
+   "motif": "FD-FEU-008 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-018",
+   "fiche_b": "FD-RC-023",
+   "motif": "FD-FEU-018 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-018",
+   "fiche_b": "FD-RC-024",
+   "motif": "FD-FEU-018 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-026",
+   "fiche_b": "FD-RC-023",
+   "motif": "FD-FEU-026 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-026",
+   "fiche_b": "FD-RC-024",
+   "motif": "FD-FEU-026 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-046",
+   "fiche_b": "FD-RC-023",
+   "motif": "FD-FEU-046 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-046",
+   "fiche_b": "FD-RC-024",
+   "motif": "FD-FEU-046 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-049",
+   "fiche_b": "FD-RC-023",
+   "motif": "FD-FEU-049 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-049",
+   "fiche_b": "FD-RC-024",
+   "motif": "FD-FEU-049 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-089",
+   "fiche_b": "FD-RC-023",
+   "motif": "FD-FEU-089 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-089",
+   "fiche_b": "FD-RC-024",
+   "motif": "FD-FEU-089 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-090",
+   "fiche_b": "FD-RC-023",
+   "motif": "FD-FEU-090 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-090",
+   "fiche_b": "FD-RC-024",
+   "motif": "FD-FEU-090 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-002",
+   "fiche_b": "FD-RC-016",
+   "motif": "FD-RC-016 déclare EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-002",
+   "fiche_b": "FD-RC-027",
+   "motif": "FD-RC-027 déclare EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-004",
+   "fiche_b": "FD-RC-016",
+   "motif": "FD-RC-016 déclare EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-004",
+   "fiche_b": "FD-RC-027",
+   "motif": "FD-RC-027 déclare EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-006",
+   "fiche_b": "FD-RC-015",
+   "motif": "FD-RC-015 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-006",
+   "fiche_b": "FD-RC-026",
+   "motif": "FD-RC-026 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-017",
+   "fiche_b": "FD-FEU-006",
+   "motif": "FD-FB-017 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-011",
+   "fiche_b": "FD-RC-015",
+   "motif": "FD-RC-015 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-011",
+   "fiche_b": "FD-RC-026",
+   "motif": "FD-RC-026 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-017",
+   "fiche_b": "FD-FEU-011",
+   "motif": "FD-FB-017 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-013",
+   "fiche_b": "FD-RC-015",
+   "motif": "FD-RC-015 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-013",
+   "fiche_b": "FD-RC-026",
+   "motif": "FD-RC-026 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-017",
+   "fiche_b": "FD-FEU-013",
+   "motif": "FD-FB-017 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-015",
+   "fiche_b": "FD-RC-016",
+   "motif": "FD-RC-016 déclare EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-015",
+   "fiche_b": "FD-RC-027",
+   "motif": "FD-RC-027 déclare EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-029",
+   "fiche_b": "FD-RC-016",
+   "motif": "FD-RC-016 déclare EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-029",
+   "fiche_b": "FD-RC-027",
+   "motif": "FD-RC-027 déclare EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-031",
+   "fiche_b": "FD-RC-015",
+   "motif": "FD-RC-015 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-031",
+   "fiche_b": "FD-RC-026",
+   "motif": "FD-RC-026 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-017",
+   "fiche_b": "FD-FEU-031",
+   "motif": "FD-FB-017 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-060",
+   "fiche_b": "FD-RC-016",
+   "motif": "FD-RC-016 déclare EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-060",
+   "fiche_b": "FD-RC-027",
+   "motif": "FD-RC-027 déclare EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-063",
+   "fiche_b": "FD-RC-015",
+   "motif": "FD-RC-015 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-063",
+   "fiche_b": "FD-RC-026",
+   "motif": "FD-RC-026 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-017",
+   "fiche_b": "FD-FEU-063",
+   "motif": "FD-FB-017 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-122",
+   "fiche_b": "FD-RC-016",
+   "motif": "FD-RC-016 déclare EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-122",
+   "fiche_b": "FD-RC-027",
+   "motif": "FD-RC-027 déclare EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-125",
+   "fiche_b": "FD-RC-015",
+   "motif": "FD-RC-015 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-125",
+   "fiche_b": "FD-RC-026",
+   "motif": "FD-RC-026 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-017",
+   "fiche_b": "FD-FEU-125",
+   "motif": "FD-FB-017 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-160",
+   "fiche_b": "FD-RC-015",
+   "motif": "FD-RC-015 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-160",
+   "fiche_b": "FD-RC-026",
+   "motif": "FD-RC-026 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-017",
+   "fiche_b": "FD-FEU-160",
+   "motif": "FD-FB-017 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-161",
+   "fiche_b": "FD-RC-016",
+   "motif": "FD-RC-016 déclare EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-161",
+   "fiche_b": "FD-RC-027",
+   "motif": "FD-RC-027 déclare EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-003",
+   "fiche_b": "FD-RC-009",
+   "motif": "FD-RC-009 déclare EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-005",
+   "fiche_b": "FD-RC-009",
+   "motif": "FD-RC-009 déclare EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-007",
+   "fiche_b": "FD-RC-008",
+   "motif": "FD-RC-008 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-007",
+   "fiche_b": "FD-RC-051",
+   "motif": "FD-RC-051 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-007",
+   "fiche_b": "FD-RC-052",
+   "motif": "FD-RC-052 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-007",
+   "fiche_b": "FD-RC-053",
+   "motif": "FD-RC-053 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-007",
+   "fiche_b": "FD-RC-054",
+   "motif": "FD-RC-054 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-007",
+   "fiche_b": "FD-RC-055",
+   "motif": "FD-RC-055 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-007",
+   "fiche_b": "FD-RC-056",
+   "motif": "FD-RC-056 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-007",
+   "fiche_b": "FD-RC-057",
+   "motif": "FD-RC-057 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-007",
+   "fiche_b": "FD-RC-058",
+   "motif": "FD-RC-058 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-016",
+   "fiche_b": "FD-FEU-007",
+   "motif": "FD-FB-016 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-018",
+   "fiche_b": "FD-FEU-007",
+   "motif": "FD-FB-018 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-019",
+   "fiche_b": "FD-FEU-007",
+   "motif": "FD-FB-019 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-020",
+   "fiche_b": "FD-FEU-007",
+   "motif": "FD-FB-020 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-012",
+   "fiche_b": "FD-RC-008",
+   "motif": "FD-RC-008 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-012",
+   "fiche_b": "FD-RC-051",
+   "motif": "FD-RC-051 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-012",
+   "fiche_b": "FD-RC-052",
+   "motif": "FD-RC-052 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-012",
+   "fiche_b": "FD-RC-053",
+   "motif": "FD-RC-053 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-012",
+   "fiche_b": "FD-RC-054",
+   "motif": "FD-RC-054 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-012",
+   "fiche_b": "FD-RC-055",
+   "motif": "FD-RC-055 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-012",
+   "fiche_b": "FD-RC-056",
+   "motif": "FD-RC-056 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-012",
+   "fiche_b": "FD-RC-057",
+   "motif": "FD-RC-057 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-012",
+   "fiche_b": "FD-RC-058",
+   "motif": "FD-RC-058 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-016",
+   "fiche_b": "FD-FEU-012",
+   "motif": "FD-FB-016 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-018",
+   "fiche_b": "FD-FEU-012",
+   "motif": "FD-FB-018 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-019",
+   "fiche_b": "FD-FEU-012",
+   "motif": "FD-FB-019 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-020",
+   "fiche_b": "FD-FEU-012",
+   "motif": "FD-FB-020 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-014",
+   "fiche_b": "FD-RC-008",
+   "motif": "FD-RC-008 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-014",
+   "fiche_b": "FD-RC-051",
+   "motif": "FD-RC-051 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-014",
+   "fiche_b": "FD-RC-052",
+   "motif": "FD-RC-052 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-014",
+   "fiche_b": "FD-RC-053",
+   "motif": "FD-RC-053 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-014",
+   "fiche_b": "FD-RC-054",
+   "motif": "FD-RC-054 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-014",
+   "fiche_b": "FD-RC-055",
+   "motif": "FD-RC-055 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-014",
+   "fiche_b": "FD-RC-056",
+   "motif": "FD-RC-056 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-014",
+   "fiche_b": "FD-RC-057",
+   "motif": "FD-RC-057 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-014",
+   "fiche_b": "FD-RC-058",
+   "motif": "FD-RC-058 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-016",
+   "fiche_b": "FD-FEU-014",
+   "motif": "FD-FB-016 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-018",
+   "fiche_b": "FD-FEU-014",
+   "motif": "FD-FB-018 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-019",
+   "fiche_b": "FD-FEU-014",
+   "motif": "FD-FB-019 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-020",
+   "fiche_b": "FD-FEU-014",
+   "motif": "FD-FB-020 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-016",
+   "fiche_b": "FD-RC-009",
+   "motif": "FD-RC-009 déclare EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-030",
+   "fiche_b": "FD-RC-009",
+   "motif": "FD-RC-009 déclare EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-032",
+   "fiche_b": "FD-RC-008",
+   "motif": "FD-RC-008 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-032",
+   "fiche_b": "FD-RC-051",
+   "motif": "FD-RC-051 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-032",
+   "fiche_b": "FD-RC-052",
+   "motif": "FD-RC-052 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-032",
+   "fiche_b": "FD-RC-053",
+   "motif": "FD-RC-053 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-032",
+   "fiche_b": "FD-RC-054",
+   "motif": "FD-RC-054 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-032",
+   "fiche_b": "FD-RC-055",
+   "motif": "FD-RC-055 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-032",
+   "fiche_b": "FD-RC-056",
+   "motif": "FD-RC-056 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-032",
+   "fiche_b": "FD-RC-057",
+   "motif": "FD-RC-057 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-032",
+   "fiche_b": "FD-RC-058",
+   "motif": "FD-RC-058 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-016",
+   "fiche_b": "FD-FEU-032",
+   "motif": "FD-FB-016 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-018",
+   "fiche_b": "FD-FEU-032",
+   "motif": "FD-FB-018 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-019",
+   "fiche_b": "FD-FEU-032",
+   "motif": "FD-FB-019 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-020",
+   "fiche_b": "FD-FEU-032",
+   "motif": "FD-FB-020 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-061",
+   "fiche_b": "FD-RC-009",
+   "motif": "FD-RC-009 déclare EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-064",
+   "fiche_b": "FD-RC-008",
+   "motif": "FD-RC-008 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-064",
+   "fiche_b": "FD-RC-051",
+   "motif": "FD-RC-051 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-064",
+   "fiche_b": "FD-RC-052",
+   "motif": "FD-RC-052 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-064",
+   "fiche_b": "FD-RC-053",
+   "motif": "FD-RC-053 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-064",
+   "fiche_b": "FD-RC-054",
+   "motif": "FD-RC-054 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-064",
+   "fiche_b": "FD-RC-055",
+   "motif": "FD-RC-055 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-064",
+   "fiche_b": "FD-RC-056",
+   "motif": "FD-RC-056 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-064",
+   "fiche_b": "FD-RC-057",
+   "motif": "FD-RC-057 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-064",
+   "fiche_b": "FD-RC-058",
+   "motif": "FD-RC-058 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-016",
+   "fiche_b": "FD-FEU-064",
+   "motif": "FD-FB-016 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-018",
+   "fiche_b": "FD-FEU-064",
+   "motif": "FD-FB-018 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-019",
+   "fiche_b": "FD-FEU-064",
+   "motif": "FD-FB-019 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-020",
+   "fiche_b": "FD-FEU-064",
+   "motif": "FD-FB-020 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-098",
+   "fiche_b": "FD-RC-008",
+   "motif": "FD-RC-008 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-098",
+   "fiche_b": "FD-RC-051",
+   "motif": "FD-RC-051 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-098",
+   "fiche_b": "FD-RC-052",
+   "motif": "FD-RC-052 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-098",
+   "fiche_b": "FD-RC-053",
+   "motif": "FD-RC-053 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-098",
+   "fiche_b": "FD-RC-054",
+   "motif": "FD-RC-054 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-098",
+   "fiche_b": "FD-RC-055",
+   "motif": "FD-RC-055 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-098",
+   "fiche_b": "FD-RC-056",
+   "motif": "FD-RC-056 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-098",
+   "fiche_b": "FD-RC-057",
+   "motif": "FD-RC-057 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-098",
+   "fiche_b": "FD-RC-058",
+   "motif": "FD-RC-058 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-016",
+   "fiche_b": "FD-FEU-098",
+   "motif": "FD-FB-016 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-018",
+   "fiche_b": "FD-FEU-098",
+   "motif": "FD-FB-018 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-019",
+   "fiche_b": "FD-FEU-098",
+   "motif": "FD-FB-019 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-020",
+   "fiche_b": "FD-FEU-098",
+   "motif": "FD-FB-020 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-123",
+   "fiche_b": "FD-RC-009",
+   "motif": "FD-RC-009 déclare EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-148",
+   "fiche_b": "FD-RC-008",
+   "motif": "FD-RC-008 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-148",
+   "fiche_b": "FD-RC-051",
+   "motif": "FD-RC-051 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-148",
+   "fiche_b": "FD-RC-052",
+   "motif": "FD-RC-052 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-148",
+   "fiche_b": "FD-RC-053",
+   "motif": "FD-RC-053 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-148",
+   "fiche_b": "FD-RC-054",
+   "motif": "FD-RC-054 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-148",
+   "fiche_b": "FD-RC-055",
+   "motif": "FD-RC-055 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-148",
+   "fiche_b": "FD-RC-056",
+   "motif": "FD-RC-056 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-148",
+   "fiche_b": "FD-RC-057",
+   "motif": "FD-RC-057 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-148",
+   "fiche_b": "FD-RC-058",
+   "motif": "FD-RC-058 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-016",
+   "fiche_b": "FD-FEU-148",
+   "motif": "FD-FB-016 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-018",
+   "fiche_b": "FD-FEU-148",
+   "motif": "FD-FB-018 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-019",
+   "fiche_b": "FD-FEU-148",
+   "motif": "FD-FB-019 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FB-020",
+   "fiche_b": "FD-FEU-148",
+   "motif": "FD-FB-020 déclare EI30"
+  },
+  {
+   "fiche_a": "FD-FEU-149",
+   "fiche_b": "FD-RC-009",
+   "motif": "FD-RC-009 déclare EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-162",
+   "fiche_b": "FD-RC-009",
+   "motif": "FD-RC-009 déclare EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-009",
+   "fiche_b": "FD-RC-059",
+   "motif": "FD-RC-059 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-009",
+   "fiche_b": "FD-RC-060",
+   "motif": "FD-RC-060 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-009",
+   "fiche_b": "FD-RC-061",
+   "motif": "FD-RC-061 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-009",
+   "fiche_b": "FD-RC-062",
+   "motif": "FD-RC-062 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-009",
+   "fiche_b": "FD-RC-063",
+   "motif": "FD-RC-063 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-009",
+   "fiche_b": "FD-RC-064",
+   "motif": "FD-RC-064 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-009",
+   "fiche_b": "FD-RC-065",
+   "motif": "FD-RC-065 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-009",
+   "fiche_b": "FD-RC-066",
+   "motif": "FD-RC-066 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-025",
+   "fiche_b": "FD-RC-006",
+   "motif": "FD-FEU-025 déclare RC2"
+  },
+  {
+   "fiche_a": "FD-FEU-025",
+   "fiche_b": "FD-RC-010",
+   "motif": "FD-FEU-025 déclare RC2"
+  },
+  {
+   "fiche_a": "FD-FEU-025",
+   "fiche_b": "FD-RC-059",
+   "motif": "FD-RC-059 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-025",
+   "fiche_b": "FD-RC-060",
+   "motif": "FD-RC-060 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-025",
+   "fiche_b": "FD-RC-061",
+   "motif": "FD-RC-061 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-025",
+   "fiche_b": "FD-RC-062",
+   "motif": "FD-RC-062 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-025",
+   "fiche_b": "FD-RC-063",
+   "motif": "FD-RC-063 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-025",
+   "fiche_b": "FD-RC-064",
+   "motif": "FD-RC-064 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-025",
+   "fiche_b": "FD-RC-065",
+   "motif": "FD-RC-065 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-025",
+   "fiche_b": "FD-RC-066",
+   "motif": "FD-RC-066 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-027",
+   "fiche_b": "FD-RC-059",
+   "motif": "FD-RC-059 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-027",
+   "fiche_b": "FD-RC-060",
+   "motif": "FD-RC-060 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-027",
+   "fiche_b": "FD-RC-061",
+   "motif": "FD-RC-061 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-027",
+   "fiche_b": "FD-RC-062",
+   "motif": "FD-RC-062 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-027",
+   "fiche_b": "FD-RC-063",
+   "motif": "FD-RC-063 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-027",
+   "fiche_b": "FD-RC-064",
+   "motif": "FD-RC-064 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-027",
+   "fiche_b": "FD-RC-065",
+   "motif": "FD-RC-065 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-027",
+   "fiche_b": "FD-RC-066",
+   "motif": "FD-RC-066 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-048",
+   "fiche_b": "FD-RC-059",
+   "motif": "FD-RC-059 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-048",
+   "fiche_b": "FD-RC-060",
+   "motif": "FD-RC-060 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-048",
+   "fiche_b": "FD-RC-061",
+   "motif": "FD-RC-061 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-048",
+   "fiche_b": "FD-RC-062",
+   "motif": "FD-RC-062 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-048",
+   "fiche_b": "FD-RC-063",
+   "motif": "FD-RC-063 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-048",
+   "fiche_b": "FD-RC-064",
+   "motif": "FD-RC-064 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-048",
+   "fiche_b": "FD-RC-065",
+   "motif": "FD-RC-065 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-048",
+   "fiche_b": "FD-RC-066",
+   "motif": "FD-RC-066 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-150",
+   "fiche_b": "FD-RC-006",
+   "motif": "FD-FEU-150 déclare RC2"
+  },
+  {
+   "fiche_a": "FD-FEU-150",
+   "fiche_b": "FD-RC-010",
+   "motif": "FD-FEU-150 déclare RC2"
+  },
+  {
+   "fiche_a": "FD-FEU-150",
+   "fiche_b": "FD-RC-059",
+   "motif": "FD-RC-059 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-150",
+   "fiche_b": "FD-RC-060",
+   "motif": "FD-RC-060 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-150",
+   "fiche_b": "FD-RC-061",
+   "motif": "FD-RC-061 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-150",
+   "fiche_b": "FD-RC-062",
+   "motif": "FD-RC-062 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-150",
+   "fiche_b": "FD-RC-063",
+   "motif": "FD-RC-063 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-150",
+   "fiche_b": "FD-RC-064",
+   "motif": "FD-RC-064 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-150",
+   "fiche_b": "FD-RC-065",
+   "motif": "FD-RC-065 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-150",
+   "fiche_b": "FD-RC-066",
+   "motif": "FD-RC-066 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-156",
+   "fiche_b": "FD-RC-059",
+   "motif": "FD-RC-059 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-156",
+   "fiche_b": "FD-RC-060",
+   "motif": "FD-RC-060 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-156",
+   "fiche_b": "FD-RC-061",
+   "motif": "FD-RC-061 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-156",
+   "fiche_b": "FD-RC-062",
+   "motif": "FD-RC-062 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-156",
+   "fiche_b": "FD-RC-063",
+   "motif": "FD-RC-063 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-156",
+   "fiche_b": "FD-RC-064",
+   "motif": "FD-RC-064 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-156",
+   "fiche_b": "FD-RC-065",
+   "motif": "FD-RC-065 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-156",
+   "fiche_b": "FD-RC-066",
+   "motif": "FD-RC-066 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-157",
+   "fiche_b": "FD-RC-059",
+   "motif": "FD-RC-059 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-157",
+   "fiche_b": "FD-RC-060",
+   "motif": "FD-RC-060 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-157",
+   "fiche_b": "FD-RC-061",
+   "motif": "FD-RC-061 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-157",
+   "fiche_b": "FD-RC-062",
+   "motif": "FD-RC-062 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-157",
+   "fiche_b": "FD-RC-063",
+   "motif": "FD-RC-063 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-157",
+   "fiche_b": "FD-RC-064",
+   "motif": "FD-RC-064 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-157",
+   "fiche_b": "FD-RC-065",
+   "motif": "FD-RC-065 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-157",
+   "fiche_b": "FD-RC-066",
+   "motif": "FD-RC-066 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-159",
+   "fiche_b": "FD-RC-059",
+   "motif": "FD-RC-059 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-159",
+   "fiche_b": "FD-RC-060",
+   "motif": "FD-RC-060 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-159",
+   "fiche_b": "FD-RC-061",
+   "motif": "FD-RC-061 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-159",
+   "fiche_b": "FD-RC-062",
+   "motif": "FD-RC-062 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-159",
+   "fiche_b": "FD-RC-063",
+   "motif": "FD-RC-063 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-159",
+   "fiche_b": "FD-RC-064",
+   "motif": "FD-RC-064 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-159",
+   "fiche_b": "FD-RC-065",
+   "motif": "FD-RC-065 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-159",
+   "fiche_b": "FD-RC-066",
+   "motif": "FD-RC-066 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-033",
+   "fiche_b": "FD-RC-005",
+   "motif": "FD-RC-005 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-033",
+   "fiche_b": "FD-RC-014",
+   "motif": "FD-RC-014 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-033",
+   "fiche_b": "FD-RC-025",
+   "motif": "FD-RC-025 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-065",
+   "fiche_b": "FD-RC-005",
+   "motif": "FD-RC-005 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-065",
+   "fiche_b": "FD-RC-014",
+   "motif": "FD-RC-014 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-065",
+   "fiche_b": "FD-RC-025",
+   "motif": "FD-RC-025 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-068",
+   "fiche_b": "FD-RC-005",
+   "motif": "FD-RC-005 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-068",
+   "fiche_b": "FD-RC-014",
+   "motif": "FD-RC-014 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-068",
+   "fiche_b": "FD-RC-025",
+   "motif": "FD-RC-025 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-072",
+   "fiche_b": "FD-RC-005",
+   "motif": "FD-RC-005 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-072",
+   "fiche_b": "FD-RC-014",
+   "motif": "FD-RC-014 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-072",
+   "fiche_b": "FD-RC-025",
+   "motif": "FD-RC-025 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-086",
+   "fiche_b": "FD-RC-005",
+   "motif": "FD-RC-005 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-086",
+   "fiche_b": "FD-RC-014",
+   "motif": "FD-RC-014 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-086",
+   "fiche_b": "FD-RC-025",
+   "motif": "FD-RC-025 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-104",
+   "fiche_b": "FD-RC-005",
+   "motif": "FD-RC-005 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-104",
+   "fiche_b": "FD-RC-014",
+   "motif": "FD-RC-014 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-104",
+   "fiche_b": "FD-RC-025",
+   "motif": "FD-RC-025 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-163",
+   "fiche_b": "FD-RC-005",
+   "motif": "FD-RC-005 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-163",
+   "fiche_b": "FD-RC-014",
+   "motif": "FD-RC-014 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-163",
+   "fiche_b": "FD-RC-025",
+   "motif": "FD-RC-025 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FB-011",
+   "fiche_b": "FD-RC-005",
+   "motif": "FD-RC-005 déclare FB4, FB5, FB6, FB7"
+  },
+  {
+   "fiche_a": "FD-FB-005",
+   "fiche_b": "FD-RC-014",
+   "motif": "FD-FB-005 déclare RC2, RC3, RC4"
+  },
+  {
+   "fiche_a": "FD-FB-008",
+   "fiche_b": "FD-RC-014",
+   "motif": "FD-FB-008 déclare RC2, RC3, RC4"
+  },
+  {
+   "fiche_a": "FD-FB-010",
+   "fiche_b": "FD-RC-014",
+   "motif": "FD-FB-010 déclare RC2, RC3, RC4"
+  },
+  {
+   "fiche_a": "FD-FB-011",
+   "fiche_b": "FD-RC-014",
+   "motif": "FD-RC-014 déclare FB4, FB5, FB6, FB7"
+  },
+  {
+   "fiche_a": "FD-FB-005",
+   "fiche_b": "FD-RC-025",
+   "motif": "FD-FB-005 déclare RC2, RC3, RC4"
+  },
+  {
+   "fiche_a": "FD-FB-008",
+   "fiche_b": "FD-RC-025",
+   "motif": "FD-FB-008 déclare RC2, RC3, RC4"
+  },
+  {
+   "fiche_a": "FD-FB-010",
+   "fiche_b": "FD-RC-025",
+   "motif": "FD-FB-010 déclare RC2, RC3, RC4"
+  },
+  {
+   "fiche_a": "FD-FB-011",
+   "fiche_b": "FD-RC-025",
+   "motif": "FD-RC-025 déclare FB4, FB5, FB6, FB7"
+  },
+  {
+   "fiche_a": "FD-FB-005",
+   "fiche_b": "FD-RC-031",
+   "motif": "FD-FB-005 déclare RC2, RC3, RC4"
+  },
+  {
+   "fiche_a": "FD-FB-008",
+   "fiche_b": "FD-RC-031",
+   "motif": "FD-FB-008 déclare RC2, RC3, RC4"
+  },
+  {
+   "fiche_a": "FD-FB-010",
+   "fiche_b": "FD-RC-031",
+   "motif": "FD-FB-010 déclare RC2, RC3, RC4"
+  },
+  {
+   "fiche_a": "FD-FB-011",
+   "fiche_b": "FD-RC-031",
+   "motif": "FD-RC-031 déclare FB4, FB5, FB6, FB7"
+  },
+  {
+   "fiche_a": "FD-FEU-034",
+   "fiche_b": "FD-RC-012",
+   "motif": "FD-RC-012 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-034",
+   "fiche_b": "FD-RC-022",
+   "motif": "FD-RC-022 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-067",
+   "fiche_b": "FD-RC-012",
+   "motif": "FD-RC-012 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-067",
+   "fiche_b": "FD-RC-022",
+   "motif": "FD-RC-022 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-095",
+   "fiche_b": "FD-RC-012",
+   "motif": "FD-RC-012 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-095",
+   "fiche_b": "FD-RC-022",
+   "motif": "FD-RC-022 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-107",
+   "fiche_b": "FD-RC-012",
+   "motif": "FD-RC-012 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-107",
+   "fiche_b": "FD-RC-022",
+   "motif": "FD-RC-022 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-168",
+   "fiche_b": "FD-RC-012",
+   "motif": "FD-RC-012 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FEU-168",
+   "fiche_b": "FD-RC-022",
+   "motif": "FD-RC-022 déclare E120, E30, E60, E90"
+  },
+  {
+   "fiche_a": "FD-FB-004",
+   "fiche_b": "FD-RC-022",
+   "motif": "FD-FB-004 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-035",
+   "fiche_b": "FD-RC-007",
+   "motif": "FD-RC-007 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-035",
+   "fiche_b": "FD-RC-011",
+   "motif": "FD-RC-011 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-066",
+   "fiche_b": "FD-RC-007",
+   "motif": "FD-RC-007 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-066",
+   "fiche_b": "FD-RC-011",
+   "motif": "FD-RC-011 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-097",
+   "fiche_b": "FD-RC-007",
+   "motif": "FD-RC-007 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-097",
+   "fiche_b": "FD-RC-011",
+   "motif": "FD-RC-011 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-106",
+   "fiche_b": "FD-RC-007",
+   "motif": "FD-RC-007 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-106",
+   "fiche_b": "FD-RC-011",
+   "motif": "FD-RC-011 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-106",
+   "fiche_b": "FD-RC-019",
+   "motif": "FD-FEU-106 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-106",
+   "fiche_b": "FD-RC-021",
+   "motif": "FD-FEU-106 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-106",
+   "fiche_b": "FD-RC-034",
+   "motif": "FD-FEU-106 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-106",
+   "fiche_b": "FD-RC-035",
+   "motif": "FD-FEU-106 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-106",
+   "fiche_b": "FD-RC-036",
+   "motif": "FD-FEU-106 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-106",
+   "fiche_b": "FD-RC-037",
+   "motif": "FD-FEU-106 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-106",
+   "fiche_b": "FD-RC-038",
+   "motif": "FD-FEU-106 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-106",
+   "fiche_b": "FD-RC-039",
+   "motif": "FD-FEU-106 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-106",
+   "fiche_b": "FD-RC-040",
+   "motif": "FD-FEU-106 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-106",
+   "fiche_b": "FD-RC-041",
+   "motif": "FD-FEU-106 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-106",
+   "fiche_b": "FD-RC-042",
+   "motif": "FD-FEU-106 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-106",
+   "fiche_b": "FD-RC-043",
+   "motif": "FD-FEU-106 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-106",
+   "fiche_b": "FD-RC-044",
+   "motif": "FD-FEU-106 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-106",
+   "fiche_b": "FD-RC-045",
+   "motif": "FD-FEU-106 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-106",
+   "fiche_b": "FD-RC-046",
+   "motif": "FD-FEU-106 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-106",
+   "fiche_b": "FD-RC-047",
+   "motif": "FD-FEU-106 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-106",
+   "fiche_b": "FD-RC-048",
+   "motif": "FD-FEU-106 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-106",
+   "fiche_b": "FD-RC-049",
+   "motif": "FD-FEU-106 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-106",
+   "fiche_b": "FD-RC-050",
+   "motif": "FD-FEU-106 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-164",
+   "fiche_b": "FD-RC-007",
+   "motif": "FD-RC-007 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-164",
+   "fiche_b": "FD-RC-011",
+   "motif": "FD-RC-011 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-165",
+   "fiche_b": "FD-RC-007",
+   "motif": "FD-RC-007 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-165",
+   "fiche_b": "FD-RC-011",
+   "motif": "FD-RC-011 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-165",
+   "fiche_b": "FD-RC-019",
+   "motif": "FD-FEU-165 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-165",
+   "fiche_b": "FD-RC-021",
+   "motif": "FD-FEU-165 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-165",
+   "fiche_b": "FD-RC-034",
+   "motif": "FD-FEU-165 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-165",
+   "fiche_b": "FD-RC-035",
+   "motif": "FD-FEU-165 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-165",
+   "fiche_b": "FD-RC-036",
+   "motif": "FD-FEU-165 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-165",
+   "fiche_b": "FD-RC-037",
+   "motif": "FD-FEU-165 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-165",
+   "fiche_b": "FD-RC-038",
+   "motif": "FD-FEU-165 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-165",
+   "fiche_b": "FD-RC-039",
+   "motif": "FD-FEU-165 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-165",
+   "fiche_b": "FD-RC-040",
+   "motif": "FD-FEU-165 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-165",
+   "fiche_b": "FD-RC-041",
+   "motif": "FD-FEU-165 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-165",
+   "fiche_b": "FD-RC-042",
+   "motif": "FD-FEU-165 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-165",
+   "fiche_b": "FD-RC-043",
+   "motif": "FD-FEU-165 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-165",
+   "fiche_b": "FD-RC-044",
+   "motif": "FD-FEU-165 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-165",
+   "fiche_b": "FD-RC-045",
+   "motif": "FD-FEU-165 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-165",
+   "fiche_b": "FD-RC-046",
+   "motif": "FD-FEU-165 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-165",
+   "fiche_b": "FD-RC-047",
+   "motif": "FD-FEU-165 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-165",
+   "fiche_b": "FD-RC-048",
+   "motif": "FD-FEU-165 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-165",
+   "fiche_b": "FD-RC-049",
+   "motif": "FD-FEU-165 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-165",
+   "fiche_b": "FD-RC-050",
+   "motif": "FD-FEU-165 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-167",
+   "fiche_b": "FD-RC-007",
+   "motif": "FD-RC-007 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-167",
+   "fiche_b": "FD-RC-011",
+   "motif": "FD-RC-011 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-167",
+   "fiche_b": "FD-RC-019",
+   "motif": "FD-FEU-167 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-167",
+   "fiche_b": "FD-RC-021",
+   "motif": "FD-FEU-167 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-167",
+   "fiche_b": "FD-RC-034",
+   "motif": "FD-FEU-167 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-167",
+   "fiche_b": "FD-RC-035",
+   "motif": "FD-FEU-167 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-167",
+   "fiche_b": "FD-RC-036",
+   "motif": "FD-FEU-167 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-167",
+   "fiche_b": "FD-RC-037",
+   "motif": "FD-FEU-167 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-167",
+   "fiche_b": "FD-RC-038",
+   "motif": "FD-FEU-167 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-167",
+   "fiche_b": "FD-RC-039",
+   "motif": "FD-FEU-167 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-167",
+   "fiche_b": "FD-RC-040",
+   "motif": "FD-FEU-167 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-167",
+   "fiche_b": "FD-RC-041",
+   "motif": "FD-FEU-167 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-167",
+   "fiche_b": "FD-RC-042",
+   "motif": "FD-FEU-167 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-167",
+   "fiche_b": "FD-RC-043",
+   "motif": "FD-FEU-167 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-167",
+   "fiche_b": "FD-RC-044",
+   "motif": "FD-FEU-167 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-167",
+   "fiche_b": "FD-RC-045",
+   "motif": "FD-FEU-167 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-167",
+   "fiche_b": "FD-RC-046",
+   "motif": "FD-FEU-167 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-167",
+   "fiche_b": "FD-RC-047",
+   "motif": "FD-FEU-167 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-167",
+   "fiche_b": "FD-RC-048",
+   "motif": "FD-FEU-167 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-167",
+   "fiche_b": "FD-RC-049",
+   "motif": "FD-FEU-167 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-167",
+   "fiche_b": "FD-RC-050",
+   "motif": "FD-FEU-167 déclare RC2, RC3"
+  },
+  {
+   "fiche_a": "FD-FB-003",
+   "fiche_b": "FD-RC-019",
+   "motif": "FD-FB-003 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-007",
+   "fiche_b": "FD-RC-019",
+   "motif": "FD-FB-007 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-009",
+   "fiche_b": "FD-RC-019",
+   "motif": "FD-FB-009 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-003",
+   "fiche_b": "FD-RC-021",
+   "motif": "FD-FB-003 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-007",
+   "fiche_b": "FD-RC-021",
+   "motif": "FD-FB-007 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-009",
+   "fiche_b": "FD-RC-021",
+   "motif": "FD-FB-009 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-003",
+   "fiche_b": "FD-RC-034",
+   "motif": "FD-FB-003 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-007",
+   "fiche_b": "FD-RC-034",
+   "motif": "FD-FB-007 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-009",
+   "fiche_b": "FD-RC-034",
+   "motif": "FD-FB-009 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-003",
+   "fiche_b": "FD-RC-035",
+   "motif": "FD-FB-003 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-007",
+   "fiche_b": "FD-RC-035",
+   "motif": "FD-FB-007 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-009",
+   "fiche_b": "FD-RC-035",
+   "motif": "FD-FB-009 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-003",
+   "fiche_b": "FD-RC-036",
+   "motif": "FD-FB-003 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-007",
+   "fiche_b": "FD-RC-036",
+   "motif": "FD-FB-007 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-009",
+   "fiche_b": "FD-RC-036",
+   "motif": "FD-FB-009 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-003",
+   "fiche_b": "FD-RC-037",
+   "motif": "FD-FB-003 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-007",
+   "fiche_b": "FD-RC-037",
+   "motif": "FD-FB-007 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-009",
+   "fiche_b": "FD-RC-037",
+   "motif": "FD-FB-009 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-003",
+   "fiche_b": "FD-RC-038",
+   "motif": "FD-FB-003 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-007",
+   "fiche_b": "FD-RC-038",
+   "motif": "FD-FB-007 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-009",
+   "fiche_b": "FD-RC-038",
+   "motif": "FD-FB-009 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-003",
+   "fiche_b": "FD-RC-039",
+   "motif": "FD-FB-003 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-007",
+   "fiche_b": "FD-RC-039",
+   "motif": "FD-FB-007 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-009",
+   "fiche_b": "FD-RC-039",
+   "motif": "FD-FB-009 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-003",
+   "fiche_b": "FD-RC-040",
+   "motif": "FD-FB-003 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-007",
+   "fiche_b": "FD-RC-040",
+   "motif": "FD-FB-007 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-009",
+   "fiche_b": "FD-RC-040",
+   "motif": "FD-FB-009 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-003",
+   "fiche_b": "FD-RC-041",
+   "motif": "FD-FB-003 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-007",
+   "fiche_b": "FD-RC-041",
+   "motif": "FD-FB-007 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-009",
+   "fiche_b": "FD-RC-041",
+   "motif": "FD-FB-009 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-003",
+   "fiche_b": "FD-RC-042",
+   "motif": "FD-FB-003 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-007",
+   "fiche_b": "FD-RC-042",
+   "motif": "FD-FB-007 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-009",
+   "fiche_b": "FD-RC-042",
+   "motif": "FD-FB-009 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-003",
+   "fiche_b": "FD-RC-043",
+   "motif": "FD-FB-003 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-007",
+   "fiche_b": "FD-RC-043",
+   "motif": "FD-FB-007 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-009",
+   "fiche_b": "FD-RC-043",
+   "motif": "FD-FB-009 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-003",
+   "fiche_b": "FD-RC-044",
+   "motif": "FD-FB-003 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-007",
+   "fiche_b": "FD-RC-044",
+   "motif": "FD-FB-007 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-009",
+   "fiche_b": "FD-RC-044",
+   "motif": "FD-FB-009 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-003",
+   "fiche_b": "FD-RC-045",
+   "motif": "FD-FB-003 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-007",
+   "fiche_b": "FD-RC-045",
+   "motif": "FD-FB-007 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-009",
+   "fiche_b": "FD-RC-045",
+   "motif": "FD-FB-009 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-003",
+   "fiche_b": "FD-RC-046",
+   "motif": "FD-FB-003 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-007",
+   "fiche_b": "FD-RC-046",
+   "motif": "FD-FB-007 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-009",
+   "fiche_b": "FD-RC-046",
+   "motif": "FD-FB-009 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-003",
+   "fiche_b": "FD-RC-047",
+   "motif": "FD-FB-003 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-007",
+   "fiche_b": "FD-RC-047",
+   "motif": "FD-FB-007 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-009",
+   "fiche_b": "FD-RC-047",
+   "motif": "FD-FB-009 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-003",
+   "fiche_b": "FD-RC-048",
+   "motif": "FD-FB-003 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-007",
+   "fiche_b": "FD-RC-048",
+   "motif": "FD-FB-007 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-009",
+   "fiche_b": "FD-RC-048",
+   "motif": "FD-FB-009 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-003",
+   "fiche_b": "FD-RC-049",
+   "motif": "FD-FB-003 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-007",
+   "fiche_b": "FD-RC-049",
+   "motif": "FD-FB-007 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-009",
+   "fiche_b": "FD-RC-049",
+   "motif": "FD-FB-009 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-003",
+   "fiche_b": "FD-RC-050",
+   "motif": "FD-FB-003 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-007",
+   "fiche_b": "FD-RC-050",
+   "motif": "FD-FB-007 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FB-009",
+   "fiche_b": "FD-RC-050",
+   "motif": "FD-FB-009 déclare RC3"
+  },
+  {
+   "fiche_a": "FD-FEU-054",
+   "fiche_b": "FD-RC-017",
+   "motif": "FD-RC-017 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-054",
+   "fiche_b": "FD-RC-028",
+   "motif": "FD-RC-028 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-054",
+   "fiche_b": "FD-RC-032",
+   "motif": "FD-RC-032 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-054",
+   "fiche_b": "FD-RC-033",
+   "motif": "FD-RC-033 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-058",
+   "fiche_b": "FD-RC-017",
+   "motif": "FD-RC-017 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-058",
+   "fiche_b": "FD-RC-028",
+   "motif": "FD-RC-028 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-058",
+   "fiche_b": "FD-RC-032",
+   "motif": "FD-RC-032 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-058",
+   "fiche_b": "FD-RC-033",
+   "motif": "FD-RC-033 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-059",
+   "fiche_b": "FD-RC-017",
+   "motif": "FD-RC-017 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-059",
+   "fiche_b": "FD-RC-028",
+   "motif": "FD-RC-028 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-059",
+   "fiche_b": "FD-RC-032",
+   "motif": "FD-RC-032 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-059",
+   "fiche_b": "FD-RC-033",
+   "motif": "FD-RC-033 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-070",
+   "fiche_b": "FD-RC-017",
+   "motif": "FD-RC-017 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-070",
+   "fiche_b": "FD-RC-028",
+   "motif": "FD-RC-028 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-070",
+   "fiche_b": "FD-RC-032",
+   "motif": "FD-RC-032 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-070",
+   "fiche_b": "FD-RC-033",
+   "motif": "FD-RC-033 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-071",
+   "fiche_b": "FD-RC-017",
+   "motif": "FD-RC-017 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-071",
+   "fiche_b": "FD-RC-028",
+   "motif": "FD-RC-028 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-071",
+   "fiche_b": "FD-RC-032",
+   "motif": "FD-RC-032 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-071",
+   "fiche_b": "FD-RC-033",
+   "motif": "FD-RC-033 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-073",
+   "fiche_b": "FD-RC-017",
+   "motif": "FD-RC-017 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-073",
+   "fiche_b": "FD-RC-028",
+   "motif": "FD-RC-028 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-073",
+   "fiche_b": "FD-RC-032",
+   "motif": "FD-RC-032 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-073",
+   "fiche_b": "FD-RC-033",
+   "motif": "FD-RC-033 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-096",
+   "fiche_b": "FD-RC-017",
+   "motif": "FD-RC-017 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-096",
+   "fiche_b": "FD-RC-028",
+   "motif": "FD-RC-028 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-096",
+   "fiche_b": "FD-RC-032",
+   "motif": "FD-RC-032 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-096",
+   "fiche_b": "FD-RC-033",
+   "motif": "FD-RC-033 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-099",
+   "fiche_b": "FD-RC-017",
+   "motif": "FD-RC-017 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-099",
+   "fiche_b": "FD-RC-028",
+   "motif": "FD-RC-028 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-099",
+   "fiche_b": "FD-RC-032",
+   "motif": "FD-RC-032 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-099",
+   "fiche_b": "FD-RC-033",
+   "motif": "FD-RC-033 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-110",
+   "fiche_b": "FD-RC-017",
+   "motif": "FD-RC-017 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-110",
+   "fiche_b": "FD-RC-028",
+   "motif": "FD-RC-028 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-110",
+   "fiche_b": "FD-RC-032",
+   "motif": "FD-RC-032 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-110",
+   "fiche_b": "FD-RC-033",
+   "motif": "FD-RC-033 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FB-006",
+   "fiche_b": "FD-FEU-110",
+   "motif": "FD-FEU-110 déclare FB4-NS"
+  },
+  {
+   "fiche_a": "FD-FB-012",
+   "fiche_b": "FD-FEU-110",
+   "motif": "FD-FEU-110 déclare FB4-NS"
+  },
+  {
+   "fiche_a": "FD-FB-013",
+   "fiche_b": "FD-FEU-110",
+   "motif": "FD-FEU-110 déclare FB4-NS"
+  },
+  {
+   "fiche_a": "FD-FB-014",
+   "fiche_b": "FD-FEU-110",
+   "motif": "FD-FEU-110 déclare FB4-NS"
+  },
+  {
+   "fiche_a": "FD-FEU-111",
+   "fiche_b": "FD-RC-017",
+   "motif": "FD-RC-017 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-111",
+   "fiche_b": "FD-RC-028",
+   "motif": "FD-RC-028 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-111",
+   "fiche_b": "FD-RC-032",
+   "motif": "FD-RC-032 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-111",
+   "fiche_b": "FD-RC-033",
+   "motif": "FD-RC-033 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FB-006",
+   "fiche_b": "FD-FEU-111",
+   "motif": "FD-FEU-111 déclare FB4-NS"
+  },
+  {
+   "fiche_a": "FD-FB-012",
+   "fiche_b": "FD-FEU-111",
+   "motif": "FD-FEU-111 déclare FB4-NS"
+  },
+  {
+   "fiche_a": "FD-FB-013",
+   "fiche_b": "FD-FEU-111",
+   "motif": "FD-FEU-111 déclare FB4-NS"
+  },
+  {
+   "fiche_a": "FD-FB-014",
+   "fiche_b": "FD-FEU-111",
+   "motif": "FD-FEU-111 déclare FB4-NS"
+  },
+  {
+   "fiche_a": "FD-FEU-117",
+   "fiche_b": "FD-RC-017",
+   "motif": "FD-RC-017 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-117",
+   "fiche_b": "FD-RC-028",
+   "motif": "FD-RC-028 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-117",
+   "fiche_b": "FD-RC-032",
+   "motif": "FD-RC-032 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-117",
+   "fiche_b": "FD-RC-033",
+   "motif": "FD-RC-033 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-118",
+   "fiche_b": "FD-RC-017",
+   "motif": "FD-RC-017 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-118",
+   "fiche_b": "FD-RC-028",
+   "motif": "FD-RC-028 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-118",
+   "fiche_b": "FD-RC-032",
+   "motif": "FD-RC-032 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-118",
+   "fiche_b": "FD-RC-033",
+   "motif": "FD-RC-033 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-119",
+   "fiche_b": "FD-RC-017",
+   "motif": "FD-RC-017 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-119",
+   "fiche_b": "FD-RC-028",
+   "motif": "FD-RC-028 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-119",
+   "fiche_b": "FD-RC-032",
+   "motif": "FD-RC-032 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-119",
+   "fiche_b": "FD-RC-033",
+   "motif": "FD-RC-033 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-120",
+   "fiche_b": "FD-RC-017",
+   "motif": "FD-RC-017 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-120",
+   "fiche_b": "FD-RC-028",
+   "motif": "FD-RC-028 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-120",
+   "fiche_b": "FD-RC-032",
+   "motif": "FD-RC-032 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-120",
+   "fiche_b": "FD-RC-033",
+   "motif": "FD-RC-033 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-154",
+   "fiche_b": "FD-RC-017",
+   "motif": "FD-RC-017 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-154",
+   "fiche_b": "FD-RC-028",
+   "motif": "FD-RC-028 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-154",
+   "fiche_b": "FD-RC-032",
+   "motif": "FD-RC-032 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-154",
+   "fiche_b": "FD-RC-033",
+   "motif": "FD-RC-033 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FB-006",
+   "fiche_b": "FD-FEU-154",
+   "motif": "FD-FEU-154 déclare FB4-NS"
+  },
+  {
+   "fiche_a": "FD-FB-012",
+   "fiche_b": "FD-FEU-154",
+   "motif": "FD-FEU-154 déclare FB4-NS"
+  },
+  {
+   "fiche_a": "FD-FB-013",
+   "fiche_b": "FD-FEU-154",
+   "motif": "FD-FEU-154 déclare FB4-NS"
+  },
+  {
+   "fiche_a": "FD-FB-014",
+   "fiche_b": "FD-FEU-154",
+   "motif": "FD-FEU-154 déclare FB4-NS"
+  },
+  {
+   "fiche_a": "FD-FEU-155",
+   "fiche_b": "FD-RC-017",
+   "motif": "FD-RC-017 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-155",
+   "fiche_b": "FD-RC-028",
+   "motif": "FD-RC-028 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-155",
+   "fiche_b": "FD-RC-032",
+   "motif": "FD-RC-032 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FEU-155",
+   "fiche_b": "FD-RC-033",
+   "motif": "FD-RC-033 déclare E30, E60, EI30, EI60"
+  },
+  {
+   "fiche_a": "FD-FB-006",
+   "fiche_b": "FD-FEU-155",
+   "motif": "FD-FEU-155 déclare FB4-NS"
+  },
+  {
+   "fiche_a": "FD-FB-012",
+   "fiche_b": "FD-FEU-155",
+   "motif": "FD-FEU-155 déclare FB4-NS"
+  },
+  {
+   "fiche_a": "FD-FB-013",
+   "fiche_b": "FD-FEU-155",
+   "motif": "FD-FEU-155 déclare FB4-NS"
+  },
+  {
+   "fiche_a": "FD-FB-014",
+   "fiche_b": "FD-FEU-155",
+   "motif": "FD-FEU-155 déclare FB4-NS"
+  },
+  {
+   "fiche_a": "FD-FEU-158",
+   "fiche_b": "FD-RC-013",
+   "motif": "FD-RC-013 déclare E30"
+  },
+  {
+   "fiche_a": "FD-FEU-171",
+   "fiche_b": "FD-RC-013",
+   "motif": "FD-RC-013 déclare E30"
+  }
+ ]
+}

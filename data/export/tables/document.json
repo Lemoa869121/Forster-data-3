@@ -632,6 +632,27 @@
    "commentaire": null
   },
   {
+   "id": "DOC-FORSTERDATA",
+   "numero": "ForsterData",
+   "numero_normalise": "FORSTERDATA",
+   "revision": null,
+   "type_code": "synthese_fabricant",
+   "domaine_code": "feu",
+   "objet": "Base ForsterData (Glide) : fiches Feu, Anti-effraction, Pare-balles, AEV, Acoustique saisies par Forster",
+   "laboratoire_id": null,
+   "date_emission": "2026-11-06",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": null,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": null,
+   "ordre_dans_fichier": null,
+   "present_dans_corpus": 1,
+   "statut_extraction": "extrait",
+   "commentaire": "Source : https://lemoa869121.github.io/forsterdata/ (data/data.json). Couche Forster distincte des documents de laboratoire."
+  },
+  {
    "id": "DOC-RAP-02-11-1206",
    "numero": "02-11-1206",
    "numero_normalise": "02-11-1206",

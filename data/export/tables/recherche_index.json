@@ -183,6 +183,12 @@
   },
   {
    "objet_type": "document",
+   "objet_id": "DOC-FORSTERDATA",
+   "document_id": "DOC-FORSTERDATA",
+   "texte": "forsterdata forsterdata base forsterdata (glide) : fiches feu, anti-effraction, pare-balles, aev, acoustique saisies par forster synthese_fabricant"
+  },
+  {
+   "objet_type": "document",
    "objet_id": "DOC-RAP-02-11-1206",
    "document_id": "DOC-RAP-02-11-1206",
    "texte": "02-11-1206 02-11-1206 thermfix_vario_einbruch_wk2_02-11-1206_de rapport_essai"

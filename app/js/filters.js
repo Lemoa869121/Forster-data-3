@@ -55,6 +55,10 @@ const OBJETS_DIM = {
   vitrage: ['vitrage_hors_tout', 'vitrage_clair'], ouvrage: ['cloison', 'facade_entre_dalles', 'ensemble', 'facade'],
 };
 
+const FD_LIENS = `FROM rat r2 JOIN fiche_forsterdata fa ON fa.document_pv_id = r2.document_id
+      JOIN lien_forsterdata l ON fa.id IN (l.fiche_a, l.fiche_b)
+      JOIN fiche_forsterdata fb ON fb.id = CASE WHEN l.fiche_a = fa.id THEN l.fiche_b ELSE l.fiche_a END
+      WHERE r2.pv_principal_id = pv.id AND fb.categorie IN ('rc','fb')`;
 const liste = (nom, valeurs, params) => valeurs.map((v, i) => { params[`:${nom}${i}`] = v; return `:${nom}${i}`; }).join(',');
 const iso = d => d.toISOString().slice(0, 10);
 
@@ -121,16 +125,17 @@ const FILTRES = {
   complement: (s, p) => s.complement.length
     ? `EXISTS (SELECT 1 FROM cfg JOIN pa ON pa.sysgrp = cfg.sysgrp AND pa.famille = cfg.famille WHERE cfg.pv_principal_id = pv.id AND pa.code IN (${liste('cpl', s.complement, p)}))` : null,
   domaine: (s, p) => s.domaine.length ? `pv.domaine_code IN (${liste('dom', s.domaine, p)})` : null,
+  cumul_fd: (s, p) => s.cumul_fd.length ? `EXISTS (SELECT 1 ${FD_LIENS} AND fb.classe IN (${liste('cfd', s.cumul_fd, p)}))` : null,
   cumul: s => s.cumul ? `EXISTS (SELECT 1 FROM cfg JOIN cumul_performance cp ON (CASE WHEN cp.systeme_id LIKE 'SYS-FUEGO-LIGHT%' THEN 'SYS-FUEGO-LIGHT' ELSE cp.systeme_id END) = cfg.sysgrp
       AND (CASE WHEN cp.typologie_code IN ('chassis_fixe','cloison_vitree','cloison_vitree_bord_a_bord') THEN 'fixe' ELSE cp.typologie_code END) = cfg.famille
       WHERE cfg.pv_principal_id = pv.id AND 'feu' IN (cp.domaine_a, cp.domaine_b))` : null,
 };
 // Filtres sans objet pour les rapports d'essais (pas de validité, pas de classement feu au sens PV)
-const SANS_OBJET_RAPPORTS = ['etat', 'valide', 'performance', 'verrier', 'complement', 'cumul', 'vantaux'];
+const SANS_OBJET_RAPPORTS = ['etat', 'valide', 'performance', 'verrier', 'complement', 'cumul', 'vantaux', 'cumul_fd'];
 
 // Facette -> nom du filtre qu'elle ne doit pas s'appliquer à elle-même
 const EXCLUSION = { systeme: 'systeme', typologie: 'typologie', verrier: 'verrier', support: 'support', gamme: 'vitrage', categorie: 'categorie',
-  complement: 'complement', domaine: 'domaine' };
+  complement: 'complement', domaine: 'domaine', cumul_fd: 'cumul_fd' };
 
 export const estRapports = s => s.type_doc === 'rapports';
 
@@ -163,6 +168,8 @@ export function buildQuery(state, tri = 'numero') {
       (SELECT group_concat(DISTINCT p.classe_normalisee) FROM performance p WHERE p.document_id = pv.id AND p.domaine_code <> 'feu') AS autres_perfs,
       (SELECT group_concat(DISTINCT pa.code) FROM cfg JOIN pa ON pa.sysgrp = cfg.sysgrp AND pa.famille = cfg.famille WHERE cfg.pv_principal_id = pv.id AND pa.code IS NOT NULL) AS complements,
       (SELECT count(*) FROM cumul_performance cp WHERE cp.document_id = pv.id) AS nb_cumuls_enonces,
+      (SELECT group_concat(DISTINCT fb.classe) ${FD_LIENS}) AS cumul_fd,
+      (SELECT group_concat(DISTINCT t.libelle) FROM rat r3 JOIN configuration c ON c.document_id = r3.document_id JOIN ref_typologie t ON t.code = c.typologie_code WHERE r3.pv_principal_id = pv.id) AS typologies,
       (SELECT count(*) FROM document_relation dr WHERE dr.document_cible_id = pv.id AND dr.type_relation_code = 'etend') AS nb_extensions,
       (SELECT count(*) FROM controle_humain ch JOIN rat r2 ON r2.document_id = ch.document_id WHERE r2.pv_principal_id = pv.id AND ch.statut = 'ouvert') AS nb_controles
     ${BASE}
@@ -206,9 +213,13 @@ export function facetQuery(nom, state) {
               JOIN ref_categorie_composant c ON c.code = dc.categorie_code WHERE r.pv_principal_id IN (${sub}) GROUP BY 1 ORDER BY c.libelle`,
     complement: `SELECT pa.code, pa.code AS libelle, count(DISTINCT cfg.pv_principal_id) AS n FROM cfg JOIN pa ON pa.sysgrp = cfg.sysgrp AND pa.famille = cfg.famille
               WHERE cfg.pv_principal_id IN (${sub}) AND pa.code IS NOT NULL GROUP BY 1`,
+    cumul_fd: `SELECT fb.classe AS code, fb.classe AS libelle, count(DISTINCT pv.id) AS n FROM document pv JOIN rat r2 ON r2.pv_principal_id = pv.id
+              JOIN fiche_forsterdata fa ON fa.document_pv_id = r2.document_id JOIN lien_forsterdata l ON fa.id IN (l.fiche_a, l.fiche_b)
+              JOIN fiche_forsterdata fb ON fb.id = CASE WHEN l.fiche_a = fa.id THEN l.fiche_b ELSE l.fiche_a END
+              WHERE fb.categorie IN ('rc','fb') AND pv.id IN (${sub}) GROUP BY 1 ORDER BY fb.categorie DESC, 1`,
     domaine: `SELECT d.code, d.libelle, count(pv.id) AS n FROM ref_domaine_performance d LEFT JOIN document pv ON pv.domaine_code = d.code AND pv.id IN (${sub})
               GROUP BY 1 HAVING d.code <> 'feu' OR n > 0 ORDER BY d.libelle`,
   }[nom];
   return { sql: q, params };
 }
-export const FACETTES = ['systeme', 'typologie', 'verrier', 'support', 'gamme', 'categorie', 'complement', 'domaine'];
+export const FACETTES = ['systeme', 'typologie', 'verrier', 'support', 'gamme', 'categorie', 'complement', 'domaine', 'cumul_fd'];

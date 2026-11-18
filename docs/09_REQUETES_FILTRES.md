@@ -1041,7 +1041,7 @@ Rapports d'essais (hors feu) d'un domaine et d'une classe minimale, avec laborat
 
 - **Paramètres (interface)** : `{":domaine": "balistique", ":classe": "FB4"}`
 - **Tables / vues** : `document`, `organisme`, `systeme`, `v_performance_multi`
-- **Résultat sur le corpus** : 19 ligne(s)
+- **Résultat sur le corpus** : 20 ligne(s)
 
 ```sql
 SELECT v.numero_normalise, v.classe_normalisee, s.nom AS systeme, v.typologie_code, o.nom AS laboratoire, v.date_emission, v.page_doc, v.statut_extraction
@@ -1117,4 +1117,22 @@ Exemple de résultat :
   "nb_rapports": 3
  }
 ]
+```
+
+## Q24_fiches_forsterdata_cumulables
+
+Fiches ForsterData d'une catégorie liées (cumul déclaré) à une classe d'une autre catégorie, avec le PV du corpus rapproché
+
+- **Paramètres (interface)** : `{":categorie": "feu", ":classe_liee": "RC3"}`
+- **Tables / vues** : `document`, `fiche_forsterdata`, `lien_forsterdata`
+- **Résultat sur le corpus** : ? ligne(s)
+
+```sql
+SELECT f.id, f.serie, f.type_chassis, f.classe, f.numero_pv, d.numero_normalise AS document_corpus, f.rapprochement, o.categorie AS categorie_liee, o.classe AS classe_liee, l.motif
+  FROM fiche_forsterdata f
+  JOIN lien_forsterdata l ON f.id IN (l.fiche_a, l.fiche_b)
+  JOIN fiche_forsterdata o ON o.id = CASE WHEN l.fiche_a = f.id THEN l.fiche_b ELSE l.fiche_a END
+  LEFT JOIN document d ON d.id = f.document_pv_id
+ WHERE f.categorie = :categorie AND o.classe = :classe_liee
+ ORDER BY f.serie, f.type_chassis;
 ```

@@ -8,7 +8,7 @@ Usage : python3 scripts/build_db.py [--out db/forster_pv.sqlite]
 import argparse, glob, json, os, sqlite3, sys, unicodedata, datetime, hashlib
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SCHEMA_VERSION = '1.3.0'
+SCHEMA_VERSION = '1.4.0'
 
 # Ordre de chargement (respecte les clés étrangères)
 ORDER_CATALOGUE = ['organisme', 'organisme_alias', 'intervenant', 'norme', 'systeme', 'reference_composant']
@@ -17,7 +17,7 @@ ORDER_DOCS_2 = ['source_page', 'document_relation', 'document_organisme', 'docum
                 'document_systeme', 'configuration', 'performance', 'perf_feu', 'perf_effraction', 'perf_balistique',
                 'perf_aev', 'perf_acoustique', 'perf_explosion', 'perf_mesure', 'document_composant', 'caracteristique_document', 'dc_profile', 'dc_vitrage',
                 'dc_serrure', 'dc_articulation', 'dc_ferme_porte', 'dc_joint', 'dc_fixation', 'dimension_format', 'dimension',
-                'support_pose', 'restriction', 'cumul_performance', 'controle_humain']
+                'support_pose', 'restriction', 'cumul_performance', 'fiche_forsterdata', 'lien_forsterdata', 'controle_humain']
 ORDER_AFTER = ['essai', 'essai_resultat', 'document_essai', 'reference_alias', 'enrichissement_externe']
 
 

@@ -3,21 +3,31 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Forster — PV feu et rapports d'essais</title>
+<title>ForsterData — PV et essais</title>
 <link rel="icon" href="assets/logo-forster.svg">
 <link rel="stylesheet" href="css/app.css">
 </head>
 <body>
 <header class="entete">
   <img src="assets/logo-forster-blanc.svg" alt="Forster">
-  <span class="titre">PV résistance au feu et rapports d'essais — France</span>
+  <span class="titre">ForsterData — PV et essais</span>
   <span class="statut" id="statut">Initialisation…</span>
 </header>
 
-<div class="page">
-  <form id="filtres" class="filtres" onsubmit="return false" aria-label="Filtres">
-    <div class="filtres-tete"><h2>Filtrer</h2><button type="button" class="lien" id="reinit">Tout effacer</button></div>
+<main class="page">
+  <section class="intro">
+    <h1>ForsterData</h1>
+    <p>Consultation, comparaison et sélection des procès-verbaux feu, anti-effraction et pare-balles, des essais AEV et acoustiques, et des rapports d'essais Forster.<br>
+    Pour toute demande spécifique : <a href="mailto:france@forstersystems.com">france@forstersystems.com</a> · 01 64 13 85 30</p>
+  </section>
 
+  <div class="groupes" id="groupes"></div>
+
+  <div class="travail">
+    <aside class="panneau filtres" aria-label="Filtres">
+      <div class="filtres-tete"><h2>Filtres</h2><button type="button" class="lien" id="reinit">Réinitialiser</button></div>
+      <form id="filtres" class="filtres" onsubmit="return false" aria-label="Filtres">
+    
     <details class="bloc" open><summary>Recherche</summary><div class="corps">
       <label class="champ">Référence de composant
         <input type="search" name="reference" list="liste-refs" placeholder="ex. 907724, HZ43F, TS 93" autocomplete="off"></label>
@@ -50,11 +60,11 @@
       <label class="case"><input type="checkbox" name="classe_lue" value="1"> Classe lue dans le PV (exclure celles reprises du nom de fichier)</label>
     </div></details>
 
-    <details class="bloc" open><summary>Autres performances (cumul)</summary><div class="corps">
+    <details class="bloc" open><summary>Cumul de performances</summary><div class="corps">
+      <div class="champ">Cumul déclaré dans ForsterData (RC / FB)<div class="puces" data-facette="cumul_fd"></div></div>
       <div class="champ">Rapport d'essai disponible pour le même système et la même typologie<div class="puces" data-facette="complement"></div></div>
       <label class="case"><input type="checkbox" name="cumul" value="1"> Cumul avec le feu énoncé (rapport ou synthèse Forster) pour ce système / typologie</label>
-      <p class="aide">Rapprochement par système et typologie : ce n'est pas un cumul certifié. Un cumul n'est valable que si la même construction (vitrage, serrure, dimensions) est couverte par le PV feu et par le rapport — voir l'onglet « Cumuls » de la fiche.</p>
-      <div class="champ">Domaine (vue rapports d'essais)<div class="puces" data-facette="domaine"></div></div>
+      <p class="aide">« Cumul déclaré » : liens de la base ForsterData (même série, même type d'ouvrage, colonne « Cumul de perf »). « Rapport disponible » : simple rapprochement par système et typologie, pas un cumul certifié. Un cumul n'est valable que si la même construction (vitrage, serrure, dimensions) est couverte par le PV feu et par le rapport — voir l'onglet « Cumuls » de la fiche.</p>
     </div></details>
 
     <details class="bloc"><summary>Vitrage</summary><div class="corps">
@@ -101,33 +111,40 @@
       <label class="champ">Valide au<input type="date" name="valide"></label>
       <div class="champ">Type de document<div class="puces">
         <label class="puce"><input type="radio" name="type_doc" value="pv_classement"><span>PV de classement</span></label>
-        <label class="puce"><input type="radio" name="type_doc" value="pv_das"><span>PV DAS (CNPP)</span></label>
-        <label class="puce"><input type="radio" name="type_doc" value="rapports"><span>Rapports d'essais (RC, FB, AEV, Rw…)</span></label></div></div>
+        <label class="puce"><input type="radio" name="type_doc" value="pv_das"><span>PV DAS (CNPP)</span></label></div></div>
       <label class="case"><input type="checkbox" name="verifie" value="1"> Uniquement les PV saisis et relus</label>
     </div></details>
   </form>
+      <div id="filtres-cat"></div>
+    </aside>
 
-  <main>
-    <div class="barre">
-      <span class="compte" id="compte" aria-live="polite"></span>
-      <label>Trier <select id="tri">
-        <option value="numero">par numéro</option>
-        <option value="validite_desc">validité la plus lointaine</option>
-        <option value="validite_asc">échéance la plus proche</option>
-        <option value="emission_desc">émission la plus récente</option>
-      </select></label>
-      <button class="bouton" type="button" id="export">Exporter CSV</button>
-      <button class="bouton" type="button" id="partager" title="Copie un lien qui reprend les filtres">Copier le lien</button>
-      <button class="bouton" type="button" id="voir-cumuls" title="Tous les cumuls de performances énoncés dans les documents">Cumuls de performances</button>
-    </div>
-    <p class="note legende">Classe <span class="classe">EI 60</span> lue dans le PV · <span class="classe fichier">EI 60</span> reprise du nom de fichier (tableau illisible à l'OCR) · les classes affichées incluent celles des extensions rattachées.</p>
-    <div class="actifs" id="actifs"></div>
-    <div id="resultats"></div>
-    <details style="margin-top:16px"><summary class="note">SQL généré</summary><pre id="sql" class="note" style="white-space:pre-wrap"></pre></details>
-  </main>
-</div>
-<aside id="detail" class="detail" hidden aria-label="Fiche du procès-verbal"></aside>
-<p class="pied">Données issues des procès-verbaux et rapports d'essais : seul le document original, accompagné de ses reconductions en cours de validité, fait foi. Les données marquées « à vérifier » proviennent d'une extraction automatique.</p>
+    <section class="panneau resultats">
+      <div class="barre">
+        <h2 id="titre-cat">Feu</h2><span class="compte" id="compte" aria-live="polite"></span>
+        <span class="espace"></span>
+        <label id="bloc-tri">Trier <select id="tri">
+          <option value="numero">par numéro</option>
+          <option value="validite_desc">validité la plus lointaine</option>
+          <option value="validite_asc">échéance la plus proche</option>
+          <option value="emission_desc">émission la plus récente</option>
+        </select></label>
+        <button class="bouton" type="button" id="export">Exporter CSV</button>
+        <button class="bouton" type="button" id="partager" title="Copie un lien qui reprend la catégorie et les filtres">Copier le lien</button>
+        <button class="bouton" type="button" id="voir-cumuls" title="Tous les cumuls de performances énoncés">Cumuls</button>
+      </div>
+      <p class="note legende" id="legende"></p>
+      <div class="actifs" id="actifs"></div>
+      <div id="resultats"></div>
+      <div id="pager" class="pager"></div>
+      <details style="margin-top:16px" id="bloc-sql"><summary class="note">SQL généré</summary><pre id="sql" class="note" style="white-space:pre-wrap"></pre></details>
+    </section>
+  </div>
+</main>
+<div class="voile" id="voile" hidden></div>
+<aside id="detail" class="detail" hidden aria-label="Fiche"></aside>
+<div id="modal" class="modal" hidden role="dialog" aria-modal="true" aria-label="Comparaison"></div>
+<div id="cmpbar"></div>
+<p class="pied">Données issues des procès-verbaux, des rapports d'essais et de la base ForsterData : seul le document original, accompagné de ses reconductions en cours de validité, fait foi. Les données marquées « à vérifier » proviennent d'une extraction automatique.</p>
 <script type="module" src="js/app.js"></script>
 </body>
 </html>

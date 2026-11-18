@@ -294,3 +294,14 @@ SELECT systeme_nom, famille_typologie, domaine_autre, group_concat(DISTINCT clas
   FROM v_cumul_potentiel
  WHERE (:systeme IS NULL OR systeme_id = :systeme)
  GROUP BY 1, 2, 3 ORDER BY 1, 2, 3;
+
+-- name: Q24_fiches_forsterdata_cumulables
+-- desc: Fiches ForsterData d'une catégorie liées (cumul déclaré) à une classe d'une autre catégorie, avec le PV du corpus rapproché
+-- params: {":categorie": "feu", ":classe_liee": "RC3"}
+SELECT f.id, f.serie, f.type_chassis, f.classe, f.numero_pv, d.numero_normalise AS document_corpus, f.rapprochement, o.categorie AS categorie_liee, o.classe AS classe_liee, l.motif
+  FROM fiche_forsterdata f
+  JOIN lien_forsterdata l ON f.id IN (l.fiche_a, l.fiche_b)
+  JOIN fiche_forsterdata o ON o.id = CASE WHEN l.fiche_a = f.id THEN l.fiche_b ELSE l.fiche_a END
+  LEFT JOIN document d ON d.id = f.document_pv_id
+ WHERE f.categorie = :categorie AND o.classe = :classe_liee
+ ORDER BY f.serie, f.type_chassis;

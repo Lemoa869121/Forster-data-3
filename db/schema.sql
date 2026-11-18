@@ -348,6 +348,44 @@ CREATE TABLE cumul_performance (
   CHECK (domaine_a <> domaine_b OR classe_a <> classe_b)
 );
 CREATE INDEX ix_cumul_sys ON cumul_performance(systeme_id, typologie_code);
+-- Base ForsterData (saisie Forster, export Glide) : couche distincte des documents de laboratoire.
+-- Une fiche = une ligne de la base d'origine ; document_pv_id = PV / rapport du corpus rapproché par son numéro.
+CREATE TABLE fiche_forsterdata (
+  id               TEXT PRIMARY KEY,                -- 'FD-RC-012'
+  document_id      TEXT NOT NULL REFERENCES document(id) ON DELETE CASCADE,  -- 'DOC-FORSTERDATA'
+  categorie        TEXT NOT NULL CHECK (categorie IN ('feu','rc','fb','aev','acoustique')),
+  domaine_code     TEXT NOT NULL REFERENCES ref_domaine_performance(code),
+  type_chassis     TEXT NOT NULL,                   -- tel que saisi : 'Porte anti-panique'
+  famille_ouvrage  TEXT NOT NULL,                   -- regroupement pour les liens : porte, ouvrant, cloison…
+  typologie_code   TEXT REFERENCES ref_typologie(code),
+  serie            TEXT,                            -- tel que saisi : 'fuego light 30'
+  systeme_id       TEXT REFERENCES systeme(id),
+  verrier          TEXT,
+  numero_pv        TEXT,                            -- tel que saisi (peut lister plusieurs rapports)
+  document_pv_id   TEXT REFERENCES document(id),    -- rapprochement par numéro (NULL si non trouvé)
+  rapprochement    TEXT NOT NULL CHECK (rapprochement IN ('exact','partiel','non_trouve')),
+  classe           TEXT,                            -- 'EI 60', 'RC3', 'FB4-NS', 'A*4 E*9A V*C4', 'Rw 43 dB'
+  critere_feu      TEXT,                            -- 'E' / 'EI' / 'EW'
+  duree_min        INTEGER,
+  classe_air TEXT, classe_eau TEXT, classe_vent TEXT,
+  rw_db REAL, c_db REAL, ctr_db REAL,
+  largeur_verre_mm REAL, hauteur_verre_mm REAL, largeur_1v_mm REAL, largeur_2v_mm REAL,
+  hauteur_bp1v_mm REAL, hauteur_bp2v_mm REAL, hauteur_cloison_mm REAL,
+  validite         TEXT CHECK (validite IS NULL OR validite GLOB '[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]'),
+  cumul_perf       TEXT,                            -- colonne « Cumul de perf » telle que saisie
+  details_json     TEXT NOT NULL                    -- toutes les colonnes publiées de la ligne d'origine
+);
+CREATE INDEX ix_fd_cat ON fiche_forsterdata(categorie, systeme_id, famille_ouvrage);
+CREATE INDEX ix_fd_doc ON fiche_forsterdata(document_pv_id);
+-- Liens de cumul Feu / Anti-effraction / Pare-balles selon la règle ForsterData
+-- (même série + même famille d'ouvrage + déclaration dans « Cumul de perf » ; le plus spécifique fait foi FB > RC > Feu)
+CREATE TABLE lien_forsterdata (
+  fiche_a  TEXT NOT NULL REFERENCES fiche_forsterdata(id) ON DELETE CASCADE,
+  fiche_b  TEXT NOT NULL REFERENCES fiche_forsterdata(id) ON DELETE CASCADE,
+  motif    TEXT NOT NULL,                           -- déclaration ayant produit le lien
+  PRIMARY KEY (fiche_a, fiche_b),
+  CHECK (fiche_a < fiche_b)
+);
 CREATE INDEX ix_cumul_dom ON cumul_performance(domaine_a, domaine_b);
 
 -- ---------------------------------------------------------------------

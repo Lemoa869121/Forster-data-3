@@ -69,3 +69,8 @@ Police Faktum : non versionnée (licence commerciale, dépôt public) — dépos
 Les cumuls **énoncés** (synthèse Forster 16/05/2024, rapports portant deux classes, éprouvettes coupe-feu) sont dans `cumul_performance`.
 Le rapprochement système × typologie se trouve dans `v_cumul_potentiel` ; ce n'est pas un cumul certifié. Voir [docs/16_RAPPORTS_ESSAIS_ET_CUMULS.md](docs/16_RAPPORTS_ESSAIS_ET_CUMULS.md).
 Régénération : `scripts/ocr_rapport.sh` (texte par page) puis `python3 scripts/extract_rapports.py <dossier_txt>` et `python3 scripts/build_db.py`.
+
+## Base ForsterData et interface v3 (v1.4.0)
+
+La base ForsterData (fiches Feu, RC, FB, AEV, Acoustique saisies par Forster) est importée comme couche distincte (`fiche_forsterdata`, `lien_forsterdata`), rapprochée des PV et rapports du corpus et contrôlée contre eux.
+L'interface reprend ses principes : sélecteur de performances, tableaux triables, tiroir de détail, comparaison de 2 à 4 éléments, liens Feu ↔ RC ↔ FB. Voir [docs/17_FORSTERDATA_ET_INTERFACE.md](docs/17_FORSTERDATA_ET_INTERFACE.md).

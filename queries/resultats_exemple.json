@@ -629,7 +629,7 @@
   "parametres": {
    ":type": null
   },
-  "nb_lignes": 782,
+  "nb_lignes": 799,
   "extrait": [
    {
     "numero_normalise": "02-11-1206",
@@ -840,7 +840,7 @@
    ":systeme": "SYS-UNICO",
    ":domaine": "effraction"
   },
-  "nb_lignes": 10,
+  "nb_lignes": 33,
   "extrait": [
    {
     "enonce_par": "Châssis fixes Unico RC4 + FB4 (PfB - 2012)",
@@ -871,18 +871,18 @@
     "page_doc": 1
    },
    {
-    "enonce_par": "16-05-2024",
+    "enonce_par": "FORSTERDATA",
     "type_code": "synthese_fabricant",
     "systeme": "Unico",
-    "typologie_code": "chassis_fixe",
+    "typologie_code": "bloc_porte",
     "domaine_a": "effraction",
-    "classe_a": "RC2",
+    "classe_a": "RC3",
     "domaine_b": "balistique",
-    "classe_b": "FB4",
+    "classe_b": "FB4-NS",
     "statut_cumul": "declare_fabricant",
-    "condition_texte": "Fixes RC2 + FB4",
-    "justificatifs": "08/03-A062-K2 ; 08/10-A287-K2 ; 16-002974-PR02",
-    "page_doc": 3
+    "condition_texte": "ForsterData — unico / ouvrant ; FD-FB-004 déclare RC3",
+    "justificatifs": "07/07-A135-B1 & 08/03-A062-B1 ; S09000201/B + S18020501/B + S18020507/B",
+    "page_doc": null
    }
   ]
  },
@@ -956,6 +956,52 @@
     "classes_autres": "BR6NS,FB6NS,FB4NS,FB3,FB5NS",
     "nb_documents_feu": 8,
     "nb_rapports": 4
+   }
+  ]
+ },
+ {
+  "requete": "Q24_fiches_forsterdata_cumulables",
+  "parametres": {
+   ":categorie": "feu",
+   ":classe_liee": "RC3"
+  },
+  "nb_lignes": 233,
+  "extrait": [
+   {
+    "id": "FD-FEU-002",
+    "serie": "fuego light",
+    "type_chassis": "Cloison",
+    "classe": "EI60",
+    "numero_pv": "EFR-25-003458",
+    "document_corpus": "EFR-25-003458",
+    "rapprochement": "exact",
+    "categorie_liee": "rc",
+    "classe_liee": "RC3",
+    "motif": "FD-RC-027 déclare EI60"
+   },
+   {
+    "id": "FD-FEU-004",
+    "serie": "fuego light",
+    "type_chassis": "Cloison",
+    "classe": "EI60",
+    "numero_pv": "08-A-275",
+    "document_corpus": "08-A-275",
+    "rapprochement": "exact",
+    "categorie_liee": "rc",
+    "classe_liee": "RC3",
+    "motif": "FD-RC-027 déclare EI60"
+   },
+   {
+    "id": "FD-FEU-006",
+    "serie": "fuego light",
+    "type_chassis": "Cloison",
+    "classe": "EI30",
+    "numero_pv": "08-A-342",
+    "document_corpus": "08-A-342",
+    "rapprochement": "exact",
+    "categorie_liee": "rc",
+    "classe_liee": "RC3",
+    "motif": "FD-RC-026 déclare EI30"
    }
   ]
  }
