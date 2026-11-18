@@ -30,6 +30,36 @@
    "code": "acoustique",
    "libelle": "Acoustique",
    "description": null
+  },
+  {
+   "code": "explosion",
+   "libelle": "Résistance à l'explosion",
+   "description": null
+  },
+  {
+   "code": "choc",
+   "libelle": "Résistance aux chocs",
+   "description": null
+  },
+  {
+   "code": "endurance",
+   "libelle": "Endurance / ouvertures-fermetures répétées",
+   "description": null
+  },
+  {
+   "code": "thermique",
+   "libelle": "Thermique (Uf / Uw)",
+   "description": null
+  },
+  {
+   "code": "issue_secours",
+   "libelle": "Fermetures anti-panique / issues de secours",
+   "description": null
+  },
+  {
+   "code": "durabilite",
+   "libelle": "Durabilité (corrosion, ensoleillement, soudure)",
+   "description": null
   }
  ]
 }

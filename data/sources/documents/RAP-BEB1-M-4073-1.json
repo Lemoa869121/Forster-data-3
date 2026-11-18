@@ -1,0 +1,96 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-BEB1-M-4073-1",
+   "nom_fichier": "Résistance aux chocs\\Vitrages\\BEB1.M.4073-1 VETROFLAM 8 OU 10 (1200J)",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Résistance aux chocs\\Vitrages\\BEB1.M.4073-1 VETROFLAM 8 OU 10 (1200J).pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-BEB1-M-4073-1",
+   "numero": "BEB1.M.4073-1",
+   "numero_normalise": "BEB1.M.4073-1",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "choc",
+   "objet": "BEB1.M.4073-1 VETROFLAM 8 OU 10 (1200J)",
+   "laboratoire_id": "ORG-CEBTP",
+   "date_emission": "2022-10-11",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 1,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-BEB1-M-4073-1",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Résistance aux chocs/Vitrages"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-BEB1-M-4073-1-P1",
+   "document_id": "DOC-RAP-BEB1-M-4073-1",
+   "page_doc": 1,
+   "page_doc_total": 1,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-BEB1-M-4073-1",
+   "organisme_id": "ORG-CEBTP",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-BEB1-M-4073-1-1",
+   "document_id": "DOC-RAP-BEB1-M-4073-1",
+   "configuration_id": null,
+   "domaine_code": "choc",
+   "libelle_tel_qu_ecrit": "1200J",
+   "classe_normalisee": "Choc 1200 J",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-BEB1-M-4073-1-P1",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_mesure": [
+  {
+   "performance_id": "PERF-RAP-BEB1-M-4073-1-1",
+   "grandeur": "energie_choc",
+   "valeur_min": 1200.0,
+   "valeur_max": 1200.0,
+   "unite": "J",
+   "norme_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-BEB1-M-4073-1-AUTO",
+   "document_id": "DOC-RAP-BEB1-M-4073-1",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-BEB1-M-4073-1",
+   "type_code": "extraction_auto",
+   "description": "Rapport BEB1.M.4073-1 (choc) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

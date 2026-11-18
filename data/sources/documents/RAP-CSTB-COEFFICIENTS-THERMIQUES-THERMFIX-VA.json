@@ -1,0 +1,104 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-CSTB-COEFFICIENTS-THERMIQUES-THERMFIX-VA",
+   "nom_fichier": "Thermique\\Thermfix Vario\\CSTB coefficients thermiques thermfix vario",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Thermique\\Thermfix Vario\\CSTB coefficients thermiques thermfix vario.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-CSTB-COEFFICIENTS-THERMIQUES-THERMFIX-VA",
+   "numero": "CSTB coefficients thermiques thermfix vario",
+   "numero_normalise": "CSTB coefficients thermiques thermfix vario",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "thermique",
+   "objet": "CSTB coefficients thermiques thermfix vario",
+   "laboratoire_id": "ORG-CSTB",
+   "date_emission": "2011-03-15",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 14,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-CSTB-COEFFICIENTS-THERMIQUES-THERMFIX-VA",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Thermique/Thermfix Vario"
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-CSTB-COEFFICIENTS-THERMIQUES-THERMFIX-VA",
+   "organisme_id": "ORG-CSTB",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-CSTB-COEFFICIENTS-THERMIQUES-THERMFIX-VA",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-CSTB-COEFFICIENTS-THERMIQUES-THERMFIX-VA",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-CSTB-COEFFICIENTS-THERMIQUES-THERMFIX-VA-1",
+   "document_id": "DOC-RAP-CSTB-COEFFICIENTS-THERMIQUES-THERMFIX-VA",
+   "code": "1",
+   "libelle": "CSTB coefficients thermiques thermfix vario",
+   "typologie_code": "facade_vitree",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-CSTB-COEFFICIENTS-THERMIQUES-THERMFIX-VA-AUTO",
+   "document_id": "DOC-RAP-CSTB-COEFFICIENTS-THERMIQUES-THERMFIX-VA",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-CSTB-COEFFICIENTS-THERMIQUES-THERMFIX-VA",
+   "type_code": "extraction_auto",
+   "description": "Rapport CSTB coefficients thermiques thermfix vario (thermique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTRL-RAP-CSTB-COEFFICIENTS-THERMIQUES-THERMFIX-VA-NT",
+   "document_id": "DOC-RAP-CSTB-COEFFICIENTS-THERMIQUES-THERMFIX-VA",
+   "table_cible": "performance",
+   "ligne_id": null,
+   "type_code": "non_trouve",
+   "description": "Aucune classe / valeur lue automatiquement : à saisir.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

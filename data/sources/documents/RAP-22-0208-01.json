@@ -1,0 +1,138 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-22-0208-01",
+   "nom_fichier": "Résistance aux balles (FB)\\Unico\\FB6\\Portes ouvrant vers l'intérieur\\S-22-0208-01_Prüfberichtzeichnungen_EN1063Certifikat_Unico_FB6-NS",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Résistance aux balles (FB)\\Unico\\FB6\\Portes ouvrant vers l'intérieur\\S-22-0208-01_Prüfberichtzeichnungen_EN1063Certifikat_Unico_FB6-NS.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-22-0208-01",
+   "numero": "22-0208-01",
+   "numero_normalise": "22-0208-01",
+   "revision": null,
+   "type_code": "certificat",
+   "domaine_code": "balistique",
+   "objet": "S-22-0208-01_Prüfberichtzeichnungen_EN1063Certifikat_Unico_FB6-NS",
+   "laboratoire_id": null,
+   "date_emission": "2022-05-17",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 34,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-22-0208-01",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Résistance aux balles (FB)/Unico/FB6/Portes ouvrant vers l'intérieur"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-22-0208-01-P1",
+   "document_id": "DOC-RAP-22-0208-01",
+   "page_doc": 1,
+   "page_doc_total": 34,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-22-0208-01",
+   "norme_id": "NRM-EN-1522",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-22-0208-01",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-22-0208-01-1",
+   "document_id": "DOC-RAP-22-0208-01",
+   "code": "1",
+   "libelle": "S-22-0208-01_Prüfberichtzeichnungen_EN1063Certifikat_Unico_FB6-NS",
+   "typologie_code": "bloc_porte",
+   "systeme_id": "SYS-UNICO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-22-0208-01-1",
+   "document_id": "DOC-RAP-22-0208-01",
+   "configuration_id": "CFG-RAP-22-0208-01-1",
+   "domaine_code": "balistique",
+   "libelle_tel_qu_ecrit": "BR6-NS",
+   "classe_normalisee": "BR6NS",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-22-0208-01-P1",
+   "statut_extraction": "extrait"
+  },
+  {
+   "id": "PERF-RAP-22-0208-01-2",
+   "document_id": "DOC-RAP-22-0208-01",
+   "configuration_id": "CFG-RAP-22-0208-01-1",
+   "domaine_code": "balistique",
+   "libelle_tel_qu_ecrit": "FB6-NS",
+   "classe_normalisee": "FB6NS",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-22-0208-01-P1",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_balistique": [
+  {
+   "performance_id": "PERF-RAP-22-0208-01-1",
+   "classe": "BR6",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-22-0208-01-2",
+   "classe": "FB6",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-22-0208-01-AUTO",
+   "document_id": "DOC-RAP-22-0208-01",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-22-0208-01",
+   "type_code": "extraction_auto",
+   "description": "Rapport 22-0208-01 (balistique) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

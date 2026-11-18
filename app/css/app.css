@@ -110,3 +110,7 @@ tr.a-verifier td:first-child { box-shadow: inset 3px 0 0 #e0a640; }
 td:first-child { white-space: nowrap; }
 .legende { margin: -4px 0 10px; }
 .legende .classe { font-size: 11px; }
+
+/* Autres performances / cumuls */
+.classe.autre{background:#e8eef6;color:#003C75;border-color:#9fb4cf}
+.badge.dom{background:#003C75;color:#fff}

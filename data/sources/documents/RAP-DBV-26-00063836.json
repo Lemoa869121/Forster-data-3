@@ -1,0 +1,101 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-DBV-26-00063836",
+   "nom_fichier": "DTA\\Unico\\DTA 6-25-2563_V1_Unico+Unico_XS\\Rapports d'essais\\QB49 Profilé d'appui alu 980.737\\DBV-26-00063836 - Forster - Unico - Essai QB 49 T&Q - réf. 017.5068",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\DTA\\Unico\\DTA 6-25-2563_V1_Unico+Unico_XS\\Rapports d'essais\\QB49 Profilé d'appui alu 980.737\\DBV-26-00063836 - Forster - Unico - Essai QB 49 T&Q - réf. 017.5068.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-DBV-26-00063836",
+   "numero": "DBV-26-00063836",
+   "numero_normalise": "DBV-26-00063836",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "durabilite",
+   "objet": "DBV-26-00063836 - Forster - Unico - Essai QB 49 T&Q - réf. 017.5068",
+   "laboratoire_id": "ORG-CSTB",
+   "date_emission": "2024-07-01",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 31,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-DBV-26-00063836",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : DTA/Unico/DTA 6-25-2563_V1_Unico+Unico_XS/Rapports d'essais/QB49 Profilé d'appui alu 980.737"
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-DBV-26-00063836",
+   "organisme_id": "ORG-CSTB",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-DBV-26-00063836",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-DBV-26-00063836",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-DBV-26-00063836-1",
+   "document_id": "DOC-RAP-DBV-26-00063836",
+   "code": "1",
+   "libelle": "DBV-26-00063836 - Forster - Unico - Essai QB 49 T&Q - réf. 017.5068",
+   "typologie_code": "composant",
+   "systeme_id": "SYS-UNICO-XS",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-DBV-26-00063836-AUTO",
+   "document_id": "DOC-RAP-DBV-26-00063836",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-DBV-26-00063836",
+   "type_code": "extraction_auto",
+   "description": "Rapport DBV-26-00063836 (durabilite) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTRL-RAP-DBV-26-00063836-NT",
+   "document_id": "DOC-RAP-DBV-26-00063836",
+   "table_cible": "performance",
+   "ligne_id": null,
+   "type_code": "non_trouve",
+   "description": "Aucune classe / valeur lue automatiquement : à saisir.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

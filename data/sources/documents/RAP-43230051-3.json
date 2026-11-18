@@ -1,0 +1,104 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-43230051-3",
+   "nom_fichier": "Thermique\\Thermfix Light\\uf_thermfix_light_weichholz_43230051_03_fr",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Thermique\\Thermfix Light\\uf_thermfix_light_weichholz_43230051_03_fr.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-43230051-3",
+   "numero": "43230051",
+   "numero_normalise": "43230051-3",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "thermique",
+   "objet": "uf_thermfix_light_weichholz_43230051_03_fr",
+   "laboratoire_id": null,
+   "date_emission": "2006-08-09",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 2,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-43230051-3",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Thermique/Thermfix Light"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-43230051-3-P1",
+   "document_id": "DOC-RAP-43230051-3",
+   "page_doc": 1,
+   "page_doc_total": 2,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-43230051-3",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-43230051-3",
+   "systeme_id": "SYS-THERMFIX-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-43230051-3-1",
+   "document_id": "DOC-RAP-43230051-3",
+   "configuration_id": null,
+   "domaine_code": "thermique",
+   "libelle_tel_qu_ecrit": "Uf = 0,97 à 1,5",
+   "classe_normalisee": "Uf 0.97-1.5 W/(m2.K)",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-43230051-3-P1",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_mesure": [
+  {
+   "performance_id": "PERF-RAP-43230051-3-1",
+   "grandeur": "Uf",
+   "valeur_min": 0.97,
+   "valeur_max": 1.5,
+   "unite": "W/(m2.K)",
+   "norme_id": "NRM-EN-ISO-10077-2"
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-43230051-3-AUTO",
+   "document_id": "DOC-RAP-43230051-3",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-43230051-3",
+   "type_code": "extraction_auto",
+   "description": "Rapport 43230051 (thermique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

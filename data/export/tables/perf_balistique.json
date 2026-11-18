@@ -7,5 +7,272 @@
   "arme_munition",
   "norme_id"
  ],
- "lignes": []
+ "lignes": [
+  {
+   "performance_id": "PERF-RAP-13-08-A288-G2-2",
+   "classe": "FB4",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-13-08-A288-G2-3",
+   "classe": "BR4",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-22-0208-01-1",
+   "classe": "BR6",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-22-0208-01-2",
+   "classe": "FB6",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-BESCHUSSAMT-FB7S-19-0200-04-2019-1",
+   "classe": "FB7",
+   "avec_eclats": "S",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-CHASSIS-FIXES-UNICO-RC4-FB4-PFB-2012-1",
+   "classe": "FB4",
+   "avec_eclats": null,
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-KADDB-FB6-FB6-TEST-REPORT-2017-1",
+   "classe": "FB6",
+   "avec_eclats": null,
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-KADDB-FB6-FB6-TEST-REPORT-2017-2",
+   "classe": "BR6",
+   "avec_eclats": null,
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-POLYGARD-PRO-UP-862-38-NS-UK-1",
+   "classe": "BR6",
+   "avec_eclats": null,
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-POLYGARD-PRO-UP-862-38-NS-UK-2",
+   "classe": "BR6",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S-16-0053-01-Z-1",
+   "classe": "FB6",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S-21-0219-01Z-1",
+   "classe": "FB4",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S-22-0208-01-Z-1",
+   "classe": "FB6",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S09000201B-1",
+   "classe": "FB4",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S09001601B-1",
+   "classe": "FB4",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S09001601B-2",
+   "classe": "FB3",
+   "avec_eclats": null,
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S11004201-B-1",
+   "classe": "FB4",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S12005805-B-1",
+   "classe": "FB4",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S12005806-B-1",
+   "classe": "FB4",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S12005807-B-1",
+   "classe": "FB4",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S18020501-B-1",
+   "classe": "FB4",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S18020502-B-1",
+   "classe": "FB4",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S18020503-B-1",
+   "classe": "FB4",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S18020506-B-1",
+   "classe": "FB4",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S18020506-B-2",
+   "classe": "BR4",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S18020507-B-1",
+   "classe": "FB4",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S18020507-B-2",
+   "classe": "BR4",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S18020508-B-1",
+   "classe": "FB4",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S19020401B-1",
+   "classe": "FB4",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S19020401B-2",
+   "classe": "FB4",
+   "avec_eclats": "S",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S19020901B-1",
+   "classe": "FB4",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S19020902B-1",
+   "classe": "FB4",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S19022301B-1",
+   "classe": "FB4",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S20021201-B-1",
+   "classe": "FB5",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S20021202-1",
+   "classe": "FB5",
+   "avec_eclats": "S",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S21020101B-1",
+   "classe": "FB6",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX-1",
+   "classe": "BR6",
+   "avec_eclats": null,
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX-2",
+   "classe": "BR6",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  }
+ ]
 }

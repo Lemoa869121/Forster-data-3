@@ -1,0 +1,84 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-PORTE-UNICO-CR4-2-VANTAUX-SYNTHESE-ACCES",
+   "nom_fichier": "Résistance à l'effraction (RC)\\Unico\\RC4\\RC4_2_vantaux_CNPP\\Porte_Unico_CR4_2_Vantaux_synthèse_accessoires",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Résistance à l'effraction (RC)\\Unico\\RC4\\RC4_2_vantaux_CNPP\\Porte_Unico_CR4_2_Vantaux_synthèse_accessoires.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-PORTE-UNICO-CR4-2-VANTAUX-SYNTHESE-ACCES",
+   "numero": "Porte Unico CR4 2 Vantaux synthèse accessoires",
+   "numero_normalise": "Porte Unico CR4 2 Vantaux synthèse accessoires",
+   "revision": null,
+   "type_code": "synthese_fabricant",
+   "domaine_code": "effraction",
+   "objet": "Porte_Unico_CR4_2_Vantaux_synthèse_accessoires",
+   "laboratoire_id": null,
+   "date_emission": null,
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 4,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-PORTE-UNICO-CR4-2-VANTAUX-SYNTHESE-ACCES",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Résistance à l'effraction (RC)/Unico/RC4/RC4_2_vantaux_CNPP ; date non lue (année du nom : inconnue)"
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-PORTE-UNICO-CR4-2-VANTAUX-SYNTHESE-ACCES",
+   "norme_id": "NRM-EN-1627",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-PORTE-UNICO-CR4-2-VANTAUX-SYNTHESE-ACCES",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-PORTE-UNICO-CR4-2-VANTAUX-SYNTHESE-ACCES-1",
+   "document_id": "DOC-RAP-PORTE-UNICO-CR4-2-VANTAUX-SYNTHESE-ACCES",
+   "code": "1",
+   "libelle": "Porte_Unico_CR4_2_Vantaux_synthèse_accessoires",
+   "typologie_code": "bloc_porte",
+   "systeme_id": "SYS-UNICO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-PORTE-UNICO-CR4-2-VANTAUX-SYNTHESE-ACCES-AUTO",
+   "document_id": "DOC-RAP-PORTE-UNICO-CR4-2-VANTAUX-SYNTHESE-ACCES",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-PORTE-UNICO-CR4-2-VANTAUX-SYNTHESE-ACCES",
+   "type_code": "extraction_auto",
+   "description": "Rapport Porte Unico CR4 2 Vantaux synthèse accessoires (effraction) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

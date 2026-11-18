@@ -286,7 +286,7 @@ CREATE TABLE perf_feu (
 -- Détails des domaines d'extension (vides au départ, voir docs/EXTENSION_DOMAINES.md)
 CREATE TABLE perf_effraction (
   performance_id TEXT PRIMARY KEY REFERENCES performance(id) ON DELETE CASCADE,
-  classe_rc      TEXT NOT NULL CHECK (classe_rc IN ('RC1','RC1N','RC2','RC2N','RC3','RC4','RC5','RC6')),
+  classe_rc      TEXT NOT NULL CHECK (classe_rc IN ('RC1','RC1N','RC2','RC2N','RC3','RC4','RC5','RC6','WK1','WK2','WK3','WK4','WK5','WK6')), -- WK = ancienne DIN V ENV 1627 (≈ RC, non identique)
   norme_id       TEXT REFERENCES norme(id),
   duree_resistance_min REAL
 );
@@ -310,6 +310,45 @@ CREATE TABLE perf_acoustique (
   rw_db  REAL NOT NULL, c_db REAL, ctr_db REAL,
   norme_id TEXT REFERENCES norme(id)
 );
+-- Résistance à l'explosion (EN 13123 / EN 13124) : EPR1..EPR4, S (éclats) / NS (sans éclats)
+CREATE TABLE perf_explosion (
+  performance_id TEXT PRIMARY KEY REFERENCES performance(id) ON DELETE CASCADE,
+  classe         TEXT NOT NULL CHECK (classe IN ('EPR1','EPR2','EPR3','EPR4')),
+  avec_eclats    TEXT CHECK (avec_eclats IS NULL OR avec_eclats IN ('S','NS')),
+  norme_id       TEXT REFERENCES norme(id)
+);
+-- Grandeurs mesurées des autres domaines (thermique Uf/Uw, chocs, endurance, issues de secours…)
+CREATE TABLE perf_mesure (
+  performance_id TEXT PRIMARY KEY REFERENCES performance(id) ON DELETE CASCADE,
+  grandeur       TEXT NOT NULL,           -- 'Uf', 'Uw', 'energie_choc', 'nb_cycles', 'classe_endurance', 'conformite'
+  valeur_min     REAL,
+  valeur_max     REAL,
+  unite          TEXT,                    -- 'W/(m2.K)', 'J', 'cycles'
+  norme_id       TEXT REFERENCES norme(id)
+);
+
+-- Cumuls de performances EXPLICITEMENT énoncés par un document (jamais déduits ici).
+-- statut_cumul : 'declare_fabricant' (document Forster de synthèse), 'constate_rapport' (le même rapport
+-- classe deux domaines, ou l'éprouvette d'un essai est décrite comme une construction coupe-feu),
+-- 'sous_reserve' (le document renvoie à un PV / avis de chantier).
+CREATE TABLE cumul_performance (
+  id                 TEXT PRIMARY KEY,
+  document_id        TEXT NOT NULL REFERENCES document(id) ON DELETE CASCADE,   -- document qui énonce le cumul
+  systeme_id         TEXT REFERENCES systeme(id),
+  typologie_code     TEXT REFERENCES ref_typologie(code),
+  domaine_a          TEXT NOT NULL REFERENCES ref_domaine_performance(code),
+  classe_a           TEXT NOT NULL,
+  domaine_b          TEXT NOT NULL REFERENCES ref_domaine_performance(code),
+  classe_b           TEXT NOT NULL,
+  statut_cumul       TEXT NOT NULL CHECK (statut_cumul IN ('declare_fabricant','constate_rapport','sous_reserve')),
+  condition_texte    TEXT,                -- « sous PV », « sur avis de chantier », serrures…
+  justificatifs      TEXT,                -- références citées (rapports, PV) séparées par ';'
+  source_page_id     TEXT REFERENCES source_page(id),
+  statut_extraction  TEXT NOT NULL DEFAULT 'a_verifier' REFERENCES ref_statut_extraction(code),
+  CHECK (domaine_a <> domaine_b OR classe_a <> classe_b)
+);
+CREATE INDEX ix_cumul_sys ON cumul_performance(systeme_id, typologie_code);
+CREATE INDEX ix_cumul_dom ON cumul_performance(domaine_a, domaine_b);
 
 -- ---------------------------------------------------------------------
 -- 6. Dimensions (testé / autorisé toujours séparés via nature_code)
@@ -719,3 +758,35 @@ SELECT rc.id, rc.reference_normalisee, 'enrichissement',
        e.statut_fiabilite_code, e.source_libelle
   FROM reference_composant rc
   JOIN enrichissement_externe e ON e.reference_id = rc.id;
+
+
+-- Toutes performances (tous domaines) avec système et typologie : configuration si présente,
+-- sinon système principal du document (rapports d'essais).
+CREATE VIEW v_performance_multi AS
+SELECT p.id AS performance_id, p.document_id, d.numero_normalise, d.type_code, d.objet,
+       p.domaine_code, p.classe_normalisee, p.libelle_tel_qu_ecrit, p.condition_texte,
+       COALESCE(c.systeme_id, (SELECT ds.systeme_id FROM document_systeme ds
+                               WHERE ds.document_id = d.id AND ds.role = 'principal' LIMIT 1)) AS systeme_id,
+       c.typologie_code, d.date_emission, sp.page_doc, p.statut_extraction
+  FROM performance p
+  JOIN document d ON d.id = p.document_id
+  LEFT JOIN configuration c ON c.id = p.configuration_id
+  LEFT JOIN source_page sp ON sp.id = p.source_page_id;
+
+-- Croisement POTENTIEL feu × autre domaine sur le même système et la même typologie.
+-- Ce n'est PAS un cumul : la même construction doit être couverte par les deux documents (contrôle humain).
+CREATE VIEW v_cumul_potentiel AS
+WITH pm AS (
+  SELECT v.*, CASE WHEN v.typologie_code IN ('chassis_fixe','cloison_vitree','cloison_vitree_bord_a_bord') THEN 'fixe'
+                   ELSE v.typologie_code END AS famille,
+         (SELECT s.nom FROM systeme s WHERE s.id = v.systeme_id) AS systeme_nom
+    FROM v_performance_multi v)
+SELECT a.systeme_id, a.systeme_nom, a.famille AS famille_typologie,
+       a.classe_normalisee AS classe_feu, a.numero_normalise AS document_feu, a.type_code AS type_document_feu,
+       b.domaine_code AS domaine_autre, b.classe_normalisee AS classe_autre, b.numero_normalise AS document_autre
+  FROM pm a
+  JOIN pm b ON b.famille = a.famille AND b.domaine_code NOT IN ('feu')
+           AND (b.systeme_id = a.systeme_id
+                OR (a.systeme_id LIKE 'SYS-FUEGO-LIGHT%' AND b.systeme_id LIKE 'SYS-FUEGO-LIGHT%')
+                OR (a.systeme_id LIKE 'SYS-PRESTO%' AND b.systeme_id = 'SYS-PRESTO'))
+ WHERE a.domaine_code = 'feu' AND a.systeme_id IS NOT NULL AND a.famille IS NOT NULL;

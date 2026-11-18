@@ -1,0 +1,108 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-UF-734852-4-5",
+   "nom_fichier": "Thermique\\Fuego light\\Uf_734852 = 4.5",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Thermique\\Fuego light\\Uf_734852 = 4.5.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-UF-734852-4-5",
+   "numero": "Uf 734852 = 4.5",
+   "numero_normalise": "Uf 734852 = 4.5",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "thermique",
+   "objet": "Uf_734852 = 4.5",
+   "laboratoire_id": null,
+   "date_emission": "2012-02-16",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 1,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-UF-734852-4-5",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Thermique/Fuego light"
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-UF-734852-4-5",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-UF-734852-4-5",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-UF-734852-4-5-1",
+   "document_id": "DOC-RAP-UF-734852-4-5",
+   "code": "1",
+   "libelle": "Uf_734852 = 4.5",
+   "typologie_code": "composant",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-UF-734852-4-5-1",
+   "document_id": "DOC-RAP-UF-734852-4-5",
+   "configuration_id": "CFG-RAP-UF-734852-4-5-1",
+   "domaine_code": "thermique",
+   "libelle_tel_qu_ecrit": "Uf_734852 = 4.5",
+   "classe_normalisee": "Uf 4.5 W/(m2.K)",
+   "nature_code": "classement",
+   "condition_texte": "classe lue dans le nom de fichier, non retrouvée dans le texte",
+   "source_page_id": null,
+   "statut_extraction": "a_verifier"
+  }
+ ],
+ "perf_mesure": [
+  {
+   "performance_id": "PERF-RAP-UF-734852-4-5-1",
+   "grandeur": "Uf",
+   "valeur_min": 4.5,
+   "valeur_max": 4.5,
+   "unite": "W/(m2.K)",
+   "norme_id": "NRM-EN-ISO-10077-2"
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-UF-734852-4-5-AUTO",
+   "document_id": "DOC-RAP-UF-734852-4-5",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-UF-734852-4-5",
+   "type_code": "extraction_auto",
+   "description": "Rapport Uf 734852 = 4.5 (thermique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

@@ -1,0 +1,237 @@
+{
+ "table": "perf_mesure",
+ "colonnes": [
+  "performance_id",
+  "grandeur",
+  "valeur_min",
+  "valeur_max",
+  "unite",
+  "norme_id"
+ ],
+ "lignes": [
+  {
+   "performance_id": "PERF-RAP-11-002983-PR03-1",
+   "grandeur": "conformite",
+   "valeur_min": null,
+   "valeur_max": null,
+   "unite": null,
+   "norme_id": null
+  },
+  {
+   "performance_id": "PERF-RAP-12-003174-PR01-1",
+   "grandeur": "classe_endurance",
+   "valeur_min": 8.0,
+   "valeur_max": 8.0,
+   "unite": null,
+   "norme_id": "NRM-EN-1191"
+  },
+  {
+   "performance_id": "PERF-RAP-12-003174-PR01-2",
+   "grandeur": "nb_cycles",
+   "valeur_min": 1000000.0,
+   "valeur_max": 1000000.0,
+   "unite": "cycles",
+   "norme_id": "NRM-EN-1191"
+  },
+  {
+   "performance_id": "PERF-RAP-13-002986-PR01-2-1",
+   "grandeur": "conformite",
+   "valeur_min": null,
+   "valeur_max": null,
+   "unite": null,
+   "norme_id": "NRM-EN-1125"
+  },
+  {
+   "performance_id": "PERF-RAP-13-002986-PR01-2-2",
+   "grandeur": "conformite",
+   "valeur_min": null,
+   "valeur_max": null,
+   "unite": null,
+   "norme_id": "NRM-EN-1125"
+  },
+  {
+   "performance_id": "PERF-RAP-14-000878-PR05-1",
+   "grandeur": "nb_cycles",
+   "valeur_min": 200000.0,
+   "valeur_max": 200000.0,
+   "unite": "cycles",
+   "norme_id": "NRM-EN-1191"
+  },
+  {
+   "performance_id": "PERF-RAP-20135793-4-1",
+   "grandeur": "classe_endurance",
+   "valeur_min": 6.0,
+   "valeur_max": 6.0,
+   "unite": null,
+   "norme_id": "NRM-EN-1191"
+  },
+  {
+   "performance_id": "PERF-RAP-42237268-1",
+   "grandeur": "Uf",
+   "valeur_min": 5.6,
+   "valeur_max": 8.3,
+   "unite": "W/(m2.K)",
+   "norme_id": "NRM-EN-ISO-10077-2"
+  },
+  {
+   "performance_id": "PERF-RAP-432-27814-1A-1",
+   "grandeur": "Uf",
+   "valeur_min": 1.5,
+   "valeur_max": 2.4,
+   "unite": "W/(m2.K)",
+   "norme_id": "NRM-EN-ISO-10077-2"
+  },
+  {
+   "performance_id": "PERF-RAP-43227814-1-1",
+   "grandeur": "Uf",
+   "valeur_min": 1.5,
+   "valeur_max": 2.4,
+   "unite": "W/(m2.K)",
+   "norme_id": "NRM-EN-ISO-10077-2"
+  },
+  {
+   "performance_id": "PERF-RAP-43230051-1-1",
+   "grandeur": "Uf",
+   "valeur_min": 1.0,
+   "valeur_max": 2.2,
+   "unite": "W/(m2.K)",
+   "norme_id": "NRM-EN-ISO-10077-2"
+  },
+  {
+   "performance_id": "PERF-RAP-43230051-2-1",
+   "grandeur": "Uf",
+   "valeur_min": 1.0,
+   "valeur_max": 2.2,
+   "unite": "W/(m2.K)",
+   "norme_id": "NRM-EN-ISO-10077-2"
+  },
+  {
+   "performance_id": "PERF-RAP-43230051-3-1",
+   "grandeur": "Uf",
+   "valeur_min": 0.97,
+   "valeur_max": 1.5,
+   "unite": "W/(m2.K)",
+   "norme_id": "NRM-EN-ISO-10077-2"
+  },
+  {
+   "performance_id": "PERF-RAP-43230051-1",
+   "grandeur": "Uf",
+   "valeur_min": 1.0,
+   "valeur_max": 1.7,
+   "unite": "W/(m2.K)",
+   "norme_id": "NRM-EN-ISO-10077-2"
+  },
+  {
+   "performance_id": "PERF-RAP-BEB1-M-4073-1-1",
+   "grandeur": "energie_choc",
+   "valeur_min": 1200.0,
+   "valeur_max": 1200.0,
+   "unite": "J",
+   "norme_id": null
+  },
+  {
+   "performance_id": "PERF-RAP-BEB1-M-4073-2-1",
+   "grandeur": "energie_choc",
+   "valeur_min": 1200.0,
+   "valeur_max": 1200.0,
+   "unite": "J",
+   "norme_id": null
+  },
+  {
+   "performance_id": "PERF-RAP-BEB1-M-4073-3-1",
+   "grandeur": "energie_choc",
+   "valeur_min": 1200.0,
+   "valeur_max": 1200.0,
+   "unite": "J",
+   "norme_id": null
+  },
+  {
+   "performance_id": "PERF-RAP-BEB1-M-4073-4-1",
+   "grandeur": "energie_choc",
+   "valeur_min": 1200.0,
+   "valeur_max": 1200.0,
+   "unite": "J",
+   "norme_id": null
+  },
+  {
+   "performance_id": "PERF-RAP-DBV-22-12782-C-1",
+   "grandeur": "conformite",
+   "valeur_min": null,
+   "valeur_max": null,
+   "unite": null,
+   "norme_id": null
+  },
+  {
+   "performance_id": "PERF-RAP-DBV-22-12782-D-1",
+   "grandeur": "conformite",
+   "valeur_min": null,
+   "valeur_max": null,
+   "unite": null,
+   "norme_id": null
+  },
+  {
+   "performance_id": "PERF-RAP-DBV-M-25-49976-1",
+   "grandeur": "classe_endurance",
+   "valeur_min": 1.0,
+   "valeur_max": 1.0,
+   "unite": null,
+   "norme_id": "NRM-EN-1191"
+  },
+  {
+   "performance_id": "PERF-RAP-IFT-PV-COEFF-U-FRANCAIS-1",
+   "grandeur": "Uf",
+   "valeur_min": 1.5,
+   "valeur_max": 2.4,
+   "unite": "W/(m2.K)",
+   "norme_id": "NRM-EN-ISO-10077-2"
+  },
+  {
+   "performance_id": "PERF-RAP-UF-734851-4-3-1",
+   "grandeur": "Uf",
+   "valeur_min": 4.3,
+   "valeur_max": 4.3,
+   "unite": "W/(m2.K)",
+   "norme_id": "NRM-EN-ISO-10077-2"
+  },
+  {
+   "performance_id": "PERF-RAP-UF-734852-4-5-1",
+   "grandeur": "Uf",
+   "valeur_min": 4.5,
+   "valeur_max": 4.5,
+   "unite": "W/(m2.K)",
+   "norme_id": "NRM-EN-ISO-10077-2"
+  },
+  {
+   "performance_id": "PERF-RAP-UF-736851-3-6-1",
+   "grandeur": "Uf",
+   "valeur_min": 3.6,
+   "valeur_max": 3.6,
+   "unite": "W/(m2.K)",
+   "norme_id": "NRM-EN-ISO-10077-2"
+  },
+  {
+   "performance_id": "PERF-RAP-UF-736852-3-5-1",
+   "grandeur": "Uf",
+   "valeur_min": 3.5,
+   "valeur_max": 3.5,
+   "unite": "W/(m2.K)",
+   "norme_id": "NRM-EN-ISO-10077-2"
+  },
+  {
+   "performance_id": "PERF-RAP-UF-739592-2-6-1",
+   "grandeur": "Uf",
+   "valeur_min": 2.6,
+   "valeur_max": 2.6,
+   "unite": "W/(m2.K)",
+   "norme_id": "NRM-EN-ISO-10077-2"
+  },
+  {
+   "performance_id": "PERF-RAP-UF-THERMFIX-VARIO-432-27814-1-FR-1",
+   "grandeur": "Uf",
+   "valeur_min": 1.5,
+   "valeur_max": 2.4,
+   "unite": "W/(m2.K)",
+   "norme_id": "NRM-EN-ISO-10077-2"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-DBV-M-25-49978",
+   "nom_fichier": "DTA\\Unico\\DTA 6-25-2563_V1_Unico+Unico_XS\\Rapports d'essais\\Gradient thermique\\DBV-M-25-49978-FORSTER (2025)",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\DTA\\Unico\\DTA 6-25-2563_V1_Unico+Unico_XS\\Rapports d'essais\\Gradient thermique\\DBV-M-25-49978-FORSTER (2025).pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-DBV-M-25-49978",
+   "numero": "DBV-M-25-49978",
+   "numero_normalise": "DBV-M-25-49978",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "aev",
+   "objet": "DBV-M-25-49978-FORSTER (2025)",
+   "laboratoire_id": "ORG-CSTB",
+   "date_emission": null,
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 26,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-DBV-M-25-49978",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : DTA/Unico/DTA 6-25-2563_V1_Unico+Unico_XS/Rapports d'essais/Gradient thermique ; date non lue (année du nom : 2025)"
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-DBV-M-25-49978",
+   "organisme_id": "ORG-CSTB",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-DBV-M-25-49978",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-DBV-M-25-49978",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-DBV-M-25-49978",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-DBV-M-25-49978-AUTO",
+   "document_id": "DOC-RAP-DBV-M-25-49978",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-DBV-M-25-49978",
+   "type_code": "extraction_auto",
+   "description": "Rapport DBV-M-25-49978 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTRL-RAP-DBV-M-25-49978-NT",
+   "document_id": "DOC-RAP-DBV-M-25-49978",
+   "table_cible": "performance",
+   "ligne_id": null,
+   "type_code": "non_trouve",
+   "description": "Aucune classe / valeur lue automatiquement : à saisir.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

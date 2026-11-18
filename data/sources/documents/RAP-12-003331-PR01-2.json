@@ -1,0 +1,204 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-12-003331-PR01-2",
+   "nom_fichier": "Rapports de classement feu (EN 13501-2)\\Klasse_12-003331-PR01_2012_fuego light porte EI30-en",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Rapports de classement feu (EN 13501-2)\\Klasse_12-003331-PR01_2012_fuego light porte EI30-en.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-12-003331-PR01-2",
+   "numero": "12-003331-PR01_2",
+   "numero_normalise": "12-003331-PR01_2",
+   "revision": null,
+   "type_code": "rapport_classement",
+   "domaine_code": "feu",
+   "objet": "Klasse_12-003331-PR01_2012_fuego light porte EI30-en",
+   "laboratoire_id": "ORG-IFT",
+   "date_emission": "2012-12-18",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 82,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-12-003331-PR01-2",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Rapports de classement feu (EN 13501-2)"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-12-003331-PR01-2-P1",
+   "document_id": "DOC-RAP-12-003331-PR01-2",
+   "page_doc": 1,
+   "page_doc_total": 82,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-12-003331-PR01-2",
+   "organisme_id": "ORG-IFT",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-12-003331-PR01-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-12-003331-PR01-2-1",
+   "document_id": "DOC-RAP-12-003331-PR01-2",
+   "code": "1",
+   "libelle": "Klasse_12-003331-PR01_2012_fuego light porte EI30-en",
+   "typologie_code": "bloc_porte",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-12-003331-PR01-2-1",
+   "document_id": "DOC-RAP-12-003331-PR01-2",
+   "configuration_id": "CFG-RAP-12-003331-PR01-2-1",
+   "domaine_code": "feu",
+   "libelle_tel_qu_ecrit": "E 30",
+   "classe_normalisee": "E 30",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-12-003331-PR01-2-P1",
+   "statut_extraction": "extrait"
+  },
+  {
+   "id": "PERF-RAP-12-003331-PR01-2-2",
+   "document_id": "DOC-RAP-12-003331-PR01-2",
+   "configuration_id": "CFG-RAP-12-003331-PR01-2-1",
+   "domaine_code": "feu",
+   "libelle_tel_qu_ecrit": "EW 30",
+   "classe_normalisee": "EW 30",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-12-003331-PR01-2-P1",
+   "statut_extraction": "extrait"
+  },
+  {
+   "id": "PERF-RAP-12-003331-PR01-2-3",
+   "document_id": "DOC-RAP-12-003331-PR01-2",
+   "configuration_id": "CFG-RAP-12-003331-PR01-2-1",
+   "domaine_code": "feu",
+   "libelle_tel_qu_ecrit": "EI1 15",
+   "classe_normalisee": "EI1 15",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-12-003331-PR01-2-P1",
+   "statut_extraction": "extrait"
+  },
+  {
+   "id": "PERF-RAP-12-003331-PR01-2-4",
+   "document_id": "DOC-RAP-12-003331-PR01-2",
+   "configuration_id": "CFG-RAP-12-003331-PR01-2-1",
+   "domaine_code": "feu",
+   "libelle_tel_qu_ecrit": "EI2 30",
+   "classe_normalisee": "EI2 30",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-12-003331-PR01-2-P1",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_feu": [
+  {
+   "performance_id": "PERF-RAP-12-003331-PR01-2-1",
+   "critere_r": 0,
+   "critere_e": 1,
+   "critere_i": 0,
+   "variante_i": null,
+   "critere_w": 0,
+   "critere_m": 0,
+   "critere_c": 0,
+   "classe_c": null,
+   "critere_s": 0,
+   "duree_min": 30,
+   "sens_feu": null
+  },
+  {
+   "performance_id": "PERF-RAP-12-003331-PR01-2-2",
+   "critere_r": 0,
+   "critere_e": 1,
+   "critere_i": 0,
+   "variante_i": null,
+   "critere_w": 1,
+   "critere_m": 0,
+   "critere_c": 0,
+   "classe_c": null,
+   "critere_s": 0,
+   "duree_min": 30,
+   "sens_feu": null
+  },
+  {
+   "performance_id": "PERF-RAP-12-003331-PR01-2-3",
+   "critere_r": 0,
+   "critere_e": 1,
+   "critere_i": 1,
+   "variante_i": "I1",
+   "critere_w": 0,
+   "critere_m": 0,
+   "critere_c": 0,
+   "classe_c": null,
+   "critere_s": 0,
+   "duree_min": 15,
+   "sens_feu": null
+  },
+  {
+   "performance_id": "PERF-RAP-12-003331-PR01-2-4",
+   "critere_r": 0,
+   "critere_e": 1,
+   "critere_i": 1,
+   "variante_i": "I2",
+   "critere_w": 0,
+   "critere_m": 0,
+   "critere_c": 0,
+   "classe_c": null,
+   "critere_s": 0,
+   "duree_min": 30,
+   "sens_feu": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-12-003331-PR01-2-AUTO",
+   "document_id": "DOC-RAP-12-003331-PR01-2",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-12-003331-PR01-2",
+   "type_code": "extraction_auto",
+   "description": "Rapport 12-003331-PR01_2 (feu) : métadonnées et classes extraites automatiquement (4 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

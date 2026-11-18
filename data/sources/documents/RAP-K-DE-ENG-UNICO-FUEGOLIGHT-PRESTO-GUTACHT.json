@@ -1,0 +1,123 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-K-DE-ENG-UNICO-FUEGOLIGHT-PRESTO-GUTACHT",
+   "nom_fichier": "Résistance à l'effraction (RC)\\Presto\\K_DE_ENG_Unico-FuegoLight_Presto_Gutachten_16-002974-RC1-2-3",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Résistance à l'effraction (RC)\\Presto\\K_DE_ENG_Unico-FuegoLight_Presto_Gutachten_16-002974-RC1-2-3.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-K-DE-ENG-UNICO-FUEGOLIGHT-PRESTO-GUTACHT",
+   "numero": "K DE ENG Unico-FuegoLight Presto Gutachten 16-002974-RC1-2-3",
+   "numero_normalise": "K DE ENG Unico-FuegoLight Presto Gutachten 16-002974-RC1-2-3",
+   "revision": null,
+   "type_code": "avis_expertise",
+   "domaine_code": "effraction",
+   "objet": "K_DE_ENG_Unico-FuegoLight_Presto_Gutachten_16-002974-RC1-2-3",
+   "laboratoire_id": "ORG-IFT",
+   "date_emission": "2022-12-16",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 502,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-K-DE-ENG-UNICO-FUEGOLIGHT-PRESTO-GUTACHT",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Résistance à l'effraction (RC)/Presto"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-K-DE-ENG-UNICO-FUEGOLIGHT-PRESTO-GUTACHT-P1",
+   "document_id": "DOC-RAP-K-DE-ENG-UNICO-FUEGOLIGHT-PRESTO-GUTACHT",
+   "page_doc": 1,
+   "page_doc_total": 502,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-K-DE-ENG-UNICO-FUEGOLIGHT-PRESTO-GUTACHT",
+   "organisme_id": "ORG-IFT",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-K-DE-ENG-UNICO-FUEGOLIGHT-PRESTO-GUTACHT",
+   "norme_id": "NRM-EN-1627",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-K-DE-ENG-UNICO-FUEGOLIGHT-PRESTO-GUTACHT",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-K-DE-ENG-UNICO-FUEGOLIGHT-PRESTO-GUTACHT",
+   "systeme_id": "SYS-PRESTO",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-K-DE-ENG-UNICO-FUEGOLIGHT-PRESTO-GUTACHT",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "variante",
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-K-DE-ENG-UNICO-FUEGOLIGHT-PRESTO-GUTACHT-1",
+   "document_id": "DOC-RAP-K-DE-ENG-UNICO-FUEGOLIGHT-PRESTO-GUTACHT",
+   "configuration_id": null,
+   "domaine_code": "effraction",
+   "libelle_tel_qu_ecrit": "RC1",
+   "classe_normalisee": "RC1",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-K-DE-ENG-UNICO-FUEGOLIGHT-PRESTO-GUTACHT-P1",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_effraction": [
+  {
+   "performance_id": "PERF-RAP-K-DE-ENG-UNICO-FUEGOLIGHT-PRESTO-GUTACHT-1",
+   "classe_rc": "RC1",
+   "norme_id": "NRM-EN-1627",
+   "duree_resistance_min": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-K-DE-ENG-UNICO-FUEGOLIGHT-PRESTO-GUTACHT-AUTO",
+   "document_id": "DOC-RAP-K-DE-ENG-UNICO-FUEGOLIGHT-PRESTO-GUTACHT",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-K-DE-ENG-UNICO-FUEGOLIGHT-PRESTO-GUTACHT",
+   "type_code": "extraction_auto",
+   "description": "Rapport K DE ENG Unico-FuegoLight Presto Gutachten 16-002974-RC1-2-3 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

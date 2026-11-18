@@ -1,0 +1,120 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-11-002983-PR03",
+   "nom_fichier": "Résistance aux chocs\\Unico Porte Anti-pince doigts\\IFT - Porte Unico anti-pince doigts - 11-002983-PR03 - 2013",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Résistance aux chocs\\Unico Porte Anti-pince doigts\\IFT - Porte Unico anti-pince doigts - 11-002983-PR03 - 2013.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-11-002983-PR03",
+   "numero": "11-002983-PR03",
+   "numero_normalise": "11-002983-PR03",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "choc",
+   "objet": "IFT - Porte Unico anti-pince doigts - 11-002983-PR03 - 2013",
+   "laboratoire_id": "ORG-IFT",
+   "date_emission": "2013-04-17",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 32,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-11-002983-PR03",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Résistance aux chocs/Unico Porte Anti-pince doigts"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-11-002983-PR03-P1",
+   "document_id": "DOC-RAP-11-002983-PR03",
+   "page_doc": 1,
+   "page_doc_total": 32,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-11-002983-PR03",
+   "organisme_id": "ORG-IFT",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-11-002983-PR03",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-11-002983-PR03-1",
+   "document_id": "DOC-RAP-11-002983-PR03",
+   "code": "1",
+   "libelle": "IFT - Porte Unico anti-pince doigts - 11-002983-PR03 - 2013",
+   "typologie_code": "bloc_porte",
+   "systeme_id": "SYS-UNICO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-11-002983-PR03-1",
+   "document_id": "DOC-RAP-11-002983-PR03",
+   "configuration_id": "CFG-RAP-11-002983-PR03-1",
+   "domaine_code": "choc",
+   "libelle_tel_qu_ecrit": "porte anti-pince-doigts",
+   "classe_normalisee": "Anti-pince-doigts",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-11-002983-PR03-P1",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_mesure": [
+  {
+   "performance_id": "PERF-RAP-11-002983-PR03-1",
+   "grandeur": "conformite",
+   "valeur_min": null,
+   "valeur_max": null,
+   "unite": null,
+   "norme_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-11-002983-PR03-AUTO",
+   "document_id": "DOC-RAP-11-002983-PR03",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-11-002983-PR03",
+   "type_code": "extraction_auto",
+   "description": "Rapport 11-002983-PR03 (choc) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

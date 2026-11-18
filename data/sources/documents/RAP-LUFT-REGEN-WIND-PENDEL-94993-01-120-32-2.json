@@ -1,0 +1,95 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-LUFT-REGEN-WIND-PENDEL-94993-01-120-32-2",
+   "nom_fichier": "Sismique\\Thermfix Vario\\Test réalisé aux USA\\Luft-Regen-Wind-Pendel_94993.01-120-32_2010",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Sismique\\Thermfix Vario\\Test réalisé aux USA\\Luft-Regen-Wind-Pendel_94993.01-120-32_2010.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-LUFT-REGEN-WIND-PENDEL-94993-01-120-32-2",
+   "numero": "Luft-Regen-Wind-Pendel 94993.01-120-32 2010",
+   "numero_normalise": "Luft-Regen-Wind-Pendel 94993.01-120-32 2010",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "aev",
+   "objet": "Luft-Regen-Wind-Pendel_94993.01-120-32_2010",
+   "laboratoire_id": null,
+   "date_emission": null,
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 110,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-LUFT-REGEN-WIND-PENDEL-94993-01-120-32-2",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Sismique/Thermfix Vario/Test réalisé aux USA ; date non lue (année du nom : 2010)"
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-LUFT-REGEN-WIND-PENDEL-94993-01-120-32-2",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-LUFT-REGEN-WIND-PENDEL-94993-01-120-32-2",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-LUFT-REGEN-WIND-PENDEL-94993-01-120-32-2-1",
+   "document_id": "DOC-RAP-LUFT-REGEN-WIND-PENDEL-94993-01-120-32-2",
+   "code": "1",
+   "libelle": "Luft-Regen-Wind-Pendel_94993.01-120-32_2010",
+   "typologie_code": "facade_vitree",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-LUFT-REGEN-WIND-PENDEL-94993-01-120-32-2-AUTO",
+   "document_id": "DOC-RAP-LUFT-REGEN-WIND-PENDEL-94993-01-120-32-2",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-LUFT-REGEN-WIND-PENDEL-94993-01-120-32-2",
+   "type_code": "extraction_auto",
+   "description": "Rapport Luft-Regen-Wind-Pendel 94993.01-120-32 2010 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTRL-RAP-LUFT-REGEN-WIND-PENDEL-94993-01-120-32-2-NT",
+   "document_id": "DOC-RAP-LUFT-REGEN-WIND-PENDEL-94993-01-120-32-2",
+   "table_cible": "performance",
+   "ligne_id": null,
+   "type_code": "non_trouve",
+   "description": "Aucune classe / valeur lue automatiquement : à saisir.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

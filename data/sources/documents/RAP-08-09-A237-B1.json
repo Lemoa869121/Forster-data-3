@@ -1,0 +1,111 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-08-09-A237-B1",
+   "nom_fichier": "Résistance à l'effraction (RC)\\Presto\\Einbruch_08-09-A237-B1_2008",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Résistance à l'effraction (RC)\\Presto\\Einbruch_08-09-A237-B1_2008.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-08-09-A237-B1",
+   "numero": "08-09-A237-B1",
+   "numero_normalise": "08-09-A237-B1",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "effraction",
+   "objet": "Einbruch_08-09-A237-B1_2008",
+   "laboratoire_id": "ORG-PFB",
+   "date_emission": "2008-09-18",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 50,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-08-09-A237-B1",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Résistance à l'effraction (RC)/Presto"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-08-09-A237-B1-P1",
+   "document_id": "DOC-RAP-08-09-A237-B1",
+   "page_doc": 1,
+   "page_doc_total": 50,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-08-09-A237-B1",
+   "organisme_id": "ORG-PFB",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-08-09-A237-B1",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-08-09-A237-B1",
+   "systeme_id": "SYS-PRESTO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-08-09-A237-B1-1",
+   "document_id": "DOC-RAP-08-09-A237-B1",
+   "configuration_id": null,
+   "domaine_code": "effraction",
+   "libelle_tel_qu_ecrit": "WK3",
+   "classe_normalisee": "WK3",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-08-09-A237-B1-P1",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_effraction": [
+  {
+   "performance_id": "PERF-RAP-08-09-A237-B1-1",
+   "classe_rc": "WK3",
+   "norme_id": "NRM-EN-1627",
+   "duree_resistance_min": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-08-09-A237-B1-AUTO",
+   "document_id": "DOC-RAP-08-09-A237-B1",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-08-09-A237-B1",
+   "type_code": "extraction_auto",
+   "description": "Rapport 08-09-A237-B1 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-I-49-17",
+   "nom_fichier": "Resistance à l'explosion (EPR)\\Unico\\z_DE_ENG_FR_Unico_Explosion_I-49_17-EMI_Zertifkiate_Zeichnungen_Versandbereit",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Resistance à l'explosion (EPR)\\Unico\\z_DE_ENG_FR_Unico_Explosion_I-49_17-EMI_Zertifkiate_Zeichnungen_Versandbereit.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-I-49-17",
+   "numero": "I-49_17",
+   "numero_normalise": "I-49_17",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "explosion",
+   "objet": "z_DE_ENG_FR_Unico_Explosion_I-49_17-EMI_Zertifkiate_Zeichnungen_Versandbereit",
+   "laboratoire_id": null,
+   "date_emission": null,
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 9,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-I-49-17",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Resistance à l'explosion (EPR)/Unico ; date non lue (année du nom : inconnue)"
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-I-49-17",
+   "norme_id": "NRM-EN-13123-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-I-49-17",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-I-49-17-AUTO",
+   "document_id": "DOC-RAP-I-49-17",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-I-49-17",
+   "type_code": "extraction_auto",
+   "description": "Rapport I-49_17 (explosion) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTRL-RAP-I-49-17-NT",
+   "document_id": "DOC-RAP-I-49-17",
+   "table_cible": "performance",
+   "ligne_id": null,
+   "type_code": "non_trouve",
+   "description": "Aucune classe / valeur lue automatiquement : à saisir.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

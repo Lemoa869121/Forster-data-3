@@ -1,0 +1,109 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-AEV-NORM50-A4-E8A-VB2-CSTB-2002",
+   "nom_fichier": "A.E.V\\Norm\\AEV_NORM50_A4-E8A-VB2_CSTB_2002",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\A.E.V\\Norm\\AEV_NORM50_A4-E8A-VB2_CSTB_2002.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-AEV-NORM50-A4-E8A-VB2-CSTB-2002",
+   "numero": "AEV NORM50 A4-E8A-VB2 CSTB 2002",
+   "numero_normalise": "AEV NORM50 A4-E8A-VB2 CSTB 2002",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "aev",
+   "objet": "AEV_NORM50_A4-E8A-VB2_CSTB_2002",
+   "laboratoire_id": "ORG-CSTB",
+   "date_emission": "2002-04-24",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 13,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-AEV-NORM50-A4-E8A-VB2-CSTB-2002",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : A.E.V/Norm"
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-AEV-NORM50-A4-E8A-VB2-CSTB-2002",
+   "organisme_id": "ORG-CSTB",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-AEV-NORM50-A4-E8A-VB2-CSTB-2002",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-AEV-NORM50-A4-E8A-VB2-CSTB-2002",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-AEV-NORM50-A4-E8A-VB2-CSTB-2002",
+   "systeme_id": "SYS-NORM",
+   "role": "variante",
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-AEV-NORM50-A4-E8A-VB2-CSTB-2002-1",
+   "document_id": "DOC-RAP-AEV-NORM50-A4-E8A-VB2-CSTB-2002",
+   "configuration_id": null,
+   "domaine_code": "aev",
+   "libelle_tel_qu_ecrit": "A4-E8A-VB2",
+   "classe_normalisee": "A*4 E*8A V*B2",
+   "nature_code": "classement",
+   "condition_texte": "classe lue dans le nom de fichier, non retrouvée dans le texte",
+   "source_page_id": null,
+   "statut_extraction": "a_verifier"
+  }
+ ],
+ "perf_aev": [
+  {
+   "performance_id": "PERF-RAP-AEV-NORM50-A4-E8A-VB2-CSTB-2002-1",
+   "classe_air": "4",
+   "classe_eau": "8A",
+   "classe_vent": "B2",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-AEV-NORM50-A4-E8A-VB2-CSTB-2002-AUTO",
+   "document_id": "DOC-RAP-AEV-NORM50-A4-E8A-VB2-CSTB-2002",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-AEV-NORM50-A4-E8A-VB2-CSTB-2002",
+   "type_code": "extraction_auto",
+   "description": "Rapport AEV NORM50 A4-E8A-VB2 CSTB 2002 (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

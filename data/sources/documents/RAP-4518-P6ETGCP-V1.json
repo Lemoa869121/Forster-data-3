@@ -1,0 +1,85 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-4518-P6ETGCP-V1",
+   "nom_fichier": "DTA\\Unico\\DTA 6-25-2563_V1_Unico+Unico_XS\\Rapports d'essais\\Examen metallographique soudure laser\\4518-P6ETGCP-V1 (2022)",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\DTA\\Unico\\DTA 6-25-2563_V1_Unico+Unico_XS\\Rapports d'essais\\Examen metallographique soudure laser\\4518-P6ETGCP-V1 (2022).pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-4518-P6ETGCP-V1",
+   "numero": "4518-P6ETGCP-V1",
+   "numero_normalise": "4518-P6ETGCP-V1",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "durabilite",
+   "objet": "4518-P6ETGCP-V1 (2022)",
+   "laboratoire_id": "ORG-INSTITUT-SOUDURE",
+   "date_emission": "2022-09-09",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 12,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-4518-P6ETGCP-V1",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : DTA/Unico/DTA 6-25-2563_V1_Unico+Unico_XS/Rapports d'essais/Examen metallographique soudure laser"
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-4518-P6ETGCP-V1",
+   "organisme_id": "ORG-INSTITUT-SOUDURE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-4518-P6ETGCP-V1",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-4518-P6ETGCP-V1",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-4518-P6ETGCP-V1-AUTO",
+   "document_id": "DOC-RAP-4518-P6ETGCP-V1",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-4518-P6ETGCP-V1",
+   "type_code": "extraction_auto",
+   "description": "Rapport 4518-P6ETGCP-V1 (durabilite) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTRL-RAP-4518-P6ETGCP-V1-NT",
+   "document_id": "DOC-RAP-4518-P6ETGCP-V1",
+   "table_cible": "performance",
+   "ligne_id": null,
+   "type_code": "non_trouve",
+   "description": "Aucune classe / valeur lue automatiquement : à saisir.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

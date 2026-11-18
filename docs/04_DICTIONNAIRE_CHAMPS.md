@@ -17,7 +17,7 @@ Généré automatiquement par `scripts/gen_docs.py` depuis `db/schema.sql` et la
 | nature_code | TEXT | NOT NULL; FK → ref_nature_valeur.code; défaut 'nominal' |  | nominal |
 | source_page_id | TEXT | FK → source_page.id |  | SP-08-A-275-P012-PLPLANCHE-2 |
 
-## `configuration` (252 lignes)
+## `configuration` (469 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ Généré automatiquement par `scripts/gen_docs.py` depuis `db/schema.sql` et la
 | parent_configuration_id | TEXT | FK → configuration.id |  | CFG-11-A-507-BP |
 | source_page_id | TEXT | FK → source_page.id |  | SP-08-A-275-P001 |
 
-## `controle_humain` (449 lignes)
+## `controle_humain` (782 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
@@ -47,6 +47,24 @@ Généré automatiquement par `scripts/gen_docs.py` depuis `db/schema.sql` et la
 | statut | TEXT | NOT NULL; défaut 'ouvert'; CHECK statut IN ('ouvert','resolu','abandonne') |  | ouvert |
 | resolution | TEXT |  |  |  |
 | source_page_id | TEXT | FK → source_page.id |  | SP-08-A-275-P008-4-3-2 |
+
+## `cumul_performance` (59 lignes)
+
+| Colonne | Type | Règle | Commentaire | Exemple |
+|---|---|---|---|---|
+| id | TEXT | PK |  | CUM-RAP-04-08-1318-1 |
+| document_id | TEXT | NOT NULL; FK → document.id | document qui énonce le cumul | DOC-RAP-04-08-1318 |
+| systeme_id | TEXT | FK → systeme.id |  | SYS-FUEGO-LIGHT |
+| typologie_code | TEXT | FK → ref_typologie.code |  | bloc_porte |
+| domaine_a | TEXT | NOT NULL; FK → ref_domaine_performance.code |  | effraction |
+| classe_a | TEXT | NOT NULL |  | EI30 |
+| domaine_b | TEXT | NOT NULL; FK → ref_domaine_performance.code |  | balistique |
+| classe_b | TEXT | NOT NULL |  | WK3 |
+| statut_cumul | TEXT | NOT NULL; CHECK statut_cumul IN ('declare_fabricant','constate_rapport','sous_reserve') |  | constate_rapport |
+| condition_texte | TEXT |  | « sous PV », « sur avis de chantier », serrures… | Éprouvette décrite comme coupe-feu (EI30) dans le nom du rapport ; cla |
+| justificatifs | TEXT |  | références citées (rapports, PV) séparées par ';' | 08/03-A062-K2 ; 08/10-A287-K2 ; 16-002974-PR02 |
+| source_page_id | TEXT | FK → source_page.id |  | SP-RAP-13-08-A288-G2-P1 |
+| statut_extraction | TEXT | NOT NULL; FK → ref_statut_extraction.code; défaut 'a_verifier' |  | a_verifier |
 
 ## `dc_articulation` (39 lignes)
 
@@ -181,7 +199,7 @@ Généré automatiquement par `scripts/gen_docs.py` depuis `db/schema.sql` et la
 | source_page_id | TEXT | FK → source_page.id |  | SP-08-A-275-P008-4-3-1 |
 | statut_extraction | TEXT | NOT NULL; FK → ref_statut_extraction.code; défaut 'extrait' |  | extrait |
 
-## `document` (465 lignes)
+## `document` (737 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
@@ -190,9 +208,9 @@ Généré automatiquement par `scripts/gen_docs.py` depuis `db/schema.sql` et la
 | numero_normalise | TEXT | NOT NULL | '11-A-507', '11-A-507/EXT-22/2' | 00-V-008 |
 | revision | TEXT |  | '1', NULL si aucune | 0 |
 | type_code | TEXT | NOT NULL; FK → ref_type_document.code |  | appreciation_laboratoire |
-| domaine_code | TEXT | NOT NULL; FK → ref_domaine_performance.code; défaut 'feu' |  | feu |
+| domaine_code | TEXT | NOT NULL; FK → ref_domaine_performance.code; défaut 'feu' |  | acoustique |
 | objet | TEXT |  | intitulé « Concernant » (court) | Cloison vitrée à ossature métallique thermiquement isolée — Fuego Ligh |
-| laboratoire_id | TEXT | FK → organisme.id |  | ORG-CNPP |
+| laboratoire_id | TEXT | FK → organisme.id |  | ORG-BESCHUSSAMT-ULM |
 | date_emission | TEXT | CHECK date_emission IS NULL OR date_emission GLOB '[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]' |  | 2001-10-09 |
 | date_validite | TEXT | CHECK date_validite IS NULL OR date_validite GLOB '[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]' |  | 2010-10-11 |
 | validite_liee_au_pv | INTEGER | NOT NULL; défaut 0; CHECK validite_liee_au_pv IN (0,1) | extensions : validité = celle du PV | 0 |
@@ -235,7 +253,7 @@ Généré automatiquement par `scripts/gen_docs.py` depuis `db/schema.sql` et la
 | role | TEXT | NOT NULL; CHECK role IN ('justification','reference','complement') |  | justification |
 | source_page_id | TEXT | FK → source_page.id |  | SP-08-A-275-REC-19-2-P002-ANALYSE |
 
-## `document_norme` (345 lignes)
+## `document_norme` (594 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
@@ -245,7 +263,7 @@ Généré automatiquement par `scripts/gen_docs.py` depuis `db/schema.sql` et la
 | paragraphe | TEXT |  |  | §7.5.2 |
 | source_page_id | TEXT | FK → source_page.id |  | SP-08-A-275-P007-3-1 |
 
-## `document_organisme` (1018 lignes)
+## `document_organisme` (1229 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
@@ -275,7 +293,7 @@ Généré automatiquement par `scripts/gen_docs.py` depuis `db/schema.sql` et la
 | intervenant_id | TEXT | NOT NULL; FK → intervenant.id |  | PER-HERVE-RYCKEWAERT |
 | fonction | TEXT |  |  | Ingénieur chargé d'affaires |
 
-## `document_systeme` (370 lignes)
+## `document_systeme` (670 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
@@ -327,12 +345,12 @@ Généré automatiquement par `scripts/gen_docs.py` depuis `db/schema.sql` et la
 | nature_code | TEXT | NOT NULL; FK → ref_nature_valeur.code; défaut 'teste'; CHECK nature_code = 'teste') REFERENCES ref_nature_valeur(code |  | teste |
 | source_page_id | TEXT | FK → source_page.id |  | SP-EFR-14-000468-P002-1-4 |
 
-## `fichier_source` (126 lignes)
+## `fichier_source` (398 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
 | id | TEXT | PK |  | FIC-08-A-275 |
-| nom_fichier | TEXT | NOT NULL; UNIQUE |  | FR 08-A-275 - PILK - cloison FUEGO light EI60 - COPRO - 16-02-2029.pdf |
+| nom_fichier | TEXT | NOT NULL; UNIQUE |  | A.E.V\Fuego Light\Portes_1_vantail-Ouverture_extérieure_IFT_2011 (11-0 |
 | drive_file_id | TEXT | UNIQUE |  | 1BHDHbWzNLF_1nROu6-614WGvZBHTUydn |
 | url | TEXT |  |  | https://drive.google.com/file/d/1wLRTFiFA9yKb7fNvpt4yLitiBmBKxH1-/view |
 | taille_octets | INTEGER | CHECK taille_octets IS NULL OR taille_octets > 0 |  | 12720683 |
@@ -353,9 +371,9 @@ Généré automatiquement par `scripts/gen_docs.py` depuis `db/schema.sql` et la
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
 | cle | TEXT | PK |  | data_sha256 |
-| valeur | TEXT | NOT NULL |  | 1.2.0 |
+| valeur | TEXT | NOT NULL |  | 1.3.0 |
 
-## `norme` (33 lignes)
+## `norme` (40 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
@@ -365,7 +383,7 @@ Généré automatiquement par `scripts/gen_docs.py` depuis `db/schema.sql` et la
 | amendement | TEXT |  | '+A1:2018' | +A1:2018 |
 | titre | TEXT |  |  | Résistance au feu des produits, éléments de construction et d'ouvrages |
 
-## `organisme` (41 lignes)
+## `organisme` (55 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
@@ -385,81 +403,101 @@ Généré automatiquement par `scripts/gen_docs.py` depuis `db/schema.sql` et la
 | organisme_id | TEXT | NOT NULL; FK → organisme.id |  | ORG-EFECTIS-FRANCE |
 | alias | TEXT | NOT NULL |  | EFECTIS France Espace Technologique Saint-Aubin |
 
-## `perf_acoustique` (0 lignes)
+## `perf_acoustique` (77 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
-| performance_id | TEXT | PK; FK → performance.id |  |  |
-| rw_db | REAL | NOT NULL |  |  |
-| c_db | REAL |  |  |  |
-| ctr_db | REAL |  |  |  |
-| norme_id | TEXT | FK → norme.id |  |  |
+| performance_id | TEXT | PK; FK → performance.id |  | PERF-RAP-14-001811-PR02-2-1 |
+| rw_db | REAL | NOT NULL |  | 47.0 |
+| c_db | REAL |  |  | -1.0 |
+| ctr_db | REAL |  |  | -4.0 |
+| norme_id | TEXT | FK → norme.id |  | NRM-EN-ISO-717-1 |
 
-## `perf_aev` (0 lignes)
+## `perf_aev` (26 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
-| performance_id | TEXT | PK; FK → performance.id |  |  |
-| classe_air | TEXT |  | '4' |  |
-| classe_eau | TEXT |  | '9A', 'E1050' |  |
-| classe_vent | TEXT |  | 'C3' |  |
+| performance_id | TEXT | PK; FK → performance.id |  | PERF-RAP-102-30650-1 |
+| classe_air | TEXT |  | '4' | 4 |
+| classe_eau | TEXT |  | '9A', 'E1050' | 9A |
+| classe_vent | TEXT |  | 'C3' | C4 |
 | pression_air_pa | REAL |  |  |  |
 | pression_eau_pa | REAL |  |  |  |
 | pression_vent_pa | REAL |  |  |  |
-| norme_id | TEXT | FK → norme.id |  |  |
+| norme_id | TEXT | FK → norme.id |  | NRM-EN-14351-1 |
 
-## `perf_balistique` (0 lignes)
+## `perf_balistique` (38 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
-| performance_id | TEXT | PK; FK → performance.id |  |  |
-| classe | TEXT | NOT NULL | 'FB4', 'BR4' |  |
-| avec_eclats | TEXT | CHECK avec_eclats IS NULL OR avec_eclats IN ('S','NS') |  |  |
+| performance_id | TEXT | PK; FK → performance.id |  | PERF-RAP-13-08-A288-G2-2 |
+| classe | TEXT | NOT NULL | 'FB4', 'BR4' | FB4 |
+| avec_eclats | TEXT | CHECK avec_eclats IS NULL OR avec_eclats IN ('S','NS') |  | NS |
 | arme_munition | TEXT |  |  |  |
-| norme_id | TEXT | FK → norme.id |  |  |
+| norme_id | TEXT | FK → norme.id |  | NRM-EN-1522 |
 
-## `perf_effraction` (0 lignes)
+## `perf_effraction` (65 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
-| performance_id | TEXT | PK; FK → performance.id |  |  |
-| classe_rc | TEXT | NOT NULL; CHECK classe_rc IN ('RC1','RC1N','RC2','RC2N','RC3','RC4','RC5','RC6') |  |  |
-| norme_id | TEXT | FK → norme.id |  |  |
+| performance_id | TEXT | PK; FK → performance.id |  | PERF-RAP-02-11-1206-1 |
+| classe_rc | TEXT | NOT NULL; CHECK classe_rc IN ('RC1','RC1N','RC2','RC2N','RC3','RC4','RC5','RC6','WK1','WK2','WK3','WK4','W | WK = ancienne DIN V ENV 1627 (≈ RC, non identique) | WK2 |
+| norme_id | TEXT | FK → norme.id |  | NRM-EN-1627 |
 | duree_resistance_min | REAL |  |  |  |
 
-## `perf_feu` (210 lignes)
+## `perf_explosion` (2 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
-| performance_id | TEXT | PK; FK → performance.id |  | PRF-08-A-275-0001 |
+| performance_id | TEXT | PK; FK → performance.id |  | PERF-RAP-08-2017-FE-117-1 |
+| classe | TEXT | NOT NULL; CHECK classe IN ('EPR1','EPR2','EPR3','EPR4') |  | EPR1 |
+| avec_eclats | TEXT | CHECK avec_eclats IS NULL OR avec_eclats IN ('S','NS') |  | S |
+| norme_id | TEXT | FK → norme.id |  | NRM-EN-13123-1 |
+
+## `perf_feu` (233 lignes)
+
+| Colonne | Type | Règle | Commentaire | Exemple |
+|---|---|---|---|---|
+| performance_id | TEXT | PK; FK → performance.id |  | PERF-RAP-11-003644-PR01-2-1 |
 | critere_r | INTEGER | NOT NULL; défaut 0; CHECK critere_r IN (0,1) |  | 0 |
 | critere_e | INTEGER | NOT NULL; défaut 0; CHECK critere_e IN (0,1) |  | 1 |
-| critere_i | INTEGER | NOT NULL; défaut 0; CHECK critere_i IN (0,1) |  | 0 |
+| critere_i | INTEGER | NOT NULL; défaut 0; CHECK critere_i IN (0,1) |  | 1 |
 | variante_i | TEXT | CHECK variante_i IS NULL OR variante_i IN ('I','I1','I2') |  | I |
 | critere_w | INTEGER | NOT NULL; défaut 0; CHECK critere_w IN (0,1) |  | 0 |
 | critere_m | INTEGER | NOT NULL; défaut 0; CHECK critere_m IN (0,1) |  | 0 |
 | critere_c | INTEGER | NOT NULL; défaut 0; CHECK critere_c IN (0,1) |  | 0 |
 | classe_c | TEXT |  | C0..C5 si applicable |  |
 | critere_s | INTEGER | NOT NULL; défaut 0; CHECK critere_s IN (0,1) |  | 0 |
-| duree_min | INTEGER | NOT NULL; CHECK duree_min IN (15,20,30,45,60,90,120,180,240) |  | 30 |
+| duree_min | INTEGER | NOT NULL; CHECK duree_min IN (15,20,30,45,60,90,120,180,240) |  | 15 |
 | sens_feu | TEXT |  | résumé ; le détail est dans restriction(type 'sens_feu') | Indifférent |
 
-## `performance` (210 lignes)
+## `perf_mesure` (28 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
-| id | TEXT | PK |  | PRF-08-A-275-0001 |
+| performance_id | TEXT | PK; FK → performance.id |  | PERF-RAP-11-002983-PR03-1 |
+| grandeur | TEXT | NOT NULL | 'Uf', 'Uw', 'energie_choc', 'nb_cycles', 'classe_endurance', 'conformite' | conformite |
+| valeur_min | REAL |  |  | 8.0 |
+| valeur_max | REAL |  |  | 8.0 |
+| unite | TEXT |  | 'W/(m2.K)', 'J', 'cycles' | cycles |
+| norme_id | TEXT | FK → norme.id |  | NRM-EN-1191 |
+
+## `performance` (469 lignes)
+
+| Colonne | Type | Règle | Commentaire | Exemple |
+|---|---|---|---|---|
+| id | TEXT | PK |  | PERF-RAP-02-11-1206-1 |
 | document_id | TEXT | NOT NULL; FK → document.id |  | DOC-08-A-275 |
 | configuration_id | TEXT | FK → configuration.id |  | CFG-08-A-275-CV |
-| domaine_code | TEXT | NOT NULL; FK → ref_domaine_performance.code |  | feu |
+| domaine_code | TEXT | NOT NULL; FK → ref_domaine_performance.code |  | acoustique |
 | libelle_tel_qu_ecrit | TEXT | NOT NULL | 'E I2 30' | EI 60 |
-| classe_normalisee | TEXT | NOT NULL | 'EI2 30' | E 120 |
+| classe_normalisee | TEXT | NOT NULL | 'EI2 30' | Rw 32 dB |
 | nature_code | TEXT | NOT NULL; FK → ref_nature_valeur.code; défaut 'classement' |  | classement |
 | condition_texte | TEXT |  |  | Avec vitrages CONTRAFLAM LITE 30 MONOLITHIQUE ou CLIMAPLUS/CLIMALIT |
 | source_page_id | TEXT | FK → source_page.id |  | SP-08-A-275-P007-3-2 |
 | statut_extraction | TEXT | NOT NULL; FK → ref_statut_extraction.code; défaut 'extrait' |  | extrait |
 
-## `recherche_index` (11077 lignes)
+## `recherche_index` (11566 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
@@ -500,7 +538,7 @@ Généré automatiquement par `scripts/gen_docs.py` depuis `db/schema.sql` et la
 | texte_source | TEXT |  | extrait court du document | Indifférent pour l'ossature |
 | source_page_id | TEXT | FK → source_page.id |  | SP-08-A-275-P007-4-2 |
 
-## `source_page` (2101 lignes)
+## `source_page` (2326 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|
@@ -511,7 +549,7 @@ Généré automatiquement par `scripts/gen_docs.py` depuis `db/schema.sql` et la
 | section | TEXT |  | '§1.2.7.2', '§4.3.2' | §1 |
 | planche | TEXT |  | 'Planche 30' | Planche 1 |
 | type_zone_code | TEXT | NOT NULL; FK → ref_type_zone_source.code |  | page_garde |
-| libelle | TEXT |  |  | page PDF 1 |
+| libelle | TEXT |  |  | Fiche RC – rubrique « Cumul de performance » |
 
 ## `support_pose` (373 lignes)
 
@@ -533,7 +571,7 @@ Généré automatiquement par `scripts/gen_docs.py` depuis `db/schema.sql` et la
 | condition_texte | TEXT |  |  | Vis HUS Ø7,5x160 et chevilles nylon après cales Promatect H |
 | source_page_id | TEXT | FK → source_page.id |  | SP-08-A-275-P005-1-2-5-1 |
 
-## `systeme` (12 lignes)
+## `systeme` (15 lignes)
 
 | Colonne | Type | Règle | Commentaire | Exemple |
 |---|---|---|---|---|

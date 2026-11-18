@@ -182,7 +182,7 @@
    ":exige_w": 0,
    ":typologie": null
   },
-  "nb_lignes": 41,
+  "nb_lignes": 43,
   "extrait": [
    {
     "document": "13-A-1050",
@@ -566,7 +566,7 @@
   "parametres": {
    ":texte": "antipanique"
   },
-  "nb_lignes": 174,
+  "nb_lignes": 180,
   "extrait": [
    {
     "objet_type": "document_composant",
@@ -629,28 +629,28 @@
   "parametres": {
    ":type": null
   },
-  "nb_lignes": 449,
+  "nb_lignes": 782,
   "extrait": [
    {
-    "numero_normalise": "08-A-275",
-    "type_code": "ocr_degrade",
-    "description": "§4.3.2 : valeur orpheline « 2876 » (hauteur) dans le bloc Pyrostop 60-201 / Isolant — non rattachée ; à vérifier sur l'original.",
-    "page_doc": 8,
-    "section": "§4.3.2",
+    "numero_normalise": "02-11-1206",
+    "type_code": "extraction_auto",
+    "description": "Rapport 02-11-1206 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire.",
+    "page_doc": null,
+    "section": null,
     "planche": null
    },
    {
-    "numero_normalise": "08-A-275",
-    "type_code": "planche_image",
-    "description": "Planche 1 (profilés) : seules les références « 736.050 » et « 852 » sont lisibles en OCR — liste complète des profilés à relever visuellement.",
-    "page_doc": 11,
+    "numero_normalise": "04-01-1281",
+    "type_code": "extraction_auto",
+    "description": "Rapport 04-01-1281 (effraction) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+    "page_doc": null,
     "section": null,
-    "planche": "Planche 1"
+    "planche": null
    },
    {
-    "numero_normalise": "08-A-275/EXT-18/1",
-    "type_code": "document_absent",
-    "description": "Extension 18/1 citée (reconduite en 2019, non reconduite en 2024) mais non fournie.",
+    "numero_normalise": "04-01-1281",
+    "type_code": "non_trouve",
+    "description": "Aucune classe / valeur lue automatiquement : à saisir.",
     "page_doc": null,
     "section": null,
     "planche": null
@@ -831,6 +831,131 @@
     "nature_code": "autorise_max",
     "grandeur_code": "angle",
     "n": 2
+   }
+  ]
+ },
+ {
+  "requete": "Q21_cumuls_enonces",
+  "parametres": {
+   ":systeme": "SYS-UNICO",
+   ":domaine": "effraction"
+  },
+  "nb_lignes": 10,
+  "extrait": [
+   {
+    "enonce_par": "Châssis fixes Unico RC4 + FB4 (PfB - 2012)",
+    "type_code": "rapport_essai",
+    "systeme": "Unico",
+    "typologie_code": "chassis_fixe",
+    "domaine_a": "effraction",
+    "classe_a": "RC4",
+    "domaine_b": "balistique",
+    "classe_b": "FB4",
+    "statut_cumul": "constate_rapport",
+    "condition_texte": "Les deux classes figurent dans le même rapport (nom de fichier) ; à confirmer dans le texte.",
+    "justificatifs": null,
+    "page_doc": 3
+   },
+   {
+    "enonce_par": "13-08-A288-G2",
+    "type_code": "rapport_essai",
+    "systeme": "Unico",
+    "typologie_code": "fenetre",
+    "domaine_a": "effraction",
+    "classe_a": "RC3",
+    "domaine_b": "balistique",
+    "classe_b": "FB4NS",
+    "statut_cumul": "constate_rapport",
+    "condition_texte": "Les deux classes figurent dans le même rapport (nom de fichier) ; à confirmer dans le texte.",
+    "justificatifs": null,
+    "page_doc": 1
+   },
+   {
+    "enonce_par": "16-05-2024",
+    "type_code": "synthese_fabricant",
+    "systeme": "Unico",
+    "typologie_code": "chassis_fixe",
+    "domaine_a": "effraction",
+    "classe_a": "RC2",
+    "domaine_b": "balistique",
+    "classe_b": "FB4",
+    "statut_cumul": "declare_fabricant",
+    "condition_texte": "Fixes RC2 + FB4",
+    "justificatifs": "08/03-A062-K2 ; 08/10-A287-K2 ; 16-002974-PR02",
+    "page_doc": 3
+   }
+  ]
+ },
+ {
+  "requete": "Q22_rapports_par_classe",
+  "parametres": {
+   ":domaine": "balistique",
+   ":classe": "FB4"
+  },
+  "nb_lignes": 20,
+  "extrait": [
+   {
+    "numero_normalise": "S 21 0219 01Z",
+    "classe_normalisee": "FB4NS",
+    "systeme": "Fuego Light (série non précisée)",
+    "typologie_code": "bloc_porte",
+    "laboratoire": "Beschussamt Ulm",
+    "date_emission": "2021-10-28",
+    "page_doc": 1,
+    "statut_extraction": "extrait"
+   },
+   {
+    "numero_normalise": "S11004201-B",
+    "classe_normalisee": "FB4NS",
+    "systeme": "Fuego Light (série non précisée)",
+    "typologie_code": "bloc_porte",
+    "laboratoire": "Beschussamt Ulm",
+    "date_emission": "2011-05-19",
+    "page_doc": 1,
+    "statut_extraction": "extrait"
+   },
+   {
+    "numero_normalise": "S19020902B",
+    "classe_normalisee": "FB4NS",
+    "systeme": "Fuego Light (série non précisée)",
+    "typologie_code": "bloc_porte",
+    "laboratoire": "Beschussamt Ulm",
+    "date_emission": "2019-10-07",
+    "page_doc": 4,
+    "statut_extraction": "extrait"
+   }
+  ]
+ },
+ {
+  "requete": "Q23_croisement_potentiel_feu",
+  "parametres": {
+   ":systeme": "SYS-UNICO"
+  },
+  "nb_lignes": 14,
+  "extrait": [
+   {
+    "systeme_nom": "Unico",
+    "famille_typologie": "bloc_porte",
+    "domaine_autre": "acoustique",
+    "classes_autres": "Rw 33 dB,Rw 45 dB,Rw 40 dB,Rw 39 dB,Rw 36 dB",
+    "nb_documents_feu": 8,
+    "nb_rapports": 10
+   },
+   {
+    "systeme_nom": "Unico",
+    "famille_typologie": "bloc_porte",
+    "domaine_autre": "aev",
+    "classes_autres": "A*4 E*5A V*C3,A*2 E*3A V*C1,A*3 E*4A V*C3",
+    "nb_documents_feu": 8,
+    "nb_rapports": 3
+   },
+   {
+    "systeme_nom": "Unico",
+    "famille_typologie": "bloc_porte",
+    "domaine_autre": "balistique",
+    "classes_autres": "BR6NS,FB6NS,FB4NS,FB3,FB5NS",
+    "nb_documents_feu": 8,
+    "nb_rapports": 4
    }
   ]
  }

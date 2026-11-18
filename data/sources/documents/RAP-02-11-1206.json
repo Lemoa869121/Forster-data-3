@@ -1,0 +1,118 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-02-11-1206",
+   "nom_fichier": "Résistance à l'effraction (RC)\\Thermfix Vario\\CR1-2-3\\thermfix_vario_einbruch_wk2_02-11-1206_de",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Résistance à l'effraction (RC)\\Thermfix Vario\\CR1-2-3\\thermfix_vario_einbruch_wk2_02-11-1206_de.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-02-11-1206",
+   "numero": "02-11-1206",
+   "numero_normalise": "02-11-1206",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "effraction",
+   "objet": "thermfix_vario_einbruch_wk2_02-11-1206_de",
+   "laboratoire_id": null,
+   "date_emission": "2002-11-22",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 1,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-02-11-1206",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Résistance à l'effraction (RC)/Thermfix Vario/CR1-2-3"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-02-11-1206-P1",
+   "document_id": "DOC-RAP-02-11-1206",
+   "page_doc": 1,
+   "page_doc_total": 1,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-02-11-1206",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-02-11-1206",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-02-11-1206-1",
+   "document_id": "DOC-RAP-02-11-1206",
+   "code": "1",
+   "libelle": "thermfix_vario_einbruch_wk2_02-11-1206_de",
+   "typologie_code": "facade_vitree",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-02-11-1206-1",
+   "document_id": "DOC-RAP-02-11-1206",
+   "configuration_id": "CFG-RAP-02-11-1206-1",
+   "domaine_code": "effraction",
+   "libelle_tel_qu_ecrit": "WK2",
+   "classe_normalisee": "WK2",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-02-11-1206-P1",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_effraction": [
+  {
+   "performance_id": "PERF-RAP-02-11-1206-1",
+   "classe_rc": "WK2",
+   "norme_id": "NRM-EN-1627",
+   "duree_resistance_min": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-02-11-1206-AUTO",
+   "document_id": "DOC-RAP-02-11-1206",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-02-11-1206",
+   "type_code": "extraction_auto",
+   "description": "Rapport 02-11-1206 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

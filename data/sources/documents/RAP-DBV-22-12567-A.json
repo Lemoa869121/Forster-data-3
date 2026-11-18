@@ -1,0 +1,94 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-DBV-22-12567-A",
+   "nom_fichier": "DTA\\Unico\\DTA 6-25-2563_V1_Unico+Unico_XS\\Rapports d'essais\\Etude Thermique\\DBV-22-12567-A_FORSTER_UNICO+UNICO XS (2022)",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\DTA\\Unico\\DTA 6-25-2563_V1_Unico+Unico_XS\\Rapports d'essais\\Etude Thermique\\DBV-22-12567-A_FORSTER_UNICO+UNICO XS (2022).pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-DBV-22-12567-A",
+   "numero": "DBV-22-12567-A",
+   "numero_normalise": "DBV-22-12567-A",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "thermique",
+   "objet": "DBV-22-12567-A_FORSTER_UNICO+UNICO XS (2022)",
+   "laboratoire_id": "ORG-CSTB",
+   "date_emission": "2022-10-13",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 41,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-DBV-22-12567-A",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : DTA/Unico/DTA 6-25-2563_V1_Unico+Unico_XS/Rapports d'essais/Etude Thermique"
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-DBV-22-12567-A",
+   "organisme_id": "ORG-CSTB",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-DBV-22-12567-A",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-DBV-22-12567-A",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-DBV-22-12567-A",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-DBV-22-12567-A-AUTO",
+   "document_id": "DOC-RAP-DBV-22-12567-A",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-DBV-22-12567-A",
+   "type_code": "extraction_auto",
+   "description": "Rapport DBV-22-12567-A (thermique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTRL-RAP-DBV-22-12567-A-NT",
+   "document_id": "DOC-RAP-DBV-22-12567-A",
+   "table_cible": "performance",
+   "ligne_id": null,
+   "type_code": "non_trouve",
+   "description": "Aucune classe / valeur lue automatiquement : à saisir.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

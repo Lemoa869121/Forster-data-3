@@ -1,0 +1,84 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-RECAPITULATIF-1-VANTAIL",
+   "nom_fichier": "Acoustique\\Unico\\Portes\\1 vantail\\récapitulatif 1 vantail",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Acoustique\\Unico\\Portes\\1 vantail\\récapitulatif 1 vantail.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-RECAPITULATIF-1-VANTAIL",
+   "numero": "récapitulatif 1 vantail",
+   "numero_normalise": "récapitulatif 1 vantail",
+   "revision": null,
+   "type_code": "synthese_fabricant",
+   "domaine_code": "acoustique",
+   "objet": "récapitulatif 1 vantail",
+   "laboratoire_id": null,
+   "date_emission": null,
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 1,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-RECAPITULATIF-1-VANTAIL",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Acoustique/Unico/Portes/1 vantail ; date non lue (année du nom : inconnue)"
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-RECAPITULATIF-1-VANTAIL",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-RECAPITULATIF-1-VANTAIL",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-RECAPITULATIF-1-VANTAIL-1",
+   "document_id": "DOC-RAP-RECAPITULATIF-1-VANTAIL",
+   "code": "1",
+   "libelle": "récapitulatif 1 vantail",
+   "typologie_code": "bloc_porte",
+   "systeme_id": "SYS-UNICO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-RECAPITULATIF-1-VANTAIL-AUTO",
+   "document_id": "DOC-RAP-RECAPITULATIF-1-VANTAIL",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-RECAPITULATIF-1-VANTAIL",
+   "type_code": "extraction_auto",
+   "description": "Rapport récapitulatif 1 vantail (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

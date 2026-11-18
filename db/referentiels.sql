@@ -21,6 +21,11 @@ INSERT INTO ref_type_document (code, libelle, description) VALUES
  ('additif','Additif','Additif / modification'),
  ('avis_chantier','Avis de chantier','Avis ponctuel du laboratoire'),
  ('document_reference','Document de référence cité','Document cité, non présent dans le corpus'),
+ ('avis_expertise','Avis / expertise de laboratoire','Gutachten, avis de laboratoire, rapport de synthèse ou de conformité d''un laboratoire'),
+ ('synthese_fabricant','Synthèse fabricant','Document Forster récapitulatif (non émis par un laboratoire)'),
+ ('passeport_ce','Passeport / application conforme CE','Document système Forster récapitulant les performances déclarées'),
+ ('certificat','Certificat','Certificat émis par un organisme'),
+ ('fiche_technique','Fiche technique','Fiche technique de composant (vitrage…)'),
  ('pv_das','Procès-verbal DAS (CNPP)','Procès-verbal d''essais / homologation de dispositif actionné de sécurité (NF S 61-937), CNPP');
 
 INSERT INTO ref_type_relation (code, libelle, description) VALUES
@@ -44,11 +49,14 @@ INSERT INTO ref_role_organisme (code, libelle) VALUES
 
 INSERT INTO ref_domaine_performance (code, libelle) VALUES
  ('feu','Résistance au feu'),('effraction','Résistance à l''effraction'),('balistique','Résistance aux balles'),
- ('aev','Air - Eau - Vent'),('acoustique','Acoustique');
+ ('aev','Air - Eau - Vent'),('acoustique','Acoustique'),
+ ('explosion','Résistance à l''explosion'),('choc','Résistance aux chocs'),('endurance','Endurance / ouvertures-fermetures répétées'),
+ ('thermique','Thermique (Uf / Uw)'),('issue_secours','Fermetures anti-panique / issues de secours'),('durabilite','Durabilité (corrosion, ensoleillement, soudure)');
 
 INSERT INTO ref_typologie (code, libelle) VALUES
  ('bloc_porte','Bloc-porte'),('cloison_vitree','Cloison vitrée'),('cloison_vitree_bord_a_bord','Cloison vitrée à vitrages collés bord à bord'),
- ('facade_vitree','Façade vitrée'),('chassis_fixe','Châssis fixe'),('fenetre','Fenêtre / châssis ouvrant'),('verriere','Verrière'),('plancher_vitre','Plancher vitré');
+ ('facade_vitree','Façade vitrée'),('chassis_fixe','Châssis fixe'),('fenetre','Fenêtre / châssis ouvrant'),('verriere','Verrière'),('plancher_vitre','Plancher vitré'),
+ ('porte_coulissante','Porte coulissante'),('composant','Composant seul (vitrage, paumelle, seuil…)');
 
 INSERT INTO ref_categorie_composant (code, libelle, famille) VALUES
  ('profile','Profilé','profiles'),('tube_acier','Tube / plat acier','profiles'),('manchon','Manchon d''assemblage','profiles'),

@@ -1,0 +1,104 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-175-32901-3F",
+   "nom_fichier": "Acoustique\\Unico\\Portes\\A.EX 175 32901-3f",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Acoustique\\Unico\\Portes\\A.EX 175 32901-3f.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-175-32901-3F",
+   "numero": "175 32901-3f",
+   "numero_normalise": "175 32901-3f",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "acoustique",
+   "objet": "A.EX 175 32901-3f",
+   "laboratoire_id": "ORG-IFT",
+   "date_emission": "2009-01-20",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 12,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-175-32901-3F",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Acoustique/Unico/Portes"
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-175-32901-3F",
+   "organisme_id": "ORG-IFT",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-175-32901-3F",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-175-32901-3F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-175-32901-3F-1",
+   "document_id": "DOC-RAP-175-32901-3F",
+   "code": "1",
+   "libelle": "A.EX 175 32901-3f",
+   "typologie_code": "bloc_porte",
+   "systeme_id": "SYS-UNICO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-175-32901-3F-AUTO",
+   "document_id": "DOC-RAP-175-32901-3F",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-175-32901-3F",
+   "type_code": "extraction_auto",
+   "description": "Rapport 175 32901-3f (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTRL-RAP-175-32901-3F-NT",
+   "document_id": "DOC-RAP-175-32901-3F",
+   "table_cible": "performance",
+   "ligne_id": null,
+   "type_code": "non_trouve",
+   "description": "Aucune classe / valeur lue automatiquement : à saisir.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

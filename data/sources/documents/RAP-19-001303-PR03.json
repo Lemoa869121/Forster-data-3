@@ -1,0 +1,104 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-19-001303-PR03",
+   "nom_fichier": "A.E.V\\Unico\\Fixe\\AEV_Châssis_fixe_Unico_IFT_2019 (19-001303-PR03)",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\A.E.V\\Unico\\Fixe\\AEV_Châssis_fixe_Unico_IFT_2019 (19-001303-PR03).pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-19-001303-PR03",
+   "numero": "19-001303-PR03",
+   "numero_normalise": "19-001303-PR03",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "aev",
+   "objet": "AEV_Châssis_fixe_Unico_IFT_2019 (19-001303-PR03)",
+   "laboratoire_id": "ORG-IFT",
+   "date_emission": "2019-03-27",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 46,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-19-001303-PR03",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : A.E.V/Unico/Fixe"
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-19-001303-PR03",
+   "organisme_id": "ORG-IFT",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-19-001303-PR03",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-19-001303-PR03",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-19-001303-PR03-1",
+   "document_id": "DOC-RAP-19-001303-PR03",
+   "code": "1",
+   "libelle": "AEV_Châssis_fixe_Unico_IFT_2019 (19-001303-PR03)",
+   "typologie_code": "chassis_fixe",
+   "systeme_id": "SYS-UNICO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-19-001303-PR03-AUTO",
+   "document_id": "DOC-RAP-19-001303-PR03",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-19-001303-PR03",
+   "type_code": "extraction_auto",
+   "description": "Rapport 19-001303-PR03 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTRL-RAP-19-001303-PR03-NT",
+   "document_id": "DOC-RAP-19-001303-PR03",
+   "table_cible": "performance",
+   "ligne_id": null,
+   "type_code": "non_trouve",
+   "description": "Aucune classe / valeur lue automatiquement : à saisir.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

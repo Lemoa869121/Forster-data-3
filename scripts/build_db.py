@@ -8,16 +8,16 @@ Usage : python3 scripts/build_db.py [--out db/forster_pv.sqlite]
 import argparse, glob, json, os, sqlite3, sys, unicodedata, datetime, hashlib
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SCHEMA_VERSION = '1.2.0'
+SCHEMA_VERSION = '1.3.0'
 
 # Ordre de chargement (respecte les clés étrangères)
 ORDER_CATALOGUE = ['organisme', 'organisme_alias', 'intervenant', 'norme', 'systeme', 'reference_composant']
 ORDER_DOCS_1 = ['fichier_source', 'document']
 ORDER_DOCS_2 = ['source_page', 'document_relation', 'document_organisme', 'document_signataire', 'document_norme',
                 'document_systeme', 'configuration', 'performance', 'perf_feu', 'perf_effraction', 'perf_balistique',
-                'perf_aev', 'perf_acoustique', 'document_composant', 'caracteristique_document', 'dc_profile', 'dc_vitrage',
+                'perf_aev', 'perf_acoustique', 'perf_explosion', 'perf_mesure', 'document_composant', 'caracteristique_document', 'dc_profile', 'dc_vitrage',
                 'dc_serrure', 'dc_articulation', 'dc_ferme_porte', 'dc_joint', 'dc_fixation', 'dimension_format', 'dimension',
-                'support_pose', 'restriction', 'controle_humain']
+                'support_pose', 'restriction', 'cumul_performance', 'controle_humain']
 ORDER_AFTER = ['essai', 'essai_resultat', 'document_essai', 'reference_alias', 'enrichissement_externe']
 
 
@@ -28,7 +28,7 @@ def strip_accents(s):
 def load_catalogues():
     """catalogue.json (manuel) puis catalogue_auto.json : une clé primaire déjà vue est ignorée (le manuel prime)."""
     out = {}
-    for name in ['catalogue.json', 'catalogue_auto.json']:
+    for name in ['catalogue.json', 'catalogue_auto.json', 'catalogue_rapports.json']:
         p = os.path.join(ROOT, 'data', 'sources', name)
         if not os.path.exists(p):
             continue

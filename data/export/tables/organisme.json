@@ -420,6 +420,146 @@
    "adresse": null,
    "est_fabricant": 0,
    "est_laboratoire": 1
+  },
+  {
+   "id": "ORG-BESCHUSSAMT-ULM",
+   "nom": "Beschussamt Ulm",
+   "nom_normalise": "BESCHUSSAMT ULM",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 0,
+   "est_laboratoire": 1
+  },
+  {
+   "id": "ORG-BUILDWISE",
+   "nom": "Buildwise (ex-CSTC)",
+   "nom_normalise": "BUILDWISE EX CSTC",
+   "pays_code": "BE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 0,
+   "est_laboratoire": 1
+  },
+  {
+   "id": "ORG-CEBTP",
+   "nom": "CEBTP (Ginger)",
+   "nom_normalise": "CEBTP GINGER",
+   "pays_code": "FR",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 0,
+   "est_laboratoire": 1
+  },
+  {
+   "id": "ORG-CSTB",
+   "nom": "CSTB",
+   "nom_normalise": "CSTB",
+   "pays_code": "FR",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 0,
+   "est_laboratoire": 1
+  },
+  {
+   "id": "ORG-FRAUNHOFER-EMI",
+   "nom": "Fraunhofer EMI",
+   "nom_normalise": "FRAUNHOFER EMI",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 0,
+   "est_laboratoire": 1
+  },
+  {
+   "id": "ORG-GBD-LAB",
+   "nom": "GBD Lab",
+   "nom_normalise": "GBD LAB",
+   "pays_code": "AT",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 0,
+   "est_laboratoire": 1
+  },
+  {
+   "id": "ORG-IFT",
+   "nom": "ift Rosenheim",
+   "nom_normalise": "IFT ROSENHEIM",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 0,
+   "est_laboratoire": 1
+  },
+  {
+   "id": "ORG-INSTITUT-SOUDURE",
+   "nom": "Institut de Soudure",
+   "nom_normalise": "INSTITUT DE SOUDURE",
+   "pays_code": "FR",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 0,
+   "est_laboratoire": 1
+  },
+  {
+   "id": "ORG-KADDB",
+   "nom": "KADDB",
+   "nom_normalise": "KADDB",
+   "pays_code": "JO",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 0,
+   "est_laboratoire": 1
+  },
+  {
+   "id": "ORG-LASM",
+   "nom": "LaSM",
+   "nom_normalise": "LASM",
+   "pays_code": null,
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 0,
+   "est_laboratoire": 1
+  },
+  {
+   "id": "ORG-MINERGIE",
+   "nom": "Minergie",
+   "nom_normalise": "MINERGIE",
+   "pays_code": "CH",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 0,
+   "est_laboratoire": 1
+  },
+  {
+   "id": "ORG-PFB",
+   "nom": "PfB Rosenheim",
+   "nom_normalise": "PFB ROSENHEIM",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 0,
+   "est_laboratoire": 1
+  },
+  {
+   "id": "ORG-PIV",
+   "nom": "PIV Velbert",
+   "nom_normalise": "PIV VELBERT",
+   "pays_code": "DE",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 0,
+   "est_laboratoire": 1
+  },
+  {
+   "id": "ORG-SGS",
+   "nom": "SGS France",
+   "nom_normalise": "SGS FRANCE",
+   "pays_code": "FR",
+   "ville": null,
+   "adresse": null,
+   "est_fabricant": 0,
+   "est_laboratoire": 1
   }
  ]
 }

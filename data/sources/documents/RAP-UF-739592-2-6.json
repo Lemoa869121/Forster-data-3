@@ -1,0 +1,120 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-UF-739592-2-6",
+   "nom_fichier": "Thermique\\Fuego light\\Uf_739592 = 2.6",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Thermique\\Fuego light\\Uf_739592 = 2.6.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-UF-739592-2-6",
+   "numero": "Uf 739592 = 2.6",
+   "numero_normalise": "Uf 739592 = 2.6",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "thermique",
+   "objet": "Uf_739592 = 2.6",
+   "laboratoire_id": null,
+   "date_emission": "2017-10-20",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 1,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-UF-739592-2-6",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Thermique/Fuego light"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-UF-739592-2-6-P1",
+   "document_id": "DOC-RAP-UF-739592-2-6",
+   "page_doc": 1,
+   "page_doc_total": 1,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-UF-739592-2-6",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-UF-739592-2-6",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-UF-739592-2-6-1",
+   "document_id": "DOC-RAP-UF-739592-2-6",
+   "code": "1",
+   "libelle": "Uf_739592 = 2.6",
+   "typologie_code": "composant",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-UF-739592-2-6-1",
+   "document_id": "DOC-RAP-UF-739592-2-6",
+   "configuration_id": "CFG-RAP-UF-739592-2-6-1",
+   "domaine_code": "thermique",
+   "libelle_tel_qu_ecrit": "Uf_739592 = 2.6",
+   "classe_normalisee": "Uf 2.6 W/(m2.K)",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-UF-739592-2-6-P1",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_mesure": [
+  {
+   "performance_id": "PERF-RAP-UF-739592-2-6-1",
+   "grandeur": "Uf",
+   "valeur_min": 2.6,
+   "valeur_max": 2.6,
+   "unite": "W/(m2.K)",
+   "norme_id": "NRM-EN-ISO-10077-2"
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-UF-739592-2-6-AUTO",
+   "document_id": "DOC-RAP-UF-739592-2-6",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-UF-739592-2-6",
+   "type_code": "extraction_auto",
+   "description": "Rapport Uf 739592 = 2.6 (thermique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

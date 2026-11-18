@@ -1,0 +1,144 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-16-001854-PR03-2",
+   "nom_fichier": "Résistance à l'effraction (RC)\\Fuego Light\\RC2 + RC3\\IFT_RC3_PORTE EI30 vitrée ou panneaux bois_16-001854-PR03_2017",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Résistance à l'effraction (RC)\\Fuego Light\\RC2 + RC3\\IFT_RC3_PORTE EI30 vitrée ou panneaux bois_16-001854-PR03_2017.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-16-001854-PR03-2",
+   "numero": "16-001854-PR03_2",
+   "numero_normalise": "16-001854-PR03_2",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "effraction",
+   "objet": "IFT_RC3_PORTE EI30 vitrée ou panneaux bois_16-001854-PR03_2017",
+   "laboratoire_id": "ORG-IFT",
+   "date_emission": "2017-02-08",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 135,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-16-001854-PR03-2",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Résistance à l'effraction (RC)/Fuego Light/RC2 + RC3"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-16-001854-PR03-2-P1",
+   "document_id": "DOC-RAP-16-001854-PR03-2",
+   "page_doc": 1,
+   "page_doc_total": 135,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-16-001854-PR03-2",
+   "organisme_id": "ORG-IFT",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-16-001854-PR03-2",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-16-001854-PR03-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-16-001854-PR03-2-1",
+   "document_id": "DOC-RAP-16-001854-PR03-2",
+   "code": "1",
+   "libelle": "IFT_RC3_PORTE EI30 vitrée ou panneaux bois_16-001854-PR03_2017",
+   "typologie_code": "bloc_porte",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-16-001854-PR03-2-1",
+   "document_id": "DOC-RAP-16-001854-PR03-2",
+   "configuration_id": "CFG-RAP-16-001854-PR03-2-1",
+   "domaine_code": "effraction",
+   "libelle_tel_qu_ecrit": "RC3",
+   "classe_normalisee": "RC3",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-16-001854-PR03-2-P1",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_effraction": [
+  {
+   "performance_id": "PERF-RAP-16-001854-PR03-2-1",
+   "classe_rc": "RC3",
+   "norme_id": "NRM-EN-1627",
+   "duree_resistance_min": null
+  }
+ ],
+ "cumul_performance": [
+  {
+   "id": "CUM-RAP-16-001854-PR03-2-1",
+   "document_id": "DOC-RAP-16-001854-PR03-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "typologie_code": "bloc_porte",
+   "domaine_a": "feu",
+   "classe_a": "EI30",
+   "domaine_b": "effraction",
+   "classe_b": "RC3",
+   "statut_cumul": "constate_rapport",
+   "condition_texte": "Éprouvette décrite comme coupe-feu (EI30) dans le nom du rapport ; classement feu = PV distinct",
+   "justificatifs": null,
+   "source_page_id": null,
+   "statut_extraction": "a_verifier"
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-16-001854-PR03-2-AUTO",
+   "document_id": "DOC-RAP-16-001854-PR03-2",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-16-001854-PR03-2",
+   "type_code": "extraction_auto",
+   "description": "Rapport 16-001854-PR03_2 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

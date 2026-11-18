@@ -1,0 +1,128 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-S18020508-B",
+   "nom_fichier": "Résistance aux balles (FB)\\Thermfix Vario\\FB4\\BESCHUSSAMT - FB4NS - S18020508-B_2018",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Résistance aux balles (FB)\\Thermfix Vario\\FB4\\BESCHUSSAMT - FB4NS - S18020508-B_2018.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-S18020508-B",
+   "numero": "S18020508-B",
+   "numero_normalise": "S18020508-B",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "balistique",
+   "objet": "BESCHUSSAMT - FB4NS - S18020508-B_2018",
+   "laboratoire_id": "ORG-BESCHUSSAMT-ULM",
+   "date_emission": "2018-10-15",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 19,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-S18020508-B",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Résistance aux balles (FB)/Thermfix Vario/FB4"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-S18020508-B-P3",
+   "document_id": "DOC-RAP-S18020508-B",
+   "page_doc": 3,
+   "page_doc_total": 19,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-S18020508-B",
+   "organisme_id": "ORG-BESCHUSSAMT-ULM",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-S18020508-B",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-S18020508-B",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-S18020508-B-1",
+   "document_id": "DOC-RAP-S18020508-B",
+   "code": "1",
+   "libelle": "BESCHUSSAMT - FB4NS - S18020508-B_2018",
+   "typologie_code": "facade_vitree",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-S18020508-B-1",
+   "document_id": "DOC-RAP-S18020508-B",
+   "configuration_id": "CFG-RAP-S18020508-B-1",
+   "domaine_code": "balistique",
+   "libelle_tel_qu_ecrit": "FB4NS",
+   "classe_normalisee": "FB4NS",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-S18020508-B-P3",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_balistique": [
+  {
+   "performance_id": "PERF-RAP-S18020508-B-1",
+   "classe": "FB4",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-S18020508-B-AUTO",
+   "document_id": "DOC-RAP-S18020508-B",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-S18020508-B",
+   "type_code": "extraction_auto",
+   "description": "Rapport S18020508-B (balistique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

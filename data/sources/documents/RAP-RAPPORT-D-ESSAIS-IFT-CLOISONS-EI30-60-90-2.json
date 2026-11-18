@@ -1,0 +1,95 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-RAPPORT-D-ESSAIS-IFT-CLOISONS-EI30-60-90-2",
+   "nom_fichier": "Acoustique\\Fuego Light\\Cloisons fixes\\Rapport d'essais IFT Cloisons EI30-60-90 Vitrages VETROTECH",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Acoustique\\Fuego Light\\Cloisons fixes\\Rapport d'essais IFT Cloisons EI30-60-90 Vitrages VETROTECH.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-CLOISONS-EI30-60-90-2",
+   "numero": "Rapport d'essais IFT Cloisons EI30-60-90 Vitrages VETROTECH",
+   "numero_normalise": "Rapport d'essais IFT Cloisons EI30-60-90 Vitrages VETROTECH-2",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "acoustique",
+   "objet": "Rapport d'essais IFT Cloisons EI30-60-90 Vitrages VETROTECH",
+   "laboratoire_id": null,
+   "date_emission": null,
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 68,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-RAPPORT-D-ESSAIS-IFT-CLOISONS-EI30-60-90-2",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Acoustique/Fuego Light/Cloisons fixes ; date non lue (année du nom : inconnue)"
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-CLOISONS-EI30-60-90-2",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-CLOISONS-EI30-60-90-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-RAPPORT-D-ESSAIS-IFT-CLOISONS-EI30-60-90-2-1",
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-CLOISONS-EI30-60-90-2",
+   "code": "1",
+   "libelle": "Rapport d'essais IFT Cloisons EI30-60-90 Vitrages VETROTECH",
+   "typologie_code": "cloison_vitree",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-RAPPORT-D-ESSAIS-IFT-CLOISONS-EI30-60-90-2-AUTO",
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-CLOISONS-EI30-60-90-2",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-CLOISONS-EI30-60-90-2",
+   "type_code": "extraction_auto",
+   "description": "Rapport Rapport d'essais IFT Cloisons EI30-60-90 Vitrages VETROTECH (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTRL-RAP-RAPPORT-D-ESSAIS-IFT-CLOISONS-EI30-60-90-2-NT",
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-CLOISONS-EI30-60-90-2",
+   "table_cible": "performance",
+   "ligne_id": null,
+   "type_code": "non_trouve",
+   "description": "Aucune classe / valeur lue automatiquement : à saisir.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

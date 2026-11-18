@@ -1,0 +1,95 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-3037-5295",
+   "nom_fichier": "Nuance d'acier gammes Forster\\Résistance à l'ouverture et fermeture répétée (cycles)\\Paumelles\\Funktion_3037-5295_2005 907667",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Nuance d'acier gammes Forster\\Résistance à l'ouverture et fermeture répétée (cycles)\\Paumelles\\Funktion_3037-5295_2005 907667.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-3037-5295",
+   "numero": "3037-5295",
+   "numero_normalise": "3037-5295",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "endurance",
+   "objet": "Funktion_3037-5295_2005 907667",
+   "laboratoire_id": null,
+   "date_emission": "2005-12-22",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 6,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-3037-5295",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Nuance d'acier gammes Forster/Résistance à l'ouverture et fermeture répétée (cycles)/Paumelles"
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-3037-5295",
+   "norme_id": "NRM-EN-1191",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-3037-5295",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-3037-5295-1",
+   "document_id": "DOC-RAP-3037-5295",
+   "code": "1",
+   "libelle": "Funktion_3037-5295_2005 907667",
+   "typologie_code": "composant",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-3037-5295-AUTO",
+   "document_id": "DOC-RAP-3037-5295",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-3037-5295",
+   "type_code": "extraction_auto",
+   "description": "Rapport 3037-5295 (endurance) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTRL-RAP-3037-5295-NT",
+   "document_id": "DOC-RAP-3037-5295",
+   "table_cible": "performance",
+   "ligne_id": null,
+   "type_code": "non_trouve",
+   "description": "Aucune classe / valeur lue automatiquement : à saisir.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

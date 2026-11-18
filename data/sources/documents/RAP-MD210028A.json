@@ -1,0 +1,127 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-MD210028A",
+   "nom_fichier": "Résistance à l'effraction (RC)\\Unico\\RC4\\01 - Unico RC4 - 1 et 2 vantaux - CNPP - MD210028A (06-2021)",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Résistance à l'effraction (RC)\\Unico\\RC4\\01 - Unico RC4 - 1 et 2 vantaux - CNPP - MD210028A (06-2021).pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-MD210028A",
+   "numero": "MD210028A",
+   "numero_normalise": "MD210028A",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "effraction",
+   "objet": "01 - Unico RC4 - 1 et 2 vantaux - CNPP - MD210028A (06-2021)",
+   "laboratoire_id": "ORG-CNPP",
+   "date_emission": "2021-06-25",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 48,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-MD210028A",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Résistance à l'effraction (RC)/Unico/RC4"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-MD210028A-P1",
+   "document_id": "DOC-RAP-MD210028A",
+   "page_doc": 1,
+   "page_doc_total": 48,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-MD210028A",
+   "organisme_id": "ORG-CNPP",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-MD210028A",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-MD210028A",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-MD210028A-1",
+   "document_id": "DOC-RAP-MD210028A",
+   "code": "1",
+   "libelle": "01 - Unico RC4 - 1 et 2 vantaux - CNPP - MD210028A (06-2021)",
+   "typologie_code": "bloc_porte",
+   "systeme_id": "SYS-UNICO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-MD210028A-1",
+   "document_id": "DOC-RAP-MD210028A",
+   "configuration_id": "CFG-RAP-MD210028A-1",
+   "domaine_code": "effraction",
+   "libelle_tel_qu_ecrit": "RC4",
+   "classe_normalisee": "RC4",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-MD210028A-P1",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_effraction": [
+  {
+   "performance_id": "PERF-RAP-MD210028A-1",
+   "classe_rc": "RC4",
+   "norme_id": "NRM-EN-1627",
+   "duree_resistance_min": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-MD210028A-AUTO",
+   "document_id": "DOC-RAP-MD210028A",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-MD210028A",
+   "type_code": "extraction_auto",
+   "description": "Rapport MD210028A (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

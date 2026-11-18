@@ -1,0 +1,126 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-EFR-19-001366",
+   "nom_fichier": "Rapports de classement feu (EN 13501-2)\\Klasse_EFR-19-001366_2019_unico porte EW30-en",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Rapports de classement feu (EN 13501-2)\\Klasse_EFR-19-001366_2019_unico porte EW30-en.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-EFR-19-001366",
+   "numero": "EFR-19-001366",
+   "numero_normalise": "EFR-19-001366",
+   "revision": null,
+   "type_code": "rapport_classement",
+   "domaine_code": "feu",
+   "objet": "Klasse_EFR-19-001366_2019_unico porte EW30-en",
+   "laboratoire_id": "ORG-IFT",
+   "date_emission": "2019-10-29",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 51,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-EFR-19-001366",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Rapports de classement feu (EN 13501-2)"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-EFR-19-001366-P1",
+   "document_id": "DOC-RAP-EFR-19-001366",
+   "page_doc": 1,
+   "page_doc_total": 51,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-EFR-19-001366",
+   "organisme_id": "ORG-IFT",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-EFR-19-001366",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-EFR-19-001366-1",
+   "document_id": "DOC-RAP-EFR-19-001366",
+   "code": "1",
+   "libelle": "Klasse_EFR-19-001366_2019_unico porte EW30-en",
+   "typologie_code": "bloc_porte",
+   "systeme_id": "SYS-UNICO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-EFR-19-001366-1",
+   "document_id": "DOC-RAP-EFR-19-001366",
+   "configuration_id": "CFG-RAP-EFR-19-001366-1",
+   "domaine_code": "feu",
+   "libelle_tel_qu_ecrit": "EW30",
+   "classe_normalisee": "EW 30",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-EFR-19-001366-P1",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_feu": [
+  {
+   "performance_id": "PERF-RAP-EFR-19-001366-1",
+   "critere_r": 0,
+   "critere_e": 1,
+   "critere_i": 0,
+   "variante_i": null,
+   "critere_w": 1,
+   "critere_m": 0,
+   "critere_c": 0,
+   "classe_c": null,
+   "critere_s": 0,
+   "duree_min": 30,
+   "sens_feu": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-EFR-19-001366-AUTO",
+   "document_id": "DOC-RAP-EFR-19-001366",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-EFR-19-001366",
+   "type_code": "extraction_auto",
+   "description": "Rapport EFR-19-001366 (feu) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

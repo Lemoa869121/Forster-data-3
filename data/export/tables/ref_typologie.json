@@ -45,6 +45,16 @@
    "code": "plancher_vitre",
    "libelle": "Plancher vitré",
    "description": null
+  },
+  {
+   "code": "porte_coulissante",
+   "libelle": "Porte coulissante",
+   "description": null
+  },
+  {
+   "code": "composant",
+   "libelle": "Composant seul (vitrage, paumelle, seuil…)",
+   "description": null
   }
  ]
 }

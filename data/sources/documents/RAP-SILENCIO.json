@@ -1,0 +1,74 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-SILENCIO",
+   "nom_fichier": "Acoustique\\SILENCIO",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Acoustique\\SILENCIO.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-SILENCIO",
+   "numero": "SILENCIO",
+   "numero_normalise": "SILENCIO",
+   "revision": null,
+   "type_code": "fiche_technique",
+   "domaine_code": "acoustique",
+   "objet": "SILENCIO",
+   "laboratoire_id": null,
+   "date_emission": null,
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 32,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-SILENCIO",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Acoustique ; date non lue (année du nom : inconnue)"
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-SILENCIO",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-SILENCIO",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-SILENCIO",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "variante",
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-SILENCIO-AUTO",
+   "document_id": "DOC-RAP-SILENCIO",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-SILENCIO",
+   "type_code": "extraction_auto",
+   "description": "Rapport SILENCIO (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

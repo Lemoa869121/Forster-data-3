@@ -1,0 +1,147 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-KADDB-FB6-FB6-TEST-REPORT-2017",
+   "nom_fichier": "Résistance aux balles (FB)\\Thermfix Vario\\FB6\\KADDB - FB6 - FB6 Test Report - 2017",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Résistance aux balles (FB)\\Thermfix Vario\\FB6\\KADDB - FB6 - FB6 Test Report - 2017.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-KADDB-FB6-FB6-TEST-REPORT-2017",
+   "numero": "KADDB - FB6 - FB6 Test Report - 2017",
+   "numero_normalise": "KADDB - FB6 - FB6 Test Report - 2017",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "balistique",
+   "objet": "KADDB - FB6 - FB6 Test Report - 2017",
+   "laboratoire_id": "ORG-KADDB",
+   "date_emission": null,
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 11,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-KADDB-FB6-FB6-TEST-REPORT-2017",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Résistance aux balles (FB)/Thermfix Vario/FB6 ; date non lue (année du nom : 2017)"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-KADDB-FB6-FB6-TEST-REPORT-2017-P3",
+   "document_id": "DOC-RAP-KADDB-FB6-FB6-TEST-REPORT-2017",
+   "page_doc": 3,
+   "page_doc_total": 11,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-KADDB-FB6-FB6-TEST-REPORT-2017",
+   "organisme_id": "ORG-KADDB",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-KADDB-FB6-FB6-TEST-REPORT-2017",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-KADDB-FB6-FB6-TEST-REPORT-2017",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-KADDB-FB6-FB6-TEST-REPORT-2017-1",
+   "document_id": "DOC-RAP-KADDB-FB6-FB6-TEST-REPORT-2017",
+   "code": "1",
+   "libelle": "KADDB - FB6 - FB6 Test Report - 2017",
+   "typologie_code": "facade_vitree",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-KADDB-FB6-FB6-TEST-REPORT-2017-1",
+   "document_id": "DOC-RAP-KADDB-FB6-FB6-TEST-REPORT-2017",
+   "configuration_id": "CFG-RAP-KADDB-FB6-FB6-TEST-REPORT-2017-1",
+   "domaine_code": "balistique",
+   "libelle_tel_qu_ecrit": "FB6 -",
+   "classe_normalisee": "FB6",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-KADDB-FB6-FB6-TEST-REPORT-2017-P3",
+   "statut_extraction": "extrait"
+  },
+  {
+   "id": "PERF-RAP-KADDB-FB6-FB6-TEST-REPORT-2017-2",
+   "document_id": "DOC-RAP-KADDB-FB6-FB6-TEST-REPORT-2017",
+   "configuration_id": "CFG-RAP-KADDB-FB6-FB6-TEST-REPORT-2017-1",
+   "domaine_code": "balistique",
+   "libelle_tel_qu_ecrit": "BR6",
+   "classe_normalisee": "BR6",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-KADDB-FB6-FB6-TEST-REPORT-2017-P3",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_balistique": [
+  {
+   "performance_id": "PERF-RAP-KADDB-FB6-FB6-TEST-REPORT-2017-1",
+   "classe": "FB6",
+   "avec_eclats": null,
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-KADDB-FB6-FB6-TEST-REPORT-2017-2",
+   "classe": "BR6",
+   "avec_eclats": null,
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-KADDB-FB6-FB6-TEST-REPORT-2017-AUTO",
+   "document_id": "DOC-RAP-KADDB-FB6-FB6-TEST-REPORT-2017",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-KADDB-FB6-FB6-TEST-REPORT-2017",
+   "type_code": "extraction_auto",
+   "description": "Rapport KADDB - FB6 - FB6 Test Report - 2017 (balistique) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

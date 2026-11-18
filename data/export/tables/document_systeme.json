@@ -74,6 +74,1806 @@
    "source_page_id": "SP-EFR-24-000553-R1-P001"
   },
   {
+   "document_id": "DOC-RAP-02-11-1206",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-04-01-1281",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-04-08-1318",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-05-10-A116-B1",
+   "systeme_id": "SYS-PRESTO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-07-07-A135-B1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-08-03-A062-K1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-08-03-A062-K2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-08-03-A062-K3",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-08-09-A237-B1",
+   "systeme_id": "SYS-PRESTO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-08-10-A287-B1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-08-10-A287-K1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-08-10-A287-K2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-08-10-A287-K3-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-08-10-A287-K3",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-08-2017-FE-117",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-08-2017-FE-118-119",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-102-30650-1-R1F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-102-30650",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-102-32902-1F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-102-32902-2F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-102-35800-2",
+   "systeme_id": "SYS-PRESTO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-102-35800-3",
+   "systeme_id": "SYS-PRESTO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-102-37642F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-106-41178-1-R1F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-108-29778-1F",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-108-29778-2F",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-108-31063F",
+   "systeme_id": "SYS-THERMFIX-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-11-000691-PB01",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-11-000691-PB02",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-11-002650-PR01-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-11-002839-PR01",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-11-002983-PR01",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-11-002983-PR03",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-11-002983-PR06",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-11-003224-PR01",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-11-003644-PR01-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-12-003174-PR01",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-12-003174-PR01",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-12-003174-PR01",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-12-003331-PR01-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-12-003331-PR02-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-12-003635-PR01",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-13-002986-PR01-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-13-08-A288-G2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-13-11-A383-B1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-13-11-A384-B1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-14-000878-PR02",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-14-000878-PR04",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-14-000878-PR05",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-14-000878-PR06",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-14-001811-PR01",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-14-001811-PR01",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-14-001811-PR02-2",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-14-002403-PR01-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-14-05-A196-G1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-001026-PR03-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-001026-PR04-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-001026-PR05-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-001026-PR06-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-001026-PR07-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-001026-PR08-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-001026-PR09-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-00226-PR01",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-00226-PR01",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-003926-PR02-2",
+   "systeme_id": "SYS-PRESTO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-004281-PR01",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-00506-PR01",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-0152-01",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-04-A156-B1",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-155-41178-1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-001013-PR04-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-001037-PR01",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-001854-PR01-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-001854-PR03-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-001854-PR04-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-001854-PR05-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-001854-PR06-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-001854-PR07-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-002111-PR01",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-002111-PR01",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-002410-PR01-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-002618-PR01-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-002620-PR01-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-05-2024",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-05-2024",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-05-2024",
+   "systeme_id": "SYS-PRESTO-60",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-05-2024",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-05-2024",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-05-2024",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z10F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z11F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z12F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z13F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z14",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z14F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z15F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z16F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z1F-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z1F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z27",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z27F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z28F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z2F-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z2F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z5F-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z5F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z6F-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z6F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16137053-Z04",
+   "systeme_id": "SYS-PRESTO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16137053-Z09",
+   "systeme_id": "SYS-PRESTO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16137053",
+   "systeme_id": "SYS-PRESTO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16237053-Z12",
+   "systeme_id": "SYS-PRESTO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16237053-Z14",
+   "systeme_id": "SYS-PRESTO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16243582-Z08",
+   "systeme_id": "SYS-PRESTO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-17-000054-PR01",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-17-000054-PR02",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-17143578-1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-17143578-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-17143578-3",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-17143578-4",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-175-32901-3F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-175-32901-4F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-19-000121-PR03-2",
+   "systeme_id": "SYS-PRESTO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-19-001303-PR03",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-19-004387-PR01",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-20003643-37",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-20003643-37",
+   "systeme_id": "SYS-NORM",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-201-31438",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-201-31439F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-201-31440F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-201-31441F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-201-36283",
+   "systeme_id": "SYS-PRESTO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-201-36285",
+   "systeme_id": "SYS-PRESTO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-201-36288",
+   "systeme_id": "SYS-PRESTO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-201-36291",
+   "systeme_id": "SYS-PRESTO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-20135793-4",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-202-VERARBEITUNGSUNTERLAGE-THERMFIXVARIO",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-2022-04-0117-K1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-2022-04-0117-K1",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-2022-04-0137-B1",
+   "systeme_id": "SYS-PRESTO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-2022-04-0137-B1",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-2022-04-0176-B1",
+   "systeme_id": "SYS-OMNIA",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-2022-04-0435-B2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-2022-04-0435-K3",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-21-003479-PR01",
+   "systeme_id": "SYS-OMNIA",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-21-003479-PR05",
+   "systeme_id": "SYS-OMNIA",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-21-004446-PR01-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-22-0208-01",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-25-005-REY",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-255-33951F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-3037-5295",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-42237268",
+   "systeme_id": "SYS-NORM",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-432-27814-1A",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-43227814-1",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-43230051-1",
+   "systeme_id": "SYS-THERMFIX-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-43230051-2",
+   "systeme_id": "SYS-THERMFIX-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-43230051-3",
+   "systeme_id": "SYS-THERMFIX-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-43230051",
+   "systeme_id": "SYS-THERMFIX-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-45-28-21",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-4518-P6ETGCP-V1",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-4518-P6ETGCP-V1",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-A046-K1",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-AEV-NORM50-A4-E8A-VB2-CSTB-2002",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-AEV-NORM50-A4-E8A-VB2-CSTB-2002",
+   "systeme_id": "SYS-NORM",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-APPLICATION-CONFORME-CE-PRESTO-NORM-FENE",
+   "systeme_id": "SYS-NORM",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-APPLICATION-CONFORME-CE-PRESTO-PORTES-FR",
+   "systeme_id": "SYS-PRESTO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-AVIS-D-EXPERT-IFT-PORTES-EI30-1V-ET-2V-V",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-BEB1-L-5033",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-BESCHUSSAMT-FB7S-19-0200-04-2019",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-CERTIFICAT-MINERGIE-UNICO-XS-HI",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-CHASSIS-FIXES-UNICO-RC4-FB4-PFB-2012",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-CLC-10-26023482",
+   "systeme_id": "SYS-THERMFIX-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-CSTB-COEFFICIENTS-THERMIQUES-THERMFIX-VA",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-CXL127-26",
+   "systeme_id": "SYS-THERMFIX-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-DBV-22-12567-A",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-DBV-22-12567-A",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-DBV-22-12782-B",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-DBV-22-12782-B",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-DBV-22-12782-C",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-DBV-22-12782-D",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-DBV-23-09215",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-DBV-23-09215",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-DBV-26-00063836",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-DBV-26-00063836",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-DBV-M-25-49976",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-DBV-M-25-49976",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-DBV-M-25-49978",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-DBV-M-25-49978",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-E03-016",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-EF-24-174-01",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-EF-24-404-01",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-EFR-19-001366",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-FORSTER-UNICO-FENETRE-2-VANTAUX-RW-43-1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-FORSTER-UNICO-FENETRE-2-VANTAUX-RW-44-1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-FORSTER-UNICO-UNICO-XS-2025",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-FORSTER-UNICO-UNICO-XS-2025",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-GSFM-22-011-01",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-GSFM-22-012-01",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-GSFM-22-174-01",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-I-48-17",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-I-49-17",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-IFT-CORRESPONDANCE-WK-RC",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-IFT-PV-COEFF-U-FRANCAIS",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-IFT-RAPPORT-DE-SYNTHESE-RC1-RC2-RC3-UNIC",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-IFT-RAPPORT-DE-SYNTHESE-RC1-RC2-RC3-UNIC",
+   "systeme_id": "SYS-PRESTO",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-IFT-RAPPORT-DE-SYNTHESE-RC1-RC2-RC3-UNIC",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-K-5030",
+   "systeme_id": "SYS-PRESTO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-K-6016",
+   "systeme_id": "SYS-PRESTO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-K-DE-ENG-UNICO-FUEGOLIGHT-PRESTO-GUTACHT",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-K-DE-ENG-UNICO-FUEGOLIGHT-PRESTO-GUTACHT",
+   "systeme_id": "SYS-PRESTO",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-K-DE-ENG-UNICO-FUEGOLIGHT-PRESTO-GUTACHT",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-KADDB-FB6-FB6-TEST-REPORT-2017",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L18-0601-01",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L19-1305-01",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L22-0855-01",
+   "systeme_id": "SYS-PRESTO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L22-0855-02",
+   "systeme_id": "SYS-PRESTO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L22-0855-03",
+   "systeme_id": "SYS-PRESTO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L22-0855-04",
+   "systeme_id": "SYS-PRESTO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L22-0855-05",
+   "systeme_id": "SYS-PRESTO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L23-0105-01",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L23-0106-01",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L24-0434-01",
+   "systeme_id": "SYS-PRESTO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L24-2770-01",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L25-1339-01",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L25-1628-01",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L25-1629-01",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L25-1629-01",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L25-1983-01",
+   "systeme_id": "SYS-PRESTO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-LUFT-REGEN-WIND-PENDEL-94993-01-120-32-2",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-MD210028",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-MD210028A",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-MD210028B",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-POLYGARD-PRO-UP-862-38-NS-UK",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-PORTE-UNICO-CR4-1-VANTAIL-SYNTHESE-ACCES",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-PORTE-UNICO-CR4-2-VANTAUX-SYNTHESE-ACCES",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-PRESTO-60S-1-VTL-RW-43DB",
+   "systeme_id": "SYS-PRESTO-60",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-PRESTO-60S-2-VTX-RW-44DB",
+   "systeme_id": "SYS-PRESTO-60",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-PRODUKTPASS-THERMFIX-LIGHT-FR",
+   "systeme_id": "SYS-THERMFIX-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-PYROSTOP-RW-44DB",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-CLOISONS-EI30-60-90-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-CLOISONS-EI30-60-90",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-PORTES-EI60-1V-VITR-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-PORTES-EI60-1V-VITR",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-LASM-PORTES-EI30-2V-VIT",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-RECAPITULATIF-1-VANTAIL",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-RESUME-AFFAIBLISSEMENTS-ACOUSIQUES-V2-20",
+   "systeme_id": "SYS-PRESTO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-RESUME-AFFAIBLISSEMENTS-ACOUSTIQUES-V1-2-2",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-RESUME-AFFAIBLISSEMENTS-ACOUSTIQUES-V1-2",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-RESUME-AFFAIBLISSEMENTS-ACOUSTIQUES-V2-2",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S-16-0053-01-Z",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S-21-0219-01Z",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S-22-0208-01-Z",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S09000201B",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S09001601B",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S11004201-B",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S12005805-B",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S12005806-B",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S12005807-B",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S18020501-B",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S18020502-B",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S18020503-B",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S18020506-B",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S18020507-B",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S18020508-B",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S19020401B",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S19020901B",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S19020902B",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S19022301B",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S20021201-B",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S20021202",
+   "systeme_id": "SYS-OMNIA",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S21020101B",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-SGS-FRANCE-ERES-250119-01-A2-CERTIFIED",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-SGS-FRANCE-ERES-250119-01-A2-CERTIFIED",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-SGS-FRANCE-ERES-250119-01-B2-CERTIFIED",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-SGS-FRANCE-ERES-250119-01-B2-CERTIFIED",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-SGS-FRANCE-ERES-250119-01-C2-CERTIFIED",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-SGS-FRANCE-ERES-250119-01-C2-CERTIFIED",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-SILENCIO",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-SILENCIO",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-SYNTHESE-AEV-UNICO-2015-05-03",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-SYSTEMPASS-UNICO-UNICOXS-FENSTER-FR",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-SYSTEMPASS-UNICO-UNICOXS-FENSTER-FR",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-TAB-AFFBL-PHONIQUE-THERMFIX-VARIO-V1-201",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-THERMFIX-VARIO-RW-36DB",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-THERMFIX-VARIO-RW-42DB",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-THERMFIX-VARIO-RW43DB",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-THERMFIX-VARIO-RW44DB",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-THERMIFIX-VARIO-RW-45DB",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-UF-734851-4-3",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-UF-734852-4-5",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-UF-736851-3-6",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-UF-736852-3-5",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-UF-739592-2-6",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-UF-THERMFIX-VARIO-432-27814-1-FR",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-UF-THERMFIX-VARIO",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-UP-862-38-NS-P8B-REPORT-ANNEX",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-UW-12-TYPES-PR-FUEL-UNICO-VERSION-3-1-VA",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-UW-12-TYPES-PR-FUEL-UNICO-VERSION-3-2-VA",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
    "document_id": "DOC-08-A-287-REC-24-3",
    "systeme_id": "SYS-FUEGO-LIGHT-60",
    "role": "principal",

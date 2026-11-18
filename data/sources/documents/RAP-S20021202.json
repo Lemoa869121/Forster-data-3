@@ -1,0 +1,128 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-S20021202",
+   "nom_fichier": "Résistance aux balles (FB)\\Omnia\\BESCHUSSAMT - FB5S - PORTE 2 VANTAUX_S20021202_2020",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Résistance aux balles (FB)\\Omnia\\BESCHUSSAMT - FB5S - PORTE 2 VANTAUX_S20021202_2020.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-S20021202",
+   "numero": "S20021202",
+   "numero_normalise": "S20021202",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "balistique",
+   "objet": "BESCHUSSAMT - FB5S - PORTE 2 VANTAUX_S20021202_2020",
+   "laboratoire_id": "ORG-BESCHUSSAMT-ULM",
+   "date_emission": "2020-11-25",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 54,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-S20021202",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Résistance aux balles (FB)/Omnia"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-S20021202-P1",
+   "document_id": "DOC-RAP-S20021202",
+   "page_doc": 1,
+   "page_doc_total": 54,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-S20021202",
+   "organisme_id": "ORG-BESCHUSSAMT-ULM",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-S20021202",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-S20021202",
+   "systeme_id": "SYS-OMNIA",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-S20021202-1",
+   "document_id": "DOC-RAP-S20021202",
+   "code": "1",
+   "libelle": "BESCHUSSAMT - FB5S - PORTE 2 VANTAUX_S20021202_2020",
+   "typologie_code": "bloc_porte",
+   "systeme_id": "SYS-OMNIA",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-S20021202-1",
+   "document_id": "DOC-RAP-S20021202",
+   "configuration_id": "CFG-RAP-S20021202-1",
+   "domaine_code": "balistique",
+   "libelle_tel_qu_ecrit": "FB5S",
+   "classe_normalisee": "FB5S",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-S20021202-P1",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_balistique": [
+  {
+   "performance_id": "PERF-RAP-S20021202-1",
+   "classe": "FB5",
+   "avec_eclats": "S",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-S20021202-AUTO",
+   "document_id": "DOC-RAP-S20021202",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-S20021202",
+   "type_code": "extraction_auto",
+   "description": "Rapport S20021202 (balistique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

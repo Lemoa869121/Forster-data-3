@@ -200,7 +200,7 @@ Configurations classées au moins à une durée donnée pour une combinaison de 
 
 - **Paramètres (interface)** : `{":duree_min": 60, ":exige_i": 1, ":exige_w": 0, ":typologie": null}`
 - **Tables / vues** : `v_classement_feu`, `v_document_rattachement`, `v_validite_effective`
-- **Résultat sur le corpus** : 41 ligne(s)
+- **Résultat sur le corpus** : 43 ligne(s)
 
 ```sql
 SELECT v.numero_normalise AS document, v.configuration, v.typologie_code, v.systeme, v.classe_normalisee,
@@ -651,7 +651,7 @@ Recherche libre insensible à la casse/aux accents (mots normalisés côté appl
 
 - **Paramètres (interface)** : `{":texte": "antipanique"}`
 - **Tables / vues** : `document`, `recherche_index`
-- **Résultat sur le corpus** : 174 ligne(s)
+- **Résultat sur le corpus** : 180 ligne(s)
 
 ```sql
 SELECT ri.objet_type, ri.objet_id, d.numero_normalise, substr(ri.texte, 1, 160) AS extrait
@@ -726,7 +726,7 @@ Points de contrôle humain ouverts par document
 
 - **Paramètres (interface)** : `{":type": null}`
 - **Tables / vues** : `controle_humain`, `document`, `source_page`
-- **Résultat sur le corpus** : 449 ligne(s)
+- **Résultat sur le corpus** : 782 ligne(s)
 
 ```sql
 SELECT d.numero_normalise, ch.type_code, ch.description, sp.page_doc, sp.section, sp.planche
@@ -740,20 +740,20 @@ Exemple de résultat :
 ```json
 [
  {
-  "numero_normalise": "08-A-275",
-  "type_code": "ocr_degrade",
-  "description": "§4.3.2 : valeur orpheline « 2876 » (hauteur) dans le bloc Pyrostop 60-201 / Isolant — non rattachée ; à vérifier sur l'original.",
-  "page_doc": 8,
-  "section": "§4.3.2",
+  "numero_normalise": "02-11-1206",
+  "type_code": "extraction_auto",
+  "description": "Rapport 02-11-1206 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire.",
+  "page_doc": null,
+  "section": null,
   "planche": null
  },
  {
-  "numero_normalise": "08-A-275",
-  "type_code": "planche_image",
-  "description": "Planche 1 (profilés) : seules les références « 736.050 » et « 852 » sont lisibles en OCR — liste complète des profilés à relever visuellement.",
-  "page_doc": 11,
+  "numero_normalise": "04-01-1281",
+  "type_code": "extraction_auto",
+  "description": "Rapport 04-01-1281 (effraction) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+  "page_doc": null,
   "section": null,
-  "planche": "Planche 1"
+  "planche": null
  }
 ]
 ```
@@ -976,6 +976,145 @@ Exemple de résultat :
   "nature_code": "autorise_exact",
   "grandeur_code": "longueur",
   "n": 9
+ }
+]
+```
+
+## Q21_cumuls_enonces
+
+Cumuls de performances énoncés par un document (synthèse Forster ou rapport d'essai), filtrables par système et domaine
+
+- **Paramètres (interface)** : `{":systeme": "SYS-UNICO", ":domaine": "effraction"}`
+- **Tables / vues** : `cumul_performance`, `document`, `source_page`, `systeme`
+- **Résultat sur le corpus** : 10 ligne(s)
+
+```sql
+SELECT d.numero_normalise AS enonce_par, d.type_code, s.nom AS systeme, cp.typologie_code,
+       cp.domaine_a, cp.classe_a, cp.domaine_b, cp.classe_b, cp.statut_cumul, cp.condition_texte, cp.justificatifs, sp.page_doc
+  FROM cumul_performance cp
+  JOIN document d ON d.id = cp.document_id
+  LEFT JOIN systeme s ON s.id = cp.systeme_id
+  LEFT JOIN source_page sp ON sp.id = cp.source_page_id
+ WHERE (:systeme IS NULL OR cp.systeme_id = :systeme)
+   AND (:domaine IS NULL OR :domaine IN (cp.domaine_a, cp.domaine_b))
+ ORDER BY cp.statut_cumul, cp.typologie_code, cp.classe_b;
+```
+
+Exemple de résultat :
+
+```json
+[
+ {
+  "enonce_par": "Châssis fixes Unico RC4 + FB4 (PfB - 2012)",
+  "type_code": "rapport_essai",
+  "systeme": "Unico",
+  "typologie_code": "chassis_fixe",
+  "domaine_a": "effraction",
+  "classe_a": "RC4",
+  "domaine_b": "balistique",
+  "classe_b": "FB4",
+  "statut_cumul": "constate_rapport",
+  "condition_texte": "Les deux classes figurent dans le même rapport (nom de fichier) ; à confirmer dans le texte.",
+  "justificatifs": null,
+  "page_doc": 3
+ },
+ {
+  "enonce_par": "13-08-A288-G2",
+  "type_code": "rapport_essai",
+  "systeme": "Unico",
+  "typologie_code": "fenetre",
+  "domaine_a": "effraction",
+  "classe_a": "RC3",
+  "domaine_b": "balistique",
+  "classe_b": "FB4NS",
+  "statut_cumul": "constate_rapport",
+  "condition_texte": "Les deux classes figurent dans le même rapport (nom de fichier) ; à confirmer dans le texte.",
+  "justificatifs": null,
+  "page_doc": 1
+ }
+]
+```
+
+## Q22_rapports_par_classe
+
+Rapports d'essais (hors feu) d'un domaine et d'une classe minimale, avec laboratoire, date et page de lecture
+
+- **Paramètres (interface)** : `{":domaine": "balistique", ":classe": "FB4"}`
+- **Tables / vues** : `document`, `organisme`, `systeme`, `v_performance_multi`
+- **Résultat sur le corpus** : 19 ligne(s)
+
+```sql
+SELECT v.numero_normalise, v.classe_normalisee, s.nom AS systeme, v.typologie_code, o.nom AS laboratoire, v.date_emission, v.page_doc, v.statut_extraction
+  FROM v_performance_multi v
+  JOIN document d ON d.id = v.document_id
+  LEFT JOIN systeme s ON s.id = v.systeme_id
+  LEFT JOIN organisme o ON o.id = d.laboratoire_id
+ WHERE v.domaine_code = :domaine AND v.classe_normalisee LIKE :classe || '%'
+ ORDER BY s.nom, v.typologie_code;
+```
+
+Exemple de résultat :
+
+```json
+[
+ {
+  "numero_normalise": "S 21 0219 01Z",
+  "classe_normalisee": "FB4NS",
+  "systeme": "Fuego Light (série non précisée)",
+  "typologie_code": "bloc_porte",
+  "laboratoire": "Beschussamt Ulm",
+  "date_emission": "2021-10-28",
+  "page_doc": 1,
+  "statut_extraction": "extrait"
+ },
+ {
+  "numero_normalise": "S11004201-B",
+  "classe_normalisee": "FB4NS",
+  "systeme": "Fuego Light (série non précisée)",
+  "typologie_code": "bloc_porte",
+  "laboratoire": "Beschussamt Ulm",
+  "date_emission": "2011-05-19",
+  "page_doc": 1,
+  "statut_extraction": "extrait"
+ }
+]
+```
+
+## Q23_croisement_potentiel_feu
+
+Matrice feu × autre domaine par système et famille de typologie (rapprochement, PAS un cumul certifié)
+
+- **Paramètres (interface)** : `{":systeme": "SYS-UNICO"}`
+- **Tables / vues** : `v_cumul_potentiel`
+- **Résultat sur le corpus** : 14 ligne(s)
+
+```sql
+SELECT systeme_nom, famille_typologie, domaine_autre, group_concat(DISTINCT classe_autre) AS classes_autres,
+       count(DISTINCT document_feu) AS nb_documents_feu, count(DISTINCT document_autre) AS nb_rapports
+  FROM v_cumul_potentiel
+ WHERE (:systeme IS NULL OR systeme_id = :systeme)
+ GROUP BY 1, 2, 3 ORDER BY 1, 2, 3;
+```
+
+Exemple de résultat :
+
+```json
+[
+ {
+  "systeme_nom": "Unico",
+  "famille_typologie": "bloc_porte",
+  "domaine_autre": "acoustique",
+  "classes_autres": "Rw 33 dB,Rw 45 dB,Rw 40 dB,Rw 39 dB,Rw 36 dB",
+  "nb_documents_feu": 8,
+  "nb_rapports": 10
+ },
+ {
+  "systeme_nom": "Unico",
+  "famille_typologie": "bloc_porte",
+  "domaine_autre": "aev",
+  "classes_autres": "A*4 E*5A V*C3,A*2 E*3A V*C1,A*3 E*4A V*C3",
+  "nb_documents_feu": 8,
+  "nb_rapports": 3
  }
 ]
 ```

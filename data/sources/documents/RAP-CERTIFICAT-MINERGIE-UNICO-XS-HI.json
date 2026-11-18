@@ -1,0 +1,88 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-CERTIFICAT-MINERGIE-UNICO-XS-HI",
+   "nom_fichier": "Thermique\\Unico XS\\Certificat_Minergie_Unico_XS_Hi",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Thermique\\Unico XS\\Certificat_Minergie_Unico_XS_Hi.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-CERTIFICAT-MINERGIE-UNICO-XS-HI",
+   "numero": "Certificat Minergie Unico XS Hi",
+   "numero_normalise": "Certificat Minergie Unico XS Hi",
+   "revision": null,
+   "type_code": "certificat",
+   "domaine_code": "thermique",
+   "objet": "Certificat_Minergie_Unico_XS_Hi",
+   "laboratoire_id": "ORG-MINERGIE",
+   "date_emission": "2015-03-11",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 1,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-CERTIFICAT-MINERGIE-UNICO-XS-HI",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Thermique/Unico XS"
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-CERTIFICAT-MINERGIE-UNICO-XS-HI",
+   "organisme_id": "ORG-MINERGIE",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-CERTIFICAT-MINERGIE-UNICO-XS-HI",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-CERTIFICAT-MINERGIE-UNICO-XS-HI",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-CERTIFICAT-MINERGIE-UNICO-XS-HI-AUTO",
+   "document_id": "DOC-RAP-CERTIFICAT-MINERGIE-UNICO-XS-HI",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-CERTIFICAT-MINERGIE-UNICO-XS-HI",
+   "type_code": "extraction_auto",
+   "description": "Rapport Certificat Minergie Unico XS Hi (thermique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTRL-RAP-CERTIFICAT-MINERGIE-UNICO-XS-HI-NT",
+   "document_id": "DOC-RAP-CERTIFICAT-MINERGIE-UNICO-XS-HI",
+   "table_cible": "performance",
+   "ligne_id": null,
+   "type_code": "non_trouve",
+   "description": "Aucune classe / valeur lue automatiquement : à saisir.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

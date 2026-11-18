@@ -1,0 +1,84 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-155-41178-1",
+   "nom_fichier": "A.E.V\\Unico\\Fenêtres OF et OB\\AEV_Avis de laboratoire comparaison Unico et Unico fin_IFT_2010 (155 41178_1)",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\A.E.V\\Unico\\Fenêtres OF et OB\\AEV_Avis de laboratoire comparaison Unico et Unico fin_IFT_2010 (155 41178_1).pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-155-41178-1",
+   "numero": "155 41178_1",
+   "numero_normalise": "155 41178_1",
+   "revision": null,
+   "type_code": "avis_expertise",
+   "domaine_code": "aev",
+   "objet": "AEV_Avis de laboratoire comparaison Unico et Unico fin_IFT_2010 (155 41178_1)",
+   "laboratoire_id": null,
+   "date_emission": null,
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 30,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-155-41178-1",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : A.E.V/Unico/Fenêtres OF et OB ; date non lue (année du nom : 2010)"
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-155-41178-1",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-155-41178-1",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-155-41178-1-1",
+   "document_id": "DOC-RAP-155-41178-1",
+   "code": "1",
+   "libelle": "AEV_Avis de laboratoire comparaison Unico et Unico fin_IFT_2010 (155 41178_1)",
+   "typologie_code": "fenetre",
+   "systeme_id": "SYS-UNICO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-155-41178-1-AUTO",
+   "document_id": "DOC-RAP-155-41178-1",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-155-41178-1",
+   "type_code": "extraction_auto",
+   "description": "Rapport 155 41178_1 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

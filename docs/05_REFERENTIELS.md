@@ -84,6 +84,12 @@ Tables `ref_*` — valeurs initiales dans `db/referentiels.sql`. Toute colonne `
 | balistique | Résistance aux balles |  |
 | aev | Air - Eau - Vent |  |
 | acoustique | Acoustique |  |
+| explosion | Résistance à l'explosion |  |
+| choc | Résistance aux chocs |  |
+| endurance | Endurance / ouvertures-fermetures répétées |  |
+| thermique | Thermique (Uf / Uw) |  |
+| issue_secours | Fermetures anti-panique / issues de secours |  |
+| durabilite | Durabilité (corrosion, ensoleillement, soudure) |  |
 
 ## `ref_fonction_serrure`
 
@@ -307,6 +313,11 @@ Tables `ref_*` — valeurs initiales dans `db/referentiels.sql`. Toute colonne `
 | additif | Additif | Additif / modification |
 | avis_chantier | Avis de chantier | Avis ponctuel du laboratoire |
 | document_reference | Document de référence cité | Document cité, non présent dans le corpus |
+| avis_expertise | Avis / expertise de laboratoire | Gutachten, avis de laboratoire, rapport de synthèse ou de conformité d'un laboratoire |
+| synthese_fabricant | Synthèse fabricant | Document Forster récapitulatif (non émis par un laboratoire) |
+| passeport_ce | Passeport / application conforme CE | Document système Forster récapitulant les performances déclarées |
+| certificat | Certificat | Certificat émis par un organisme |
+| fiche_technique | Fiche technique | Fiche technique de composant (vitrage…) |
 | pv_das | Procès-verbal DAS (CNPP) | Procès-verbal d'essais / homologation de dispositif actionné de sécurité (NF S 61-937), CNPP |
 
 ## `ref_type_ferme_porte`
@@ -440,6 +451,8 @@ Tables `ref_*` — valeurs initiales dans `db/referentiels.sql`. Toute colonne `
 | fenetre | Fenêtre / châssis ouvrant |  |
 | verriere | Verrière |  |
 | plancher_vitre | Plancher vitré |  |
+| porte_coulissante | Porte coulissante |  |
+| composant | Composant seul (vitrage, paumelle, seuil…) |  |
 
 ## `ref_unite`
 

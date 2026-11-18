@@ -1,0 +1,127 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-GSFM-22-011-01",
+   "nom_fichier": "Résistance à l'effraction (RC)\\Unico\\RC4\\02 - Unico RC4 - 1 et 2 vantaux (antipanique sur vantail principal) - CSTC - Vetrotech POLYGARD RC4.58AP - GSFM-22-011-01 (03-2022)",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Résistance à l'effraction (RC)\\Unico\\RC4\\02 - Unico RC4 - 1 et 2 vantaux (antipanique sur vantail principal) - CSTC - Vetrotech POLYGARD RC4.58AP - GSFM-22-011-01 (03-2022).pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-GSFM-22-011-01",
+   "numero": "GSFM-22-011-01",
+   "numero_normalise": "GSFM-22-011-01",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "effraction",
+   "objet": "02 - Unico RC4 - 1 et 2 vantaux (antipanique sur vantail principal) - CSTC - Vetrotech POLYGARD RC4.58AP - GSFM-22-011-01 (03-2022)",
+   "laboratoire_id": "ORG-CNPP",
+   "date_emission": "2022-03-15",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 11,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-GSFM-22-011-01",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Résistance à l'effraction (RC)/Unico/RC4"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-GSFM-22-011-01-P1",
+   "document_id": "DOC-RAP-GSFM-22-011-01",
+   "page_doc": 1,
+   "page_doc_total": 11,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-GSFM-22-011-01",
+   "organisme_id": "ORG-CNPP",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-GSFM-22-011-01",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-GSFM-22-011-01",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-GSFM-22-011-01-1",
+   "document_id": "DOC-RAP-GSFM-22-011-01",
+   "code": "1",
+   "libelle": "02 - Unico RC4 - 1 et 2 vantaux (antipanique sur vantail principal) - CSTC - Vetrotech POLYGARD RC4.58AP - GSFM-22-011-0",
+   "typologie_code": "bloc_porte",
+   "systeme_id": "SYS-UNICO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-GSFM-22-011-01-1",
+   "document_id": "DOC-RAP-GSFM-22-011-01",
+   "configuration_id": "CFG-RAP-GSFM-22-011-01-1",
+   "domaine_code": "effraction",
+   "libelle_tel_qu_ecrit": "RC4",
+   "classe_normalisee": "RC4",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-GSFM-22-011-01-P1",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_effraction": [
+  {
+   "performance_id": "PERF-RAP-GSFM-22-011-01-1",
+   "classe_rc": "RC4",
+   "norme_id": "NRM-EN-1627",
+   "duree_resistance_min": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-GSFM-22-011-01-AUTO",
+   "document_id": "DOC-RAP-GSFM-22-011-01",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-GSFM-22-011-01",
+   "type_code": "extraction_auto",
+   "description": "Rapport GSFM-22-011-01 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

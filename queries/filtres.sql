@@ -261,3 +261,36 @@ ORDER BY pv.numero_normalise;
 -- desc: Contrôle : aucune dimension ne mélange natures ; répartition des natures de valeurs
 -- params: {}
 SELECT nature_code, grandeur_code, count(*) AS n FROM dimension GROUP BY nature_code, grandeur_code ORDER BY nature_code, grandeur_code;
+
+-- name: Q21_cumuls_enonces
+-- desc: Cumuls de performances énoncés par un document (synthèse Forster ou rapport d'essai), filtrables par système et domaine
+-- params: {":systeme": "SYS-UNICO", ":domaine": "effraction"}
+SELECT d.numero_normalise AS enonce_par, d.type_code, s.nom AS systeme, cp.typologie_code,
+       cp.domaine_a, cp.classe_a, cp.domaine_b, cp.classe_b, cp.statut_cumul, cp.condition_texte, cp.justificatifs, sp.page_doc
+  FROM cumul_performance cp
+  JOIN document d ON d.id = cp.document_id
+  LEFT JOIN systeme s ON s.id = cp.systeme_id
+  LEFT JOIN source_page sp ON sp.id = cp.source_page_id
+ WHERE (:systeme IS NULL OR cp.systeme_id = :systeme)
+   AND (:domaine IS NULL OR :domaine IN (cp.domaine_a, cp.domaine_b))
+ ORDER BY cp.statut_cumul, cp.typologie_code, cp.classe_b;
+
+-- name: Q22_rapports_par_classe
+-- desc: Rapports d'essais (hors feu) d'un domaine et d'une classe minimale, avec laboratoire, date et page de lecture
+-- params: {":domaine": "balistique", ":classe": "FB4"}
+SELECT v.numero_normalise, v.classe_normalisee, s.nom AS systeme, v.typologie_code, o.nom AS laboratoire, v.date_emission, v.page_doc, v.statut_extraction
+  FROM v_performance_multi v
+  JOIN document d ON d.id = v.document_id
+  LEFT JOIN systeme s ON s.id = v.systeme_id
+  LEFT JOIN organisme o ON o.id = d.laboratoire_id
+ WHERE v.domaine_code = :domaine AND v.classe_normalisee LIKE :classe || '%'
+ ORDER BY s.nom, v.typologie_code;
+
+-- name: Q23_croisement_potentiel_feu
+-- desc: Matrice feu × autre domaine par système et famille de typologie (rapprochement, PAS un cumul certifié)
+-- params: {":systeme": "SYS-UNICO"}
+SELECT systeme_nom, famille_typologie, domaine_autre, group_concat(DISTINCT classe_autre) AS classes_autres,
+       count(DISTINCT document_feu) AS nb_documents_feu, count(DISTINCT document_autre) AS nb_rapports
+  FROM v_cumul_potentiel
+ WHERE (:systeme IS NULL OR systeme_id = :systeme)
+ GROUP BY 1, 2, 3 ORDER BY 1, 2, 3;

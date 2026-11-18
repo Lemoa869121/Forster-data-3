@@ -7,5 +7,545 @@
   "ctr_db",
   "norme_id"
  ],
- "lignes": []
+ "lignes": [
+  {
+   "performance_id": "PERF-RAP-14-001811-PR02-2-1",
+   "rw_db": 47.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-14-001811-PR02-2-2",
+   "rw_db": 44.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-14-001811-PR02-2-3",
+   "rw_db": 40.0,
+   "c_db": -2.0,
+   "ctr_db": -5.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-14-001811-PR02-2-4",
+   "rw_db": 33.0,
+   "c_db": -1.0,
+   "ctr_db": -5.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-14-001811-PR02-2-5",
+   "rw_db": 46.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-14-001811-PR02-2-6",
+   "rw_db": 48.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-161-30936-Z10F-1",
+   "rw_db": 47.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-161-30936-Z11F-1",
+   "rw_db": 44.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-161-30936-Z12F-1",
+   "rw_db": 40.0,
+   "c_db": -2.0,
+   "ctr_db": -5.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-161-30936-Z13F-1",
+   "rw_db": 33.0,
+   "c_db": -1.0,
+   "ctr_db": -5.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-161-30936-Z14-1",
+   "rw_db": 47.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-161-30936-Z14F-1",
+   "rw_db": 47.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-161-30936-Z15F-1",
+   "rw_db": 46.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-161-30936-Z16F-1",
+   "rw_db": 48.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-161-30936-Z1F-2-1",
+   "rw_db": 33.0,
+   "c_db": -2.0,
+   "ctr_db": -5.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-161-30936-Z1F-1",
+   "rw_db": 33.0,
+   "c_db": -2.0,
+   "ctr_db": -5.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-161-30936-Z27-1",
+   "rw_db": 45.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-161-30936-Z27F-1",
+   "rw_db": 45.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-161-30936-Z28F-1",
+   "rw_db": 47.0,
+   "c_db": -2.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-161-30936-Z2F-2-1",
+   "rw_db": 40.0,
+   "c_db": -1.0,
+   "ctr_db": -2.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-161-30936-Z2F-1",
+   "rw_db": 40.0,
+   "c_db": -1.0,
+   "ctr_db": -2.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-161-30936-Z5F-2-1",
+   "rw_db": 39.0,
+   "c_db": -1.0,
+   "ctr_db": -3.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-161-30936-Z5F-1",
+   "rw_db": 39.0,
+   "c_db": -1.0,
+   "ctr_db": -3.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-161-30936-Z6F-2-1",
+   "rw_db": 36.0,
+   "c_db": 0.0,
+   "ctr_db": -2.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-161-30936-Z6F-1",
+   "rw_db": 36.0,
+   "c_db": 0.0,
+   "ctr_db": -2.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-16137053-1",
+   "rw_db": 35.0,
+   "c_db": -2.0,
+   "ctr_db": -6.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-17143578-1-1",
+   "rw_db": 40.0,
+   "c_db": -3.0,
+   "ctr_db": -5.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-17143578-1-2",
+   "rw_db": 50.0,
+   "c_db": null,
+   "ctr_db": null,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-17143578-1-3",
+   "rw_db": 48.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-17143578-1-4",
+   "rw_db": 47.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-17143578-1-5",
+   "rw_db": 39.0,
+   "c_db": -2.0,
+   "ctr_db": -5.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-17143578-2-1",
+   "rw_db": 32.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-17143578-2-2",
+   "rw_db": 50.0,
+   "c_db": null,
+   "ctr_db": null,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-17143578-2-3",
+   "rw_db": 48.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-17143578-2-4",
+   "rw_db": 47.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-17143578-3-1",
+   "rw_db": 39.0,
+   "c_db": -2.0,
+   "ctr_db": -5.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-17143578-3-2",
+   "rw_db": 45.0,
+   "c_db": null,
+   "ctr_db": null,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-17143578-3-3",
+   "rw_db": 50.0,
+   "c_db": null,
+   "ctr_db": null,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-17143578-3-4",
+   "rw_db": 48.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-17143578-3-5",
+   "rw_db": 47.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-17143578-3-6",
+   "rw_db": 38.0,
+   "c_db": -2.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-17143578-4-1",
+   "rw_db": 35.0,
+   "c_db": -1.0,
+   "ctr_db": -3.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-17143578-4-2",
+   "rw_db": 38.0,
+   "c_db": null,
+   "ctr_db": null,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-17143578-4-3",
+   "rw_db": 50.0,
+   "c_db": null,
+   "ctr_db": null,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-17143578-4-4",
+   "rw_db": 48.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-17143578-4-5",
+   "rw_db": 47.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-19-000121-PR03-2-1",
+   "rw_db": 42.0,
+   "c_db": -2.0,
+   "ctr_db": -3.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-19-004387-PR01-1",
+   "rw_db": 47.0,
+   "c_db": -2.0,
+   "ctr_db": -7.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-19-004387-PR01-2",
+   "rw_db": 33.0,
+   "c_db": -2.0,
+   "ctr_db": -5.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-19-004387-PR01-3",
+   "rw_db": 40.0,
+   "c_db": -2.0,
+   "ctr_db": -5.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-19-004387-PR01-4",
+   "rw_db": 41.0,
+   "c_db": -2.0,
+   "ctr_db": -6.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-19-004387-PR01-5",
+   "rw_db": 48.0,
+   "c_db": -3.0,
+   "ctr_db": -8.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-19-004387-PR01-6",
+   "rw_db": 39.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-AVIS-D-EXPERT-IFT-PORTES-EI30-1V-ET-2V-V-1",
+   "rw_db": 42.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-AVIS-D-EXPERT-IFT-PORTES-EI30-1V-ET-2V-V-2",
+   "rw_db": 40.0,
+   "c_db": null,
+   "ctr_db": null,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-AVIS-D-EXPERT-IFT-PORTES-EI30-1V-ET-2V-V-3",
+   "rw_db": 39.0,
+   "c_db": null,
+   "ctr_db": null,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-FORSTER-UNICO-FENETRE-2-VANTAUX-RW-43-1-1",
+   "rw_db": 43.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-FORSTER-UNICO-FENETRE-2-VANTAUX-RW-44-1-1",
+   "rw_db": 44.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-L19-1305-01-1",
+   "rw_db": 50.0,
+   "c_db": -2.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-L19-1305-01-2",
+   "rw_db": 55.0,
+   "c_db": -2.0,
+   "ctr_db": -6.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-PRESTO-60S-1-VTL-RW-43DB-1",
+   "rw_db": 43.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-PRESTO-60S-2-VTX-RW-44DB-1",
+   "rw_db": 44.0,
+   "c_db": -2.0,
+   "ctr_db": -5.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-PYROSTOP-RW-44DB-1",
+   "rw_db": 44.0,
+   "c_db": -2.0,
+   "ctr_db": -6.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-RAPPORT-D-ESSAIS-IFT-PORTES-EI60-1V-VITR-2-1",
+   "rw_db": 38.0,
+   "c_db": 0.0,
+   "ctr_db": 0.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-RAPPORT-D-ESSAIS-IFT-PORTES-EI60-1V-VITR-2-2",
+   "rw_db": 42.0,
+   "c_db": -2.0,
+   "ctr_db": -2.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-RAPPORT-D-ESSAIS-IFT-PORTES-EI60-1V-VITR-2-3",
+   "rw_db": 43.0,
+   "c_db": -2.0,
+   "ctr_db": -2.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-RAPPORT-D-ESSAIS-IFT-PORTES-EI60-1V-VITR-2-4",
+   "rw_db": 39.0,
+   "c_db": 0.0,
+   "ctr_db": -1.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-RAPPORT-D-ESSAIS-IFT-PORTES-EI60-1V-VITR-2-5",
+   "rw_db": 45.0,
+   "c_db": 0.0,
+   "ctr_db": -2.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-RAPPORT-D-ESSAIS-IFT-PORTES-EI60-1V-VITR-2-6",
+   "rw_db": 40.0,
+   "c_db": -1.0,
+   "ctr_db": -2.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-RAPPORT-D-ESSAIS-IFT-PORTES-EI60-1V-VITR-1",
+   "rw_db": 38.0,
+   "c_db": 0.0,
+   "ctr_db": -1.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-RAPPORT-D-ESSAIS-IFT-PORTES-EI60-1V-VITR-2",
+   "rw_db": 41.0,
+   "c_db": -1.0,
+   "ctr_db": -3.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-RAPPORT-D-ESSAIS-IFT-PORTES-EI60-1V-VITR-3",
+   "rw_db": 42.0,
+   "c_db": -1.0,
+   "ctr_db": -3.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-THERMFIX-VARIO-RW-36DB-1",
+   "rw_db": 36.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-THERMFIX-VARIO-RW-42DB-1",
+   "rw_db": 42.0,
+   "c_db": -2.0,
+   "ctr_db": -6.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-THERMFIX-VARIO-RW43DB-1",
+   "rw_db": 43.0,
+   "c_db": -1.0,
+   "ctr_db": -4.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-THERMFIX-VARIO-RW44DB-1",
+   "rw_db": 44.0,
+   "c_db": -2.0,
+   "ctr_db": -7.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  },
+  {
+   "performance_id": "PERF-RAP-THERMIFIX-VARIO-RW-45DB-1",
+   "rw_db": 45.0,
+   "c_db": -2.0,
+   "ctr_db": -7.0,
+   "norme_id": "NRM-EN-ISO-717-1"
+  }
+ ]
 }

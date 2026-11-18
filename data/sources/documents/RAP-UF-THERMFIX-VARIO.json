@@ -1,0 +1,104 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-UF-THERMFIX-VARIO",
+   "nom_fichier": "Thermique\\Thermfix Vario\\Uf Thermfix vario",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Thermique\\Thermfix Vario\\Uf Thermfix vario.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-UF-THERMFIX-VARIO",
+   "numero": "Uf Thermfix vario",
+   "numero_normalise": "Uf Thermfix vario",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "thermique",
+   "objet": "Uf Thermfix vario",
+   "laboratoire_id": "ORG-CSTB",
+   "date_emission": "2011-03-09",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 6,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-UF-THERMFIX-VARIO",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Thermique/Thermfix Vario"
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-UF-THERMFIX-VARIO",
+   "organisme_id": "ORG-CSTB",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-UF-THERMFIX-VARIO",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-UF-THERMFIX-VARIO",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-UF-THERMFIX-VARIO-1",
+   "document_id": "DOC-RAP-UF-THERMFIX-VARIO",
+   "code": "1",
+   "libelle": "Uf Thermfix vario",
+   "typologie_code": "facade_vitree",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-UF-THERMFIX-VARIO-AUTO",
+   "document_id": "DOC-RAP-UF-THERMFIX-VARIO",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-UF-THERMFIX-VARIO",
+   "type_code": "extraction_auto",
+   "description": "Rapport Uf Thermfix vario (thermique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTRL-RAP-UF-THERMFIX-VARIO-NT",
+   "document_id": "DOC-RAP-UF-THERMFIX-VARIO",
+   "table_cible": "performance",
+   "ligne_id": null,
+   "type_code": "non_trouve",
+   "description": "Aucune classe / valeur lue automatiquement : à saisir.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

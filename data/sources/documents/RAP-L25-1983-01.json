@@ -1,0 +1,104 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-L25-1983-01",
+   "nom_fichier": "A.E.V\\Presto XS\\GBD_LAB_L25_1983_01_2025 Châssis fixe avec traverses et montants intérmédiaires",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\A.E.V\\Presto XS\\GBD_LAB_L25_1983_01_2025 Châssis fixe avec traverses et montants intérmédiaires.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-L25-1983-01",
+   "numero": "L25_1983_01",
+   "numero_normalise": "L25_1983_01",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "aev",
+   "objet": "GBD_LAB_L25_1983_01_2025 Châssis fixe avec traverses et montants intérmédiaires",
+   "laboratoire_id": "ORG-GBD-LAB",
+   "date_emission": "2025-07-03",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 85,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-L25-1983-01",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : A.E.V/Presto XS"
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-L25-1983-01",
+   "organisme_id": "ORG-GBD-LAB",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-L25-1983-01",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-L25-1983-01",
+   "systeme_id": "SYS-PRESTO-XS",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-L25-1983-01-1",
+   "document_id": "DOC-RAP-L25-1983-01",
+   "code": "1",
+   "libelle": "GBD_LAB_L25_1983_01_2025 Châssis fixe avec traverses et montants intérmédiaires",
+   "typologie_code": "chassis_fixe",
+   "systeme_id": "SYS-PRESTO-XS",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-L25-1983-01-AUTO",
+   "document_id": "DOC-RAP-L25-1983-01",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-L25-1983-01",
+   "type_code": "extraction_auto",
+   "description": "Rapport L25_1983_01 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTRL-RAP-L25-1983-01-NT",
+   "document_id": "DOC-RAP-L25-1983-01",
+   "table_cible": "performance",
+   "ligne_id": null,
+   "type_code": "non_trouve",
+   "description": "Aucune classe / valeur lue automatiquement : à saisir.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

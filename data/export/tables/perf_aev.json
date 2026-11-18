@@ -10,5 +10,266 @@
   "pression_vent_pa",
   "norme_id"
  ],
- "lignes": []
+ "lignes": [
+  {
+   "performance_id": "PERF-RAP-102-30650-1-R1F-1",
+   "classe_air": "4",
+   "classe_eau": "9A",
+   "classe_vent": "C4",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-102-30650-1",
+   "classe_air": "4",
+   "classe_eau": "9A",
+   "classe_vent": "C5",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-102-32902-1F-1",
+   "classe_air": "4",
+   "classe_eau": "9A",
+   "classe_vent": "C5",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-102-32902-2F-1",
+   "classe_air": "4",
+   "classe_eau": "8A",
+   "classe_vent": "C4",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-102-35800-2-1",
+   "classe_air": "4",
+   "classe_eau": "4A",
+   "classe_vent": "C3",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-11-000691-PB01-1",
+   "classe_air": "1",
+   "classe_eau": "1A",
+   "classe_vent": "C1",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-11-000691-PB02-1",
+   "classe_air": "2",
+   "classe_eau": "2A",
+   "classe_vent": "C2",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-11-002983-PR01-1",
+   "classe_air": "4",
+   "classe_eau": "5A",
+   "classe_vent": "C3",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-11-002983-PR06-1",
+   "classe_air": "2",
+   "classe_eau": "3A",
+   "classe_vent": "C1",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-14-000878-PR02-1",
+   "classe_air": "4",
+   "classe_eau": "6A",
+   "classe_vent": "C3",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-14-000878-PR06-1",
+   "classe_air": "4",
+   "classe_eau": "9A",
+   "classe_vent": "C4",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-15-00506-PR01-1",
+   "classe_air": "4",
+   "classe_eau": "8A",
+   "classe_vent": "C5",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-17-000054-PR01-1",
+   "classe_air": "4",
+   "classe_eau": "9A",
+   "classe_vent": "C4",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-17-000054-PR02-1",
+   "classe_air": "4",
+   "classe_eau": "9A",
+   "classe_vent": "C4",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-201-31438-1",
+   "classe_air": "3",
+   "classe_eau": "4A",
+   "classe_vent": "C3",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-201-36283-1",
+   "classe_air": "4",
+   "classe_eau": null,
+   "classe_vent": "C3",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-201-36285-1",
+   "classe_air": "3",
+   "classe_eau": "4A",
+   "classe_vent": "C3",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-201-36288-1",
+   "classe_air": "2",
+   "classe_eau": "8A",
+   "classe_vent": "C2",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-201-36291-1",
+   "classe_air": "2",
+   "classe_eau": "5A",
+   "classe_vent": "C2",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-21-004446-PR01-2-1",
+   "classe_air": "4",
+   "classe_eau": "7A",
+   "classe_vent": "C4",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-AEV-NORM50-A4-E8A-VB2-CSTB-2002-1",
+   "classe_air": "4",
+   "classe_eau": "8A",
+   "classe_vent": "B2",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-BEB1-L-5033-1",
+   "classe_air": "4",
+   "classe_eau": "8A",
+   "classe_vent": "C3",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-L24-2770-01-1",
+   "classe_air": "4",
+   "classe_eau": "7A",
+   "classe_vent": "C3",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-L25-1339-01-1",
+   "classe_air": "4",
+   "classe_eau": "7A",
+   "classe_vent": "C4",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-L25-1628-01-1",
+   "classe_air": "4",
+   "classe_eau": "1050",
+   "classe_vent": "C4",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  },
+  {
+   "performance_id": "PERF-RAP-L25-1629-01-1",
+   "classe_air": "4",
+   "classe_eau": "7A",
+   "classe_vent": "C4",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  }
+ ]
 }

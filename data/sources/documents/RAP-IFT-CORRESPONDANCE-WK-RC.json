@@ -1,0 +1,84 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-IFT-CORRESPONDANCE-WK-RC",
+   "nom_fichier": "Résistance à l'effraction (RC)\\Thermfix Vario\\CR1-2-3\\IFT Correspondance WK - RC",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Résistance à l'effraction (RC)\\Thermfix Vario\\CR1-2-3\\IFT Correspondance WK - RC.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-IFT-CORRESPONDANCE-WK-RC",
+   "numero": "IFT Correspondance WK - RC",
+   "numero_normalise": "IFT Correspondance WK - RC",
+   "revision": null,
+   "type_code": "synthese_fabricant",
+   "domaine_code": "effraction",
+   "objet": "IFT Correspondance WK - RC",
+   "laboratoire_id": null,
+   "date_emission": null,
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 1,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-IFT-CORRESPONDANCE-WK-RC",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Résistance à l'effraction (RC)/Thermfix Vario/CR1-2-3 ; date non lue (année du nom : inconnue)"
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-IFT-CORRESPONDANCE-WK-RC",
+   "norme_id": "NRM-EN-1627",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-IFT-CORRESPONDANCE-WK-RC",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-IFT-CORRESPONDANCE-WK-RC-1",
+   "document_id": "DOC-RAP-IFT-CORRESPONDANCE-WK-RC",
+   "code": "1",
+   "libelle": "IFT Correspondance WK - RC",
+   "typologie_code": "facade_vitree",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-IFT-CORRESPONDANCE-WK-RC-AUTO",
+   "document_id": "DOC-RAP-IFT-CORRESPONDANCE-WK-RC",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-IFT-CORRESPONDANCE-WK-RC",
+   "type_code": "extraction_auto",
+   "description": "Rapport IFT Correspondance WK - RC (effraction) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

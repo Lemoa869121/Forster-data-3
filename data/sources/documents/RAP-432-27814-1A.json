@@ -1,0 +1,129 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-432-27814-1A",
+   "nom_fichier": "Thermique\\Thermfix Vario\\432 27814-1a",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Thermique\\Thermfix Vario\\432 27814-1a.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-432-27814-1A",
+   "numero": "432 27814-1a",
+   "numero_normalise": "432 27814-1a",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "thermique",
+   "objet": "432 27814-1a",
+   "laboratoire_id": "ORG-IFT",
+   "date_emission": "2004-02-18",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 34,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-432-27814-1A",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Thermique/Thermfix Vario"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-432-27814-1A-P1",
+   "document_id": "DOC-RAP-432-27814-1A",
+   "page_doc": 1,
+   "page_doc_total": 34,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-432-27814-1A",
+   "organisme_id": "ORG-IFT",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-432-27814-1A",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-432-27814-1A",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-432-27814-1A-1",
+   "document_id": "DOC-RAP-432-27814-1A",
+   "code": "1",
+   "libelle": "432 27814-1a",
+   "typologie_code": "facade_vitree",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-432-27814-1A-1",
+   "document_id": "DOC-RAP-432-27814-1A",
+   "configuration_id": "CFG-RAP-432-27814-1A-1",
+   "domaine_code": "thermique",
+   "libelle_tel_qu_ecrit": "Uf = 1,5 - 2,4",
+   "classe_normalisee": "Uf 1.5-2.4 W/(m2.K)",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-432-27814-1A-P1",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_mesure": [
+  {
+   "performance_id": "PERF-RAP-432-27814-1A-1",
+   "grandeur": "Uf",
+   "valeur_min": 1.5,
+   "valeur_max": 2.4,
+   "unite": "W/(m2.K)",
+   "norme_id": "NRM-EN-ISO-10077-2"
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-432-27814-1A-AUTO",
+   "document_id": "DOC-RAP-432-27814-1A",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-432-27814-1A",
+   "type_code": "extraction_auto",
+   "description": "Rapport 432 27814-1a (thermique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

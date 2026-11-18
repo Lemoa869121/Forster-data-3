@@ -183,6 +183,1638 @@
   },
   {
    "objet_type": "document",
+   "objet_id": "DOC-RAP-02-11-1206",
+   "document_id": "DOC-RAP-02-11-1206",
+   "texte": "02-11-1206 02-11-1206 thermfix_vario_einbruch_wk2_02-11-1206_de rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-04-01-1281",
+   "document_id": "DOC-RAP-04-01-1281",
+   "texte": "04-01-1281 04-01-1281 thermfix_vario_einbruch_wk1_04-01-1281_de rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-04-08-1318",
+   "document_id": "DOC-RAP-04-08-1318",
+   "texte": "04-08-1318 04-08-1318 pte rosenheim_rc3_porte ei30_04-08-1318_2004 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-05-10-A116-B1",
+   "document_id": "DOC-RAP-05-10-A116-B1",
+   "texte": "05-10-a116-b1 05-10-a116-b1 einbruch_05-10-a116-b1_2006 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-07-07-A135-B1",
+   "document_id": "DOC-RAP-07-07-A135-B1",
+   "texte": "07-07-a135-b1 07-07-a135-b1 pfb - rc3 - fenetre 1 vantail - 07-07-a135-b1_2007 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-08-03-A062-K1",
+   "document_id": "DOC-RAP-08-03-A062-K1",
+   "texte": "08-03-a062-k1 08-03-a062-k1 kurzbericht_08-03-a062-k1_2008 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-08-03-A062-K2",
+   "document_id": "DOC-RAP-08-03-A062-K2",
+   "texte": "08-03-a062-k2 08-03-a062-k2 kurzbericht_08-03-a062-k2_2008 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-08-03-A062-K3",
+   "document_id": "DOC-RAP-08-03-A062-K3",
+   "texte": "08-03-a062-k3 08-03-a062-k3 pfb - rc3 - fenetre - 08-03-a062-k3_2008 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-08-09-A237-B1",
+   "document_id": "DOC-RAP-08-09-A237-B1",
+   "texte": "08-09-a237-b1 08-09-a237-b1 einbruch_08-09-a237-b1_2008 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-08-10-A287-B1",
+   "document_id": "DOC-RAP-08-10-A287-B1",
+   "texte": "08-10-a287-b1 08-10-a287-b1 einbruch_08-10-a287-b1_2009 27.10.2026 16-47-27 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-08-10-A287-K1",
+   "document_id": "DOC-RAP-08-10-A287-K1",
+   "texte": "08-10-a287-k1 08-10-a287-k1 kurzbericht_08-10-a287-k1_2009 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-08-10-A287-K2",
+   "document_id": "DOC-RAP-08-10-A287-K2",
+   "texte": "08-10-a287-k2 08-10-a287-k2 kurzbericht_08-10-a287-k2_2009 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-08-10-A287-K3-2",
+   "document_id": "DOC-RAP-08-10-A287-K3-2",
+   "texte": "08-10-a287-k3 08-10-a287-k3-2 pfb - rc3 - porte - 08-10-a287-k3_2009 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-08-10-A287-K3",
+   "document_id": "DOC-RAP-08-10-A287-K3",
+   "texte": "08-10-a287-k3 08-10-a287-k3 pfb - rc3 - porte - 08-10-a287-k3_2009 - complet rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-08-2017-FE-117",
+   "document_id": "DOC-RAP-08-2017-FE-117",
+   "texte": "08-2017-fe-117 08-2017-fe-117 fraunhofer - epr1 s - 08-2017-fe-117 - 2017 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-08-2017-FE-118-119",
+   "document_id": "DOC-RAP-08-2017-FE-118-119",
+   "texte": "08-2017-fe-118-119 08-2017-fe-118-119 fraunhofer - epr1 ns - 08-2017-fe-118-119 - 2017 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-102-30650-1-R1F",
+   "document_id": "DOC-RAP-102-30650-1-R1F",
+   "texte": "102 30650_1 r1f 102 30650_1 r1f aev_ob_1_vantail_lxh=1600x2260_a4_e9a_vc4_ift_2007 (102 30650_1 r1f) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-102-30650",
+   "document_id": "DOC-RAP-102-30650",
+   "texte": "102 30650 102 30650 aev_ob_1_vantail_lxh=1515x1367_sur_allege_a4_e9a_vc5_ift_2006 (102 306503 r1f) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-102-32902-1F",
+   "document_id": "DOC-RAP-102-32902-1F",
+   "texte": "102 32902 1f 102 32902 1f aev_ob_1_vantail_lxh=1341x1480_a4_e9a_vc5_ift_2007 (102 32902 1f) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-102-32902-2F",
+   "document_id": "DOC-RAP-102-32902-2F",
+   "texte": "102 32902 2f 102 32902 2f aev_ob_2_vantaaux_lxh=2538x1480_a4_e8a_vc4_ift_2007 (102 32902 2f) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-102-35800-2",
+   "document_id": "DOC-RAP-102-35800-2",
+   "texte": "102 35800 2 102 35800 2 presto_fenetres_divers_ift_2009 (102 35800 2e) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-102-35800-3",
+   "document_id": "DOC-RAP-102-35800-3",
+   "texte": "102 35800 3 102 35800 3 fenetre_2_vantaux_petits_profiles_presto_ift_2009_(102 35800 3e) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-102-37642F",
+   "document_id": "DOC-RAP-102-37642F",
+   "texte": "102 37642f 102 37642f aev_1_vantail_ift_2009 (102 37642f) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-106-41178-1-R1F",
+   "document_id": "DOC-RAP-106-41178-1-R1F",
+   "texte": "106 41178_1 r1f 106 41178_1 r1f ob_1_vantail_lxh=1424x1324_permeabilite_air_+_essais_mecaniques_ift_2010 (106 41178_1 r1f) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-108-29778-1F",
+   "document_id": "DOC-RAP-108-29778-1F",
+   "texte": "108 29778 1f 108 29778 1f aev_01_ift_2005 (108 29778 1f) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-108-29778-2F",
+   "document_id": "DOC-RAP-108-29778-2F",
+   "texte": "108 29778 2f 108 29778 2f aev_02_ift_2005 (108 29778 2f) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-108-31063F",
+   "document_id": "DOC-RAP-108-31063F",
+   "texte": "108 31063f 108 31063f aev_ift_2006 (108 31063f) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-11-000691-PB01",
+   "document_id": "DOC-RAP-11-000691-PB01",
+   "texte": "11-000691-pb01 11-000691-pb01 portes_2_vantaux-ouverture_exterieure_ift_2011(11-000691-pb01-c01-02-de-01) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-11-000691-PB02",
+   "document_id": "DOC-RAP-11-000691-PB02",
+   "texte": "11-000691-pb02 11-000691-pb02 portes_1_vantail-ouverture_exterieure_ift_2011 (11-000691-pb02-c01-02-de-01) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-11-002650-PR01-2",
+   "document_id": "DOC-RAP-11-002650-PR01-2",
+   "texte": "11-002650-pr01_2 11-002650-pr01_2 z_funktion_11-002650-pr01_2012_wv_en rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-11-002839-PR01",
+   "document_id": "DOC-RAP-11-002839-PR01",
+   "texte": "11 002839 pr01 11 002839 pr01 aev_ob_1_vantail_lxh=1250x2570_profiles-fins_a4_e7a_ou_8a_vc3_ift_2011 (11 002839 pr01) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-11-002983-PR01",
+   "document_id": "DOC-RAP-11-002983-PR01",
+   "texte": "11 002983 pr01 11 002983 pr01 aev_1_vantail_ouverture_exterieure_ift_2012 (11 002983 pr01) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-11-002983-PR03",
+   "document_id": "DOC-RAP-11-002983-PR03",
+   "texte": "11-002983-pr03 11-002983-pr03 ift - porte unico anti-pince doigts - 11-002983-pr03 - 2013 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-11-002983-PR06",
+   "document_id": "DOC-RAP-11-002983-PR06",
+   "texte": "11 002983 pr06 11 002983 pr06 aev_2_vantaux_ouverture_exterieure_ift_2012 ((11 002983 pr06) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-11-003224-PR01",
+   "document_id": "DOC-RAP-11-003224-PR01",
+   "texte": "11-003224-pr01 11-003224-pr01 produktpass_thermfix_vario_fr_11-003224-pr01_fr passeport_ce"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-11-003644-PR01-2",
+   "document_id": "DOC-RAP-11-003644-PR01-2",
+   "texte": "11-003644-pr01_2 11-003644-pr01_2 klasse_11-003644-pr01_2013_fuego light porte ei60-en rapport_classement"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-12-003174-PR01",
+   "document_id": "DOC-RAP-12-003174-PR01",
+   "texte": "12-003174-pr01 12-003174-pr01 907 662 gas 12-003174-pr01 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-12-003331-PR01-2",
+   "document_id": "DOC-RAP-12-003331-PR01-2",
+   "texte": "12-003331-pr01_2 12-003331-pr01_2 klasse_12-003331-pr01_2012_fuego light porte ei30-en rapport_classement"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-12-003331-PR02-2",
+   "document_id": "DOC-RAP-12-003331-PR02-2",
+   "texte": "12-003331-pr02_2 12-003331-pr02_2 klasse_12-003331-pr02_2012_fuego light porte ei30-en rapport_classement"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-12-003635-PR01",
+   "document_id": "DOC-RAP-12-003635-PR01",
+   "texte": "12-003635-pr01 12-003635-pr01 systempass_unico_tuer_12-003635-pr01_fr passeport_ce"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-13-002986-PR01-2",
+   "document_id": "DOC-RAP-13-002986-PR01-2",
+   "texte": "13-002986-pr01_2 13-002986-pr01_2 unico - portes issues de secours en179+1125 - ift 13-002986-pr01_2022 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-13-08-A288-G2",
+   "document_id": "DOC-RAP-13-08-A288-G2",
+   "texte": "13-08-a288-g2 13-08-a288-g2 pfb - rc3+fb4ns - fenetre + fixe _13-08-a288-g2_2015 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-13-11-A383-B1",
+   "document_id": "DOC-RAP-13-11-A383-B1",
+   "texte": "13-11-a383-b1 13-11-a383-b1 pfb - rc2 - porte 2 vantaux vitree + tolee _13-11-a383-b1_2014 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-13-11-A384-B1",
+   "document_id": "DOC-RAP-13-11-A384-B1",
+   "texte": "13-11-a384-b1 13-11-a384-b1 pfb - rc3 - chassis fixe - 13-11-a384-b1_2014 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-14-000878-PR02",
+   "document_id": "DOC-RAP-14-000878-PR02",
+   "texte": "14 000878 pr02 14 000878 pr02 aev_ob_2_vantaux_lxh=3088x2600_a4_e6a_vc3_ift_2017 (14 000878 pr02) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-14-000878-PR04",
+   "document_id": "DOC-RAP-14-000878-PR04",
+   "texte": "14 000878 pr04 14 000878 pr04 aev_1_vantail_ouverture_exterieure_seuil_suisse_ift_2017 (14 000878 pr04) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-14-000878-PR05",
+   "document_id": "DOC-RAP-14-000878-PR05",
+   "texte": "14-000878-pr05 14-000878-pr05 14-000878-pr05 pb-c01-03-fr-01 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-14-000878-PR06",
+   "document_id": "DOC-RAP-14-000878-PR06",
+   "texte": "14 000878 pr06 14 000878 pr06 aev_ob_1_vantail_+_fixe_lateral_hauteur_2485_a4_e9a_vc4_ift_2009 (14 000878 pr06) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-14-001811-PR01",
+   "document_id": "DOC-RAP-14-001811-PR01",
+   "texte": "14-001811-pr01 14-001811-pr01 aev_avis de laboratoire 1 comparaison unico et unico xs_+_paumelle_visible_sur_parclose_ift_2014 (14-001811-pr01) avis_expertise"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-14-001811-PR02-2",
+   "document_id": "DOC-RAP-14-001811-PR02-2",
+   "texte": "14-001811-pr02_2 14-001811-pr02_2 accoustique -14-001811-pr02_2014 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-14-002403-PR01-2",
+   "document_id": "DOC-RAP-14-002403-PR01-2",
+   "texte": "14-002403-pr01_2 14-002403-pr01_2 907 740 funktion_14-002403-pr01_2015 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-14-05-A196-G1",
+   "document_id": "DOC-RAP-14-05-A196-G1",
+   "texte": "14-05-a196-g1 14-05-a196-g1 chassis fixes rc4 avec vitrages p7b - pfb_14-05-a196-g1 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-15-001026-PR03-2",
+   "document_id": "DOC-RAP-15-001026-PR03-2",
+   "texte": "15-001026-pr03_2 15-001026-pr03_2 ift_rc2_porte ei30_15-001026-pr03_2016 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-15-001026-PR04-2",
+   "document_id": "DOC-RAP-15-001026-PR04-2",
+   "texte": "15-001026-pr04_2 15-001026-pr04_2 ift_rc2_porte ei30_15-001026-pr04_2016 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-15-001026-PR05-2",
+   "document_id": "DOC-RAP-15-001026-PR05-2",
+   "texte": "15-001026-pr05_2 15-001026-pr05_2 ift_rc2_porte ei30_15-001026-pr05_2017 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-15-001026-PR06-2",
+   "document_id": "DOC-RAP-15-001026-PR06-2",
+   "texte": "15-001026-pr06_2 15-001026-pr06_2 ift_rc2_porte ei30 vitree ou panneaux pleins toles_15-001026-pr06_2017 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-15-001026-PR07-2",
+   "document_id": "DOC-RAP-15-001026-PR07-2",
+   "texte": "15-001026-pr07_2 15-001026-pr07_2 ift_rc2_porte ei30 vitree ou panneaux bois_15-001026-pr07_2016 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-15-001026-PR08-2",
+   "document_id": "DOC-RAP-15-001026-PR08-2",
+   "texte": "15-001026-pr08_2 15-001026-pr08_2 ift_rc2_porte ei30 vitree ou panneaux bois_15-001026-pr08_2016 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-15-001026-PR09-2",
+   "document_id": "DOC-RAP-15-001026-PR09-2",
+   "texte": "15-001026-pr09_2 15-001026-pr09_2 ift_rc3_porte ei30 tolee 1 vantail_15-001026-pr09_2021 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-15-00226-PR01",
+   "document_id": "DOC-RAP-15-00226-PR01",
+   "texte": "15 00226 pr01 15 00226 pr01 aev_avis de laboratoire 2 comparaison unico et unico xs_ift_2015 (15 00226 pr01) avis_expertise"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-15-003926-PR02-2",
+   "document_id": "DOC-RAP-15-003926-PR02-2",
+   "texte": "15-003926-pr02_2 15-003926-pr02_2 klasse_15-003926-pr02_2016_presto porte e30-en rapport_classement"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-15-004281-PR01",
+   "document_id": "DOC-RAP-15-004281-PR01",
+   "texte": "15 004281 pr01 15 004281 pr01 avis_de_laboratoire_ift_2016_aev_differents_types_de_seuils (15 004281 pr01_3) avis_expertise"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-15-00506-PR01",
+   "document_id": "DOC-RAP-15-00506-PR01",
+   "texte": "15 00506 pr01 15 00506 pr01 aev_ob_1_vantail_+_fixe_lateral_hauteur_2310_a4_e8a_vc5_ift_2018 (15 00506 pr01) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-15-0152-01",
+   "document_id": "DOC-RAP-15-0152-01",
+   "texte": "15-0152-01 15-0152-01 einbruch_15-0152-01_2015 01.07.2024 12-22-13 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-15-04-A156-B1",
+   "document_id": "DOC-RAP-15-04-A156-B1",
+   "texte": "15-04-a156-b1 15-04-a156-b1 pfb - rc2 - fenetre xs 1 vantail -15-04-a156-b1_2015 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-155-41178-1",
+   "document_id": "DOC-RAP-155-41178-1",
+   "texte": "155 41178_1 155 41178_1 aev_avis de laboratoire comparaison unico et unico fin_ift_2010 (155 41178_1) avis_expertise"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-16-001013-PR04-2",
+   "document_id": "DOC-RAP-16-001013-PR04-2",
+   "texte": "16-001013-pr04_2 16-001013-pr04_2 klasse_16-001013-pr04_2017 _unico porte ei30-fr rapport_classement"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-16-001037-PR01",
+   "document_id": "DOC-RAP-16-001037-PR01",
+   "texte": "16 001037-pr01 16 001037-pr01 aev_+_choc_ift_2016 (16 001037-pr01) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-16-001854-PR01-2",
+   "document_id": "DOC-RAP-16-001854-PR01-2",
+   "texte": "16-001854-pr01_2 16-001854-pr01_2 ift_rc3_porte ei30_16-001854-pr01_2017 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-16-001854-PR03-2",
+   "document_id": "DOC-RAP-16-001854-PR03-2",
+   "texte": "16-001854-pr03_2 16-001854-pr03_2 ift_rc3_porte ei30 vitree ou panneaux bois_16-001854-pr03_2017 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-16-001854-PR04-2",
+   "document_id": "DOC-RAP-16-001854-PR04-2",
+   "texte": "16-001854-pr04_2 16-001854-pr04_2 ift_rc3_porte ei30 vitree ou panneaux bois_16-001854-pr04_2017 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-16-001854-PR05-2",
+   "document_id": "DOC-RAP-16-001854-PR05-2",
+   "texte": "16-001854-pr05_2 16-001854-pr05_2 ift_rc3_porte ei30_16-001854-pr05_2017 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-16-001854-PR06-2",
+   "document_id": "DOC-RAP-16-001854-PR06-2",
+   "texte": "16-001854-pr06_2 16-001854-pr06_2 ift_rc3_fixe ei30_16-001854-pr06_2017 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-16-001854-PR07-2",
+   "document_id": "DOC-RAP-16-001854-PR07-2",
+   "texte": "16-001854-pr07_2 16-001854-pr07_2 ift_rc3_fixe ei30_16-001854-pr07_2017 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-16-002111-PR01",
+   "document_id": "DOC-RAP-16-002111-PR01",
+   "texte": "16 002111 pr01 16 002111 pr01 aev_avis de laboratoire 3 comparaison unico et unico xs_absence_d'eau_sous_les_parcloses_ift_2016 (16 002111 pr01) avis_expertise"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-16-002410-PR01-2",
+   "document_id": "DOC-RAP-16-002410-PR01-2",
+   "texte": "16-002410-pr01_2 16-002410-pr01_2 funktion_16-002410-pr01_2016 09.09.2022 08-30-27 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-16-002618-PR01-2",
+   "document_id": "DOC-RAP-16-002618-PR01-2",
+   "texte": "16-002618-pr01_2 16-002618-pr01_2 klasse_16-002618-pr01_2019_unico fenetre ei30-de rapport_classement"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-16-002620-PR01-2",
+   "document_id": "DOC-RAP-16-002620-PR01-2",
+   "texte": "16-002620-pr01_2 16-002620-pr01_2 klasse_16-002620-pr01_2019_unico fenetre ew30-de rapport_classement"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-16-05-2024",
+   "document_id": "DOC-RAP-16-05-2024",
+   "texte": "16-05-2024 16-05-2024 forster tableau recap resistance effraction 16-05-2024 synthese_fabricant"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-161-30936-Z10F",
+   "document_id": "DOC-RAP-161-30936-Z10F",
+   "texte": "161_30936_z10f 161_30936_z10f 161_30936_z10f_forster_rohr_50 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-161-30936-Z11F",
+   "document_id": "DOC-RAP-161-30936-Z11F",
+   "texte": "161_30936_z11f 161_30936_z11f 161_30936_z11f_forster_rohr_45 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-161-30936-Z12F",
+   "document_id": "DOC-RAP-161-30936-Z12F",
+   "texte": "161_30936_z12f 161_30936_z12f 161_30936_z12f_forster_38 rohr rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-161-30936-Z13F",
+   "document_id": "DOC-RAP-161-30936-Z13F",
+   "texte": "161_30936_z13f 161_30936_z13f 161_30936_z13f_forster_rohr_32 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-161-30936-Z14",
+   "document_id": "DOC-RAP-161-30936-Z14",
+   "texte": "161_30936-z14 161_30936-z14 161_30936-z14_2006 (chassis fixe) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-161-30936-Z14F",
+   "document_id": "DOC-RAP-161-30936-Z14F",
+   "texte": "161_30936_z14f 161_30936_z14f chassis fixe unico_ift (161_30936_z14f)_2007 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-161-30936-Z15F",
+   "document_id": "DOC-RAP-161-30936-Z15F",
+   "texte": "161_30936_z15f 161_30936_z15f 161_30936_z15f_forster_rohr rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-161-30936-Z16F",
+   "document_id": "DOC-RAP-161-30936-Z16F",
+   "texte": "161_30936_z16f 161_30936_z16f 161_30936_z16f_50_nass_forster rohr rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-161-30936-Z1F-2",
+   "document_id": "DOC-RAP-161-30936-Z1F-2",
+   "texte": "161_30936_z1f 161_30936_z1f-2 161_30936_z1f_forster_rohr_32 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-161-30936-Z1F",
+   "document_id": "DOC-RAP-161-30936-Z1F",
+   "texte": "161_30936_z1f 161_30936_z1f 161_30936_z1f_forster rohr_32_deckblatt rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-161-30936-Z27",
+   "document_id": "DOC-RAP-161-30936-Z27",
+   "texte": "161_30936_z27 161_30936_z27 161_30936_z27_ forster_rohr rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-161-30936-Z27F",
+   "document_id": "DOC-RAP-161-30936-Z27F",
+   "texte": "161_30936_z27f 161_30936_z27f 161_30936_z27f_forster_rohr_deckblatt rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-161-30936-Z28F",
+   "document_id": "DOC-RAP-161-30936-Z28F",
+   "texte": "161_30936_z28f 161_30936_z28f 161_30936_z28f_forster_rohr rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-161-30936-Z2F-2",
+   "document_id": "DOC-RAP-161-30936-Z2F-2",
+   "texte": "161_30936_z2f 161_30936_z2f-2 161_30936_z2f_forster_rohr_50_deckblatt rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-161-30936-Z2F",
+   "document_id": "DOC-RAP-161-30936-Z2F",
+   "texte": "161_30936_z2f 161_30936_z2f 161_30936_z2f_forster_50 rohr rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-161-30936-Z5F-2",
+   "document_id": "DOC-RAP-161-30936-Z5F-2",
+   "texte": "161_30936_z5f 161_30936_z5f-2 161_30936_z5f_forster_rohr_45_deckblatt rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-161-30936-Z5F",
+   "document_id": "DOC-RAP-161-30936-Z5F",
+   "texte": "161_30936_z5f 161_30936_z5f 161_30936_z5f_forster_rohr_45 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-161-30936-Z6F-2",
+   "document_id": "DOC-RAP-161-30936-Z6F-2",
+   "texte": "161_30936_z6f 161_30936_z6f-2 161_30936_z6f_forster_rohr_38_deckblatt rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-161-30936-Z6F",
+   "document_id": "DOC-RAP-161-30936-Z6F",
+   "texte": "161_30936_z6f 161_30936_z6f 161_30936_z6f_forster_rohr_38 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-16137053-Z04",
+   "document_id": "DOC-RAP-16137053-Z04",
+   "texte": "16137053-z04 16137053-z04 schall_16137053-z04_2009 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-16137053-Z09",
+   "document_id": "DOC-RAP-16137053-Z09",
+   "texte": "16137053-z09 16137053-z09 schall_16137053-z09_2009 eng rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-16137053",
+   "document_id": "DOC-RAP-16137053",
+   "texte": "16137053 16137053 presto_schalldaemmung_fenster_16137053_2009_en rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-16237053-Z12",
+   "document_id": "DOC-RAP-16237053-Z12",
+   "texte": "16237053-z12 16237053-z12 schall_16237053-z12_2009 eng rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-16237053-Z14",
+   "document_id": "DOC-RAP-16237053-Z14",
+   "texte": "16237053-z14 16237053-z14 schall_16237053-z14_2009 eng rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-16243582-Z08",
+   "document_id": "DOC-RAP-16243582-Z08",
+   "texte": "16243582-z08 16243582-z08 schall_16243582-z08_2010_60s 43 db 1vant rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-17-000054-PR01",
+   "document_id": "DOC-RAP-17-000054-PR01",
+   "texte": "17-000054 pr01 17-000054 pr01 aev_1_vantail_ouvrant_a_l'anglaise_lxh=804x1639_a4_e9a_vc4_ift_2017 (17-000054 pr01) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-17-000054-PR02",
+   "document_id": "DOC-RAP-17-000054-PR02",
+   "texte": "17 000054 pr02 17 000054 pr02 aev_projection_exterieure_ift_2017 (17 000054 pr02) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-17143578-1",
+   "document_id": "DOC-RAP-17143578-1",
+   "texte": "17143578-1 17143578-1 porte coulissante a levier_17143578-1_2010 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-17143578-2",
+   "document_id": "DOC-RAP-17143578-2",
+   "texte": "17143578-2 17143578-2 porte coulissante a levier_17143578-2_2010 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-17143578-3",
+   "document_id": "DOC-RAP-17143578-3",
+   "texte": "17143578-3 17143578-3 porte coulissante a levier_17143578-3_2010 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-17143578-4",
+   "document_id": "DOC-RAP-17143578-4",
+   "texte": "17143578-4 17143578-4 porte coulissante a levier_17143578-4_2010 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-175-32901-3F",
+   "document_id": "DOC-RAP-175-32901-3F",
+   "texte": "175 32901-3f 175 32901-3f a.ex 175 32901-3f rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-175-32901-4F",
+   "document_id": "DOC-RAP-175-32901-4F",
+   "texte": "175 32901-4f 175 32901-4f a.ex 175 32901-4f rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-19-000121-PR03-2",
+   "document_id": "DOC-RAP-19-000121-PR03-2",
+   "texte": "19-000121-pr03_2 19-000121-pr03_2 schall_19-000121-pr03_2019 09.03.2021 14-42-12 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-19-001303-PR03",
+   "document_id": "DOC-RAP-19-001303-PR03",
+   "texte": "19-001303-pr03 19-001303-pr03 aev_chassis_fixe_unico_ift_2019 (19-001303-pr03) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-19-004387-PR01",
+   "document_id": "DOC-RAP-19-004387-PR01",
+   "texte": "19-004387-pr01 19-004387-pr01 chassis fixe unico_ift (19-004387-pr01)_2020 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-20003643-37",
+   "document_id": "DOC-RAP-20003643-37",
+   "texte": "20003643-37 20003643-37 funktion-rauch_120003643-37_2013 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-201-31438",
+   "document_id": "DOC-RAP-201-31438",
+   "texte": "201 31438 201 31438 aev_1_vantail_ouverture_interieure_ift_2006 (201 31438) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-201-31439F",
+   "document_id": "DOC-RAP-201-31439F",
+   "texte": "201 31439f 201 31439f aev_1_vantail_ouverture_exterieure_seuil_suisse_ift_2007 (201 31439f) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-201-31440F",
+   "document_id": "DOC-RAP-201-31440F",
+   "texte": "201 31440f 201 31440f aev_2_vantaux_ouverture_interieure_ift_2006 (201 31440f) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-201-31441F",
+   "document_id": "DOC-RAP-201-31441F",
+   "texte": "201 31441f 201 31441f aev_2_vantaux_ouverture_exterieure_seuil_suisse_ift_2007 (201 31441f) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-201-36283",
+   "document_id": "DOC-RAP-201-36283",
+   "texte": "201 36283 201 36283 presto_portes_divers_ift_2009 (201 36283) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-201-36285",
+   "document_id": "DOC-RAP-201-36285",
+   "texte": "201 36285 201 36285 porte_1_vantail_ouverture_exterieure_ift_2009 (201 36285) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-201-36288",
+   "document_id": "DOC-RAP-201-36288",
+   "texte": "201 36288 201 36288 porte_2_vantaux_ouverture_exterieure_ift_2009 (201 36288) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-201-36291",
+   "document_id": "DOC-RAP-201-36291",
+   "texte": "201 36291 201 36291 porte_1_vantail_ouverture_exterieure_grande_hauteur_ift_2009 (201 36291) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-20135793-4",
+   "document_id": "DOC-RAP-20135793-4",
+   "texte": "20135793-4 20135793-4 funktion_20135793-4_2008 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-202-VERARBEITUNGSUNTERLAGE-THERMFIXVARIO",
+   "document_id": "DOC-RAP-202-VERARBEITUNGSUNTERLAGE-THERMFIXVARIO",
+   "texte": "202 verarbeitungsunterlage thermfixvario rc2-4 202 verarbeitungsunterlage thermfixvario rc2-4 202_verarbeitungsunterlage_thermfixvario_rc2-4 synthese_fabricant"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-2022-04-0117-K1",
+   "document_id": "DOC-RAP-2022-04-0117-K1",
+   "texte": "2022-04-0117-k1 2022-04-0117-k1 pfb - 2022-04-0117-k1 - cr4 - thermfix vario + porte unico - vetroguard - 2024 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-2022-04-0137-B1",
+   "document_id": "DOC-RAP-2022-04-0137-B1",
+   "texte": "2022-04-0137-b1 2022-04-0137-b1 ift_rc2_fixe_presto + fuegolight ei30_2022-04-0137-b1_2022 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-2022-04-0176-B1",
+   "document_id": "DOC-RAP-2022-04-0176-B1",
+   "texte": "2022-04-0176_b1 2022-04-0176_b1 ift - rc2 - fenetre 2 vantail sur allege + imposte a soufflet - 2022-04-0176_b1 - 2023 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-2022-04-0435-B2",
+   "document_id": "DOC-RAP-2022-04-0435-B2",
+   "texte": "2022-04-0435-b2 2022-04-0435-b2 pfb - rc2 - porte 2 vantaux coulissante a levage _2022-04-0435-b2_2024 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-2022-04-0435-K3",
+   "document_id": "DOC-RAP-2022-04-0435-K3",
+   "texte": "2022-04-0435-k3 2022-04-0435-k3 pfb - rc3 - porte 2 vantaux coulissante automatique - 2022-04-0435-k3 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-21-003479-PR01",
+   "document_id": "DOC-RAP-21-003479-PR01",
+   "texte": "21-003479-pr01 21-003479-pr01 ift - rc2 - fenetre 1 vantail - 21-003479-pr01 - 2021 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-21-003479-PR05",
+   "document_id": "DOC-RAP-21-003479-PR05",
+   "texte": "21-003479-pr05 21-003479-pr05 ift - rc2 - chassis fixe - 21-003479-pr05 - 2021 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-21-004446-PR01-2",
+   "document_id": "DOC-RAP-21-004446-PR01-2",
+   "texte": "21-004446-pr01_2 21-004446-pr01_2 ift_21-004446-pr01_2021 - aev 1 vantail ob seuil pmr_a4-e7a-vc4_lxh=1124x2804_ferrage cache rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-22-0208-01",
+   "document_id": "DOC-RAP-22-0208-01",
+   "texte": "22-0208-01 22-0208-01 s-22-0208-01_prufberichtzeichnungen_en1063certifikat_unico_fb6-ns certificat"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-25-005-REY",
+   "document_id": "DOC-RAP-25-005-REY",
+   "texte": "25.005-rey 25.005-rey aev_chassis fixe_unico dta_25.005-rey (en attente de validation mt) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-255-33951F",
+   "document_id": "DOC-RAP-255-33951F",
+   "texte": "255 33951f 255 33951f avis_de_laboratoire_ift_2007_unico_profiles_ouverts_vs_tubulaires (255 33951f) avis_expertise"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-3037-5295",
+   "document_id": "DOC-RAP-3037-5295",
+   "texte": "3037-5295 3037-5295 funktion_3037-5295_2005 907667 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-42237268",
+   "document_id": "DOC-RAP-42237268",
+   "texte": "42237268 42237268 presto_norm_waermedurchgangskoeffizient_42237268_1_en rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-432-27814-1A",
+   "document_id": "DOC-RAP-432-27814-1A",
+   "texte": "432 27814-1a 432 27814-1a 432 27814-1a rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-43227814-1",
+   "document_id": "DOC-RAP-43227814-1",
+   "texte": "43227814-1 43227814-1 warmedurchgang_43227814-1_2004 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-43230051-1",
+   "document_id": "DOC-RAP-43230051-1",
+   "texte": "43230051-1 43230051-1 warmedurchgang_43230051-1_2006 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-43230051-2",
+   "document_id": "DOC-RAP-43230051-2",
+   "texte": "43230051 43230051-2 uf_thermfix_light_stahl_43230051_01_fr rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-43230051-3",
+   "document_id": "DOC-RAP-43230051-3",
+   "texte": "43230051 43230051-3 uf_thermfix_light_weichholz_43230051_03_fr rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-43230051",
+   "document_id": "DOC-RAP-43230051",
+   "texte": "43230051 43230051 uf_thermfix_light_aluminium_43230051_02_fr rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-45-28-21",
+   "document_id": "DOC-RAP-45-28-21",
+   "texte": "45-28-21 45-28-21 piv_rc2_porte ei30_45-28-21_2021 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-4518-P6ETGCP-V1",
+   "document_id": "DOC-RAP-4518-P6ETGCP-V1",
+   "texte": "4518-p6etgcp-v1 4518-p6etgcp-v1 4518-p6etgcp-v1 (2022) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-A046-K1",
+   "document_id": "DOC-RAP-A046-K1",
+   "texte": "a046-k1 a046-k1 thermfix_vario_einbruch_wk3_a046-k1_fr rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-AEV-NORM50-A4-E8A-VB2-CSTB-2002",
+   "document_id": "DOC-RAP-AEV-NORM50-A4-E8A-VB2-CSTB-2002",
+   "texte": "aev norm50 a4-e8a-vb2 cstb 2002 aev norm50 a4-e8a-vb2 cstb 2002 aev_norm50_a4-e8a-vb2_cstb_2002 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-APPLICATION-CONFORME-CE-PRESTO-NORM-FENE",
+   "document_id": "DOC-RAP-APPLICATION-CONFORME-CE-PRESTO-NORM-FENE",
+   "texte": "application conforme-ce presto norm fenetres fr 8-10 application conforme-ce presto norm fenetres fr 8-10 application_conforme-ce_presto_norm_fenetres_fr_8-10 passeport_ce"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-APPLICATION-CONFORME-CE-PRESTO-PORTES-FR",
+   "document_id": "DOC-RAP-APPLICATION-CONFORME-CE-PRESTO-PORTES-FR",
+   "texte": "application conforme-ce presto portes fr 8-10 application conforme-ce presto portes fr 8-10 application_conforme-ce_presto_portes_fr_8-10 passeport_ce"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-AVIS-D-EXPERT-IFT-PORTES-EI30-1V-ET-2V-V",
+   "document_id": "DOC-RAP-AVIS-D-EXPERT-IFT-PORTES-EI30-1V-ET-2V-V",
+   "texte": "avis d'expert ift portes ei30 1v et 2v vitrages pilkington avis d'expert ift portes ei30 1v et 2v vitrages pilkington avis d'expert ift portes ei30 1v et 2v vitrages pilkington avis_expertise"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-BEB1-L-5033",
+   "document_id": "DOC-RAP-BEB1-L-5033",
+   "texte": "beb1.l.5033 beb1.l.5033 aev_of_2_vantaux_lxh=2000x2879_a4_e8a_vc3_cebtp_2021 (beb1.l.5033) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-BEB1-M-4073-1",
+   "document_id": "DOC-RAP-BEB1-M-4073-1",
+   "texte": "beb1.m.4073-1 beb1.m.4073-1 beb1.m.4073-1 vetroflam 8 ou 10 (1200j) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-BEB1-M-4073-2",
+   "document_id": "DOC-RAP-BEB1-M-4073-2",
+   "texte": "beb1.m.4073-2 beb1.m.4073-2 beb1.m.4073-2 vetroflam 6 (1200j) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-BEB1-M-4073-3",
+   "document_id": "DOC-RAP-BEB1-M-4073-3",
+   "texte": "beb1.m.4073-3 beb1.m.4073-3 beb1.m.4073-3 contraflam 30 (1200j) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-BEB1-M-4073-4",
+   "document_id": "DOC-RAP-BEB1-M-4073-4",
+   "texte": "beb1.m.4073-4 beb1.m.4073-4 beb1.m.4073-4 contraflam 30-2 (1200j) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-BESCHUSSAMT-FB7S-19-0200-04-2019",
+   "document_id": "DOC-RAP-BESCHUSSAMT-FB7S-19-0200-04-2019",
+   "texte": "beschussamt - fb7s - 19 0200 04 2019 beschussamt - fb7s - 19 0200 04 2019 beschussamt - fb7s - 19 0200 04_2019 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-CERTIFICAT-MINERGIE-UNICO-XS-HI",
+   "document_id": "DOC-RAP-CERTIFICAT-MINERGIE-UNICO-XS-HI",
+   "texte": "certificat minergie unico xs hi certificat minergie unico xs hi certificat_minergie_unico_xs_hi certificat"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-CHASSIS-FIXES-UNICO-RC4-FB4-PFB-2012",
+   "document_id": "DOC-RAP-CHASSIS-FIXES-UNICO-RC4-FB4-PFB-2012",
+   "texte": "chassis fixes unico rc4 + fb4 (pfb - 2012) chassis fixes unico rc4 + fb4 (pfb - 2012) chassis fixes unico rc4 + fb4 (pfb - 2012) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-CLC-10-26023482",
+   "document_id": "DOC-RAP-CLC-10-26023482",
+   "texte": "clc 10-26023482 clc 10-26023482 aev_+_choc_1200_joules_cstb_2010 (clc 10-26023482c0l mod) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-CSTB-COEFFICIENTS-THERMIQUES-THERMFIX-VA",
+   "document_id": "DOC-RAP-CSTB-COEFFICIENTS-THERMIQUES-THERMFIX-VA",
+   "texte": "cstb coefficients thermiques thermfix vario cstb coefficients thermiques thermfix vario cstb coefficients thermiques thermfix vario rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-CXL127-26",
+   "document_id": "DOC-RAP-CXL127-26",
+   "texte": "cxl127-26 cxl127-26 burglary_cxl127-26_2026 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-DBV-22-12567-A",
+   "document_id": "DOC-RAP-DBV-22-12567-A",
+   "texte": "dbv-22-12567-a dbv-22-12567-a dbv-22-12567-a_forster_unico+unico xs (2022) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-DBV-22-12782-B",
+   "document_id": "DOC-RAP-DBV-22-12782-B",
+   "texte": "dbv-22-12782-b dbv-22-12782-b dbv-22-12782-b_unico+unico xs (2022) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-DBV-22-12782-C",
+   "document_id": "DOC-RAP-DBV-22-12782-C",
+   "texte": "dbv-22-12782-c dbv-22-12782-c cstb - choc de securite (petit element) - dbv-22-12782-c - 2022 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-DBV-22-12782-D",
+   "document_id": "DOC-RAP-DBV-22-12782-D",
+   "texte": "dbv-22-12782-d dbv-22-12782-d cstb - choc de securite (grand element) - dbv-22-12782-d - 2022 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-DBV-23-09215",
+   "document_id": "DOC-RAP-DBV-23-09215",
+   "texte": "dbv-23-09215 dbv-23-09215 dbv-23-09215_ essais en 14024 (2023) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-DBV-26-00063836",
+   "document_id": "DOC-RAP-DBV-26-00063836",
+   "texte": "dbv-26-00063836 dbv-26-00063836 dbv-26-00063836 - forster - unico - essai qb 49 t&q - ref. 017.5068 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-DBV-M-25-49976",
+   "document_id": "DOC-RAP-DBV-M-25-49976",
+   "texte": "dbv-m-25-49976 dbv-m-25-49976 dbv-m-25-49976_unico xs rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-DBV-M-25-49978",
+   "document_id": "DOC-RAP-DBV-M-25-49978",
+   "texte": "dbv-m-25-49978 dbv-m-25-49978 dbv-m-25-49978-forster (2025) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-E03-016",
+   "document_id": "DOC-RAP-E03-016",
+   "texte": "e03-016 e03-016 e03-016_thermfix vario wk1-3 gutachtenbrosch3re gestempelt_070615 avis_expertise"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-EF-24-174-01",
+   "document_id": "DOC-RAP-EF-24-174-01",
+   "texte": "ef-24-174-01 ef-24-174-01 rapport de conformite porte anti-panique cr4 ef-24-174-01 avis_expertise"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-EF-24-404-01",
+   "document_id": "DOC-RAP-EF-24-404-01",
+   "texte": "ef-24-404-01 ef-24-404-01 buildwise - unico rc3 - porte 2 vantaux antipanique vitrage vetrotech polygard rc3 ap12 - ef-24-404-01 - 2025 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-EFR-19-001366",
+   "document_id": "DOC-RAP-EFR-19-001366",
+   "texte": "efr-19-001366 efr-19-001366 klasse_efr-19-001366_2019_unico porte ew30-en rapport_classement"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-FORSTER-UNICO-FENETRE-2-VANTAUX-RW-43-1",
+   "document_id": "DOC-RAP-FORSTER-UNICO-FENETRE-2-VANTAUX-RW-43-1",
+   "texte": "forster unico fenetre 2 vantaux rw 43 (-1;-4) cebtp 09 2021 forster unico fenetre 2 vantaux rw 43 (-1;-4) cebtp 09 2021 forster_unico_ fenetre_2_vantaux_rw_43_(-1;-4)_cebtp_09_2021 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-FORSTER-UNICO-FENETRE-2-VANTAUX-RW-44-1",
+   "document_id": "DOC-RAP-FORSTER-UNICO-FENETRE-2-VANTAUX-RW-44-1",
+   "texte": "forster unico fenetre 2 vantaux rw 44 (-1;-4) cebtp 09 2021 forster unico fenetre 2 vantaux rw 44 (-1;-4) cebtp 09 2021 forster_unico_ fenetre_2_vantaux_rw_44_(-1;-4)_cebtp_09_2021 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-FORSTER-UNICO-UNICO-XS-2025",
+   "document_id": "DOC-RAP-FORSTER-UNICO-UNICO-XS-2025",
+   "texte": "forster unico+unico xs (2025) forster unico+unico xs (2025) forster_unico+unico xs (2025) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-GSFM-22-011-01",
+   "document_id": "DOC-RAP-GSFM-22-011-01",
+   "texte": "gsfm-22-011-01 gsfm-22-011-01 02 - unico rc4 - 1 et 2 vantaux (antipanique sur vantail principal) - cstc - vetrotech polygard rc4.58ap - gsfm-22-011-01 (03-2022) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-GSFM-22-012-01",
+   "document_id": "DOC-RAP-GSFM-22-012-01",
+   "texte": "gsfm-22-012-01 gsfm-22-012-01 cstc - unico rc3 - porte 2 vantaux - gsfm-22-012-01 - 2022 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-GSFM-22-174-01",
+   "document_id": "DOC-RAP-GSFM-22-174-01",
+   "texte": "gsfm 22-174-01 gsfm 22-174-01 cstc - unico rc3 - portes 2 vantaux antipanique serrure iseo - gsfm 22-174-01 - 2022 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-I-48-17",
+   "document_id": "DOC-RAP-I-48-17",
+   "texte": "i-48_17 i-48_17 z_de_eng_fr_tfv_explosion_i-48_17-emi_zertifikat_zeihnungen_versandbereit certificat"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-I-49-17",
+   "document_id": "DOC-RAP-I-49-17",
+   "texte": "i-49_17 i-49_17 z_de_eng_fr_unico_explosion_i-49_17-emi_zertifkiate_zeichnungen_versandbereit rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-IFT-CORRESPONDANCE-WK-RC",
+   "document_id": "DOC-RAP-IFT-CORRESPONDANCE-WK-RC",
+   "texte": "ift correspondance wk - rc ift correspondance wk - rc ift correspondance wk - rc synthese_fabricant"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-IFT-PV-COEFF-U-FRANCAIS",
+   "document_id": "DOC-RAP-IFT-PV-COEFF-U-FRANCAIS",
+   "texte": "ift pv coeff u francais ift pv coeff u francais ift_pv_coeff_u_francais rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-IFT-RAPPORT-DE-SYNTHESE-RC1-RC2-RC3-UNIC",
+   "document_id": "DOC-RAP-IFT-RAPPORT-DE-SYNTHESE-RC1-RC2-RC3-UNIC",
+   "texte": "ift - rapport de synthese rc1+rc2+rc3 - unico+presto+fuegolight - 2022 ift - rapport de synthese rc1+rc2+rc3 - unico+presto+fuegolight - 2022 ift - rapport de synthese rc1+rc2+rc3 - unico+presto+fuegolight - 2022 avis_expertise"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-K-5030",
+   "document_id": "DOC-RAP-K-5030",
+   "texte": "k-5030 k-5030 k-5030-dmt-do_presto porte e30-e60 rapport_classement"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-K-6016",
+   "document_id": "DOC-RAP-K-6016",
+   "texte": "k-6016 k-6016 k-6016-dmt-do_presto fixe e30-e60 rapport_classement"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-K-DE-ENG-UNICO-FUEGOLIGHT-PRESTO-GUTACHT",
+   "document_id": "DOC-RAP-K-DE-ENG-UNICO-FUEGOLIGHT-PRESTO-GUTACHT",
+   "texte": "k de eng unico-fuegolight presto gutachten 16-002974-rc1-2-3 k de eng unico-fuegolight presto gutachten 16-002974-rc1-2-3 k_de_eng_unico-fuegolight_presto_gutachten_16-002974-rc1-2-3 avis_expertise"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-KADDB-FB6-FB6-TEST-REPORT-2017",
+   "document_id": "DOC-RAP-KADDB-FB6-FB6-TEST-REPORT-2017",
+   "texte": "kaddb - fb6 - fb6 test report - 2017 kaddb - fb6 - fb6 test report - 2017 kaddb - fb6 - fb6 test report - 2017 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-L18-0601-01",
+   "document_id": "DOC-RAP-L18-0601-01",
+   "texte": "l18_0601_01 l18_0601_01 schall_l18_0601_01_2018 vario hi (rw 49 et 50 db) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-L19-1305-01",
+   "document_id": "DOC-RAP-L19-1305-01",
+   "texte": "l19_1305_01 l19_1305_01 l19_1305_01_sn_rw_signed rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-L22-0855-01",
+   "document_id": "DOC-RAP-L22-0855-01",
+   "texte": "l22_0855_01 l22_0855_01 chassis_fixe_1_seul_vitrage_gbd_lab_2022 (l22_0855_01_pb_rw_sspk01) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-L22-0855-02",
+   "document_id": "DOC-RAP-L22-0855-02",
+   "texte": "l22_0855_02 l22_0855_02 chassis_fixe_4_vitrages_gbd_lab_2022 (l22_0855_02_pb_rw_sspk02) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-L22-0855-03",
+   "document_id": "DOC-RAP-L22-0855-03",
+   "texte": "l22_0855_03 l22_0855_03 porte_1_vantail_ouverture_exterieure_gbd_lab_2022 (l22_0855_03_pb_rw_sspk03) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-L22-0855-04",
+   "document_id": "DOC-RAP-L22-0855-04",
+   "texte": "l22_0855_04 l22_0855_04 porte_2_vantaux_ouverture_exterieure_gbd_lab_2022 (l22_0855_04_pb_rw_sspk04) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-L22-0855-05",
+   "document_id": "DOC-RAP-L22-0855-05",
+   "texte": "l22_0855_05 l22_0855_05 valeurs_vitrages_ou_panneaux_pleins_seuls_gbd_lab_2022 (l22_0855_05_pb_rw_sspk05) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-L23-0105-01",
+   "document_id": "DOC-RAP-L23-0105-01",
+   "texte": "l23_0105_01 l23_0105_01 l23_0105_01_pb_lww_1v cremone a l'ancienne rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-L23-0106-01",
+   "document_id": "DOC-RAP-L23-0106-01",
+   "texte": "l23_0106_01 l23_0106_01 l23_0106_01_pb_lww_2v cremone a l'ancienne rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-L24-0434-01",
+   "document_id": "DOC-RAP-L24-0434-01",
+   "texte": "l24_0434_01 l24_0434_01 gbd_lab_l24_0434_01_2025 porte 1 vantail ouv. int rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-L24-2770-01",
+   "document_id": "DOC-RAP-L24-2770-01",
+   "texte": "l24_2770_01 l24_2770_01 aev_of_2x1vantail_avec_fixe_central_lxh=3193x2305_a4_e7a_vc3_gbd_lab_2024 (l24_2770_01_pb_lww) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-L25-1339-01",
+   "document_id": "DOC-RAP-L25-1339-01",
+   "texte": "l25_1339_01 l25_1339_01 gbd_l25_1339_01_pb_lww_aev 2 vantaux ob seuil pmr_a4-e7a-vc4_lxh=2096x2804_ferrage cache rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-L25-1628-01",
+   "document_id": "DOC-RAP-L25-1628-01",
+   "texte": "l25_1628_01 l25_1628_01 gbd_l25_1628_01_pb_lww_aev 2 vantaux ob unico xs_a4-e1050-vc4_lxh=2507x1535_(joint central de l'unico xs) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-L25-1629-01",
+   "document_id": "DOC-RAP-L25-1629-01",
+   "texte": "l25_1629_01 l25_1629_01 gbd_l25_1629_01_pb_lww_aev 2 vantaux ob unico_a4-e7a-vc4_lxh=2531x1564_(joint central de l'unico xs) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-L25-1983-01",
+   "document_id": "DOC-RAP-L25-1983-01",
+   "texte": "l25_1983_01 l25_1983_01 gbd_lab_l25_1983_01_2025 chassis fixe avec traverses et montants intermediaires rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-LUFT-REGEN-WIND-PENDEL-94993-01-120-32-2",
+   "document_id": "DOC-RAP-LUFT-REGEN-WIND-PENDEL-94993-01-120-32-2",
+   "texte": "luft-regen-wind-pendel 94993.01-120-32 2010 luft-regen-wind-pendel 94993.01-120-32 2010 luft-regen-wind-pendel_94993.01-120-32_2010 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-MD210028",
+   "document_id": "DOC-RAP-MD210028",
+   "texte": "md210028 md210028 unico_cr4_porte_1_vantail_cnpp_md210028_01-04-2021 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-MD210028A",
+   "document_id": "DOC-RAP-MD210028A",
+   "texte": "md210028a md210028a 01 - unico rc4 - 1 et 2 vantaux - cnpp - md210028a (06-2021) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-MD210028B",
+   "document_id": "DOC-RAP-MD210028B",
+   "texte": "md210028b md210028b unico_cr4_porte_2_vantaux_cnpp_md210028b (vitrage polyguard)_06-02-2024 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-POLYGARD-PRO-UP-862-38-NS-UK",
+   "document_id": "DOC-RAP-POLYGARD-PRO-UP-862-38-NS-UK",
+   "texte": "polygard pro up 862.38-ns uk polygard pro up 862.38-ns uk polygard pro up 862.38-ns_uk fiche_technique"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-PORTE-UNICO-CR4-1-VANTAIL-SYNTHESE-ACCES",
+   "document_id": "DOC-RAP-PORTE-UNICO-CR4-1-VANTAIL-SYNTHESE-ACCES",
+   "texte": "porte unico cr4 1 vantail synthese accessoires porte unico cr4 1 vantail synthese accessoires porte_unico_cr4_1_vantail_synthese_accessoires synthese_fabricant"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-PORTE-UNICO-CR4-2-VANTAUX-SYNTHESE-ACCES",
+   "document_id": "DOC-RAP-PORTE-UNICO-CR4-2-VANTAUX-SYNTHESE-ACCES",
+   "texte": "porte unico cr4 2 vantaux synthese accessoires porte unico cr4 2 vantaux synthese accessoires porte_unico_cr4_2_vantaux_synthese_accessoires synthese_fabricant"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-PRESTO-60S-1-VTL-RW-43DB",
+   "document_id": "DOC-RAP-PRESTO-60S-1-VTL-RW-43DB",
+   "texte": "presto 60s 1 vtl rw 43db presto 60s 1 vtl rw 43db presto 60s 1 vtl rw 43db rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-PRESTO-60S-2-VTX-RW-44DB",
+   "document_id": "DOC-RAP-PRESTO-60S-2-VTX-RW-44DB",
+   "texte": "presto 60s 2 vtx rw 44db presto 60s 2 vtx rw 44db presto 60s 2 vtx rw 44db rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-PRODUKTPASS-THERMFIX-LIGHT-FR",
+   "document_id": "DOC-RAP-PRODUKTPASS-THERMFIX-LIGHT-FR",
+   "texte": "produktpass thermfix light fr produktpass thermfix light fr produktpass_thermfix_light_fr passeport_ce"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-PYROSTOP-RW-44DB",
+   "document_id": "DOC-RAP-PYROSTOP-RW-44DB",
+   "texte": "pyrostop rw 44db pyrostop rw 44db pyrostop rw 44db rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-CLOISONS-EI30-60-90-2",
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-CLOISONS-EI30-60-90-2",
+   "texte": "rapport d'essais ift cloisons ei30-60-90 vitrages vetrotech rapport d'essais ift cloisons ei30-60-90 vitrages vetrotech-2 rapport d'essais ift cloisons ei30-60-90 vitrages vetrotech rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-CLOISONS-EI30-60-90",
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-CLOISONS-EI30-60-90",
+   "texte": "rapport d'essais ift cloisons ei30-60-90 vitrages pilkington rapport d'essais ift cloisons ei30-60-90 vitrages pilkington rapport d'essais ift cloisons ei30-60-90 vitrages pilkington rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-PORTES-EI60-1V-VITR-2",
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-PORTES-EI60-1V-VITR-2",
+   "texte": "rapport d'essais ift portes ei60 1v vitrages vetrotech (copropriete fo rapport d'essais ift portes ei60 1v vitrages vetrotech (copropriete fo-2 rapport d'essais ift portes ei60 1v vitrages vetrotech (copropriete forster-vetrotech) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-PORTES-EI60-1V-VITR",
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-PORTES-EI60-1V-VITR",
+   "texte": "rapport d'essais ift portes ei60 1v vitrages pilkington (copropriete f rapport d'essais ift portes ei60 1v vitrages pilkington (copropriete f rapport d'essais ift portes ei60 1v vitrages pilkington (copropriete forster-pilkington) rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-RAPPORT-D-ESSAIS-LASM-PORTES-EI30-2V-VIT",
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-LASM-PORTES-EI30-2V-VIT",
+   "texte": "rapport d'essais lasm portes ei30 2v vitrages pilkginton rapport d'essais lasm portes ei30 2v vitrages pilkginton rapport d'essais lasm portes ei30 2v vitrages pilkginton rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-RECAPITULATIF-1-VANTAIL",
+   "document_id": "DOC-RAP-RECAPITULATIF-1-VANTAIL",
+   "texte": "recapitulatif 1 vantail recapitulatif 1 vantail recapitulatif 1 vantail synthese_fabricant"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-RESUME-AFFAIBLISSEMENTS-ACOUSIQUES-V2-20",
+   "document_id": "DOC-RAP-RESUME-AFFAIBLISSEMENTS-ACOUSIQUES-V2-20",
+   "texte": "resume affaiblissements acousiques v2-2019 resume affaiblissements acousiques v2-2019 resume affaiblissements acousiques v2-2019 synthese_fabricant"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-RESUME-AFFAIBLISSEMENTS-ACOUSTIQUES-V1-2-2",
+   "document_id": "DOC-RAP-RESUME-AFFAIBLISSEMENTS-ACOUSTIQUES-V1-2-2",
+   "texte": "resume affaiblissements acoustiques v1-2018 resume affaiblissements acoustiques v1-2018-2 resume affaiblissements acoustiques v1-2018 synthese_fabricant"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-RESUME-AFFAIBLISSEMENTS-ACOUSTIQUES-V1-2",
+   "document_id": "DOC-RAP-RESUME-AFFAIBLISSEMENTS-ACOUSTIQUES-V1-2",
+   "texte": "resume affaiblissements acoustiques v1-2019 resume affaiblissements acoustiques v1-2019 resume affaiblissements acoustiques v1-2019 synthese_fabricant"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-RESUME-AFFAIBLISSEMENTS-ACOUSTIQUES-V2-2",
+   "document_id": "DOC-RAP-RESUME-AFFAIBLISSEMENTS-ACOUSTIQUES-V2-2",
+   "texte": "resume affaiblissements acoustiques v2-2020 resume affaiblissements acoustiques v2-2020 resume affaiblissements acoustiques v2-2020  synthese_fabricant"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-S-16-0053-01-Z",
+   "document_id": "DOC-RAP-S-16-0053-01-Z",
+   "texte": "s 16 0053 01-z s 16 0053 01-z beshcussamt - fb6ns - chassis fixes - s 16 0053 01-z - 2016 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-S-21-0219-01Z",
+   "document_id": "DOC-RAP-S-21-0219-01Z",
+   "texte": "s 21 0219 01z s 21 0219 01z beschussamt - fb4ns - porte 1 vantail ei30 tole_s 21 0219 01z_2021 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-S-22-0208-01-Z",
+   "document_id": "DOC-RAP-S-22-0208-01-Z",
+   "texte": "s 22 0208 01-z s 22 0208 01-z beschussamt - fb6ns - porte_unico_2_ vantaux_ouverture_interieure_s 22 0208 01-z - 2022 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-S09000201B",
+   "document_id": "DOC-RAP-S09000201B",
+   "texte": "s09000201b s09000201b fenetre unico 2 vantaux fb4ns (renfort acier) - beschuss_s09000201b_2009 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-S09001601B",
+   "document_id": "DOC-RAP-S09001601B",
+   "texte": "s09001601b s09001601b porte unico 2 vantaux fb4ns - beschuss_s09001601b_2009 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-S11004201-B",
+   "document_id": "DOC-RAP-S11004201-B",
+   "texte": "s11004201-b s11004201-b beschussamt - fb4ns - porte 1 vantail ei30_s11004201-b_2011 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-S12005805-B",
+   "document_id": "DOC-RAP-S12005805-B",
+   "texte": "s12005805-b s12005805-b chassis fixe unico fb4ns 1 vitrage - beschuss_s12005805-b_2012 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-S12005806-B",
+   "document_id": "DOC-RAP-S12005806-B",
+   "texte": "s12005806-b s12005806-b beschussamt - fb4ns - s12005806-b_2012 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-S12005807-B",
+   "document_id": "DOC-RAP-S12005807-B",
+   "texte": "s12005807-b s12005807-b beschussamt - fb4ns - s12005807-b_2012 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-S18020501-B",
+   "document_id": "DOC-RAP-S18020501-B",
+   "texte": "s18020501-b s18020501-b fenetre unico 2 vantaux fb4ns (renfort alu) - beschuss_s18020501-b_2018 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-S18020502-B",
+   "document_id": "DOC-RAP-S18020502-B",
+   "texte": "s18020502-b s18020502-b chassis fixe unico fb4 ns 4 vitrages - beschuss_s18020502-b_2018 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-S18020503-B",
+   "document_id": "DOC-RAP-S18020503-B",
+   "texte": "s18020503-b s18020503-b beschussamt - fb4ns - s18020503-b_2018 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-S18020506-B",
+   "document_id": "DOC-RAP-S18020506-B",
+   "texte": "s18020506-b s18020506-b chassis fixe unico fb4 ns 4 vitrages - beschuss_s18020506-b_2018 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-S18020507-B",
+   "document_id": "DOC-RAP-S18020507-B",
+   "texte": "s18020507-b s18020507-b fenetre unico 2 vantaux fb4ns (renfort alu) - beschuss_s18020507-b_2018 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-S18020508-B",
+   "document_id": "DOC-RAP-S18020508-B",
+   "texte": "s18020508-b s18020508-b beschussamt - fb4ns - s18020508-b_2018 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-S19020401B",
+   "document_id": "DOC-RAP-S19020401B",
+   "texte": "s19020401b s19020401b seuil de porte fb4 ns - beschuss_s19020401b_2019 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-S19020901B",
+   "document_id": "DOC-RAP-S19020901B",
+   "texte": "s19020901b s19020901b beschussamt - fb4ns - chassis fixe ei30_s19020901b_2019 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-S19020902B",
+   "document_id": "DOC-RAP-S19020902B",
+   "texte": "s19020902b s19020902b beschussamt - fb4ns - porte 2 vantaux ei30 (dont vantail tole)_s19020902b_2019 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-S19022301B",
+   "document_id": "DOC-RAP-S19022301B",
+   "texte": "s19022301b s19022301b beschussamt - fb4ns - porte 2 vantaux ei30_s19022301b_2019 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-S20021201-B",
+   "document_id": "DOC-RAP-S20021201-B",
+   "texte": "s20021201_b s20021201_b beschussamt - fb5ns - porte unico 2 vantaux - s20021201_b + s20021203_b - 2020 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-S20021202",
+   "document_id": "DOC-RAP-S20021202",
+   "texte": "s20021202 s20021202 beschussamt - fb5s - porte 2 vantaux_s20021202_2020 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-S21020101B",
+   "document_id": "DOC-RAP-S21020101B",
+   "texte": "s21020101b s21020101b beschussamt - thermfix vario fb6ns - s21020101b - 2021 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-SGS-FRANCE-ERES-250119-01-A2-CERTIFIED",
+   "document_id": "DOC-RAP-SGS-FRANCE-ERES-250119-01-A2-CERTIFIED",
+   "texte": "sgs france eres 250119 01-a2 certified sgs france eres 250119 01-a2 certified sgs france_eres_250119_01-a2_certified certificat"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-SGS-FRANCE-ERES-250119-01-B2-CERTIFIED",
+   "document_id": "DOC-RAP-SGS-FRANCE-ERES-250119-01-B2-CERTIFIED",
+   "texte": "sgs france eres 250119 01-b2 certified sgs france eres 250119 01-b2 certified sgs france_eres_250119_01-b2_certified certificat"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-SGS-FRANCE-ERES-250119-01-C2-CERTIFIED",
+   "document_id": "DOC-RAP-SGS-FRANCE-ERES-250119-01-C2-CERTIFIED",
+   "texte": "sgs france eres 250119 01-c2 certified sgs france eres 250119 01-c2 certified sgs france_eres_250119_01-c2_certified certificat"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-SILENCIO",
+   "document_id": "DOC-RAP-SILENCIO",
+   "texte": "silencio silencio silencio fiche_technique"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-SYNTHESE-AEV-UNICO-2015-05-03",
+   "document_id": "DOC-RAP-SYNTHESE-AEV-UNICO-2015-05-03",
+   "texte": "synthese aev unico 2015 05 03 synthese aev unico 2015 05 03 synthese aev unico _2015_05_03_ synthese_fabricant"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-SYSTEMPASS-UNICO-UNICOXS-FENSTER-FR",
+   "document_id": "DOC-RAP-SYSTEMPASS-UNICO-UNICOXS-FENSTER-FR",
+   "texte": "systempass unico unicoxs fenster fr systempass unico unicoxs fenster fr systempass_unico_unicoxs_fenster_fr passeport_ce"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-TAB-AFFBL-PHONIQUE-THERMFIX-VARIO-V1-201",
+   "document_id": "DOC-RAP-TAB-AFFBL-PHONIQUE-THERMFIX-VARIO-V1-201",
+   "texte": "tab affbl.phonique thermfix vario v1-2019 tab affbl.phonique thermfix vario v1-2019 tab affbl.phonique thermfix vario v1-2019 synthese_fabricant"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-THERMFIX-VARIO-RW-36DB",
+   "document_id": "DOC-RAP-THERMFIX-VARIO-RW-36DB",
+   "texte": "thermfix vario rw 36db thermfix vario rw 36db thermfix vario rw 36db rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-THERMFIX-VARIO-RW-42DB",
+   "document_id": "DOC-RAP-THERMFIX-VARIO-RW-42DB",
+   "texte": "thermfix vario rw 42db thermfix vario rw 42db thermfix vario rw 42db rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-THERMFIX-VARIO-RW43DB",
+   "document_id": "DOC-RAP-THERMFIX-VARIO-RW43DB",
+   "texte": "thermfix vario rw43db thermfix vario rw43db thermfix vario rw43db rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-THERMFIX-VARIO-RW44DB",
+   "document_id": "DOC-RAP-THERMFIX-VARIO-RW44DB",
+   "texte": "thermfix vario rw44db thermfix vario rw44db thermfix vario rw44db rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR",
+   "document_id": "DOC-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR",
+   "texte": "thermfix vario wk 1-3 traduite fr thermfix vario wk 1-3 traduite fr thermfix_vario_wk_1-3 traduite fr rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-THERMIFIX-VARIO-RW-45DB",
+   "document_id": "DOC-RAP-THERMIFIX-VARIO-RW-45DB",
+   "texte": "thermifix vario rw 45db thermifix vario rw 45db thermifix vario rw 45db rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-UF-734851-4-3",
+   "document_id": "DOC-RAP-UF-734851-4-3",
+   "texte": "uf 734851 = 4.3 uf 734851 = 4.3 uf_734851 = 4.3 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-UF-734852-4-5",
+   "document_id": "DOC-RAP-UF-734852-4-5",
+   "texte": "uf 734852 = 4.5 uf 734852 = 4.5 uf_734852 = 4.5 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-UF-736851-3-6",
+   "document_id": "DOC-RAP-UF-736851-3-6",
+   "texte": "uf 736851 = 3.6 uf 736851 = 3.6 uf_736851 = 3.6 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-UF-736852-3-5",
+   "document_id": "DOC-RAP-UF-736852-3-5",
+   "texte": "uf 736852 = 3.5 uf 736852 = 3.5 uf_736852 = 3.5 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-UF-739592-2-6",
+   "document_id": "DOC-RAP-UF-739592-2-6",
+   "texte": "uf 739592 = 2.6 uf 739592 = 2.6 uf_739592 = 2.6 rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-UF-THERMFIX-VARIO-432-27814-1-FR",
+   "document_id": "DOC-RAP-UF-THERMFIX-VARIO-432-27814-1-FR",
+   "texte": "uf thermfix vario 432 27814 1 fr uf thermfix vario 432 27814 1 fr uf_thermfix_vario_432_27814_1_fr rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-UF-THERMFIX-VARIO",
+   "document_id": "DOC-RAP-UF-THERMFIX-VARIO",
+   "texte": "uf thermfix vario uf thermfix vario uf thermfix vario rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX",
+   "document_id": "DOC-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX",
+   "texte": "up 862.38-ns-br6-cetrificate annex up 862.38-ns-br6-cetrificate annex up 862.38-ns-br6-cetrificate_annex rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-UP-862-38-NS-P8B-REPORT-ANNEX",
+   "document_id": "DOC-RAP-UP-862-38-NS-P8B-REPORT-ANNEX",
+   "texte": "up 862.38-ns-p8b-report annex up 862.38-ns-p8b-report annex up 862.38-ns-p8b-report_annex rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-UW-12-TYPES-PR-FUEL-UNICO-VERSION-3-1-VA",
+   "document_id": "DOC-RAP-UW-12-TYPES-PR-FUEL-UNICO-VERSION-3-1-VA",
+   "texte": "uw 12 types pr-fuel unico version 3- 1 vant. uw 12 types pr-fuel unico version 3- 1 vant. uw 12 types pr-fuel unico version 3- 1 vant. rapport_essai"
+  },
+  {
+   "objet_type": "document",
+   "objet_id": "DOC-RAP-UW-12-TYPES-PR-FUEL-UNICO-VERSION-3-2-VA",
+   "document_id": "DOC-RAP-UW-12-TYPES-PR-FUEL-UNICO-VERSION-3-2-VA",
+   "texte": "uw 12 types pr-fuel-unico version 3-2 vant uw 12 types pr-fuel-unico version 3-2 vant uw 12 types pr-fuel-unico version 3-2 vant rapport_essai"
+  },
+  {
+   "objet_type": "document",
    "objet_id": "DOC-08-A-287-REC-24-3",
    "document_id": "DOC-08-A-287-REC-24-3",
    "texte": "24/3 08-a-287/rec-24/3 un bloc-porte vitre a un ou deux vantaux a ossature metallique. reconduction"
@@ -65064,6 +66696,1308 @@
    "objet_id": "CFG-EFR-24-000553-R1-BP-VT",
    "document_id": "DOC-EFR-24-000553-R1",
    "texte": "variante : verrous thermiques (§3.3.5.2.3, rev. 1)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-02-11-1206-1",
+   "document_id": "DOC-RAP-02-11-1206",
+   "texte": "thermfix_vario_einbruch_wk2_02-11-1206_de"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-04-01-1281-1",
+   "document_id": "DOC-RAP-04-01-1281",
+   "texte": "thermfix_vario_einbruch_wk1_04-01-1281_de"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-04-08-1318-1",
+   "document_id": "DOC-RAP-04-08-1318",
+   "texte": "pte rosenheim_rc3_porte ei30_04-08-1318_2004"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-07-07-A135-B1-1",
+   "document_id": "DOC-RAP-07-07-A135-B1",
+   "texte": "pfb - rc3 - fenetre 1 vantail - 07-07-a135-b1_2007"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-08-03-A062-K3-1",
+   "document_id": "DOC-RAP-08-03-A062-K3",
+   "texte": "pfb - rc3 - fenetre - 08-03-a062-k3_2008"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-08-10-A287-K3-2-1",
+   "document_id": "DOC-RAP-08-10-A287-K3-2",
+   "texte": "pfb - rc3 - porte - 08-10-a287-k3_2009"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-08-10-A287-K3-1",
+   "document_id": "DOC-RAP-08-10-A287-K3",
+   "texte": "pfb - rc3 - porte - 08-10-a287-k3_2009 - complet"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-08-2017-FE-117-1",
+   "document_id": "DOC-RAP-08-2017-FE-117",
+   "texte": "fraunhofer - epr1 s - 08-2017-fe-117 - 2017"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-102-30650-1-R1F-1",
+   "document_id": "DOC-RAP-102-30650-1-R1F",
+   "texte": "aev_ob_1_vantail_lxh=1600x2260_a4_e9a_vc4_ift_2007 (102 30650_1 r1f)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-102-30650-1",
+   "document_id": "DOC-RAP-102-30650",
+   "texte": "aev_ob_1_vantail_lxh=1515x1367_sur_allege_a4_e9a_vc5_ift_2006 (102 306503 r1f)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-102-32902-1F-1",
+   "document_id": "DOC-RAP-102-32902-1F",
+   "texte": "aev_ob_1_vantail_lxh=1341x1480_a4_e9a_vc5_ift_2007 (102 32902 1f)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-102-32902-2F-1",
+   "document_id": "DOC-RAP-102-32902-2F",
+   "texte": "aev_ob_2_vantaaux_lxh=2538x1480_a4_e8a_vc4_ift_2007 (102 32902 2f)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-102-35800-2-1",
+   "document_id": "DOC-RAP-102-35800-2",
+   "texte": "presto_fenetres_divers_ift_2009 (102 35800 2e)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-102-35800-3-1",
+   "document_id": "DOC-RAP-102-35800-3",
+   "texte": "fenetre_2_vantaux_petits_profiles_presto_ift_2009_(102 35800 3e)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-102-37642F-1",
+   "document_id": "DOC-RAP-102-37642F",
+   "texte": "aev_1_vantail_ift_2009 (102 37642f)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-106-41178-1-R1F-1",
+   "document_id": "DOC-RAP-106-41178-1-R1F",
+   "texte": "ob_1_vantail_lxh=1424x1324_permeabilite_air_+_essais_mecaniques_ift_2010 (106 41178_1 r1f)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-108-29778-1F-1",
+   "document_id": "DOC-RAP-108-29778-1F",
+   "texte": "aev_01_ift_2005 (108 29778 1f)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-108-29778-2F-1",
+   "document_id": "DOC-RAP-108-29778-2F",
+   "texte": "aev_02_ift_2005 (108 29778 2f)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-108-31063F-1",
+   "document_id": "DOC-RAP-108-31063F",
+   "texte": "aev_ift_2006 (108 31063f)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-11-000691-PB01-1",
+   "document_id": "DOC-RAP-11-000691-PB01",
+   "texte": "portes_2_vantaux-ouverture_exterieure_ift_2011(11-000691-pb01-c01-02-de-01)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-11-000691-PB02-1",
+   "document_id": "DOC-RAP-11-000691-PB02",
+   "texte": "portes_1_vantail-ouverture_exterieure_ift_2011 (11-000691-pb02-c01-02-de-01)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-11-002650-PR01-2-1",
+   "document_id": "DOC-RAP-11-002650-PR01-2",
+   "texte": "z_funktion_11-002650-pr01_2012_wv_en"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-11-002839-PR01-1",
+   "document_id": "DOC-RAP-11-002839-PR01",
+   "texte": "aev_ob_1_vantail_lxh=1250x2570_profiles-fins_a4_e7a_ou_8a_vc3_ift_2011 (11 002839 pr01)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-11-002983-PR01-1",
+   "document_id": "DOC-RAP-11-002983-PR01",
+   "texte": "aev_1_vantail_ouverture_exterieure_ift_2012 (11 002983 pr01)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-11-002983-PR03-1",
+   "document_id": "DOC-RAP-11-002983-PR03",
+   "texte": "ift - porte unico anti-pince doigts - 11-002983-pr03 - 2013"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-11-002983-PR06-1",
+   "document_id": "DOC-RAP-11-002983-PR06",
+   "texte": "aev_2_vantaux_ouverture_exterieure_ift_2012 ((11 002983 pr06)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-11-003224-PR01-1",
+   "document_id": "DOC-RAP-11-003224-PR01",
+   "texte": "produktpass_thermfix_vario_fr_11-003224-pr01_fr"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-11-003644-PR01-2-1",
+   "document_id": "DOC-RAP-11-003644-PR01-2",
+   "texte": "klasse_11-003644-pr01_2013_fuego light porte ei60-en"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-12-003174-PR01-1",
+   "document_id": "DOC-RAP-12-003174-PR01",
+   "texte": "907 662 gas 12-003174-pr01"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-12-003331-PR01-2-1",
+   "document_id": "DOC-RAP-12-003331-PR01-2",
+   "texte": "klasse_12-003331-pr01_2012_fuego light porte ei30-en"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-12-003331-PR02-2-1",
+   "document_id": "DOC-RAP-12-003331-PR02-2",
+   "texte": "klasse_12-003331-pr02_2012_fuego light porte ei30-en"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-12-003635-PR01-1",
+   "document_id": "DOC-RAP-12-003635-PR01",
+   "texte": "systempass_unico_tuer_12-003635-pr01_fr"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-13-002986-PR01-2-1",
+   "document_id": "DOC-RAP-13-002986-PR01-2",
+   "texte": "unico - portes issues de secours en179+1125 - ift 13-002986-pr01_2022"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-13-08-A288-G2-1",
+   "document_id": "DOC-RAP-13-08-A288-G2",
+   "texte": "pfb - rc3+fb4ns - fenetre + fixe _13-08-a288-g2_2015"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-13-11-A383-B1-1",
+   "document_id": "DOC-RAP-13-11-A383-B1",
+   "texte": "pfb - rc2 - porte 2 vantaux vitree + tolee _13-11-a383-b1_2014"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-13-11-A384-B1-1",
+   "document_id": "DOC-RAP-13-11-A384-B1",
+   "texte": "pfb - rc3 - chassis fixe - 13-11-a384-b1_2014"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-14-000878-PR02-1",
+   "document_id": "DOC-RAP-14-000878-PR02",
+   "texte": "aev_ob_2_vantaux_lxh=3088x2600_a4_e6a_vc3_ift_2017 (14 000878 pr02)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-14-000878-PR04-1",
+   "document_id": "DOC-RAP-14-000878-PR04",
+   "texte": "aev_1_vantail_ouverture_exterieure_seuil_suisse_ift_2017 (14 000878 pr04)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-14-000878-PR05-1",
+   "document_id": "DOC-RAP-14-000878-PR05",
+   "texte": "14-000878-pr05 pb-c01-03-fr-01"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-14-000878-PR06-1",
+   "document_id": "DOC-RAP-14-000878-PR06",
+   "texte": "aev_ob_1_vantail_+_fixe_lateral_hauteur_2485_a4_e9a_vc4_ift_2009 (14 000878 pr06)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-14-001811-PR01-1",
+   "document_id": "DOC-RAP-14-001811-PR01",
+   "texte": "aev_avis de laboratoire 1 comparaison unico et unico xs_+_paumelle_visible_sur_parclose_ift_2014 (14-001811-pr01)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-14-002403-PR01-2-1",
+   "document_id": "DOC-RAP-14-002403-PR01-2",
+   "texte": "907 740 funktion_14-002403-pr01_2015"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-14-05-A196-G1-1",
+   "document_id": "DOC-RAP-14-05-A196-G1",
+   "texte": "chassis fixes rc4 avec vitrages p7b - pfb_14-05-a196-g1"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-15-001026-PR03-2-1",
+   "document_id": "DOC-RAP-15-001026-PR03-2",
+   "texte": "ift_rc2_porte ei30_15-001026-pr03_2016"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-15-001026-PR04-2-1",
+   "document_id": "DOC-RAP-15-001026-PR04-2",
+   "texte": "ift_rc2_porte ei30_15-001026-pr04_2016"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-15-001026-PR05-2-1",
+   "document_id": "DOC-RAP-15-001026-PR05-2",
+   "texte": "ift_rc2_porte ei30_15-001026-pr05_2017"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-15-001026-PR06-2-1",
+   "document_id": "DOC-RAP-15-001026-PR06-2",
+   "texte": "ift_rc2_porte ei30 vitree ou panneaux pleins toles_15-001026-pr06_2017"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-15-001026-PR07-2-1",
+   "document_id": "DOC-RAP-15-001026-PR07-2",
+   "texte": "ift_rc2_porte ei30 vitree ou panneaux bois_15-001026-pr07_2016"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-15-001026-PR08-2-1",
+   "document_id": "DOC-RAP-15-001026-PR08-2",
+   "texte": "ift_rc2_porte ei30 vitree ou panneaux bois_15-001026-pr08_2016"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-15-001026-PR09-2-1",
+   "document_id": "DOC-RAP-15-001026-PR09-2",
+   "texte": "ift_rc3_porte ei30 tolee 1 vantail_15-001026-pr09_2021"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-15-003926-PR02-2-1",
+   "document_id": "DOC-RAP-15-003926-PR02-2",
+   "texte": "klasse_15-003926-pr02_2016_presto porte e30-en"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-15-004281-PR01-1",
+   "document_id": "DOC-RAP-15-004281-PR01",
+   "texte": "avis_de_laboratoire_ift_2016_aev_differents_types_de_seuils (15 004281 pr01_3)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-15-00506-PR01-1",
+   "document_id": "DOC-RAP-15-00506-PR01",
+   "texte": "aev_ob_1_vantail_+_fixe_lateral_hauteur_2310_a4_e8a_vc5_ift_2018 (15 00506 pr01)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-15-0152-01-1",
+   "document_id": "DOC-RAP-15-0152-01",
+   "texte": "einbruch_15-0152-01_2015 01.07.2024 12-22-13"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-15-04-A156-B1-1",
+   "document_id": "DOC-RAP-15-04-A156-B1",
+   "texte": "pfb - rc2 - fenetre xs 1 vantail -15-04-a156-b1_2015"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-155-41178-1-1",
+   "document_id": "DOC-RAP-155-41178-1",
+   "texte": "aev_avis de laboratoire comparaison unico et unico fin_ift_2010 (155 41178_1)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-16-001013-PR04-2-1",
+   "document_id": "DOC-RAP-16-001013-PR04-2",
+   "texte": "klasse_16-001013-pr04_2017 _unico porte ei30-fr"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-16-001037-PR01-1",
+   "document_id": "DOC-RAP-16-001037-PR01",
+   "texte": "aev_+_choc_ift_2016 (16 001037-pr01)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-16-001854-PR01-2-1",
+   "document_id": "DOC-RAP-16-001854-PR01-2",
+   "texte": "ift_rc3_porte ei30_16-001854-pr01_2017"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-16-001854-PR03-2-1",
+   "document_id": "DOC-RAP-16-001854-PR03-2",
+   "texte": "ift_rc3_porte ei30 vitree ou panneaux bois_16-001854-pr03_2017"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-16-001854-PR04-2-1",
+   "document_id": "DOC-RAP-16-001854-PR04-2",
+   "texte": "ift_rc3_porte ei30 vitree ou panneaux bois_16-001854-pr04_2017"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-16-001854-PR05-2-1",
+   "document_id": "DOC-RAP-16-001854-PR05-2",
+   "texte": "ift_rc3_porte ei30_16-001854-pr05_2017"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-16-001854-PR06-2-1",
+   "document_id": "DOC-RAP-16-001854-PR06-2",
+   "texte": "ift_rc3_fixe ei30_16-001854-pr06_2017"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-16-001854-PR07-2-1",
+   "document_id": "DOC-RAP-16-001854-PR07-2",
+   "texte": "ift_rc3_fixe ei30_16-001854-pr07_2017"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-16-002618-PR01-2-1",
+   "document_id": "DOC-RAP-16-002618-PR01-2",
+   "texte": "klasse_16-002618-pr01_2019_unico fenetre ei30-de"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-16-002620-PR01-2-1",
+   "document_id": "DOC-RAP-16-002620-PR01-2",
+   "texte": "klasse_16-002620-pr01_2019_unico fenetre ew30-de"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-161-30936-Z10F-1",
+   "document_id": "DOC-RAP-161-30936-Z10F",
+   "texte": "161_30936_z10f_forster_rohr_50"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-161-30936-Z11F-1",
+   "document_id": "DOC-RAP-161-30936-Z11F",
+   "texte": "161_30936_z11f_forster_rohr_45"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-161-30936-Z12F-1",
+   "document_id": "DOC-RAP-161-30936-Z12F",
+   "texte": "161_30936_z12f_forster_38 rohr"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-161-30936-Z13F-1",
+   "document_id": "DOC-RAP-161-30936-Z13F",
+   "texte": "161_30936_z13f_forster_rohr_32"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-161-30936-Z14-1",
+   "document_id": "DOC-RAP-161-30936-Z14",
+   "texte": "161_30936-z14_2006 (chassis fixe)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-161-30936-Z14F-1",
+   "document_id": "DOC-RAP-161-30936-Z14F",
+   "texte": "chassis fixe unico_ift (161_30936_z14f)_2007"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-161-30936-Z15F-1",
+   "document_id": "DOC-RAP-161-30936-Z15F",
+   "texte": "161_30936_z15f_forster_rohr"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-161-30936-Z16F-1",
+   "document_id": "DOC-RAP-161-30936-Z16F",
+   "texte": "161_30936_z16f_50_nass_forster rohr"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-161-30936-Z1F-2-1",
+   "document_id": "DOC-RAP-161-30936-Z1F-2",
+   "texte": "161_30936_z1f_forster_rohr_32"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-161-30936-Z1F-1",
+   "document_id": "DOC-RAP-161-30936-Z1F",
+   "texte": "161_30936_z1f_forster rohr_32_deckblatt"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-161-30936-Z27-1",
+   "document_id": "DOC-RAP-161-30936-Z27",
+   "texte": "161_30936_z27_ forster_rohr"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-161-30936-Z27F-1",
+   "document_id": "DOC-RAP-161-30936-Z27F",
+   "texte": "161_30936_z27f_forster_rohr_deckblatt"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-161-30936-Z28F-1",
+   "document_id": "DOC-RAP-161-30936-Z28F",
+   "texte": "161_30936_z28f_forster_rohr"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-161-30936-Z2F-2-1",
+   "document_id": "DOC-RAP-161-30936-Z2F-2",
+   "texte": "161_30936_z2f_forster_rohr_50_deckblatt"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-161-30936-Z2F-1",
+   "document_id": "DOC-RAP-161-30936-Z2F",
+   "texte": "161_30936_z2f_forster_50 rohr"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-161-30936-Z5F-2-1",
+   "document_id": "DOC-RAP-161-30936-Z5F-2",
+   "texte": "161_30936_z5f_forster_rohr_45_deckblatt"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-161-30936-Z5F-1",
+   "document_id": "DOC-RAP-161-30936-Z5F",
+   "texte": "161_30936_z5f_forster_rohr_45"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-161-30936-Z6F-2-1",
+   "document_id": "DOC-RAP-161-30936-Z6F-2",
+   "texte": "161_30936_z6f_forster_rohr_38_deckblatt"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-161-30936-Z6F-1",
+   "document_id": "DOC-RAP-161-30936-Z6F",
+   "texte": "161_30936_z6f_forster_rohr_38"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-16137053-1",
+   "document_id": "DOC-RAP-16137053",
+   "texte": "presto_schalldaemmung_fenster_16137053_2009_en"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-17-000054-PR01-1",
+   "document_id": "DOC-RAP-17-000054-PR01",
+   "texte": "aev_1_vantail_ouvrant_a_l'anglaise_lxh=804x1639_a4_e9a_vc4_ift_2017 (17-000054 pr01)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-17-000054-PR02-1",
+   "document_id": "DOC-RAP-17-000054-PR02",
+   "texte": "aev_projection_exterieure_ift_2017 (17 000054 pr02)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-17143578-1-1",
+   "document_id": "DOC-RAP-17143578-1",
+   "texte": "porte coulissante a levier_17143578-1_2010"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-17143578-2-1",
+   "document_id": "DOC-RAP-17143578-2",
+   "texte": "porte coulissante a levier_17143578-2_2010"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-17143578-3-1",
+   "document_id": "DOC-RAP-17143578-3",
+   "texte": "porte coulissante a levier_17143578-3_2010"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-17143578-4-1",
+   "document_id": "DOC-RAP-17143578-4",
+   "texte": "porte coulissante a levier_17143578-4_2010"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-175-32901-3F-1",
+   "document_id": "DOC-RAP-175-32901-3F",
+   "texte": "a.ex 175 32901-3f"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-175-32901-4F-1",
+   "document_id": "DOC-RAP-175-32901-4F",
+   "texte": "a.ex 175 32901-4f"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-19-001303-PR03-1",
+   "document_id": "DOC-RAP-19-001303-PR03",
+   "texte": "aev_chassis_fixe_unico_ift_2019 (19-001303-pr03)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-19-004387-PR01-1",
+   "document_id": "DOC-RAP-19-004387-PR01",
+   "texte": "chassis fixe unico_ift (19-004387-pr01)_2020"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-20003643-37-1",
+   "document_id": "DOC-RAP-20003643-37",
+   "texte": "funktion-rauch_120003643-37_2013"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-201-31438-1",
+   "document_id": "DOC-RAP-201-31438",
+   "texte": "aev_1_vantail_ouverture_interieure_ift_2006 (201 31438)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-201-31439F-1",
+   "document_id": "DOC-RAP-201-31439F",
+   "texte": "aev_1_vantail_ouverture_exterieure_seuil_suisse_ift_2007 (201 31439f)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-201-31440F-1",
+   "document_id": "DOC-RAP-201-31440F",
+   "texte": "aev_2_vantaux_ouverture_interieure_ift_2006 (201 31440f)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-201-31441F-1",
+   "document_id": "DOC-RAP-201-31441F",
+   "texte": "aev_2_vantaux_ouverture_exterieure_seuil_suisse_ift_2007 (201 31441f)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-201-36283-1",
+   "document_id": "DOC-RAP-201-36283",
+   "texte": "presto_portes_divers_ift_2009 (201 36283)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-201-36285-1",
+   "document_id": "DOC-RAP-201-36285",
+   "texte": "porte_1_vantail_ouverture_exterieure_ift_2009 (201 36285)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-201-36288-1",
+   "document_id": "DOC-RAP-201-36288",
+   "texte": "porte_2_vantaux_ouverture_exterieure_ift_2009 (201 36288)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-201-36291-1",
+   "document_id": "DOC-RAP-201-36291",
+   "texte": "porte_1_vantail_ouverture_exterieure_grande_hauteur_ift_2009 (201 36291)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-20135793-4-1",
+   "document_id": "DOC-RAP-20135793-4",
+   "texte": "funktion_20135793-4_2008"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-202-VERARBEITUNGSUNTERLAGE-THERMFIXVARIO-1",
+   "document_id": "DOC-RAP-202-VERARBEITUNGSUNTERLAGE-THERMFIXVARIO",
+   "texte": "202_verarbeitungsunterlage_thermfixvario_rc2-4"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-2022-04-0117-K1-1",
+   "document_id": "DOC-RAP-2022-04-0117-K1",
+   "texte": "pfb - 2022-04-0117-k1 - cr4 - thermfix vario + porte unico - vetroguard - 2024"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-2022-04-0137-B1-1",
+   "document_id": "DOC-RAP-2022-04-0137-B1",
+   "texte": "ift_rc2_fixe_presto + fuegolight ei30_2022-04-0137-b1_2022"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-2022-04-0176-B1-1",
+   "document_id": "DOC-RAP-2022-04-0176-B1",
+   "texte": "ift - rc2 - fenetre 2 vantail sur allege + imposte a soufflet - 2022-04-0176_b1 - 2023"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-2022-04-0435-B2-1",
+   "document_id": "DOC-RAP-2022-04-0435-B2",
+   "texte": "pfb - rc2 - porte 2 vantaux coulissante a levage _2022-04-0435-b2_2024"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-2022-04-0435-K3-1",
+   "document_id": "DOC-RAP-2022-04-0435-K3",
+   "texte": "pfb - rc3 - porte 2 vantaux coulissante automatique - 2022-04-0435-k3"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-21-003479-PR01-1",
+   "document_id": "DOC-RAP-21-003479-PR01",
+   "texte": "ift - rc2 - fenetre 1 vantail - 21-003479-pr01 - 2021"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-21-003479-PR05-1",
+   "document_id": "DOC-RAP-21-003479-PR05",
+   "texte": "ift - rc2 - chassis fixe - 21-003479-pr05 - 2021"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-21-004446-PR01-2-1",
+   "document_id": "DOC-RAP-21-004446-PR01-2",
+   "texte": "ift_21-004446-pr01_2021 - aev 1 vantail ob seuil pmr_a4-e7a-vc4_lxh=1124x2804_ferrage cache"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-22-0208-01-1",
+   "document_id": "DOC-RAP-22-0208-01",
+   "texte": "s-22-0208-01_prufberichtzeichnungen_en1063certifikat_unico_fb6-ns"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-25-005-REY-1",
+   "document_id": "DOC-RAP-25-005-REY",
+   "texte": "aev_chassis fixe_unico dta_25.005-rey (en attente de validation mt)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-255-33951F-1",
+   "document_id": "DOC-RAP-255-33951F",
+   "texte": "avis_de_laboratoire_ift_2007_unico_profiles_ouverts_vs_tubulaires (255 33951f)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-3037-5295-1",
+   "document_id": "DOC-RAP-3037-5295",
+   "texte": "funktion_3037-5295_2005 907667"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-432-27814-1A-1",
+   "document_id": "DOC-RAP-432-27814-1A",
+   "texte": "432 27814-1a"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-43227814-1-1",
+   "document_id": "DOC-RAP-43227814-1",
+   "texte": "warmedurchgang_43227814-1_2004"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-45-28-21-1",
+   "document_id": "DOC-RAP-45-28-21",
+   "texte": "piv_rc2_porte ei30_45-28-21_2021"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-A046-K1-1",
+   "document_id": "DOC-RAP-A046-K1",
+   "texte": "thermfix_vario_einbruch_wk3_a046-k1_fr"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-APPLICATION-CONFORME-CE-PRESTO-NORM-FENE-1",
+   "document_id": "DOC-RAP-APPLICATION-CONFORME-CE-PRESTO-NORM-FENE",
+   "texte": "application_conforme-ce_presto_norm_fenetres_fr_8-10"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-APPLICATION-CONFORME-CE-PRESTO-PORTES-FR-1",
+   "document_id": "DOC-RAP-APPLICATION-CONFORME-CE-PRESTO-PORTES-FR",
+   "texte": "application_conforme-ce_presto_portes_fr_8-10"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-AVIS-D-EXPERT-IFT-PORTES-EI30-1V-ET-2V-V-1",
+   "document_id": "DOC-RAP-AVIS-D-EXPERT-IFT-PORTES-EI30-1V-ET-2V-V",
+   "texte": "avis d'expert ift portes ei30 1v et 2v vitrages pilkington"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-BEB1-L-5033-1",
+   "document_id": "DOC-RAP-BEB1-L-5033",
+   "texte": "aev_of_2_vantaux_lxh=2000x2879_a4_e8a_vc3_cebtp_2021 (beb1.l.5033)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-BESCHUSSAMT-FB7S-19-0200-04-2019-1",
+   "document_id": "DOC-RAP-BESCHUSSAMT-FB7S-19-0200-04-2019",
+   "texte": "beschussamt - fb7s - 19 0200 04_2019"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-CHASSIS-FIXES-UNICO-RC4-FB4-PFB-2012-1",
+   "document_id": "DOC-RAP-CHASSIS-FIXES-UNICO-RC4-FB4-PFB-2012",
+   "texte": "chassis fixes unico rc4 + fb4 (pfb - 2012)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-CLC-10-26023482-1",
+   "document_id": "DOC-RAP-CLC-10-26023482",
+   "texte": "aev_+_choc_1200_joules_cstb_2010 (clc 10-26023482c0l mod)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-CSTB-COEFFICIENTS-THERMIQUES-THERMFIX-VA-1",
+   "document_id": "DOC-RAP-CSTB-COEFFICIENTS-THERMIQUES-THERMFIX-VA",
+   "texte": "cstb coefficients thermiques thermfix vario"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-DBV-26-00063836-1",
+   "document_id": "DOC-RAP-DBV-26-00063836",
+   "texte": "dbv-26-00063836 - forster - unico - essai qb 49 t&q - ref. 017.5068"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-E03-016-1",
+   "document_id": "DOC-RAP-E03-016",
+   "texte": "e03-016_thermfix vario wk1-3 gutachtenbrosch3re gestempelt_070615"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-EF-24-174-01-1",
+   "document_id": "DOC-RAP-EF-24-174-01",
+   "texte": "rapport de conformite porte anti-panique cr4 ef-24-174-01"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-EF-24-404-01-1",
+   "document_id": "DOC-RAP-EF-24-404-01",
+   "texte": "buildwise - unico rc3 - porte 2 vantaux antipanique vitrage vetrotech polygard rc3 ap12 - ef-24-404-01 - 2025"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-EFR-19-001366-1",
+   "document_id": "DOC-RAP-EFR-19-001366",
+   "texte": "klasse_efr-19-001366_2019_unico porte ew30-en"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-FORSTER-UNICO-FENETRE-2-VANTAUX-RW-43-1-1",
+   "document_id": "DOC-RAP-FORSTER-UNICO-FENETRE-2-VANTAUX-RW-43-1",
+   "texte": "forster_unico_ fenetre_2_vantaux_rw_43_(-1;-4)_cebtp_09_2021"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-FORSTER-UNICO-FENETRE-2-VANTAUX-RW-44-1-1",
+   "document_id": "DOC-RAP-FORSTER-UNICO-FENETRE-2-VANTAUX-RW-44-1",
+   "texte": "forster_unico_ fenetre_2_vantaux_rw_44_(-1;-4)_cebtp_09_2021"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-GSFM-22-011-01-1",
+   "document_id": "DOC-RAP-GSFM-22-011-01",
+   "texte": "02 - unico rc4 - 1 et 2 vantaux (antipanique sur vantail principal) - cstc - vetrotech polygard rc4.58ap - gsfm-22-011-0"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-GSFM-22-012-01-1",
+   "document_id": "DOC-RAP-GSFM-22-012-01",
+   "texte": "cstc - unico rc3 - porte 2 vantaux - gsfm-22-012-01 - 2022"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-GSFM-22-174-01-1",
+   "document_id": "DOC-RAP-GSFM-22-174-01",
+   "texte": "cstc - unico rc3 - portes 2 vantaux antipanique serrure iseo - gsfm 22-174-01 - 2022"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-I-48-17-1",
+   "document_id": "DOC-RAP-I-48-17",
+   "texte": "z_de_eng_fr_tfv_explosion_i-48_17-emi_zertifikat_zeihnungen_versandbereit"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-IFT-CORRESPONDANCE-WK-RC-1",
+   "document_id": "DOC-RAP-IFT-CORRESPONDANCE-WK-RC",
+   "texte": "ift correspondance wk - rc"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-IFT-PV-COEFF-U-FRANCAIS-1",
+   "document_id": "DOC-RAP-IFT-PV-COEFF-U-FRANCAIS",
+   "texte": "ift_pv_coeff_u_francais"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-K-5030-1",
+   "document_id": "DOC-RAP-K-5030",
+   "texte": "k-5030-dmt-do_presto porte e30-e60"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-K-6016-1",
+   "document_id": "DOC-RAP-K-6016",
+   "texte": "k-6016-dmt-do_presto fixe e30-e60"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-KADDB-FB6-FB6-TEST-REPORT-2017-1",
+   "document_id": "DOC-RAP-KADDB-FB6-FB6-TEST-REPORT-2017",
+   "texte": "kaddb - fb6 - fb6 test report - 2017"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-L18-0601-01-1",
+   "document_id": "DOC-RAP-L18-0601-01",
+   "texte": "schall_l18_0601_01_2018 vario hi (rw 49 et 50 db)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-L19-1305-01-1",
+   "document_id": "DOC-RAP-L19-1305-01",
+   "texte": "l19_1305_01_sn_rw_signed"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-L22-0855-01-1",
+   "document_id": "DOC-RAP-L22-0855-01",
+   "texte": "chassis_fixe_1_seul_vitrage_gbd_lab_2022 (l22_0855_01_pb_rw_sspk01)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-L22-0855-02-1",
+   "document_id": "DOC-RAP-L22-0855-02",
+   "texte": "chassis_fixe_4_vitrages_gbd_lab_2022 (l22_0855_02_pb_rw_sspk02)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-L22-0855-03-1",
+   "document_id": "DOC-RAP-L22-0855-03",
+   "texte": "porte_1_vantail_ouverture_exterieure_gbd_lab_2022 (l22_0855_03_pb_rw_sspk03)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-L22-0855-04-1",
+   "document_id": "DOC-RAP-L22-0855-04",
+   "texte": "porte_2_vantaux_ouverture_exterieure_gbd_lab_2022 (l22_0855_04_pb_rw_sspk04)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-L22-0855-05-1",
+   "document_id": "DOC-RAP-L22-0855-05",
+   "texte": "valeurs_vitrages_ou_panneaux_pleins_seuls_gbd_lab_2022 (l22_0855_05_pb_rw_sspk05)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-L23-0105-01-1",
+   "document_id": "DOC-RAP-L23-0105-01",
+   "texte": "l23_0105_01_pb_lww_1v cremone a l'ancienne"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-L23-0106-01-1",
+   "document_id": "DOC-RAP-L23-0106-01",
+   "texte": "l23_0106_01_pb_lww_2v cremone a l'ancienne"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-L24-0434-01-1",
+   "document_id": "DOC-RAP-L24-0434-01",
+   "texte": "gbd_lab_l24_0434_01_2025 porte 1 vantail ouv. int"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-L24-2770-01-1",
+   "document_id": "DOC-RAP-L24-2770-01",
+   "texte": "aev_of_2x1vantail_avec_fixe_central_lxh=3193x2305_a4_e7a_vc3_gbd_lab_2024 (l24_2770_01_pb_lww)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-L25-1339-01-1",
+   "document_id": "DOC-RAP-L25-1339-01",
+   "texte": "gbd_l25_1339_01_pb_lww_aev 2 vantaux ob seuil pmr_a4-e7a-vc4_lxh=2096x2804_ferrage cache"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-L25-1628-01-1",
+   "document_id": "DOC-RAP-L25-1628-01",
+   "texte": "gbd_l25_1628_01_pb_lww_aev 2 vantaux ob unico xs_a4-e1050-vc4_lxh=2507x1535_(joint central de l'unico xs)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-L25-1629-01-1",
+   "document_id": "DOC-RAP-L25-1629-01",
+   "texte": "gbd_l25_1629_01_pb_lww_aev 2 vantaux ob unico_a4-e7a-vc4_lxh=2531x1564_(joint central de l'unico xs)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-L25-1983-01-1",
+   "document_id": "DOC-RAP-L25-1983-01",
+   "texte": "gbd_lab_l25_1983_01_2025 chassis fixe avec traverses et montants intermediaires"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-LUFT-REGEN-WIND-PENDEL-94993-01-120-32-2-1",
+   "document_id": "DOC-RAP-LUFT-REGEN-WIND-PENDEL-94993-01-120-32-2",
+   "texte": "luft-regen-wind-pendel_94993.01-120-32_2010"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-MD210028-1",
+   "document_id": "DOC-RAP-MD210028",
+   "texte": "unico_cr4_porte_1_vantail_cnpp_md210028_01-04-2021"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-MD210028A-1",
+   "document_id": "DOC-RAP-MD210028A",
+   "texte": "01 - unico rc4 - 1 et 2 vantaux - cnpp - md210028a (06-2021)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-MD210028B-1",
+   "document_id": "DOC-RAP-MD210028B",
+   "texte": "unico_cr4_porte_2_vantaux_cnpp_md210028b (vitrage polyguard)_06-02-2024"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-POLYGARD-PRO-UP-862-38-NS-UK-1",
+   "document_id": "DOC-RAP-POLYGARD-PRO-UP-862-38-NS-UK",
+   "texte": "polygard pro up 862.38-ns_uk"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-PORTE-UNICO-CR4-1-VANTAIL-SYNTHESE-ACCES-1",
+   "document_id": "DOC-RAP-PORTE-UNICO-CR4-1-VANTAIL-SYNTHESE-ACCES",
+   "texte": "porte_unico_cr4_1_vantail_synthese_accessoires"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-PORTE-UNICO-CR4-2-VANTAUX-SYNTHESE-ACCES-1",
+   "document_id": "DOC-RAP-PORTE-UNICO-CR4-2-VANTAUX-SYNTHESE-ACCES",
+   "texte": "porte_unico_cr4_2_vantaux_synthese_accessoires"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-PRESTO-60S-1-VTL-RW-43DB-1",
+   "document_id": "DOC-RAP-PRESTO-60S-1-VTL-RW-43DB",
+   "texte": "presto 60s 1 vtl rw 43db"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-PYROSTOP-RW-44DB-1",
+   "document_id": "DOC-RAP-PYROSTOP-RW-44DB",
+   "texte": "pyrostop rw 44db"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-RAPPORT-D-ESSAIS-IFT-CLOISONS-EI30-60-90-2-1",
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-CLOISONS-EI30-60-90-2",
+   "texte": "rapport d'essais ift cloisons ei30-60-90 vitrages vetrotech"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-RAPPORT-D-ESSAIS-IFT-CLOISONS-EI30-60-90-1",
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-CLOISONS-EI30-60-90",
+   "texte": "rapport d'essais ift cloisons ei30-60-90 vitrages pilkington"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-RAPPORT-D-ESSAIS-IFT-PORTES-EI60-1V-VITR-2-1",
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-PORTES-EI60-1V-VITR-2",
+   "texte": "rapport d'essais ift portes ei60 1v vitrages vetrotech (copropriete forster-vetrotech)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-RAPPORT-D-ESSAIS-IFT-PORTES-EI60-1V-VITR-1",
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-PORTES-EI60-1V-VITR",
+   "texte": "rapport d'essais ift portes ei60 1v vitrages pilkington (copropriete forster-pilkington)"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-RAPPORT-D-ESSAIS-LASM-PORTES-EI30-2V-VIT-1",
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-LASM-PORTES-EI30-2V-VIT",
+   "texte": "rapport d'essais lasm portes ei30 2v vitrages pilkginton"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-RECAPITULATIF-1-VANTAIL-1",
+   "document_id": "DOC-RAP-RECAPITULATIF-1-VANTAIL",
+   "texte": "recapitulatif 1 vantail"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-RESUME-AFFAIBLISSEMENTS-ACOUSTIQUES-V2-2-1",
+   "document_id": "DOC-RAP-RESUME-AFFAIBLISSEMENTS-ACOUSTIQUES-V2-2",
+   "texte": "resume affaiblissements acoustiques v2-2020 "
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-S-16-0053-01-Z-1",
+   "document_id": "DOC-RAP-S-16-0053-01-Z",
+   "texte": "beshcussamt - fb6ns - chassis fixes - s 16 0053 01-z - 2016"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-S-21-0219-01Z-1",
+   "document_id": "DOC-RAP-S-21-0219-01Z",
+   "texte": "beschussamt - fb4ns - porte 1 vantail ei30 tole_s 21 0219 01z_2021"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-S-22-0208-01-Z-1",
+   "document_id": "DOC-RAP-S-22-0208-01-Z",
+   "texte": "beschussamt - fb6ns - porte_unico_2_ vantaux_ouverture_interieure_s 22 0208 01-z - 2022"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-S09000201B-1",
+   "document_id": "DOC-RAP-S09000201B",
+   "texte": "fenetre unico 2 vantaux fb4ns (renfort acier) - beschuss_s09000201b_2009"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-S09001601B-1",
+   "document_id": "DOC-RAP-S09001601B",
+   "texte": "porte unico 2 vantaux fb4ns - beschuss_s09001601b_2009"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-S11004201-B-1",
+   "document_id": "DOC-RAP-S11004201-B",
+   "texte": "beschussamt - fb4ns - porte 1 vantail ei30_s11004201-b_2011"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-S12005805-B-1",
+   "document_id": "DOC-RAP-S12005805-B",
+   "texte": "chassis fixe unico fb4ns 1 vitrage - beschuss_s12005805-b_2012"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-S12005806-B-1",
+   "document_id": "DOC-RAP-S12005806-B",
+   "texte": "beschussamt - fb4ns - s12005806-b_2012"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-S12005807-B-1",
+   "document_id": "DOC-RAP-S12005807-B",
+   "texte": "beschussamt - fb4ns - s12005807-b_2012"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-S18020501-B-1",
+   "document_id": "DOC-RAP-S18020501-B",
+   "texte": "fenetre unico 2 vantaux fb4ns (renfort alu) - beschuss_s18020501-b_2018"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-S18020502-B-1",
+   "document_id": "DOC-RAP-S18020502-B",
+   "texte": "chassis fixe unico fb4 ns 4 vitrages - beschuss_s18020502-b_2018"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-S18020503-B-1",
+   "document_id": "DOC-RAP-S18020503-B",
+   "texte": "beschussamt - fb4ns - s18020503-b_2018"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-S18020506-B-1",
+   "document_id": "DOC-RAP-S18020506-B",
+   "texte": "chassis fixe unico fb4 ns 4 vitrages - beschuss_s18020506-b_2018"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-S18020507-B-1",
+   "document_id": "DOC-RAP-S18020507-B",
+   "texte": "fenetre unico 2 vantaux fb4ns (renfort alu) - beschuss_s18020507-b_2018"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-S18020508-B-1",
+   "document_id": "DOC-RAP-S18020508-B",
+   "texte": "beschussamt - fb4ns - s18020508-b_2018"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-S19020401B-1",
+   "document_id": "DOC-RAP-S19020401B",
+   "texte": "seuil de porte fb4 ns - beschuss_s19020401b_2019"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-S19020901B-1",
+   "document_id": "DOC-RAP-S19020901B",
+   "texte": "beschussamt - fb4ns - chassis fixe ei30_s19020901b_2019"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-S19020902B-1",
+   "document_id": "DOC-RAP-S19020902B",
+   "texte": "beschussamt - fb4ns - porte 2 vantaux ei30 (dont vantail tole)_s19020902b_2019"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-S19022301B-1",
+   "document_id": "DOC-RAP-S19022301B",
+   "texte": "beschussamt - fb4ns - porte 2 vantaux ei30_s19022301b_2019"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-S20021201-B-1",
+   "document_id": "DOC-RAP-S20021201-B",
+   "texte": "beschussamt - fb5ns - porte unico 2 vantaux - s20021201_b + s20021203_b - 2020"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-S20021202-1",
+   "document_id": "DOC-RAP-S20021202",
+   "texte": "beschussamt - fb5s - porte 2 vantaux_s20021202_2020"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-S21020101B-1",
+   "document_id": "DOC-RAP-S21020101B",
+   "texte": "beschussamt - thermfix vario fb6ns - s21020101b - 2021"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-SYSTEMPASS-UNICO-UNICOXS-FENSTER-FR-1",
+   "document_id": "DOC-RAP-SYSTEMPASS-UNICO-UNICOXS-FENSTER-FR",
+   "texte": "systempass_unico_unicoxs_fenster_fr"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-TAB-AFFBL-PHONIQUE-THERMFIX-VARIO-V1-201-1",
+   "document_id": "DOC-RAP-TAB-AFFBL-PHONIQUE-THERMFIX-VARIO-V1-201",
+   "texte": "tab affbl.phonique thermfix vario v1-2019"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-THERMFIX-VARIO-RW-36DB-1",
+   "document_id": "DOC-RAP-THERMFIX-VARIO-RW-36DB",
+   "texte": "thermfix vario rw 36db"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-THERMFIX-VARIO-RW-42DB-1",
+   "document_id": "DOC-RAP-THERMFIX-VARIO-RW-42DB",
+   "texte": "thermfix vario rw 42db"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-THERMFIX-VARIO-RW43DB-1",
+   "document_id": "DOC-RAP-THERMFIX-VARIO-RW43DB",
+   "texte": "thermfix vario rw43db"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-THERMFIX-VARIO-RW44DB-1",
+   "document_id": "DOC-RAP-THERMFIX-VARIO-RW44DB",
+   "texte": "thermfix vario rw44db"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR-1",
+   "document_id": "DOC-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR",
+   "texte": "thermfix_vario_wk_1-3 traduite fr"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-THERMIFIX-VARIO-RW-45DB-1",
+   "document_id": "DOC-RAP-THERMIFIX-VARIO-RW-45DB",
+   "texte": "thermifix vario rw 45db"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-UF-734851-4-3-1",
+   "document_id": "DOC-RAP-UF-734851-4-3",
+   "texte": "uf_734851 = 4.3"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-UF-734852-4-5-1",
+   "document_id": "DOC-RAP-UF-734852-4-5",
+   "texte": "uf_734852 = 4.5"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-UF-736851-3-6-1",
+   "document_id": "DOC-RAP-UF-736851-3-6",
+   "texte": "uf_736851 = 3.6"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-UF-736852-3-5-1",
+   "document_id": "DOC-RAP-UF-736852-3-5",
+   "texte": "uf_736852 = 3.5"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-UF-739592-2-6-1",
+   "document_id": "DOC-RAP-UF-739592-2-6",
+   "texte": "uf_739592 = 2.6"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-UF-THERMFIX-VARIO-432-27814-1-FR-1",
+   "document_id": "DOC-RAP-UF-THERMFIX-VARIO-432-27814-1-FR",
+   "texte": "uf_thermfix_vario_432_27814_1_fr"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-UF-THERMFIX-VARIO-1",
+   "document_id": "DOC-RAP-UF-THERMFIX-VARIO",
+   "texte": "uf thermfix vario"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX-1",
+   "document_id": "DOC-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX",
+   "texte": "up 862.38-ns-br6-cetrificate_annex"
+  },
+  {
+   "objet_type": "configuration",
+   "objet_id": "CFG-RAP-UP-862-38-NS-P8B-REPORT-ANNEX-1",
+   "document_id": "DOC-RAP-UP-862-38-NS-P8B-REPORT-ANNEX",
+   "texte": "up 862.38-ns-p8b-report_annex"
   },
   {
    "objet_type": "configuration",

@@ -1,0 +1,98 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-16-05-2024",
+   "nom_fichier": "Résistance à l'effraction (RC)\\FORSTER tableau récap résistance effraction 16-05-2024",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Résistance à l'effraction (RC)\\FORSTER tableau récap résistance effraction 16-05-2024.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-16-05-2024",
+   "numero": "16-05-2024",
+   "numero_normalise": "16-05-2024",
+   "revision": null,
+   "type_code": "synthese_fabricant",
+   "domaine_code": "effraction",
+   "objet": "FORSTER tableau récap résistance effraction 16-05-2024",
+   "laboratoire_id": null,
+   "date_emission": "2024-05-16",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 28,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-16-05-2024",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Résistance à l'effraction (RC)"
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-16-05-2024",
+   "norme_id": "NRM-EN-1627",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-16-05-2024",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-05-2024",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-05-2024",
+   "systeme_id": "SYS-PRESTO-60",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-05-2024",
+   "systeme_id": "SYS-PRESTO-50",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-05-2024",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "variante",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-05-2024",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "variante",
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-16-05-2024-AUTO",
+   "document_id": "DOC-RAP-16-05-2024",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-16-05-2024",
+   "type_code": "extraction_auto",
+   "description": "Rapport 16-05-2024 (effraction) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

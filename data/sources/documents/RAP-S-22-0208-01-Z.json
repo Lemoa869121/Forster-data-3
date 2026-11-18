@@ -1,0 +1,128 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-S-22-0208-01-Z",
+   "nom_fichier": "Résistance aux balles (FB)\\Unico\\FB6\\Portes ouvrant vers l'intérieur\\BESCHUSSAMT - FB6NS - Porte_Unico_2_ vantaux_ouverture_intérieure_S 22 0208 01-Z - 2022",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Résistance aux balles (FB)\\Unico\\FB6\\Portes ouvrant vers l'intérieur\\BESCHUSSAMT - FB6NS - Porte_Unico_2_ vantaux_ouverture_intérieure_S 22 0208 01-Z - 2022.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-S-22-0208-01-Z",
+   "numero": "S 22 0208 01-Z",
+   "numero_normalise": "S 22 0208 01-Z",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "balistique",
+   "objet": "BESCHUSSAMT - FB6NS - Porte_Unico_2_ vantaux_ouverture_intérieure_S 22 0208 01-Z - 2022",
+   "laboratoire_id": "ORG-BESCHUSSAMT-ULM",
+   "date_emission": "2022-06-30",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 27,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-S-22-0208-01-Z",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Résistance aux balles (FB)/Unico/FB6/Portes ouvrant vers l'intérieur"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-S-22-0208-01-Z-P1",
+   "document_id": "DOC-RAP-S-22-0208-01-Z",
+   "page_doc": 1,
+   "page_doc_total": 27,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-S-22-0208-01-Z",
+   "organisme_id": "ORG-BESCHUSSAMT-ULM",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-S-22-0208-01-Z",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-S-22-0208-01-Z",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-S-22-0208-01-Z-1",
+   "document_id": "DOC-RAP-S-22-0208-01-Z",
+   "code": "1",
+   "libelle": "BESCHUSSAMT - FB6NS - Porte_Unico_2_ vantaux_ouverture_intérieure_S 22 0208 01-Z - 2022",
+   "typologie_code": "bloc_porte",
+   "systeme_id": "SYS-UNICO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-S-22-0208-01-Z-1",
+   "document_id": "DOC-RAP-S-22-0208-01-Z",
+   "configuration_id": "CFG-RAP-S-22-0208-01-Z-1",
+   "domaine_code": "balistique",
+   "libelle_tel_qu_ecrit": "FB6NS",
+   "classe_normalisee": "FB6NS",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-S-22-0208-01-Z-P1",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_balistique": [
+  {
+   "performance_id": "PERF-RAP-S-22-0208-01-Z-1",
+   "classe": "FB6",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-S-22-0208-01-Z-AUTO",
+   "document_id": "DOC-RAP-S-22-0208-01-Z",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-S-22-0208-01-Z",
+   "type_code": "extraction_auto",
+   "description": "Rapport S 22 0208 01-Z (balistique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

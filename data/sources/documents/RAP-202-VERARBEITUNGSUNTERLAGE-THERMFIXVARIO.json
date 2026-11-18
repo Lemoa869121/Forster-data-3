@@ -1,0 +1,84 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-202-VERARBEITUNGSUNTERLAGE-THERMFIXVARIO",
+   "nom_fichier": "Résistance à l'effraction (RC)\\Thermfix Vario\\CR4\\202_Verarbeitungsunterlage_thermfixvario_RC2-4",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Résistance à l'effraction (RC)\\Thermfix Vario\\CR4\\202_Verarbeitungsunterlage_thermfixvario_RC2-4.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-202-VERARBEITUNGSUNTERLAGE-THERMFIXVARIO",
+   "numero": "202 Verarbeitungsunterlage thermfixvario RC2-4",
+   "numero_normalise": "202 Verarbeitungsunterlage thermfixvario RC2-4",
+   "revision": null,
+   "type_code": "synthese_fabricant",
+   "domaine_code": "effraction",
+   "objet": "202_Verarbeitungsunterlage_thermfixvario_RC2-4",
+   "laboratoire_id": null,
+   "date_emission": null,
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 189,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-202-VERARBEITUNGSUNTERLAGE-THERMFIXVARIO",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Résistance à l'effraction (RC)/Thermfix Vario/CR4 ; date non lue (année du nom : inconnue)"
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-202-VERARBEITUNGSUNTERLAGE-THERMFIXVARIO",
+   "norme_id": "NRM-EN-1627",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-202-VERARBEITUNGSUNTERLAGE-THERMFIXVARIO",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-202-VERARBEITUNGSUNTERLAGE-THERMFIXVARIO-1",
+   "document_id": "DOC-RAP-202-VERARBEITUNGSUNTERLAGE-THERMFIXVARIO",
+   "code": "1",
+   "libelle": "202_Verarbeitungsunterlage_thermfixvario_RC2-4",
+   "typologie_code": "facade_vitree",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-202-VERARBEITUNGSUNTERLAGE-THERMFIXVARIO-AUTO",
+   "document_id": "DOC-RAP-202-VERARBEITUNGSUNTERLAGE-THERMFIXVARIO",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-202-VERARBEITUNGSUNTERLAGE-THERMFIXVARIO",
+   "type_code": "extraction_auto",
+   "description": "Rapport 202 Verarbeitungsunterlage thermfixvario RC2-4 (effraction) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

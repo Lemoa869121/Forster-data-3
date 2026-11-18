@@ -1,0 +1,84 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-APPLICATION-CONFORME-CE-PRESTO-PORTES-FR",
+   "nom_fichier": "Passeports CE\\Presto\\Portes\\Application_conforme-CE_presto_portes_FR_8-10",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Passeports CE\\Presto\\Portes\\Application_conforme-CE_presto_portes_FR_8-10.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-APPLICATION-CONFORME-CE-PRESTO-PORTES-FR",
+   "numero": "Application conforme-CE presto portes FR 8-10",
+   "numero_normalise": "Application conforme-CE presto portes FR 8-10",
+   "revision": null,
+   "type_code": "passeport_ce",
+   "domaine_code": "aev",
+   "objet": "Application_conforme-CE_presto_portes_FR_8-10",
+   "laboratoire_id": null,
+   "date_emission": null,
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 15,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-APPLICATION-CONFORME-CE-PRESTO-PORTES-FR",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Passeports CE/Presto/Portes ; date non lue (année du nom : inconnue)"
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-APPLICATION-CONFORME-CE-PRESTO-PORTES-FR",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-APPLICATION-CONFORME-CE-PRESTO-PORTES-FR",
+   "systeme_id": "SYS-PRESTO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-APPLICATION-CONFORME-CE-PRESTO-PORTES-FR-1",
+   "document_id": "DOC-RAP-APPLICATION-CONFORME-CE-PRESTO-PORTES-FR",
+   "code": "1",
+   "libelle": "Application_conforme-CE_presto_portes_FR_8-10",
+   "typologie_code": "bloc_porte",
+   "systeme_id": "SYS-PRESTO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-APPLICATION-CONFORME-CE-PRESTO-PORTES-FR-AUTO",
+   "document_id": "DOC-RAP-APPLICATION-CONFORME-CE-PRESTO-PORTES-FR",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-APPLICATION-CONFORME-CE-PRESTO-PORTES-FR",
+   "type_code": "extraction_auto",
+   "description": "Rapport Application conforme-CE presto portes FR 8-10 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

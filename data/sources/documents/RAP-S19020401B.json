@@ -1,0 +1,147 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-S19020401B",
+   "nom_fichier": "Résistance aux balles (FB)\\Unico\\FB4\\Seuil de porte FB4 NS - Beschuss_S19020401B_2019",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Résistance aux balles (FB)\\Unico\\FB4\\Seuil de porte FB4 NS - Beschuss_S19020401B_2019.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-S19020401B",
+   "numero": "S19020401B",
+   "numero_normalise": "S19020401B",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "balistique",
+   "objet": "Seuil de porte FB4 NS - Beschuss_S19020401B_2019",
+   "laboratoire_id": "ORG-BESCHUSSAMT-ULM",
+   "date_emission": "2019-02-13",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 4,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-S19020401B",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Résistance aux balles (FB)/Unico/FB4"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-S19020401B-P2",
+   "document_id": "DOC-RAP-S19020401B",
+   "page_doc": 2,
+   "page_doc_total": 4,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-S19020401B",
+   "organisme_id": "ORG-BESCHUSSAMT-ULM",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-S19020401B",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-S19020401B",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-S19020401B-1",
+   "document_id": "DOC-RAP-S19020401B",
+   "code": "1",
+   "libelle": "Seuil de porte FB4 NS - Beschuss_S19020401B_2019",
+   "typologie_code": "composant",
+   "systeme_id": "SYS-UNICO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-S19020401B-1",
+   "document_id": "DOC-RAP-S19020401B",
+   "configuration_id": "CFG-RAP-S19020401B-1",
+   "domaine_code": "balistique",
+   "libelle_tel_qu_ecrit": "FB4 NS",
+   "classe_normalisee": "FB4NS",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-S19020401B-P2",
+   "statut_extraction": "extrait"
+  },
+  {
+   "id": "PERF-RAP-S19020401B-2",
+   "document_id": "DOC-RAP-S19020401B",
+   "configuration_id": "CFG-RAP-S19020401B-1",
+   "domaine_code": "balistique",
+   "libelle_tel_qu_ecrit": "FB 4 S",
+   "classe_normalisee": "FB4S",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-S19020401B-P2",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_balistique": [
+  {
+   "performance_id": "PERF-RAP-S19020401B-1",
+   "classe": "FB4",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S19020401B-2",
+   "classe": "FB4",
+   "avec_eclats": "S",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-S19020401B-AUTO",
+   "document_id": "DOC-RAP-S19020401B",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-S19020401B",
+   "type_code": "extraction_auto",
+   "description": "Rapport S19020401B (balistique) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

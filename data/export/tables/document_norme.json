@@ -170,6 +170,1749 @@
    "source_page_id": "SP-EFR-24-000553-R1-P012-8-EXCLUSIONS"
   },
   {
+   "document_id": "DOC-RAP-02-11-1206",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-04-01-1281",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-04-08-1318",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-05-10-A116-B1",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-07-07-A135-B1",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-08-03-A062-K1",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-08-03-A062-K2",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-08-03-A062-K3",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-08-09-A237-B1",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-08-10-A287-B1",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-08-10-A287-K1",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-08-10-A287-K2",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-08-10-A287-K3-2",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-08-10-A287-K3",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-08-2017-FE-117",
+   "norme_id": "NRM-EN-13123-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-08-2017-FE-118-119",
+   "norme_id": "NRM-EN-13123-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-102-30650-1-R1F",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-102-30650",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-102-32902-1F",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-102-32902-2F",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-102-35800-2",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-102-35800-3",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-102-37642F",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-106-41178-1-R1F",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-108-29778-1F",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-108-29778-2F",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-108-31063F",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-11-000691-PB01",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-11-000691-PB02",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-11-002650-PR01-2",
+   "norme_id": "NRM-EN-1191",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-11-002839-PR01",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-11-002983-PR01",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-11-002983-PR06",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-11-003224-PR01",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-12-003174-PR01",
+   "norme_id": "NRM-EN-1191",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-12-003635-PR01",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-13-002986-PR01-2",
+   "norme_id": "NRM-EN-1125",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-13-08-A288-G2",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-13-11-A383-B1",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-13-11-A384-B1",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-14-000878-PR02",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-14-000878-PR04",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-14-000878-PR05",
+   "norme_id": "NRM-EN-1191",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-14-000878-PR06",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-14-001811-PR01",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-14-001811-PR02-2",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-14-002403-PR01-2",
+   "norme_id": "NRM-EN-1191",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-14-05-A196-G1",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-001026-PR03-2",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-001026-PR04-2",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-001026-PR05-2",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-001026-PR06-2",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-001026-PR07-2",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-001026-PR08-2",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-001026-PR09-2",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-00226-PR01",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-004281-PR01",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-00506-PR01",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-0152-01",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-15-04-A156-B1",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-155-41178-1",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-001037-PR01",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-001854-PR01-2",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-001854-PR03-2",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-001854-PR04-2",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-001854-PR05-2",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-001854-PR06-2",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-001854-PR07-2",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-002111-PR01",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-002410-PR01-2",
+   "norme_id": "NRM-EN-1191",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16-05-2024",
+   "norme_id": "NRM-EN-1627",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z10F",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z11F",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z12F",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z13F",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z14",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z14F",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z15F",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z16F",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z1F-2",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z1F",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z27",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z27F",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z28F",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z2F-2",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z2F",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z5F-2",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z5F",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z6F-2",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-161-30936-Z6F",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16137053-Z04",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16137053-Z09",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16137053",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16237053-Z12",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16237053-Z14",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-16243582-Z08",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-17-000054-PR01",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-17-000054-PR02",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-17143578-1",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-17143578-2",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-17143578-3",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-17143578-4",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-175-32901-3F",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-175-32901-4F",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-19-000121-PR03-2",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-19-001303-PR03",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-19-004387-PR01",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-20003643-37",
+   "norme_id": "NRM-EN-1191",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-201-31438",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-201-31439F",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-201-31440F",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-201-31441F",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-201-36283",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-201-36285",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-201-36288",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-201-36291",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-20135793-4",
+   "norme_id": "NRM-EN-1191",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-202-VERARBEITUNGSUNTERLAGE-THERMFIXVARIO",
+   "norme_id": "NRM-EN-1627",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-2022-04-0117-K1",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-2022-04-0137-B1",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-2022-04-0176-B1",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-2022-04-0435-B2",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-2022-04-0435-K3",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-21-003479-PR01",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-21-003479-PR05",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-21-004446-PR01-2",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-22-0208-01",
+   "norme_id": "NRM-EN-1522",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-25-005-REY",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-255-33951F",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-3037-5295",
+   "norme_id": "NRM-EN-1191",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-42237268",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-432-27814-1A",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-43227814-1",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-43230051-1",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-43230051-2",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-43230051-3",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-43230051",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-45-28-21",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-A046-K1",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-AEV-NORM50-A4-E8A-VB2-CSTB-2002",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-APPLICATION-CONFORME-CE-PRESTO-NORM-FENE",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-APPLICATION-CONFORME-CE-PRESTO-PORTES-FR",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-AVIS-D-EXPERT-IFT-PORTES-EI30-1V-ET-2V-V",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-BEB1-L-5033",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-BESCHUSSAMT-FB7S-19-0200-04-2019",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-CERTIFICAT-MINERGIE-UNICO-XS-HI",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-CHASSIS-FIXES-UNICO-RC4-FB4-PFB-2012",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-CLC-10-26023482",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-CSTB-COEFFICIENTS-THERMIQUES-THERMFIX-VA",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-CXL127-26",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-DBV-22-12567-A",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-DBV-23-09215",
+   "norme_id": "NRM-EN-1191",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-DBV-M-25-49976",
+   "norme_id": "NRM-EN-1191",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-DBV-M-25-49978",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-E03-016",
+   "norme_id": "NRM-EN-1627",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-EF-24-174-01",
+   "norme_id": "NRM-EN-1627",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-EF-24-404-01",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-FORSTER-UNICO-FENETRE-2-VANTAUX-RW-43-1",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-FORSTER-UNICO-FENETRE-2-VANTAUX-RW-44-1",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-FORSTER-UNICO-UNICO-XS-2025",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-GSFM-22-011-01",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-GSFM-22-012-01",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-GSFM-22-174-01",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-I-48-17",
+   "norme_id": "NRM-EN-13123-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-I-49-17",
+   "norme_id": "NRM-EN-13123-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-IFT-CORRESPONDANCE-WK-RC",
+   "norme_id": "NRM-EN-1627",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-IFT-PV-COEFF-U-FRANCAIS",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-IFT-RAPPORT-DE-SYNTHESE-RC1-RC2-RC3-UNIC",
+   "norme_id": "NRM-EN-1627",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-K-DE-ENG-UNICO-FUEGOLIGHT-PRESTO-GUTACHT",
+   "norme_id": "NRM-EN-1627",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-KADDB-FB6-FB6-TEST-REPORT-2017",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L18-0601-01",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L19-1305-01",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L22-0855-01",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L22-0855-02",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L22-0855-03",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L22-0855-04",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L22-0855-05",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L23-0105-01",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L23-0106-01",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L24-0434-01",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L24-2770-01",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L25-1339-01",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L25-1628-01",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L25-1629-01",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-L25-1983-01",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-LUFT-REGEN-WIND-PENDEL-94993-01-120-32-2",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-MD210028",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-MD210028A",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-MD210028B",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-POLYGARD-PRO-UP-862-38-NS-UK",
+   "norme_id": "NRM-EN-1522",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-PORTE-UNICO-CR4-1-VANTAIL-SYNTHESE-ACCES",
+   "norme_id": "NRM-EN-1627",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-PORTE-UNICO-CR4-2-VANTAUX-SYNTHESE-ACCES",
+   "norme_id": "NRM-EN-1627",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-PRESTO-60S-1-VTL-RW-43DB",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-PRESTO-60S-2-VTX-RW-44DB",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-PRODUKTPASS-THERMFIX-LIGHT-FR",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-PYROSTOP-RW-44DB",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-CLOISONS-EI30-60-90-2",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-CLOISONS-EI30-60-90",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-PORTES-EI60-1V-VITR-2",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-IFT-PORTES-EI60-1V-VITR",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-LASM-PORTES-EI30-2V-VIT",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-RECAPITULATIF-1-VANTAIL",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-RESUME-AFFAIBLISSEMENTS-ACOUSIQUES-V2-20",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-RESUME-AFFAIBLISSEMENTS-ACOUSTIQUES-V1-2-2",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-RESUME-AFFAIBLISSEMENTS-ACOUSTIQUES-V1-2",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-RESUME-AFFAIBLISSEMENTS-ACOUSTIQUES-V2-2",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S-16-0053-01-Z",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S-21-0219-01Z",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S-22-0208-01-Z",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S09000201B",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S09001601B",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S11004201-B",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S12005805-B",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S12005806-B",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S12005807-B",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S18020501-B",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S18020502-B",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S18020503-B",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S18020506-B",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S18020507-B",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S18020508-B",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S19020401B",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S19020901B",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S19020902B",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S19022301B",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S20021201-B",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S20021202",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-S21020101B",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-SILENCIO",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-SYNTHESE-AEV-UNICO-2015-05-03",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-SYSTEMPASS-UNICO-UNICOXS-FENSTER-FR",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-TAB-AFFBL-PHONIQUE-THERMFIX-VARIO-V1-201",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-THERMFIX-VARIO-RW-36DB",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-THERMFIX-VARIO-RW-42DB",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-THERMFIX-VARIO-RW43DB",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-THERMFIX-VARIO-RW44DB",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-THERMIFIX-VARIO-RW-45DB",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-UF-734851-4-3",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-UF-734852-4-5",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-UF-736851-3-6",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-UF-736852-3-5",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-UF-739592-2-6",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-UF-THERMFIX-VARIO-432-27814-1-FR",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-UF-THERMFIX-VARIO",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-UP-862-38-NS-P8B-REPORT-ANNEX",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-UW-12-TYPES-PR-FUEL-UNICO-VERSION-3-1-VA",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-UW-12-TYPES-PR-FUEL-UNICO-VERSION-3-2-VA",
+   "norme_id": "NRM-EN-ISO-10077-2",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  },
+  {
    "document_id": "DOC-08-A-287",
    "norme_id": "NRM-EN-13501-2",
    "role": "classement",

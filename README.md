@@ -62,3 +62,10 @@ Police Faktum : non versionnée (licence commerciale, dépôt public) — dépos
 - Les PDF sources ne sont pas versionnés (liens Drive dans `fichier_source`).
 
 > Ces données décrivent le contenu des PV ; elles ne valent pas avis de conformité. Seul le PV original, accompagné de ses reconductions en cours de validité, fait foi.
+
+## Rapports d'essais et cumuls de performances (v1.3.0)
+
+272 rapports d'essais du dossier « Rapports d'essais » (effraction, pare-balles, explosion, AEV, acoustique, chocs, endurance, issues de secours, thermique, classement feu EN 13501-2) sont intégrés (`DOC-RAP-*`, extraction automatique à relire).
+Les cumuls **énoncés** (synthèse Forster 16/05/2024, rapports portant deux classes, éprouvettes coupe-feu) sont dans `cumul_performance`.
+Le rapprochement système × typologie se trouve dans `v_cumul_potentiel` ; ce n'est pas un cumul certifié. Voir [docs/16_RAPPORTS_ESSAIS_ET_CUMULS.md](docs/16_RAPPORTS_ESSAIS_ET_CUMULS.md).
+Régénération : `scripts/ocr_rapport.sh` (texte par page) puis `python3 scripts/extract_rapports.py <dossier_txt>` et `python3 scripts/build_db.py`.

@@ -1,0 +1,90 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-SYSTEMPASS-UNICO-UNICOXS-FENSTER-FR",
+   "nom_fichier": "Passeports CE\\Unico XS\\systempass_unico_unicoxs_fenster_fr",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Passeports CE\\Unico XS\\systempass_unico_unicoxs_fenster_fr.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-SYSTEMPASS-UNICO-UNICOXS-FENSTER-FR",
+   "numero": "systempass unico unicoxs fenster fr",
+   "numero_normalise": "systempass unico unicoxs fenster fr",
+   "revision": null,
+   "type_code": "passeport_ce",
+   "domaine_code": "aev",
+   "objet": "systempass_unico_unicoxs_fenster_fr",
+   "laboratoire_id": null,
+   "date_emission": "2018-03-26",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 72,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-SYSTEMPASS-UNICO-UNICOXS-FENSTER-FR",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Passeports CE/Unico XS"
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-SYSTEMPASS-UNICO-UNICOXS-FENSTER-FR",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-SYSTEMPASS-UNICO-UNICOXS-FENSTER-FR",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-SYSTEMPASS-UNICO-UNICOXS-FENSTER-FR",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-SYSTEMPASS-UNICO-UNICOXS-FENSTER-FR-1",
+   "document_id": "DOC-RAP-SYSTEMPASS-UNICO-UNICOXS-FENSTER-FR",
+   "code": "1",
+   "libelle": "systempass_unico_unicoxs_fenster_fr",
+   "typologie_code": "fenetre",
+   "systeme_id": "SYS-UNICO-XS",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-SYSTEMPASS-UNICO-UNICOXS-FENSTER-FR-AUTO",
+   "document_id": "DOC-RAP-SYSTEMPASS-UNICO-UNICOXS-FENSTER-FR",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-SYSTEMPASS-UNICO-UNICOXS-FENSTER-FR",
+   "type_code": "extraction_auto",
+   "description": "Rapport systempass unico unicoxs fenster fr (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

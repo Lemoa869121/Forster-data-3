@@ -1,0 +1,85 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-SGS-FRANCE-ERES-250119-01-B2-CERTIFIED",
+   "nom_fichier": "DTA\\Unico\\DTA 6-25-2563_V1_Unico+Unico_XS\\Rapports d'essais\\Brouillard salin 720 h\\SGS FRANCE_eRES_250119_01-B2_certified",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\DTA\\Unico\\DTA 6-25-2563_V1_Unico+Unico_XS\\Rapports d'essais\\Brouillard salin 720 h\\SGS FRANCE_eRES_250119_01-B2_certified.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-SGS-FRANCE-ERES-250119-01-B2-CERTIFIED",
+   "numero": "SGS FRANCE eRES 250119 01-B2 certified",
+   "numero_normalise": "SGS FRANCE eRES 250119 01-B2 certified",
+   "revision": null,
+   "type_code": "certificat",
+   "domaine_code": "durabilite",
+   "objet": "SGS FRANCE_eRES_250119_01-B2_certified",
+   "laboratoire_id": "ORG-SGS",
+   "date_emission": "2025-06-12",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 14,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-SGS-FRANCE-ERES-250119-01-B2-CERTIFIED",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : DTA/Unico/DTA 6-25-2563_V1_Unico+Unico_XS/Rapports d'essais/Brouillard salin 720 h"
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-SGS-FRANCE-ERES-250119-01-B2-CERTIFIED",
+   "organisme_id": "ORG-SGS",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-SGS-FRANCE-ERES-250119-01-B2-CERTIFIED",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-SGS-FRANCE-ERES-250119-01-B2-CERTIFIED",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-SGS-FRANCE-ERES-250119-01-B2-CERTIFIED-AUTO",
+   "document_id": "DOC-RAP-SGS-FRANCE-ERES-250119-01-B2-CERTIFIED",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-SGS-FRANCE-ERES-250119-01-B2-CERTIFIED",
+   "type_code": "extraction_auto",
+   "description": "Rapport SGS FRANCE eRES 250119 01-B2 certified (durabilite) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTRL-RAP-SGS-FRANCE-ERES-250119-01-B2-CERTIFIED-NT",
+   "document_id": "DOC-RAP-SGS-FRANCE-ERES-250119-01-B2-CERTIFIED",
+   "table_cible": "performance",
+   "ligne_id": null,
+   "type_code": "non_trouve",
+   "description": "Aucune classe / valeur lue automatiquement : à saisir.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

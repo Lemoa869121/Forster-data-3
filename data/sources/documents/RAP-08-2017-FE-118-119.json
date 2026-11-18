@@ -1,0 +1,111 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-08-2017-FE-118-119",
+   "nom_fichier": "Resistance à l'explosion (EPR)\\Unico\\FRAUNHOFER - EPR1 NS - 08-2017-FE-118-119 - 2017",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Resistance à l'explosion (EPR)\\Unico\\FRAUNHOFER - EPR1 NS - 08-2017-FE-118-119 - 2017.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-08-2017-FE-118-119",
+   "numero": "08-2017-FE-118-119",
+   "numero_normalise": "08-2017-FE-118-119",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "explosion",
+   "objet": "FRAUNHOFER - EPR1 NS - 08-2017-FE-118-119 - 2017",
+   "laboratoire_id": "ORG-FRAUNHOFER-EMI",
+   "date_emission": null,
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 99,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-08-2017-FE-118-119",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Resistance à l'explosion (EPR)/Unico ; date non lue (année du nom : 2017)"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-08-2017-FE-118-119-P9",
+   "document_id": "DOC-RAP-08-2017-FE-118-119",
+   "page_doc": 9,
+   "page_doc_total": 99,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-08-2017-FE-118-119",
+   "organisme_id": "ORG-FRAUNHOFER-EMI",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-08-2017-FE-118-119",
+   "norme_id": "NRM-EN-13123-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-08-2017-FE-118-119",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-08-2017-FE-118-119-1",
+   "document_id": "DOC-RAP-08-2017-FE-118-119",
+   "configuration_id": null,
+   "domaine_code": "explosion",
+   "libelle_tel_qu_ecrit": "EPR1 NS",
+   "classe_normalisee": "EPR1NS",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-08-2017-FE-118-119-P9",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_explosion": [
+  {
+   "performance_id": "PERF-RAP-08-2017-FE-118-119-1",
+   "classe": "EPR1",
+   "avec_eclats": "NS",
+   "norme_id": "NRM-EN-13123-1"
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-08-2017-FE-118-119-AUTO",
+   "document_id": "DOC-RAP-08-2017-FE-118-119",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-08-2017-FE-118-119",
+   "type_code": "extraction_auto",
+   "description": "Rapport 08-2017-FE-118-119 (explosion) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

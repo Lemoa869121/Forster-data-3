@@ -1,0 +1,128 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-161-30936-Z27F",
+   "nom_fichier": "Acoustique\\Unico\\Portes\\2 vantaux\\161_30936_Z27f_Forster_Rohr_Deckblatt",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Acoustique\\Unico\\Portes\\2 vantaux\\161_30936_Z27f_Forster_Rohr_Deckblatt.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-161-30936-Z27F",
+   "numero": "161_30936_Z27f",
+   "numero_normalise": "161_30936_Z27f",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "acoustique",
+   "objet": "161_30936_Z27f_Forster_Rohr_Deckblatt",
+   "laboratoire_id": "ORG-IFT",
+   "date_emission": "2007-03-07",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 2,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-161-30936-Z27F",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Acoustique/Unico/Portes/2 vantaux"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-161-30936-Z27F-P1",
+   "document_id": "DOC-RAP-161-30936-Z27F",
+   "page_doc": 1,
+   "page_doc_total": 2,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-161-30936-Z27F",
+   "organisme_id": "ORG-IFT",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-161-30936-Z27F",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-161-30936-Z27F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-161-30936-Z27F-1",
+   "document_id": "DOC-RAP-161-30936-Z27F",
+   "code": "1",
+   "libelle": "161_30936_Z27f_Forster_Rohr_Deckblatt",
+   "typologie_code": "bloc_porte",
+   "systeme_id": "SYS-UNICO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-161-30936-Z27F-1",
+   "document_id": "DOC-RAP-161-30936-Z27F",
+   "configuration_id": "CFG-RAP-161-30936-Z27F-1",
+   "domaine_code": "acoustique",
+   "libelle_tel_qu_ecrit": "Rw = 45 dB (-1;-4)",
+   "classe_normalisee": "Rw 45 dB",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-161-30936-Z27F-P1",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_acoustique": [
+  {
+   "performance_id": "PERF-RAP-161-30936-Z27F-1",
+   "rw_db": 45,
+   "c_db": -1,
+   "ctr_db": -4,
+   "norme_id": "NRM-EN-ISO-717-1"
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-161-30936-Z27F-AUTO",
+   "document_id": "DOC-RAP-161-30936-Z27F",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-161-30936-Z27F",
+   "type_code": "extraction_auto",
+   "description": "Rapport 161_30936_Z27f (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

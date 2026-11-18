@@ -1,0 +1,104 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-L23-0105-01",
+   "nom_fichier": "A.E.V\\Unico\\Fenêtres OF et OB\\Crémone à l'ancienne\\L23_0105_01_PB_LWW_1V crémone à l'ancienne",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\A.E.V\\Unico\\Fenêtres OF et OB\\Crémone à l'ancienne\\L23_0105_01_PB_LWW_1V crémone à l'ancienne.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-L23-0105-01",
+   "numero": "L23_0105_01",
+   "numero_normalise": "L23_0105_01",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "aev",
+   "objet": "L23_0105_01_PB_LWW_1V crémone à l'ancienne",
+   "laboratoire_id": "ORG-GBD-LAB",
+   "date_emission": "2023-03-14",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 120,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-L23-0105-01",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : A.E.V/Unico/Fenêtres OF et OB/Crémone à l'ancienne"
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-L23-0105-01",
+   "organisme_id": "ORG-GBD-LAB",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-L23-0105-01",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-L23-0105-01",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-L23-0105-01-1",
+   "document_id": "DOC-RAP-L23-0105-01",
+   "code": "1",
+   "libelle": "L23_0105_01_PB_LWW_1V crémone à l'ancienne",
+   "typologie_code": "bloc_porte",
+   "systeme_id": "SYS-UNICO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-L23-0105-01-AUTO",
+   "document_id": "DOC-RAP-L23-0105-01",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-L23-0105-01",
+   "type_code": "extraction_auto",
+   "description": "Rapport L23_0105_01 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTRL-RAP-L23-0105-01-NT",
+   "document_id": "DOC-RAP-L23-0105-01",
+   "table_cible": "performance",
+   "ligne_id": null,
+   "type_code": "non_trouve",
+   "description": "Aucune classe / valeur lue automatiquement : à saisir.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

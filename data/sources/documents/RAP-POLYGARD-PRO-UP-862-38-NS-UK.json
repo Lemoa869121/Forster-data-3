@@ -1,0 +1,138 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-POLYGARD-PRO-UP-862-38-NS-UK",
+   "nom_fichier": "Résistance aux balles (FB)\\Unico\\FB6\\Portes ouvrant vers l'intérieur\\Polygard Pro UP 862.38-NS_UK",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Résistance aux balles (FB)\\Unico\\FB6\\Portes ouvrant vers l'intérieur\\Polygard Pro UP 862.38-NS_UK.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-POLYGARD-PRO-UP-862-38-NS-UK",
+   "numero": "Polygard Pro UP 862.38-NS UK",
+   "numero_normalise": "Polygard Pro UP 862.38-NS UK",
+   "revision": null,
+   "type_code": "fiche_technique",
+   "domaine_code": "balistique",
+   "objet": "Polygard Pro UP 862.38-NS_UK",
+   "laboratoire_id": null,
+   "date_emission": null,
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 2,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-POLYGARD-PRO-UP-862-38-NS-UK",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Résistance aux balles (FB)/Unico/FB6/Portes ouvrant vers l'intérieur ; date non lue (année du nom : inconnue)"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-POLYGARD-PRO-UP-862-38-NS-UK-P1",
+   "document_id": "DOC-RAP-POLYGARD-PRO-UP-862-38-NS-UK",
+   "page_doc": 1,
+   "page_doc_total": 2,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-POLYGARD-PRO-UP-862-38-NS-UK",
+   "norme_id": "NRM-EN-1522",
+   "role": "reference",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-POLYGARD-PRO-UP-862-38-NS-UK",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-POLYGARD-PRO-UP-862-38-NS-UK-1",
+   "document_id": "DOC-RAP-POLYGARD-PRO-UP-862-38-NS-UK",
+   "code": "1",
+   "libelle": "Polygard Pro UP 862.38-NS_UK",
+   "typologie_code": "composant",
+   "systeme_id": "SYS-UNICO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-POLYGARD-PRO-UP-862-38-NS-UK-1",
+   "document_id": "DOC-RAP-POLYGARD-PRO-UP-862-38-NS-UK",
+   "configuration_id": "CFG-RAP-POLYGARD-PRO-UP-862-38-NS-UK-1",
+   "domaine_code": "balistique",
+   "libelle_tel_qu_ecrit": "BR6",
+   "classe_normalisee": "BR6",
+   "nature_code": "teste",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-POLYGARD-PRO-UP-862-38-NS-UK-P1",
+   "statut_extraction": "extrait"
+  },
+  {
+   "id": "PERF-RAP-POLYGARD-PRO-UP-862-38-NS-UK-2",
+   "document_id": "DOC-RAP-POLYGARD-PRO-UP-862-38-NS-UK",
+   "configuration_id": "CFG-RAP-POLYGARD-PRO-UP-862-38-NS-UK-1",
+   "domaine_code": "balistique",
+   "libelle_tel_qu_ecrit": "BR6-NS",
+   "classe_normalisee": "BR6NS",
+   "nature_code": "teste",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-POLYGARD-PRO-UP-862-38-NS-UK-P1",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_balistique": [
+  {
+   "performance_id": "PERF-RAP-POLYGARD-PRO-UP-862-38-NS-UK-1",
+   "classe": "BR6",
+   "avec_eclats": null,
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-POLYGARD-PRO-UP-862-38-NS-UK-2",
+   "classe": "BR6",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-POLYGARD-PRO-UP-862-38-NS-UK-AUTO",
+   "document_id": "DOC-RAP-POLYGARD-PRO-UP-862-38-NS-UK",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-POLYGARD-PRO-UP-862-38-NS-UK",
+   "type_code": "extraction_auto",
+   "description": "Rapport Polygard Pro UP 862.38-NS UK (balistique) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

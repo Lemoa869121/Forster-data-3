@@ -1,9 +1,26 @@
 # Annexe — points de contrôle humain ouverts (table `controle_humain`)
 
-449 points générés pendant l'extraction des 6 fichiers.
+782 points générés pendant l'extraction des 6 fichiers.
 
 | Document | Type | Description | Page | Section / planche |
 |---|---|---|---|---|
+| 02-11-1206 | extraction_auto | Rapport 02-11-1206 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 04-01-1281 | extraction_auto | Rapport 04-01-1281 (effraction) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 04-01-1281 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 04-08-1318 | extraction_auto | Rapport 04-08-1318 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 05-10-A116-B1 | extraction_auto | Rapport 05-10-A116-B1 (effraction) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire. |  |  |
+| 07-07-A135-B1 | extraction_auto | Rapport 07-07-A135-B1 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 08-03-A062-K1 | extraction_auto | Rapport 08-03-A062-K1 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 08-03-A062-K2 | extraction_auto | Rapport 08-03-A062-K2 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 08-03-A062-K3 | extraction_auto | Rapport 08-03-A062-K3 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 08-09-A237-B1 | extraction_auto | Rapport 08-09-A237-B1 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 08-10-A287-B1 | extraction_auto | Rapport 08-10-A287-B1 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 08-10-A287-K1 | extraction_auto | Rapport 08-10-A287-K1 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 08-10-A287-K2 | extraction_auto | Rapport 08-10-A287-K2 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 08-10-A287-K3 | extraction_auto | Rapport 08-10-A287-K3 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 08-10-A287-K3-2 | extraction_auto | Rapport 08-10-A287-K3 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 08-2017-FE-117 | extraction_auto | Rapport 08-2017-FE-117 (explosion) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 08-2017-FE-118-119 | extraction_auto | Rapport 08-2017-FE-118-119 (explosion) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
 | 08-A-275 | ocr_degrade | §4.3.2 : valeur orpheline « 2876 » (hauteur) dans le bloc Pyrostop 60-201 / Isolant — non rattachée ; à vérifier sur l'original. | 8 | §4.3.2 |
 | 08-A-275 | planche_image | Planche 1 (profilés) : seules les références « 736.050 » et « 852 » sont lisibles en OCR — liste complète des profilés à relever visuellement. | 11 | Planche 1 |
 | 08-A-275/EXT-18/1 | document_absent | Extension 18/1 citée (reconduite en 2019, non reconduite en 2024) mais non fournie. |  |  |
@@ -59,6 +76,34 @@
 | 10-A-650/REC-16/1 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 5-5 de « FR 10-A-650 - VETR - cloison + fenetre PRESTO E30 E60 - PROVETR - 20-01-2031.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | 10-A-650/REC-21/2 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 3-4 de « FR 10-A-650 - VETR - cloison + fenetre PRESTO E30 E60 - PROVETR - 20-01-2031.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | 10-A-650/REC-26/3 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 1-2 de « FR 10-A-650 - VETR - cloison + fenetre PRESTO E30 E60 - PROVETR - 20-01-2031.pdf ». Relire classement, dates, composants et dimensions. |  |  |
+| 102 30650 | extraction_auto | Rapport 102 30650 (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 102 30650_1 R1f | extraction_auto | Rapport 102 30650_1 R1f (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 102 32902 1f | extraction_auto | Rapport 102 32902 1f (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 102 32902 2f | extraction_auto | Rapport 102 32902 2f (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 102 35800 2 | extraction_auto | Rapport 102 35800 2 (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 102 35800 3 | extraction_auto | Rapport 102 35800 3 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 102 35800 3 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 102 37642f | extraction_auto | Rapport 102 37642f (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 102 37642f | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 106 41178_1 R1f | extraction_auto | Rapport 106 41178_1 R1f (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 106 41178_1 R1f | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 108 29778 1f | extraction_auto | Rapport 108 29778 1f (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 108 29778 1f | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 108 29778 2f | extraction_auto | Rapport 108 29778 2f (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 108 29778 2f | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 108 31063f | extraction_auto | Rapport 108 31063f (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 108 31063f | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 11 002839 PR01 | extraction_auto | Rapport 11 002839 PR01 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 11 002839 PR01 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 11 002983 PR01 | extraction_auto | Rapport 11 002983 PR01 (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 11 002983 PR06 | extraction_auto | Rapport 11 002983 PR06 (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 11-000691-PB01 | extraction_auto | Rapport 11-000691-PB01 (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 11-000691-PB02 | extraction_auto | Rapport 11-000691-PB02 (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 11-002650-PR01_2 | extraction_auto | Rapport 11-002650-PR01_2 (endurance) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 11-002650-PR01_2 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 11-002983-PR03 | extraction_auto | Rapport 11-002983-PR03 (choc) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 11-003224-PR01 | extraction_auto | Rapport 11-003224-PR01 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 11-003644-PR01_2 | extraction_auto | Rapport 11-003644-PR01_2 (feu) : métadonnées et classes extraites automatiquement (4 performance(s)) — à relire. |  |  |
 | 11-A-091 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 3-42 de « FR 11-A-091 - PILK - cloison FUEGO light EI90 - PROFOR - 29-03-2026.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | 11-A-091 | non_trouve | Classe(s) EI 90 du nom de fichier non retrouvée(s) dans le tableau de classement OCR : vérifier sur l'original. |  |  |
 | 11-A-091/REC-21/2 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 1-2 de « FR 11-A-091 - PILK - cloison FUEGO light EI90 - PROFOR - 29-03-2026.pdf ». Relire classement, dates, composants et dimensions. |  |  |
@@ -92,6 +137,10 @@
 | 11-A-572/EXT-25/6 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 86-91 de « FR 11-A-572 - AGC - porte + fenetre PRESTO E30 - PROAGC - 03-07-2027.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | 11-A-572/EXT-X4 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 57-62 de « FR 11-A-572 - AGC - porte + fenetre PRESTO E30 - PROAGC - 03-07-2027.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | 11-A-572/REC-22/2 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 1-2 de « FR 11-A-572 - AGC - porte + fenetre PRESTO E30 - PROAGC - 03-07-2027.pdf ». Relire classement, dates, composants et dimensions. |  |  |
+| 12-003174-PR01 | extraction_auto | Rapport 12-003174-PR01 (endurance) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire. |  |  |
+| 12-003331-PR01_2 | extraction_auto | Rapport 12-003331-PR01_2 (feu) : métadonnées et classes extraites automatiquement (4 performance(s)) — à relire. |  |  |
+| 12-003331-PR02_2 | extraction_auto | Rapport 12-003331-PR02_2 (feu) : métadonnées et classes extraites automatiquement (4 performance(s)) — à relire. |  |  |
+| 12-003635-pr01 | extraction_auto | Rapport 12-003635-pr01 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
 | 12-A-077 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 5-63 de « FR 12-A-077 - VETR - cloison FUEGO light EI60 - COPRO - 29-05-2027.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | 12-A-077 | non_trouve | Classe(s) EI 60 du nom de fichier non retrouvée(s) dans le tableau de classement OCR : vérifier sur l'original. |  |  |
 | 12-A-077/EXT-17/1 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 64-77 de « FR 12-A-077 - VETR - cloison FUEGO light EI60 - COPRO - 29-05-2027.pdf ». Relire classement, dates, composants et dimensions. |  |  |
@@ -146,6 +195,10 @@
 | 12-A-765 | non_trouve | Classe(s) EI 90 du nom de fichier non retrouvée(s) dans le tableau de classement OCR : vérifier sur l'original. |  |  |
 | 12-A-765/REC-18/1 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 3-4 de « FR 12-A-765 - PILK - Facade THERMFIX VARIO EI90 - PROFOR - 01-10-2028.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | 12-A-765/REC-24/2 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 1-2 de « FR 12-A-765 - PILK - Facade THERMFIX VARIO EI90 - PROFOR - 01-10-2028.pdf ». Relire classement, dates, composants et dimensions. |  |  |
+| 13-002986-PR01_2 | extraction_auto | Rapport 13-002986-PR01_2 (issue_secours) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire. |  |  |
+| 13-08-A288-G2 | extraction_auto | Rapport 13-08-A288-G2 (effraction) : métadonnées et classes extraites automatiquement (3 performance(s)) — à relire. |  |  |
+| 13-11-A383-B1 | extraction_auto | Rapport 13-11-A383-B1 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 13-11-A384-B1 | extraction_auto | Rapport 13-11-A384-B1 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
 | 13-A-1050 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 7-30 de « FR 13-A-1050 - PILK - cloison FUEGO light EI120 - COPRO - 22-01-2029.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | 13-A-1050 | non_trouve | Classe(s) EI 120 du nom de fichier non retrouvée(s) dans le tableau de classement OCR : vérifier sur l'original. |  |  |
 | 13-A-1050/EXT-17/1 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 31-34 de « FR 13-A-1050 - PILK - cloison FUEGO light EI120 - COPRO - 22-01-2029.pdf ». Relire classement, dates, composants et dimensions. |  |  |
@@ -243,10 +296,167 @@
 | 13-V-582/EXT-14/2 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 19-21 de « FR 13-V-582 - PYRO - cloison UNICO E60 - PROPYRO - 15-07-2028.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | 13-V-582/REC-18/1 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 3-3 de « FR 13-V-582 - PYRO - cloison UNICO E60 - PROPYRO - 15-07-2028.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | 13-V-582/REC-23/2 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 1-2 de « FR 13-V-582 - PYRO - cloison UNICO E60 - PROPYRO - 15-07-2028.pdf ». Relire classement, dates, composants et dimensions. |  |  |
+| 14 000878 PR02 | extraction_auto | Rapport 14 000878 PR02 (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 14 000878 PR04 | extraction_auto | Rapport 14 000878 PR04 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 14 000878 PR04 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 14 000878 PR06 | extraction_auto | Rapport 14 000878 PR06 (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 14-000878-PR05 | extraction_auto | Rapport 14-000878-PR05 (endurance) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 14-001811-PR01 | extraction_auto | Rapport 14-001811-PR01 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 14-001811-PR02_2 | extraction_auto | Rapport 14-001811-PR02_2 (acoustique) : métadonnées et classes extraites automatiquement (6 performance(s)) — à relire. |  |  |
+| 14-002403-PR01_2 | extraction_auto | Rapport 14-002403-PR01_2 (endurance) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 14-002403-PR01_2 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 14-05-A196-G1 | extraction_auto | Rapport 14-05-A196-G1 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
 | 14-A-001 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 7-53 de « FR 14-A-001 - VETR - cloison FUEGO light EI90 - PROVETR - 14-10-2029.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | 14-A-001 | non_trouve | Classe(s) EI 90 du nom de fichier non retrouvée(s) dans le tableau de classement OCR : vérifier sur l'original. |  |  |
 | 14-A-001/REC-19/1 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 3-6 de « FR 14-A-001 - VETR - cloison FUEGO light EI90 - PROVETR - 14-10-2029.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | 14-A-001/REC-24/2 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 1-2 de « FR 14-A-001 - VETR - cloison FUEGO light EI90 - PROVETR - 14-10-2029.pdf ». Relire classement, dates, composants et dimensions. |  |  |
+| 15 00226 PR01 | extraction_auto | Rapport 15 00226 PR01 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 15 004281 PR01 | extraction_auto | Rapport 15 004281 PR01 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 15 00506 PR01 | extraction_auto | Rapport 15 00506 PR01 (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 15-001026-PR03_2 | extraction_auto | Rapport 15-001026-PR03_2 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 15-001026-PR04_2 | extraction_auto | Rapport 15-001026-PR04_2 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 15-001026-PR05_2 | extraction_auto | Rapport 15-001026-PR05_2 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 15-001026-PR06_2 | extraction_auto | Rapport 15-001026-PR06_2 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 15-001026-PR07_2 | extraction_auto | Rapport 15-001026-PR07_2 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 15-001026-PR08_2 | extraction_auto | Rapport 15-001026-PR08_2 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 15-001026-PR09_2 | extraction_auto | Rapport 15-001026-PR09_2 (effraction) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire. |  |  |
+| 15-003926-PR02_2 | extraction_auto | Rapport 15-003926-PR02_2 (feu) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 15-0152-01 | extraction_auto | Rapport 15-0152-01 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 15-04-A156-B1 | extraction_auto | Rapport 15-04-A156-B1 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 155 41178_1 | extraction_auto | Rapport 155 41178_1 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 16 001037-PR01 | extraction_auto | Rapport 16 001037-PR01 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 16 001037-PR01 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 16 002111 PR01 | extraction_auto | Rapport 16 002111 PR01 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 16-001013-PR04_2 | extraction_auto | Rapport 16-001013-PR04_2 (feu) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 16-001854-PR01_2 | extraction_auto | Rapport 16-001854-PR01_2 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 16-001854-PR03_2 | extraction_auto | Rapport 16-001854-PR03_2 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 16-001854-PR04_2 | extraction_auto | Rapport 16-001854-PR04_2 (effraction) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire. |  |  |
+| 16-001854-PR05_2 | extraction_auto | Rapport 16-001854-PR05_2 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 16-001854-PR06_2 | extraction_auto | Rapport 16-001854-PR06_2 (effraction) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire. |  |  |
+| 16-001854-PR07_2 | extraction_auto | Rapport 16-001854-PR07_2 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 16-002410-PR01_2 | extraction_auto | Rapport 16-002410-PR01_2 (endurance) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 16-002410-PR01_2 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 16-002618-PR01_2 | extraction_auto | Rapport 16-002618-PR01_2 (feu) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire. |  |  |
+| 16-002620-PR01_2 | extraction_auto | Rapport 16-002620-PR01_2 (feu) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 16-05-2024 | ambiguite_attribution | Synthèse Forster (non émise par un laboratoire) : chaque cumul « sous PV » / « sur avis de chantier » doit être rapproché du PV feu et du rapport RC portant sur la même construction (serrure, vitrage, dimensions). |  |  |
+| 16-05-2024 | extraction_auto | Rapport 16-05-2024 (effraction) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 16137053 | extraction_auto | Rapport 16137053 (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 16137053-Z04 | extraction_auto | Rapport 16137053-Z04 (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 16137053-Z04 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 16137053-Z09 | extraction_auto | Rapport 16137053-Z09 (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 16137053-Z09 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 161_30936-Z14 | extraction_auto | Rapport 161_30936-Z14 (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 161_30936_Z10f | extraction_auto | Rapport 161_30936_Z10f (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 161_30936_Z11f | extraction_auto | Rapport 161_30936_Z11f (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 161_30936_Z12f | extraction_auto | Rapport 161_30936_Z12f (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 161_30936_Z13f | extraction_auto | Rapport 161_30936_Z13f (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 161_30936_Z14f | extraction_auto | Rapport 161_30936_Z14f (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 161_30936_Z15f | extraction_auto | Rapport 161_30936_Z15f (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 161_30936_Z16f | extraction_auto | Rapport 161_30936_Z16f (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 161_30936_Z1f | extraction_auto | Rapport 161_30936_Z1f (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 161_30936_Z1f-2 | extraction_auto | Rapport 161_30936_Z1f (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 161_30936_Z27 | extraction_auto | Rapport 161_30936_Z27 (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 161_30936_Z27f | extraction_auto | Rapport 161_30936_Z27f (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 161_30936_Z28f | extraction_auto | Rapport 161_30936_Z28f (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 161_30936_Z2f | extraction_auto | Rapport 161_30936_Z2f (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 161_30936_Z2f-2 | extraction_auto | Rapport 161_30936_Z2f (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 161_30936_Z5f | extraction_auto | Rapport 161_30936_Z5f (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 161_30936_Z5f-2 | extraction_auto | Rapport 161_30936_Z5f (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 161_30936_Z6f | extraction_auto | Rapport 161_30936_Z6f (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 161_30936_Z6f-2 | extraction_auto | Rapport 161_30936_Z6f (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 16237053-Z12 | extraction_auto | Rapport 16237053-Z12 (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 16237053-Z12 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 16237053-Z14 | extraction_auto | Rapport 16237053-Z14 (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 16237053-Z14 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 16243582-Z08 | extraction_auto | Rapport 16243582-Z08 (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 16243582-Z08 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 17 000054 PR02 | extraction_auto | Rapport 17 000054 PR02 (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 17-000054 PR01 | extraction_auto | Rapport 17-000054 PR01 (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 17143578-1 | extraction_auto | Rapport 17143578-1 (acoustique) : métadonnées et classes extraites automatiquement (5 performance(s)) — à relire. |  |  |
+| 17143578-2 | extraction_auto | Rapport 17143578-2 (acoustique) : métadonnées et classes extraites automatiquement (4 performance(s)) — à relire. |  |  |
+| 17143578-3 | extraction_auto | Rapport 17143578-3 (acoustique) : métadonnées et classes extraites automatiquement (6 performance(s)) — à relire. |  |  |
+| 17143578-4 | extraction_auto | Rapport 17143578-4 (acoustique) : métadonnées et classes extraites automatiquement (5 performance(s)) — à relire. |  |  |
+| 175 32901-3f | extraction_auto | Rapport 175 32901-3f (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 175 32901-3f | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 175 32901-4f | extraction_auto | Rapport 175 32901-4f (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 175 32901-4f | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 19-000121-PR03_2 | extraction_auto | Rapport 19-000121-PR03_2 (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 19-001303-PR03 | extraction_auto | Rapport 19-001303-PR03 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 19-001303-PR03 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 19-004387-PR01 | extraction_auto | Rapport 19-004387-PR01 (acoustique) : métadonnées et classes extraites automatiquement (6 performance(s)) — à relire. |  |  |
+| 20003643-37 | extraction_auto | Rapport 20003643-37 (endurance) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 20003643-37 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 201 31438 | extraction_auto | Rapport 201 31438 (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 201 31439f | extraction_auto | Rapport 201 31439f (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 201 31439f | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 201 31440f | extraction_auto | Rapport 201 31440f (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 201 31440f | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 201 31441f | extraction_auto | Rapport 201 31441f (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 201 31441f | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 201 36283 | extraction_auto | Rapport 201 36283 (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 201 36285 | extraction_auto | Rapport 201 36285 (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 201 36288 | extraction_auto | Rapport 201 36288 (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 201 36291 | extraction_auto | Rapport 201 36291 (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 20135793-4 | extraction_auto | Rapport 20135793-4 (endurance) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 202 Verarbeitungsunterlage thermfixvario RC2-4 | extraction_auto | Rapport 202 Verarbeitungsunterlage thermfixvario RC2-4 (effraction) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 2022-04-0117-K1 | extraction_auto | Rapport 2022-04-0117-K1 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 2022-04-0137-B1 | extraction_auto | Rapport 2022-04-0137-B1 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 2022-04-0176_B1 | extraction_auto | Rapport 2022-04-0176_B1 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 2022-04-0435-B2 | extraction_auto | Rapport 2022-04-0435-B2 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 2022-04-0435-K3 | extraction_auto | Rapport 2022-04-0435-K3 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 21-003479-PR01 | extraction_auto | Rapport 21-003479-PR01 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 21-003479-PR05 | extraction_auto | Rapport 21-003479-PR05 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 21-004446-PR01_2 | extraction_auto | Rapport 21-004446-PR01_2 (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 22-0208-01 | extraction_auto | Rapport 22-0208-01 (balistique) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire. |  |  |
+| 25.005-REY | extraction_auto | Rapport 25.005-REY (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 25.005-REY | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 255 33951f | extraction_auto | Rapport 255 33951f (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 3037-5295 | extraction_auto | Rapport 3037-5295 (endurance) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 3037-5295 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| 42237268 | extraction_auto | Rapport 42237268 (thermique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 432 27814-1a | extraction_auto | Rapport 432 27814-1a (thermique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 43227814-1 | extraction_auto | Rapport 43227814-1 (thermique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 43230051 | extraction_auto | Rapport 43230051 (thermique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 43230051-1 | extraction_auto | Rapport 43230051-1 (thermique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 43230051-2 | extraction_auto | Rapport 43230051 (thermique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 43230051-3 | extraction_auto | Rapport 43230051 (thermique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| 45-28-21 | extraction_auto | Rapport 45-28-21 (effraction) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire. |  |  |
+| 4518-P6ETGCP-V1 | extraction_auto | Rapport 4518-P6ETGCP-V1 (durabilite) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| 4518-P6ETGCP-V1 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| AEV NORM50 A4-E8A-VB2 CSTB 2002 | extraction_auto | Rapport AEV NORM50 A4-E8A-VB2 CSTB 2002 (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| Application conforme-CE presto norm fenetres FR 8-10 | extraction_auto | Rapport Application conforme-CE presto norm fenetres FR 8-10 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| Application conforme-CE presto portes FR 8-10 | extraction_auto | Rapport Application conforme-CE presto portes FR 8-10 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| Avis d'Expert IFT Portes EI30 1V et 2V vitrages PILKINGTON | extraction_auto | Rapport Avis d'Expert IFT Portes EI30 1V et 2V vitrages PILKINGTON (acoustique) : métadonnées et classes extraites automatiquement (3 performance(s)) — à relire. |  |  |
+| BEB1.L.5033 | extraction_auto | Rapport BEB1.L.5033 (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| BEB1.M.4073-1 | extraction_auto | Rapport BEB1.M.4073-1 (choc) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| BEB1.M.4073-2 | extraction_auto | Rapport BEB1.M.4073-2 (choc) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| BEB1.M.4073-3 | extraction_auto | Rapport BEB1.M.4073-3 (choc) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| BEB1.M.4073-4 | extraction_auto | Rapport BEB1.M.4073-4 (choc) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| BESCHUSSAMT - FB7S - 19 0200 04 2019 | extraction_auto | Rapport BESCHUSSAMT - FB7S - 19 0200 04 2019 (balistique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| CLC 10-26023482 | extraction_auto | Rapport CLC 10-26023482 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| CLC 10-26023482 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| CSTB coefficients thermiques thermfix vario | extraction_auto | Rapport CSTB coefficients thermiques thermfix vario (thermique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| CSTB coefficients thermiques thermfix vario | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| CXL127-26 | extraction_auto | Rapport CXL127-26 (effraction) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire. |  |  |
+| Certificat Minergie Unico XS Hi | extraction_auto | Rapport Certificat Minergie Unico XS Hi (thermique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| Certificat Minergie Unico XS Hi | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| Châssis fixes Unico RC4 + FB4 (PfB - 2012) | extraction_auto | Rapport Châssis fixes Unico RC4 + FB4 (PfB - 2012) (balistique) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire. |  |  |
+| DBV-22-12567-A | extraction_auto | Rapport DBV-22-12567-A (thermique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| DBV-22-12567-A | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| DBV-22-12782-B | extraction_auto | Rapport DBV-22-12782-B (durabilite) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| DBV-22-12782-B | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| DBV-22-12782-C | extraction_auto | Rapport DBV-22-12782-C (choc) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| DBV-22-12782-D | extraction_auto | Rapport DBV-22-12782-D (choc) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| DBV-23-09215 | extraction_auto | Rapport DBV-23-09215 (endurance) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| DBV-23-09215 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| DBV-26-00063836 | extraction_auto | Rapport DBV-26-00063836 (durabilite) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| DBV-26-00063836 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| DBV-M-25-49976 | extraction_auto | Rapport DBV-M-25-49976 (endurance) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| DBV-M-25-49978 | extraction_auto | Rapport DBV-M-25-49978 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| DBV-M-25-49978 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| E03-016 | extraction_auto | Rapport E03-016 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| EF-24-174-01 | extraction_auto | Rapport EF-24-174-01 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| EF-24-404-01 | extraction_auto | Rapport EF-24-404-01 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
 | EFR-14-000468 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 58-62 de « FR 11-A-506 - VETR - porte PRESTO E60 - COPRO - 12-04-2027.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | EFR-14-001306 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 5-61 de « FR EFR-14-001306 - PILK - Facade THERMFIX VARIO E30 - PROFOR - 20-10-2029.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | EFR-14-001306 | non_trouve | Classe(s) E 30 du nom de fichier non retrouvée(s) dans le tableau de classement OCR : vérifier sur l'original. |  |  |
@@ -299,6 +509,7 @@
 | EFR-19-001242 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 3-29 de « FR EFR-19-001242 - VETR - cloison vitrage bab Presto E60 - PROVETR - 15-07-2029.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | EFR-19-001242 | non_trouve | Classe(s) E 60 du nom de fichier non retrouvée(s) dans le tableau de classement OCR : vérifier sur l'original. |  |  |
 | EFR-19-001242/REC-24/1 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 1-2 de « FR EFR-19-001242 - VETR - cloison vitrage bab Presto E60 - PROVETR - 15-07-2029.pdf ». Relire classement, dates, composants et dimensions. |  |  |
+| EFR-19-001366 | extraction_auto | Rapport EFR-19-001366 (feu) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
 | EFR-19-002101 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 3-39 de « FR EFR-19-002101 - PYRO - cloison PRESTO E30 E60 - COPRO - 27-09-2029.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | EFR-19-002101 | non_trouve | Classe(s) E 30, E 60 du nom de fichier non retrouvée(s) dans le tableau de classement OCR : vérifier sur l'original. |  |  |
 | EFR-19-002101/EXT-19/1 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 40-46 de « FR EFR-19-002101 - PYRO - cloison PRESTO E30 E60 - COPRO - 27-09-2029.pdf ». Relire classement, dates, composants et dimensions. |  |  |
@@ -447,9 +658,131 @@
 | EXT-MULT-14/1-14/2-13-A-175 | incoherence | Allège : « montage sur allège n'étant pas autorisé » en §1 mais « hauteur maximale de l'allège 98/48 » en §3 (lecture OCR). | 2 | §1-§3 |
 | EXT-MULT-14/1-14/2-13-A-175 | ocr_degrade | Extension 14/1-14/2 : scan fortement dégradé (hauteurs 4000/500/1000 mm, pas de fixation 510 mm, jeu 15 mm reconstitués) — relecture humaine obligatoire. | 2 | §1-§3 |
 | EXT-MULT-EFR-22-002556 | non_trouve | Texte de l'extension lu jusqu'à la page 7/15 : planches 3 à 15 (références de parcloses, joints CR/EPDM, pl. 6-10) non extraites. | 7 | Planche 2 |
+| FORSTER UNICO+UNICO XS (2025) | extraction_auto | Rapport FORSTER UNICO+UNICO XS (2025) (thermique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| FORSTER UNICO+UNICO XS (2025) | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| Forster Unico fenêtre 2 vantaux Rw 43 (-1;-4) CEBTP 09 2021 | extraction_auto | Rapport Forster Unico fenêtre 2 vantaux Rw 43 (-1;-4) CEBTP 09 2021 (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| Forster Unico fenêtre 2 vantaux Rw 44 (-1;-4) CEBTP 09 2021 | extraction_auto | Rapport Forster Unico fenêtre 2 vantaux Rw 44 (-1;-4) CEBTP 09 2021 (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| GSFM 22-174-01 | extraction_auto | Rapport GSFM 22-174-01 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| GSFM-22-011-01 | extraction_auto | Rapport GSFM-22-011-01 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| GSFM-22-012-01 | extraction_auto | Rapport GSFM-22-012-01 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| I-48_17 | extraction_auto | Rapport I-48_17 (explosion) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| I-48_17 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| I-49_17 | extraction_auto | Rapport I-49_17 (explosion) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| I-49_17 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| IFT - Rapport de synthèse RC1+RC2+RC3 - Unico+Presto+FuegoLight - 2022 | extraction_auto | Rapport IFT - Rapport de synthèse RC1+RC2+RC3 - Unico+Presto+FuegoLight - 2022 (effraction) : métadonnées et classes extraites automatiquement (3 performance(s)) — à relire. |  |  |
+| IFT Correspondance WK - RC | extraction_auto | Rapport IFT Correspondance WK - RC (effraction) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| IFT PV COEFF U français | extraction_auto | Rapport IFT PV COEFF U français (thermique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| K DE ENG Unico-FuegoLight Presto Gutachten 16-002974-RC1-2-3 | extraction_auto | Rapport K DE ENG Unico-FuegoLight Presto Gutachten 16-002974-RC1-2-3 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| K-5030 | extraction_auto | Rapport K-5030 (feu) : métadonnées et classes extraites automatiquement (3 performance(s)) — à relire. |  |  |
+| K-6016 | extraction_auto | Rapport K-6016 (feu) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire. |  |  |
+| KADDB - FB6 - FB6 Test Report - 2017 | extraction_auto | Rapport KADDB - FB6 - FB6 Test Report - 2017 (balistique) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire. |  |  |
+| L18_0601_01 | extraction_auto | Rapport L18_0601_01 (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| L18_0601_01 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| L19_1305_01 | extraction_auto | Rapport L19_1305_01 (acoustique) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire. |  |  |
+| L22_0855_01 | extraction_auto | Rapport L22_0855_01 (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| L22_0855_01 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| L22_0855_02 | extraction_auto | Rapport L22_0855_02 (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| L22_0855_02 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| L22_0855_03 | extraction_auto | Rapport L22_0855_03 (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| L22_0855_03 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| L22_0855_04 | extraction_auto | Rapport L22_0855_04 (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| L22_0855_04 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| L22_0855_05 | extraction_auto | Rapport L22_0855_05 (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| L22_0855_05 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| L23_0105_01 | extraction_auto | Rapport L23_0105_01 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| L23_0105_01 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| L23_0106_01 | extraction_auto | Rapport L23_0106_01 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| L23_0106_01 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| L24_0434_01 | extraction_auto | Rapport L24_0434_01 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| L24_0434_01 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| L24_2770_01 | extraction_auto | Rapport L24_2770_01 (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| L25_1339_01 | extraction_auto | Rapport L25_1339_01 (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| L25_1628_01 | extraction_auto | Rapport L25_1628_01 (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| L25_1629_01 | extraction_auto | Rapport L25_1629_01 (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| L25_1983_01 | extraction_auto | Rapport L25_1983_01 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| L25_1983_01 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| Luft-Regen-Wind-Pendel 94993.01-120-32 2010 | extraction_auto | Rapport Luft-Regen-Wind-Pendel 94993.01-120-32 2010 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| Luft-Regen-Wind-Pendel 94993.01-120-32 2010 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| MD210028 | extraction_auto | Rapport MD210028 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| MD210028A | extraction_auto | Rapport MD210028A (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| MD210028B | extraction_auto | Rapport MD210028B (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| Polygard Pro UP 862.38-NS UK | extraction_auto | Rapport Polygard Pro UP 862.38-NS UK (balistique) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire. |  |  |
+| Porte Unico CR4 1 Vantail synthèse accessoires | extraction_auto | Rapport Porte Unico CR4 1 Vantail synthèse accessoires (effraction) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| Porte Unico CR4 2 Vantaux synthèse accessoires | extraction_auto | Rapport Porte Unico CR4 2 Vantaux synthèse accessoires (effraction) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| Presto 60S 1 vtl Rw 43db | extraction_auto | Rapport Presto 60S 1 vtl Rw 43db (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| Presto 60S 2 vtx Rw 44db | extraction_auto | Rapport Presto 60S 2 vtx Rw 44db (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| Produktpass thermfix light fr | extraction_auto | Rapport Produktpass thermfix light fr (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| Pyrostop Rw 44dB | extraction_auto | Rapport Pyrostop Rw 44dB (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| Rapport d'essais IFT Cloisons EI30-60-90 Vitrages PILKINGTON | extraction_auto | Rapport Rapport d'essais IFT Cloisons EI30-60-90 Vitrages PILKINGTON (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| Rapport d'essais IFT Cloisons EI30-60-90 Vitrages PILKINGTON | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| Rapport d'essais IFT Cloisons EI30-60-90 Vitrages VETROTECH-2 | extraction_auto | Rapport Rapport d'essais IFT Cloisons EI30-60-90 Vitrages VETROTECH (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| Rapport d'essais IFT Cloisons EI30-60-90 Vitrages VETROTECH-2 | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| Rapport d'essais IFT Portes EI60 1V vitrages PILKINGTON (copropriété F | extraction_auto | Rapport Rapport d'essais IFT Portes EI60 1V vitrages PILKINGTON (copropriété F (acoustique) : métadonnées et classes extraites automatiquement (3 performance(s)) — à relire. |  |  |
+| Rapport d'essais IFT Portes EI60 1V vitrages VETROTECH (copropriété Fo-2 | extraction_auto | Rapport Rapport d'essais IFT Portes EI60 1V vitrages VETROTECH (copropriété Fo (acoustique) : métadonnées et classes extraites automatiquement (6 performance(s)) — à relire. |  |  |
+| Rapport d'essais LaSM Portes EI30 2V vitrages PILKGINTON | extraction_auto | Rapport Rapport d'essais LaSM Portes EI30 2V vitrages PILKGINTON (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| Rapport d'essais LaSM Portes EI30 2V vitrages PILKGINTON | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| Résumé affaiblissements acousiques V2-2019 | extraction_auto | Rapport Résumé affaiblissements acousiques V2-2019 (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| Résumé affaiblissements acoustiques V1-2018-2 | extraction_auto | Rapport Résumé affaiblissements acoustiques V1-2018 (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| Résumé affaiblissements acoustiques V1-2019 | extraction_auto | Rapport Résumé affaiblissements acoustiques V1-2019 (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| Résumé affaiblissements acoustiques V2-2020 | extraction_auto | Rapport Résumé affaiblissements acoustiques V2-2020 (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| S 16 0053 01-Z | extraction_auto | Rapport S 16 0053 01-Z (balistique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| S 21 0219 01Z | extraction_auto | Rapport S 21 0219 01Z (balistique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| S 22 0208 01-Z | extraction_auto | Rapport S 22 0208 01-Z (balistique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| S09000201B | extraction_auto | Rapport S09000201B (balistique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| S09001601B | extraction_auto | Rapport S09001601B (balistique) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire. |  |  |
+| S11004201-B | extraction_auto | Rapport S11004201-B (balistique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| S12005805-B | extraction_auto | Rapport S12005805-B (balistique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| S12005806-B | extraction_auto | Rapport S12005806-B (balistique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| S12005807-B | extraction_auto | Rapport S12005807-B (balistique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| S18020501-B | extraction_auto | Rapport S18020501-B (balistique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| S18020502-B | extraction_auto | Rapport S18020502-B (balistique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| S18020503-B | extraction_auto | Rapport S18020503-B (balistique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| S18020506-B | extraction_auto | Rapport S18020506-B (balistique) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire. |  |  |
+| S18020507-B | extraction_auto | Rapport S18020507-B (balistique) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire. |  |  |
+| S18020508-B | extraction_auto | Rapport S18020508-B (balistique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| S19020401B | extraction_auto | Rapport S19020401B (balistique) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire. |  |  |
+| S19020901B | extraction_auto | Rapport S19020901B (balistique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| S19020902B | extraction_auto | Rapport S19020902B (balistique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| S19022301B | extraction_auto | Rapport S19022301B (balistique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| S20021201_B | extraction_auto | Rapport S20021201_B (balistique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| S20021202 | extraction_auto | Rapport S20021202 (balistique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| S21020101B | extraction_auto | Rapport S21020101B (balistique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
 | SA 04 00 97 H | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 1-51 de « FR SA 04 00 97 H - E30 E60 - Porte 1 et 2 vantaux PRESTO - DAS CNPP - 13-10-2029.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | SA 05 00 05 D | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 1-35 de « FR SA 05 00 05 D - E30 E60 - porte va et vient PRESTO - DAS CNPP - 21-02-2030.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | SA 05 01 35 F | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 1-45 de « FR SA 05 01 35 F - EI30 EI60 - porte 1 et 2 vantaux FUEGO light - DAS CNPP - 11-10-2025.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | SA 11 01 09 B | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 1-56 de « FR SA 11 01 09 B - ferme-porte + ventouse FUEGO light + PRESTO - DAS CNPP - 16-04-2027.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | SA 11 01 10 C | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 1-86 de « FR SA 11 01 10 C - ferme-porte + bandeau FUEGO light + PRESTO - DAS CNPP - 16-04-2027.pdf ». Relire classement, dates, composants et dimensions. |  |  |
 | SA 11 01 11 | extraction_auto | Document extrait automatiquement (OCR) : pages PDF 1-51 de « FR SA 11 01 11 - operateurs d'ouverture ED100 ED250 FUEGO light - DAS CNPP.pdf ». Relire classement, dates, composants et dimensions. |  |  |
+| SGS FRANCE eRES 250119 01-A2 certified | extraction_auto | Rapport SGS FRANCE eRES 250119 01-A2 certified (durabilite) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| SGS FRANCE eRES 250119 01-A2 certified | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| SGS FRANCE eRES 250119 01-B2 certified | extraction_auto | Rapport SGS FRANCE eRES 250119 01-B2 certified (durabilite) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| SGS FRANCE eRES 250119 01-B2 certified | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| SGS FRANCE eRES 250119 01-C2 certified | extraction_auto | Rapport SGS FRANCE eRES 250119 01-C2 certified (durabilite) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| SGS FRANCE eRES 250119 01-C2 certified | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| SILENCIO | extraction_auto | Rapport SILENCIO (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| Synthèse AEV Unico 2015 05 03 | extraction_auto | Rapport Synthèse AEV Unico 2015 05 03 (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| Tab affbl.phonique Thermfix vario V1-2019 | extraction_auto | Rapport Tab affbl.phonique Thermfix vario V1-2019 (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| Thermfix Vario Rw 36dB | extraction_auto | Rapport Thermfix Vario Rw 36dB (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| Thermfix vario Rw 42dB | extraction_auto | Rapport Thermfix vario Rw 42dB (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| Thermfix vario Rw43dB | extraction_auto | Rapport Thermfix vario Rw43dB (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| Thermfix vario Rw44dB | extraction_auto | Rapport Thermfix vario Rw44dB (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| Thermifix vario Rw 45dB | extraction_auto | Rapport Thermifix vario Rw 45dB (acoustique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| UP 862.38-NS-BR6-Cetrificate Annex | extraction_auto | Rapport UP 862.38-NS-BR6-Cetrificate Annex (balistique) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire. |  |  |
+| UP 862.38-NS-P8B-Report Annex | extraction_auto | Rapport UP 862.38-NS-P8B-Report Annex (balistique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| UP 862.38-NS-P8B-Report Annex | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| Uf 734851 = 4.3 | extraction_auto | Rapport Uf 734851 = 4.3 (thermique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| Uf 734852 = 4.5 | extraction_auto | Rapport Uf 734852 = 4.5 (thermique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| Uf 736851 = 3.6 | extraction_auto | Rapport Uf 736851 = 3.6 (thermique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| Uf 736852 = 3.5 | extraction_auto | Rapport Uf 736852 = 3.5 (thermique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| Uf 739592 = 2.6 | extraction_auto | Rapport Uf 739592 = 2.6 (thermique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| Uf Thermfix vario | extraction_auto | Rapport Uf Thermfix vario (thermique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| Uf Thermfix vario | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| Uw 12 types pr-fuel unico version 3- 1 vant. | extraction_auto | Rapport Uw 12 types pr-fuel unico version 3- 1 vant. (thermique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| Uw 12 types pr-fuel unico version 3- 1 vant. | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| Uw 12 types pr-fuel-unico version 3-2 vant | extraction_auto | Rapport Uw 12 types pr-fuel-unico version 3-2 vant (thermique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| Uw 12 types pr-fuel-unico version 3-2 vant | non_trouve | Aucune classe / valeur lue automatiquement : à saisir. |  |  |
+| a046-k1 | extraction_auto | Rapport a046-k1 (effraction) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |
+| récapitulatif 1 vantail | extraction_auto | Rapport récapitulatif 1 vantail (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| systempass unico unicoxs fenster fr | extraction_auto | Rapport systempass unico unicoxs fenster fr (aev) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire. |  |  |
+| thermfix vario wk 1-3 traduite fr | extraction_auto | Rapport thermfix vario wk 1-3 traduite fr (effraction) : métadonnées et classes extraites automatiquement (3 performance(s)) — à relire. |  |  |
+| uf thermfix vario 432 27814 1 fr | extraction_auto | Rapport uf thermfix vario 432 27814 1 fr (thermique) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire. |  |  |

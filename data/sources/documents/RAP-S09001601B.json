@@ -1,0 +1,157 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-S09001601B",
+   "nom_fichier": "Résistance aux balles (FB)\\Unico\\FB4\\Porte Unico 2 vantaux FB4NS - Beschuss_S09001601B_2009",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Résistance aux balles (FB)\\Unico\\FB4\\Porte Unico 2 vantaux FB4NS - Beschuss_S09001601B_2009.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-S09001601B",
+   "numero": "S09001601B",
+   "numero_normalise": "S09001601B",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "balistique",
+   "objet": "Porte Unico 2 vantaux FB4NS - Beschuss_S09001601B_2009",
+   "laboratoire_id": "ORG-BESCHUSSAMT-ULM",
+   "date_emission": "2009-04-08",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 10,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-S09001601B",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Résistance aux balles (FB)/Unico/FB4"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-S09001601B-P1",
+   "document_id": "DOC-RAP-S09001601B",
+   "page_doc": 1,
+   "page_doc_total": 10,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-RAP-S09001601B-P2",
+   "document_id": "DOC-RAP-S09001601B",
+   "page_doc": 2,
+   "page_doc_total": 10,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-S09001601B",
+   "organisme_id": "ORG-BESCHUSSAMT-ULM",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-S09001601B",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-S09001601B",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-S09001601B-1",
+   "document_id": "DOC-RAP-S09001601B",
+   "code": "1",
+   "libelle": "Porte Unico 2 vantaux FB4NS - Beschuss_S09001601B_2009",
+   "typologie_code": "bloc_porte",
+   "systeme_id": "SYS-UNICO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-S09001601B-1",
+   "document_id": "DOC-RAP-S09001601B",
+   "configuration_id": "CFG-RAP-S09001601B-1",
+   "domaine_code": "balistique",
+   "libelle_tel_qu_ecrit": "FB4NS",
+   "classe_normalisee": "FB4NS",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-S09001601B-P1",
+   "statut_extraction": "extrait"
+  },
+  {
+   "id": "PERF-RAP-S09001601B-2",
+   "document_id": "DOC-RAP-S09001601B",
+   "configuration_id": "CFG-RAP-S09001601B-1",
+   "domaine_code": "balistique",
+   "libelle_tel_qu_ecrit": "FB3",
+   "classe_normalisee": "FB3",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-S09001601B-P2",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_balistique": [
+  {
+   "performance_id": "PERF-RAP-S09001601B-1",
+   "classe": "FB4",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-S09001601B-2",
+   "classe": "FB3",
+   "avec_eclats": null,
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-S09001601B-AUTO",
+   "document_id": "DOC-RAP-S09001601B",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-S09001601B",
+   "type_code": "extraction_auto",
+   "description": "Rapport S09001601B (balistique) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-DBV-22-12782-D",
+   "nom_fichier": "Résistance aux chocs\\Unico XS\\CSTB - Choc de sécurité (grand élément) - DBV-22-12782-D - 2022",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Résistance aux chocs\\Unico XS\\CSTB - Choc de sécurité (grand élément) - DBV-22-12782-D - 2022.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-DBV-22-12782-D",
+   "numero": "DBV-22-12782-D",
+   "numero_normalise": "DBV-22-12782-D",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "choc",
+   "objet": "CSTB - Choc de sécurité (grand élément) - DBV-22-12782-D - 2022",
+   "laboratoire_id": "ORG-CSTB",
+   "date_emission": "2022-10-12",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 16,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-DBV-22-12782-D",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Résistance aux chocs/Unico XS"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-DBV-22-12782-D-P3",
+   "document_id": "DOC-RAP-DBV-22-12782-D",
+   "page_doc": 3,
+   "page_doc_total": 16,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-DBV-22-12782-D",
+   "organisme_id": "ORG-CSTB",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-DBV-22-12782-D",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-DBV-22-12782-D-1",
+   "document_id": "DOC-RAP-DBV-22-12782-D",
+   "configuration_id": null,
+   "domaine_code": "choc",
+   "libelle_tel_qu_ecrit": "chocs de sécurité (corps mou M50)",
+   "classe_normalisee": "Choc de sécurité M50",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-DBV-22-12782-D-P3",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_mesure": [
+  {
+   "performance_id": "PERF-RAP-DBV-22-12782-D-1",
+   "grandeur": "conformite",
+   "valeur_min": null,
+   "valeur_max": null,
+   "unite": null,
+   "norme_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-DBV-22-12782-D-AUTO",
+   "document_id": "DOC-RAP-DBV-22-12782-D",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-DBV-22-12782-D",
+   "type_code": "extraction_auto",
+   "description": "Rapport DBV-22-12782-D (choc) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

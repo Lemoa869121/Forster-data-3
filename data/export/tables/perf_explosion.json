@@ -1,0 +1,23 @@
+{
+ "table": "perf_explosion",
+ "colonnes": [
+  "performance_id",
+  "classe",
+  "avec_eclats",
+  "norme_id"
+ ],
+ "lignes": [
+  {
+   "performance_id": "PERF-RAP-08-2017-FE-117-1",
+   "classe": "EPR1",
+   "avec_eclats": "S",
+   "norme_id": "NRM-EN-13123-1"
+  },
+  {
+   "performance_id": "PERF-RAP-08-2017-FE-118-119-1",
+   "classe": "EPR1",
+   "avec_eclats": "NS",
+   "norme_id": "NRM-EN-13123-1"
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX",
+   "nom_fichier": "Résistance aux balles (FB)\\Unico\\FB6\\Portes ouvrant vers l'intérieur\\UP 862.38-NS-BR6-Cetrificate_Annex",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Résistance aux balles (FB)\\Unico\\FB6\\Portes ouvrant vers l'intérieur\\UP 862.38-NS-BR6-Cetrificate_Annex.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX",
+   "numero": "UP 862.38-NS-BR6-Cetrificate Annex",
+   "numero_normalise": "UP 862.38-NS-BR6-Cetrificate Annex",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "balistique",
+   "objet": "UP 862.38-NS-BR6-Cetrificate_Annex",
+   "laboratoire_id": null,
+   "date_emission": "2022-03-02",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 3,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Résistance aux balles (FB)/Unico/FB6/Portes ouvrant vers l'intérieur"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX-P1",
+   "document_id": "DOC-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX",
+   "page_doc": 1,
+   "page_doc_total": 3,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX-1",
+   "document_id": "DOC-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX",
+   "code": "1",
+   "libelle": "UP 862.38-NS-BR6-Cetrificate_Annex",
+   "typologie_code": "composant",
+   "systeme_id": "SYS-UNICO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX-1",
+   "document_id": "DOC-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX",
+   "configuration_id": "CFG-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX-1",
+   "domaine_code": "balistique",
+   "libelle_tel_qu_ecrit": "BR6",
+   "classe_normalisee": "BR6",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX-P1",
+   "statut_extraction": "extrait"
+  },
+  {
+   "id": "PERF-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX-2",
+   "document_id": "DOC-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX",
+   "configuration_id": "CFG-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX-1",
+   "domaine_code": "balistique",
+   "libelle_tel_qu_ecrit": "BR6-NS",
+   "classe_normalisee": "BR6NS",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX-P1",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_balistique": [
+  {
+   "performance_id": "PERF-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX-1",
+   "classe": "BR6",
+   "avec_eclats": null,
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  },
+  {
+   "performance_id": "PERF-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX-2",
+   "classe": "BR6",
+   "avec_eclats": "NS",
+   "arme_munition": null,
+   "norme_id": "NRM-EN-1522"
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX-AUTO",
+   "document_id": "DOC-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-UP-862-38-NS-BR6-CETRIFICATE-ANNEX",
+   "type_code": "extraction_auto",
+   "description": "Rapport UP 862.38-NS-BR6-Cetrificate Annex (balistique) : métadonnées et classes extraites automatiquement (2 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

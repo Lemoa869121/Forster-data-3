@@ -1,0 +1,95 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-UP-862-38-NS-P8B-REPORT-ANNEX",
+   "nom_fichier": "Résistance aux balles (FB)\\Unico\\FB6\\Portes ouvrant vers l'intérieur\\UP 862.38-NS-P8B-Report_Annex",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Résistance aux balles (FB)\\Unico\\FB6\\Portes ouvrant vers l'intérieur\\UP 862.38-NS-P8B-Report_Annex.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-UP-862-38-NS-P8B-REPORT-ANNEX",
+   "numero": "UP 862.38-NS-P8B-Report Annex",
+   "numero_normalise": "UP 862.38-NS-P8B-Report Annex",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "balistique",
+   "objet": "UP 862.38-NS-P8B-Report_Annex",
+   "laboratoire_id": null,
+   "date_emission": "2022-03-02",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 3,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-UP-862-38-NS-P8B-REPORT-ANNEX",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Résistance aux balles (FB)/Unico/FB6/Portes ouvrant vers l'intérieur"
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-UP-862-38-NS-P8B-REPORT-ANNEX",
+   "norme_id": "NRM-EN-1522",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-UP-862-38-NS-P8B-REPORT-ANNEX",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-UP-862-38-NS-P8B-REPORT-ANNEX-1",
+   "document_id": "DOC-RAP-UP-862-38-NS-P8B-REPORT-ANNEX",
+   "code": "1",
+   "libelle": "UP 862.38-NS-P8B-Report_Annex",
+   "typologie_code": "composant",
+   "systeme_id": "SYS-UNICO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-UP-862-38-NS-P8B-REPORT-ANNEX-AUTO",
+   "document_id": "DOC-RAP-UP-862-38-NS-P8B-REPORT-ANNEX",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-UP-862-38-NS-P8B-REPORT-ANNEX",
+   "type_code": "extraction_auto",
+   "description": "Rapport UP 862.38-NS-P8B-Report Annex (balistique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTRL-RAP-UP-862-38-NS-P8B-REPORT-ANNEX-NT",
+   "document_id": "DOC-RAP-UP-862-38-NS-P8B-REPORT-ANNEX",
+   "table_cible": "performance",
+   "ligne_id": null,
+   "type_code": "non_trouve",
+   "description": "Aucune classe / valeur lue automatiquement : à saisir.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-102-32902-1F",
+   "nom_fichier": "A.E.V\\Unico\\Fenêtres OF et OB\\AEV_OB_1_vantail_LxH=1341x1480_A4_E9A_VC5_IFT_2007 (102 32902 1f)",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\A.E.V\\Unico\\Fenêtres OF et OB\\AEV_OB_1_vantail_LxH=1341x1480_A4_E9A_VC5_IFT_2007 (102 32902 1f).pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-102-32902-1F",
+   "numero": "102 32902 1f",
+   "numero_normalise": "102 32902 1f",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "aev",
+   "objet": "AEV_OB_1_vantail_LxH=1341x1480_A4_E9A_VC5_IFT_2007 (102 32902 1f)",
+   "laboratoire_id": null,
+   "date_emission": "2007-06-26",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 2,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-102-32902-1F",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : A.E.V/Unico/Fenêtres OF et OB"
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-102-32902-1F",
+   "norme_id": "NRM-EN-14351-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-102-32902-1F",
+   "systeme_id": "SYS-UNICO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-102-32902-1F-1",
+   "document_id": "DOC-RAP-102-32902-1F",
+   "code": "1",
+   "libelle": "AEV_OB_1_vantail_LxH=1341x1480_A4_E9A_VC5_IFT_2007 (102 32902 1f)",
+   "typologie_code": "fenetre",
+   "systeme_id": "SYS-UNICO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-102-32902-1F-1",
+   "document_id": "DOC-RAP-102-32902-1F",
+   "configuration_id": "CFG-RAP-102-32902-1F-1",
+   "domaine_code": "aev",
+   "libelle_tel_qu_ecrit": "A4_E9A_VC5",
+   "classe_normalisee": "A*4 E*9A V*C5",
+   "nature_code": "classement",
+   "condition_texte": "classe lue dans le nom de fichier, non retrouvée dans le texte",
+   "source_page_id": null,
+   "statut_extraction": "a_verifier"
+  }
+ ],
+ "perf_aev": [
+  {
+   "performance_id": "PERF-RAP-102-32902-1F-1",
+   "classe_air": "4",
+   "classe_eau": "9A",
+   "classe_vent": "C5",
+   "pression_air_pa": null,
+   "pression_eau_pa": null,
+   "pression_vent_pa": null,
+   "norme_id": "NRM-EN-14351-1"
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-102-32902-1F-AUTO",
+   "document_id": "DOC-RAP-102-32902-1F",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-102-32902-1F",
+   "type_code": "extraction_auto",
+   "description": "Rapport 102 32902 1f (aev) : métadonnées et classes extraites automatiquement (1 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

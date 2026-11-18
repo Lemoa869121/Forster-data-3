@@ -1,0 +1,104 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-RAPPORT-D-ESSAIS-LASM-PORTES-EI30-2V-VIT",
+   "nom_fichier": "Acoustique\\Fuego Light\\Portes\\Rapport d'essais LaSM Portes EI30 2V vitrages PILKGINTON",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Acoustique\\Fuego Light\\Portes\\Rapport d'essais LaSM Portes EI30 2V vitrages PILKGINTON.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-RAPPORT-D-ESSAIS-LASM-PORTES-EI30-2V-VIT",
+   "numero": "Rapport d'essais LaSM Portes EI30 2V vitrages PILKGINTON",
+   "numero_normalise": "Rapport d'essais LaSM Portes EI30 2V vitrages PILKGINTON",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "acoustique",
+   "objet": "Rapport d'essais LaSM Portes EI30 2V vitrages PILKGINTON",
+   "laboratoire_id": "ORG-LASM",
+   "date_emission": "2003-09-24",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 18,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-RAPPORT-D-ESSAIS-LASM-PORTES-EI30-2V-VIT",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Acoustique/Fuego Light/Portes"
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-LASM-PORTES-EI30-2V-VIT",
+   "organisme_id": "ORG-LASM",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-LASM-PORTES-EI30-2V-VIT",
+   "norme_id": "NRM-EN-ISO-717-1",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-LASM-PORTES-EI30-2V-VIT",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-RAPPORT-D-ESSAIS-LASM-PORTES-EI30-2V-VIT-1",
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-LASM-PORTES-EI30-2V-VIT",
+   "code": "1",
+   "libelle": "Rapport d'essais LaSM Portes EI30 2V vitrages PILKGINTON",
+   "typologie_code": "bloc_porte",
+   "systeme_id": "SYS-FUEGO-LIGHT",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-RAPPORT-D-ESSAIS-LASM-PORTES-EI30-2V-VIT-AUTO",
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-LASM-PORTES-EI30-2V-VIT",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-RAPPORT-D-ESSAIS-LASM-PORTES-EI30-2V-VIT",
+   "type_code": "extraction_auto",
+   "description": "Rapport Rapport d'essais LaSM Portes EI30 2V vitrages PILKGINTON (acoustique) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTRL-RAP-RAPPORT-D-ESSAIS-LASM-PORTES-EI30-2V-VIT-NT",
+   "document_id": "DOC-RAP-RAPPORT-D-ESSAIS-LASM-PORTES-EI30-2V-VIT",
+   "table_cible": "performance",
+   "ligne_id": null,
+   "type_code": "non_trouve",
+   "description": "Aucune classe / valeur lue automatiquement : à saisir.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

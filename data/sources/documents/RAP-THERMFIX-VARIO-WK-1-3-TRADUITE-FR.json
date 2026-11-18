@@ -1,0 +1,164 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR",
+   "nom_fichier": "Résistance à l'effraction (RC)\\Thermfix Vario\\CR1-2-3\\thermfix_vario_wk_1-3 traduite fr",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\Résistance à l'effraction (RC)\\Thermfix Vario\\CR1-2-3\\thermfix_vario_wk_1-3 traduite fr.pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR",
+   "numero": "thermfix vario wk 1-3 traduite fr",
+   "numero_normalise": "thermfix vario wk 1-3 traduite fr",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "effraction",
+   "objet": "thermfix_vario_wk_1-3 traduite fr",
+   "laboratoire_id": null,
+   "date_emission": null,
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 101,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : Résistance à l'effraction (RC)/Thermfix Vario/CR1-2-3 ; date non lue (année du nom : inconnue)"
+  }
+ ],
+ "source_page": [
+  {
+   "id": "SP-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR-P2",
+   "document_id": "DOC-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR",
+   "page_doc": 2,
+   "page_doc_total": 101,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  },
+  {
+   "id": "SP-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR-P1",
+   "document_id": "DOC-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR",
+   "page_doc": 1,
+   "page_doc_total": 101,
+   "section": null,
+   "planche": null,
+   "type_zone_code": "texte",
+   "libelle": null
+  }
+ ],
+ "document_norme": [
+  {
+   "document_id": "DOC-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR",
+   "norme_id": "NRM-EN-1627",
+   "role": "essai",
+   "paragraphe": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "role": "principal",
+   "source_page_id": null
+  }
+ ],
+ "configuration": [
+  {
+   "id": "CFG-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR-1",
+   "document_id": "DOC-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR",
+   "code": "1",
+   "libelle": "thermfix_vario_wk_1-3 traduite fr",
+   "typologie_code": "facade_vitree",
+   "systeme_id": "SYS-THERMFIX-VARIO",
+   "nb_vantaux_min": null,
+   "nb_vantaux_max": null,
+   "vantaux_inegaux": null,
+   "vitree": null,
+   "parent_configuration_id": null,
+   "source_page_id": null
+  }
+ ],
+ "performance": [
+  {
+   "id": "PERF-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR-1",
+   "document_id": "DOC-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR",
+   "configuration_id": "CFG-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR-1",
+   "domaine_code": "effraction",
+   "libelle_tel_qu_ecrit": "RC1",
+   "classe_normalisee": "RC1",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR-P2",
+   "statut_extraction": "extrait"
+  },
+  {
+   "id": "PERF-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR-2",
+   "document_id": "DOC-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR",
+   "configuration_id": "CFG-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR-1",
+   "domaine_code": "effraction",
+   "libelle_tel_qu_ecrit": "WK1",
+   "classe_normalisee": "WK1",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR-P1",
+   "statut_extraction": "extrait"
+  },
+  {
+   "id": "PERF-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR-3",
+   "document_id": "DOC-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR",
+   "configuration_id": "CFG-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR-1",
+   "domaine_code": "effraction",
+   "libelle_tel_qu_ecrit": "WK2",
+   "classe_normalisee": "WK2",
+   "nature_code": "classement",
+   "condition_texte": null,
+   "source_page_id": "SP-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR-P2",
+   "statut_extraction": "extrait"
+  }
+ ],
+ "perf_effraction": [
+  {
+   "performance_id": "PERF-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR-1",
+   "classe_rc": "RC1",
+   "norme_id": "NRM-EN-1627",
+   "duree_resistance_min": null
+  },
+  {
+   "performance_id": "PERF-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR-2",
+   "classe_rc": "WK1",
+   "norme_id": "NRM-EN-1627",
+   "duree_resistance_min": null
+  },
+  {
+   "performance_id": "PERF-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR-3",
+   "classe_rc": "WK2",
+   "norme_id": "NRM-EN-1627",
+   "duree_resistance_min": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR-AUTO",
+   "document_id": "DOC-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-THERMFIX-VARIO-WK-1-3-TRADUITE-FR",
+   "type_code": "extraction_auto",
+   "description": "Rapport thermfix vario wk 1-3 traduite fr (effraction) : métadonnées et classes extraites automatiquement (3 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}

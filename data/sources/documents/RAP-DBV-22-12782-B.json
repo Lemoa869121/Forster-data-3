@@ -1,0 +1,85 @@
+{
+ "fichier_source": [
+  {
+   "id": "FIC-RAP-DBV-22-12782-B",
+   "nom_fichier": "DTA\\Unico\\DTA 6-25-2563_V1_Unico+Unico_XS\\Rapports d'essais\\Ensoleillement\\DBV-22-12782-B_Unico+Unico XS (2022)",
+   "drive_file_id": null,
+   "url": null,
+   "taille_octets": null,
+   "date_modification": null,
+   "code_fournisseur_vitrage": null,
+   "code_marche": null,
+   "commentaire": "Rapports d'essais : Z:\\FR-LIE\\Forster-Technique\\Rapports d'essais\\DTA\\Unico\\DTA 6-25-2563_V1_Unico+Unico_XS\\Rapports d'essais\\Ensoleillement\\DBV-22-12782-B_Unico+Unico XS (2022).pdf"
+  }
+ ],
+ "document": [
+  {
+   "id": "DOC-RAP-DBV-22-12782-B",
+   "numero": "DBV-22-12782-B",
+   "numero_normalise": "DBV-22-12782-B",
+   "revision": null,
+   "type_code": "rapport_essai",
+   "domaine_code": "durabilite",
+   "objet": "DBV-22-12782-B_Unico+Unico XS (2022)",
+   "laboratoire_id": "ORG-CSTB",
+   "date_emission": "2022-10-12",
+   "date_validite": null,
+   "validite_liee_au_pv": 0,
+   "nb_pages": 20,
+   "arrete_reference": null,
+   "numeros_affaire": null,
+   "fichier_source_id": "FIC-RAP-DBV-22-12782-B",
+   "ordre_dans_fichier": 1,
+   "present_dans_corpus": 1,
+   "statut_extraction": "a_verifier",
+   "commentaire": "Extraction automatique (rapports d'essais) ; dossier : DTA/Unico/DTA 6-25-2563_V1_Unico+Unico_XS/Rapports d'essais/Ensoleillement"
+  }
+ ],
+ "document_organisme": [
+  {
+   "document_id": "DOC-RAP-DBV-22-12782-B",
+   "organisme_id": "ORG-CSTB",
+   "role_code": "laboratoire",
+   "nom_tel_qu_ecrit": null,
+   "source_page_id": null
+  }
+ ],
+ "document_systeme": [
+  {
+   "document_id": "DOC-RAP-DBV-22-12782-B",
+   "systeme_id": "SYS-UNICO-XS",
+   "role": "principal",
+   "source_page_id": null
+  },
+  {
+   "document_id": "DOC-RAP-DBV-22-12782-B",
+   "systeme_id": "SYS-UNICO",
+   "role": "variante",
+   "source_page_id": null
+  }
+ ],
+ "controle_humain": [
+  {
+   "id": "CTRL-RAP-DBV-22-12782-B-AUTO",
+   "document_id": "DOC-RAP-DBV-22-12782-B",
+   "table_cible": "document",
+   "ligne_id": "DOC-RAP-DBV-22-12782-B",
+   "type_code": "extraction_auto",
+   "description": "Rapport DBV-22-12782-B (durabilite) : métadonnées et classes extraites automatiquement (0 performance(s)) — à relire.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  },
+  {
+   "id": "CTRL-RAP-DBV-22-12782-B-NT",
+   "document_id": "DOC-RAP-DBV-22-12782-B",
+   "table_cible": "performance",
+   "ligne_id": null,
+   "type_code": "non_trouve",
+   "description": "Aucune classe / valeur lue automatiquement : à saisir.",
+   "statut": "ouvert",
+   "resolution": null,
+   "source_page_id": null
+  }
+ ]
+}
